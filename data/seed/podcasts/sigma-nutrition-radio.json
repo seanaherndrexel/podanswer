@@ -1,0 +1,131 @@
+{
+  "slug": "sigma-nutrition-radio",
+  "title": "Sigma Nutrition Radio",
+  "author": "Danny Lennon",
+  "description": "Discussions about the science of nutrition, dietetics and health. The podcast that educates through nuanced conversations, exploring evidence and cultivating critical thinking.",
+  "category": "health",
+  "website": "https://sigmanutrition.com",
+  "feedUrl": "https://rss.libsyn.com/shows/53224/destinations/192888.xml",
+  "imageUrl": "https://static.libsyn.com/p/assets/e/2/7/a/e27acf8b0f4c7fec16c3140a3186d450/Main_Podcast_Image-20260521-aioh9wp39s.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/sigma-nutrition-radio/id857888327",
+  "spotifyUrl": "https://open.spotify.com/show/1vhAtPjXSzCLtZLqR79QMC",
+  "episodes": [
+    {
+      "guid": "8ae0c7f6-7d17-4757-a10a-8804f6038ade",
+      "title": "#620: BPC-157 and Peptide Medications",
+      "publishedAt": "2026-09-15",
+      "summary": "Dr. Jordan Feigenbaum looks at the evidence behind BPC-157 and other peptide products, including claims about injury recovery and tissue repair, plus safety and regulatory status.",
+      "audioUrl": "https://traffic.libsyn.com/secure/sigmanutrition/620_peptides_public.mp3?dest-id=192888",
+      "durationSec": 3452,
+      "episodeUrl": "https://sigmanutrition.com/podcast/episode620/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "7cee5a03-bcd1-4a6b-9d8c-68f63ea48d71",
+      "title": "#619: Fish Intake Recommendations",
+      "publishedAt": "2026-09-08",
+      "summary": "Danny Lennon and Alan Flanagan trace where the one-to-two-servings-a-week fish guideline came from, why studies seem to contradict each other, and what substitution analyses show about swapping fish for other foods.",
+      "audioUrl": "https://traffic.libsyn.com/secure/sigmanutrition/619_Fish_public.mp3?dest-id=192888",
+      "durationSec": 3802,
+      "episodeUrl": "https://sigmanutrition.com/podcast/episode619/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "fd912fa1-d253-423d-bb75-d50a15ecd67f",
+      "title": "#618: Wellness Culture and Science Commodification",
+      "publishedAt": "2026-09-01",
+      "summary": "Dr. Nick Tiller discusses how scientific language gets used to dress up selective evidence, and how problems inside academia turn tentative findings into confident claims.",
+      "audioUrl": "https://traffic.libsyn.com/secure/sigmanutrition/618_Nick_Tiller_public.mp3?dest-id=192888",
+      "durationSec": 3415,
+      "episodeUrl": "https://sigmanutrition.com/podcast/episode618/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "73dfe890-acd3-4eb9-a20a-9126b2258520",
+      "title": "#617: Effective Athlete Support",
+      "publishedAt": "2026-08-25",
+      "summary": "Gemma McGuinness talks through practical nutrition coaching for athletes, with a focus on flexible routines, athlete autonomy and support that lasts beyond rigid meal plans.",
+      "audioUrl": "https://traffic.libsyn.com/secure/sigmanutrition/617_Gemma_McGuinness_public.mp3?dest-id=192888",
+      "durationSec": 2800,
+      "episodeUrl": "https://sigmanutrition.com/podcast/episode617/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "42214f4f-0745-4a76-9db8-24124dc256f7",
+      "title": "SNP53: Fiber Benefits Analysis",
+      "publishedAt": "2026-08-18",
+      "summary": "A premium preview asking whether fiber has health benefits of its own or mostly acts as a marker for a diet high in whole foods.",
+      "audioUrl": "https://traffic.libsyn.com/secure/sigmanutrition/SNP53_AMA_public.mp3?dest-id=192888",
+      "durationSec": 1260,
+      "episodeUrl": "https://sigmanutrition.com/podcast/snp53/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "c54dcbb5-72cd-42f2-8372-0e76b9053b34",
+      "title": "#616: Medical Screening Harms",
+      "publishedAt": "2026-08-11",
+      "summary": "Dr. Austin Baraki explains how screening tests can produce false positives and overdiagnosis, and why results should be read probabilistically with shared decision-making.",
+      "audioUrl": "https://traffic.libsyn.com/secure/sigmanutrition/616_Austin_Baraki_public.mp3?dest-id=192888",
+      "durationSec": 4528,
+      "episodeUrl": "https://sigmanutrition.com/podcast/episode616/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-much-fish-should-you-eat-per-week",
+      "question": "How much fish should you eat per week?",
+      "metaDescription": "Most guidelines say one to two servings of fish a week. Sigma Nutrition Radio's Danny Lennon and Alan Flanagan explain where that number comes from and who it helps.",
+      "episodeGuid": "7cee5a03-bcd1-4a6b-9d8c-68f63ea48d71",
+      "intro": "Most dietary guidelines land on one to two servings of fish a week, with at least one of them oily fish like salmon, mackerel or sardines. On Sigma Nutrition Radio, host Danny Lennon and co-host Alan Flanagan, PhD, dig into where that number came from and find it's a reasonable target, but not a magic one. The benefit depends heavily on what the fish is replacing and how good your diet already is.",
+      "sections": [
+        {
+          "heading": "Where the one-to-two servings number came from",
+          "body": "The guideline didn't appear out of nowhere. Danny and Alan walk through its history, starting with early observations of populations that ate a lot of seafood and had low rates of heart disease. That led to trials in the 1980s and 1990s, most famously the DART trial, which tested fatty fish advice in men who'd already had a heart attack. Those men did better.\n\nThe hosts describe the recommendation as having an evidential history rather than being an arbitrary heuristic. In other words, somebody didn't just pick a nice round number. Cohort studies that followed tended to show that people eating fish once or twice a week had lower cardiovascular risk than people eating none, and that eating much more than that didn't add a lot on top.\n\nThe catch, which takes up most of the episode, is that the strongest evidence comes from secondary prevention. That means people who were already sick. Whether the same amount of fish does much for a healthy adult eating a decent diet is a harder question.",
+          "quote": null
+        },
+        {
+          "heading": "Fish, oily fish, and omega-3 pills are not the same thing",
+          "body": "One reason fish research looks contradictory is that studies measure different things and then get discussed as if they were one thing. The hosts are careful to separate them:\n\n- **Total fish intake**, which includes lean white fish with little omega-3\n- **Oily fish**, which is where most of the EPA and DHA lives\n- **Seafood** broadly, including shellfish\n- **Fish oil supplements**, which deliver EPA and DHA without the rest of the food\n\nThe show notes put it bluntly: these are not interchangeable exposures. A finding that fish oil capsules did nothing in a supplement trial doesn't tell you much about a person eating grilled mackerel twice a week, and vice versa. When you see a headline saying fish does or doesn't work, the first thing to ask is which of these four the study actually looked at.\n\nFor practical purposes, this is also why the guidelines single out oily fish. If part of the benefit runs through long-chain omega-3s, lean fish alone may not get you there.",
+          "quote": null
+        },
+        {
+          "heading": "The comparator problem: what is the fish replacing?",
+          "body": "Around the 25-minute mark the conversation turns to what Alan calls the comparator issue. In observational studies, people who eat fish aren't eating it instead of nothing. They're eating it instead of something else. If that something else is processed meat, fish looks great. If it's legumes or poultry, the advantage shrinks or disappears.\n\nSubstitution analyses try to model this directly, and the hosts spend a good chunk of time on an analysis from Mohan and colleagues that pulls apart these swaps. The pattern is consistent with what you'd guess: fish tends to beat red and processed meat, and roughly matches other high-quality protein sources.\n\nThe practical takeaway is that the question \"should I eat more fish?\" is really \"what would I be eating instead?\" If fish would displace a bacon sandwich, the answer is an easy yes. If it would displace a lentil dish, you're probably trading sideways.",
+          "quote": null
+        },
+        {
+          "heading": "Do vegetarians and pescatarians tell us anything?",
+          "body": "The last part of the episode compares vegetarian and pescatarian cohorts, which is the closest thing we have to a natural experiment on whether adding fish to a plant-forward diet helps. The hosts note that differences between these groups are small, and the groups themselves are unusual in ways that make comparisons messy: pescatarians and vegetarians in big cohorts tend to be health-conscious across the board.\n\nTheir conclusion is measured. Fish is a genuinely useful food, especially oily fish, and one to two servings a week is a sensible target for most people. But the evidence doesn't show that someone eating a high-quality, plant-rich diet is missing out in a big way by skipping it.\n\nSo if you like fish, one to two servings a week is well supported and likely to improve your diet if it pushes out lower-quality protein. If you don't eat fish, focus on the overall quality of what you do eat, and consider where your omega-3s are coming from.",
+          "quote": {
+            "text": "Current evidence does not establish that fish is indispensable for a healthy diet.",
+            "speaker": "Sigma Nutrition Radio (episode notes)",
+            "timestamp": "55:20"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "One to two servings of fish per week, including at least one oily fish, is the standard guideline and has real evidence behind it.",
+        "The strongest evidence comes from people who already had heart disease. Benefits for healthy people on good diets are smaller and less certain.",
+        "Total fish, oily fish, seafood and fish oil supplements are different exposures. Don't apply findings from one to another.",
+        "The benefit of fish depends on what it replaces. Swapping out processed meat helps more than swapping out legumes or poultry.",
+        "Fish is useful but not essential. A high-quality plant-forward diet without fish isn't clearly worse in the data."
+      ],
+      "faq": [
+        {
+          "q": "Is oily fish better than white fish?",
+          "a": "For omega-3 intake, yes. Oily fish like salmon, sardines and mackerel carry most of the EPA and DHA, which is why guidelines specify at least one oily serving a week. White fish is still a lean, high-quality protein."
+        },
+        {
+          "q": "Can I take fish oil instead of eating fish?",
+          "a": "The hosts stress that supplements and whole fish are different exposures with different evidence. Supplement trials in healthy people have often been disappointing, so a capsule isn't a proven stand-in for eating fish."
+        },
+        {
+          "q": "Is eating fish every day too much?",
+          "a": "The episode focuses on the one-to-two servings range because that's where most of the evidence sits, and more than that doesn't appear to add much. Anyone eating fish daily should think about mercury exposure and variety of species."
+        }
+      ],
+      "sourceNote": "Based on episode #619, \"Fish Intake Recommendations,\" from Sigma Nutrition Radio with Danny Lennon and Alan Flanagan, published September 8, 2026."
+    }
+  ]
+}

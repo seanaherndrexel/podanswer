@@ -1,0 +1,152 @@
+{
+  "slug": "american-revolution-podcast",
+  "title": "American Revolution Podcast",
+  "author": "Michael Troy",
+  "description": "American Revolution Podcast explores the events of the American Revolution, from beginning to end. It publishes weekly, with an accompanying blog of pictures, maps and further reading for each episode.",
+  "category": "history",
+  "website": "https://blog.amrevpodcast.com",
+  "feedUrl": "https://feeds.megaphone.fm/ARML2838039229",
+  "imageUrl": "https://megaphone.imgix.net/podcasts/0320dbe6-6858-11ee-bf24-6f86d7a93f2d/image/ARP-Logo.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/american-revolution-podcast/id1431121413",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "ad2e55bc-adfd-11f1-b905-e3c23078aa5d",
+      "title": "Rev250-115 Harlem Heights",
+      "publishedAt": "2026-09-15",
+      "summary": "On September 16, 1776, British forces probed the Continental lines at Harlem Heights. American defenders pushed the advance back, a rare morale boost in the New York campaign, though Colonel Thomas Knowlton was killed in the fighting.",
+      "audioUrl": "https://tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML6645023393.mp3",
+      "durationSec": 435,
+      "episodeUrl": "",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "839afa5c-aed9-11f1-9d58-cb8888f4226e",
+      "title": "ARP400 The Maria Reynolds Affair",
+      "publishedAt": "2026-09-13",
+      "summary": "In 1797, Alexander Hamilton's affair with Maria Reynolds became public and set off a national scandal. The episode traces the affair from 1791, James Reynolds' blackmail, the 1792 confrontation with three congressmen, and Hamilton's decision to publish the Reynolds Pamphlet.",
+      "audioUrl": "https://tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML6953270290.mp3",
+      "durationSec": 1942,
+      "episodeUrl": "https://blog.amrevpodcast.com/2026/09/arp400-maria-reynolds-affair.html",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "86ecee70-adfa-11f1-8d7f-3307844e4488",
+      "title": "Rev250-114 Kips Bay",
+      "publishedAt": "2026-09-11",
+      "summary": "On September 15, 1776, British forces landed at Kips Bay on Manhattan and sent the militia defenders running, putting the whole Continental Army at risk. Washington narrowly avoided capture.",
+      "audioUrl": "https://tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML9338184116.mp3",
+      "durationSec": 576,
+      "episodeUrl": "https://blog.amrevpodcast.com/2019/07/episode-107-battles-of-kips-bay-harlem.html",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "4cb199c2-a97c-11f1-bad4-e704f92dba32",
+      "title": "ARP399 The Financial Crisis of 1797",
+      "publishedAt": "2026-09-06",
+      "summary": "War in Europe and the Bank of England's suspension of specie payments set off a financial crisis in America. Robert Morris, once the richest financier in the country, ended up spending years in debtors' prison.",
+      "audioUrl": "https://tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML2979021214.mp3",
+      "durationSec": 1919,
+      "episodeUrl": "https://blog.amrevpodcast.com/2026/09/arp399-financial-crisis-of-1797.html",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "26f2708a-a6de-11f1-8691-7f8875a24863",
+      "title": "Rev250-113 Launch of the Turtle",
+      "publishedAt": "2026-09-04",
+      "summary": "On September 6, 1776, the Continental Army sent an experimental submarine, the Turtle, against the British fleet in New York harbor.",
+      "audioUrl": "https://tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML2238931080.mp3",
+      "durationSec": 536,
+      "episodeUrl": "https://blog.amrevpodcast.com/2019/07/episode-104-submarine-warfare.html",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "eee5051c-a6d9-11f1-8e25-3fd353a71175",
+      "title": "Rev250-112 Long Island Peace Conference",
+      "publishedAt": "2026-09-03",
+      "summary": "In early September 1776, delegates from the Continental Congress met Admiral Howe on Staten Island. Both sides walked away convinced there was no diplomatic way out and the war would go on.",
+      "audioUrl": "https://tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML3800328651.mp3",
+      "durationSec": 470,
+      "episodeUrl": "https://blog.amrevpodcast.com/2019/07/episode-105-staten-island-peace.html",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "did-alexander-hamilton-really-have-an-affair-with-maria-reynolds",
+      "question": "Did Alexander Hamilton really have an affair with Maria Reynolds?",
+      "metaDescription": "Yes, and Hamilton admitted it in print. Michael Troy of the American Revolution Podcast explains the affair, the blackmail and the Reynolds Pamphlet.",
+      "episodeGuid": "839afa5c-aed9-11f1-9d58-cb8888f4226e",
+      "intro": "Yes. Alexander Hamilton had an affair with Maria Reynolds starting in the summer of 1791, paid her husband to keep it quiet, and then confessed to the whole thing in a 95 page pamphlet in 1797. On episode 400 of the American Revolution Podcast, host Michael Troy lays out how the affair started, how it turned into blackmail, and why Hamilton chose to tell the world himself.",
+      "sections": [
+        {
+          "heading": "A knock on the door on 3rd Street",
+          "body": "In the summer of 1791 Hamilton was Treasury Secretary, living in Philadelphia while his wife Eliza and the children were away in Albany. Troy describes how a 23 year old woman named Maria Reynolds showed up at his house asking for help. She said her husband had abandoned her and she wanted money to get back to New York.\n\nHamilton said he'd bring her some money later. He went to her boarding house that night with $30, and by his own later account the relationship became sexual that same evening. Troy notes that Hamilton kept visiting her through the summer and fall of 1791, sometimes at her lodgings and sometimes at his own home while his family was away.",
+          "quote": {
+            "text": "A beautiful 23 year old woman named Maria Reynolds knocked on Hamilton's door at his home on 3rd Street in Philadelphia.",
+            "speaker": "Michael Troy",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Her husband wanted $1,000",
+          "body": "Maria's husband James Reynolds wasn't really gone. By December 1791 he had 'discovered' the affair and wrote to Hamilton acting the wounded husband. Then he named a price. Troy explains that Reynolds asked for $1,000 so he could leave town with his daughter, and said he'd leave Maria behind for Hamilton to do whatever he wanted with her.\n\nHamilton paid, in two installments of $600 and $400. Reynolds didn't leave town. Instead he kept asking for smaller sums and, oddly, kept encouraging Hamilton to visit his wife. Troy walks through how the payments continued into 1792 while Hamilton tried to extract himself from a situation that was clearly a shakedown.",
+          "quote": {
+            "text": "He asked Hamilton to give him $1000 so that he could leave town with his daughter, and that he would leave Maria behind for Hamilton to do whatever he wanted with her.",
+            "speaker": "Michael Troy",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Three congressmen show up on a Saturday night",
+          "body": "The affair nearly surfaced in December 1792, and for a different reason than sex. James Reynolds had been arrested for illegally buying up soldiers' pension and back pay claims and forging documents. Trying to get out, he hinted that he had damaging information about the Treasury Secretary. That reached James Monroe, Frederick Muhlenberg and Abraham Venable, who suspected Hamilton was using Reynolds in illegal speculation.\n\nThe three men met Hamilton at his home on the evening of December 15, 1792. Troy describes Hamilton's response: he gave them a full account of the relationship, the sexual affair, and the blackmail, and backed it up with the Reynolds letters. The congressmen accepted that the payments were hush money, not corruption, and agreed to keep the matter private. The documents, though, didn't stay private. House clerk John Beckley kept copies.",
+          "quote": {
+            "text": "Hamilton then responded by giving a full account of his relationship with the Reynolds', the sexual affair and what he regarded as blackmail to keep them from revealing the affair with Maria.",
+            "speaker": "Michael Troy",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Callender publishes and Hamilton answers with 95 pages",
+          "body": "Nearly five years later, in May 1797, the partisan journalist James Callender printed the whole file in a book called The History of the United States for 1796. He framed it as proof that Hamilton and Reynolds had been in a corrupt speculation scheme together, with the affair as a cover story.\n\nHamilton's answer was the document now known as the Reynolds Pamphlet. Troy explains that Hamilton published a 95 page booklet, formally titled Observations on Certain Documents, in which he admitted the affair with Maria in detail but flatly denied any financial wrongdoing. He judged that being known as an adulterer was survivable, and being suspected of corruption at the Treasury was not.",
+          "quote": {
+            "text": "In this 95 page booklet, Hamilton admitted to the sexual affair with Maria Reynolds, but denied the allegation of corruption and collusion with James Reynolds.",
+            "speaker": "Michael Troy",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "What the scandal cost him",
+          "body": "In the short term, the pamphlet did its job. Nobody ever proved Hamilton took a dollar improperly, and the corruption charge faded. Hamilton was also furious at Monroe, whom he blamed for the leak. Troy recounts that the two men were ready to come to blows and considered a duel before friends talked them out of it.\n\nThe long term damage was political. Hamilton had already resigned from the Treasury in 1795 and gone back to his law practice in New York, and he stayed influential among Federalists. But Troy's assessment is that any thought of Hamilton running for president effectively ended with the Reynolds Pamphlet. He'd given his enemies a printed confession they could quote forever.",
+          "quote": {
+            "text": "The one lasting impact was that anyone who thought Hamilton had pretensions toward becoming president some day, that seemed would never happen.",
+            "speaker": "Michael Troy",
+            "timestamp": null
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "The affair was real. It began in summer 1791 when Maria Reynolds came to Hamilton's Philadelphia home asking for money.",
+        "James Reynolds blackmailed Hamilton for $1,000, paid in installments of $600 and $400, then kept asking for more.",
+        "Monroe, Muhlenberg and Venable confronted Hamilton in December 1792 over suspected corruption, and he confessed the affair to clear himself.",
+        "James Callender published the documents in 1797, and Hamilton responded with the 95 page Reynolds Pamphlet.",
+        "Hamilton beat the corruption charge but ended any realistic chance of becoming president."
+      ],
+      "faq": [
+        {
+          "q": "How much did Hamilton pay James Reynolds?",
+          "a": "The initial demand was $1,000, which Hamilton paid in two parts, $600 and then $400. Reynolds went on to request smaller sums afterward rather than leaving town as promised."
+        },
+        {
+          "q": "Why did Hamilton publish the Reynolds Pamphlet?",
+          "a": "Callender's 1797 book accused him of corrupt speculation with James Reynolds. Hamilton decided that admitting the affair in full was the only way to prove the payments were blackmail and not evidence of financial crimes."
+        },
+        {
+          "q": "Was James Monroe involved in leaking the documents?",
+          "a": "Monroe was one of the three men who confronted Hamilton in 1792. The copies that reached Callender came through House clerk John Beckley, though Hamilton blamed Monroe and the two nearly fought a duel over it."
+        }
+      ],
+      "sourceNote": "Based on American Revolution Podcast episode ARP400, 'The Maria Reynolds Affair,' released September 13, 2026. Credit to host Michael Troy and the American Revolution Podcast."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "america-adapts-the-climate-change-podcast",
+  "title": "America Adapts the Climate Change Podcast",
+  "author": "Doug Parsons",
+  "description": "A changing climate presents humanity with only one option: adapt. Host Doug Parsons talks with scientists, activists, policymakers and journalists about the challenges and solutions of climate adaptation.",
+  "category": "science",
+  "website": "https://www.americaadapts.org",
+  "feedUrl": "https://americaadapts.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/f/7/8/a/f78a8e80ad448228/finallogo_transpbackground_JPG.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/america-adapts-the-climate-change-podcast/id1133023095",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "3c3f97ab-b089-4366-83b0-78b17a8ea2f0",
+      "title": "Extreme Heat, Beavers, and Rethinking How We Tell the Climate Story with PBS's Miles O'Brien",
+      "publishedAt": "2026-09-08",
+      "summary": "Doug talks with PBS journalist Miles O'Brien about how Phoenix and Sydney are redesigning for extreme heat, the surprising role of beavers in drought and wildfire resilience, and why adaptation stories get underreported.",
+      "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/americaadapts/Miles_OBrien_Resolve_to_Solve.mp3",
+      "durationSec": 2449,
+      "episodeUrl": "https://www.americaadapts.org/episodes/extreme-heat-beavers-and-rethinking-how-we-tell-the-climate-story-with-pbss-miles-obrien",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "331ecf0e-0c69-4e7a-abc1-c940401d53e6",
+      "title": "Summer Grab Bag: No, Disasters Aren't \"Natural\" + Microinfrastructure, Heat and Adaptation Lessons from the Global South",
+      "publishedAt": "2026-08-24",
+      "summary": "Two conversations on why the phrase natural disaster is a misnomer and how efficient appliances act as climate adaptation microinfrastructure for heat resilience across the Global South.",
+      "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/americaadapts/Summer_Adaptation_Grab_bag_2026.mp3",
+      "durationSec": 1734,
+      "episodeUrl": "https://www.americaadapts.org/episodes/summer-grab-bag-no-disasters-arent-natural-microinfrastructure-heat-and-adaptation-lessons-from-the-global-south",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "9b4302d3-72d3-424b-b081-3acb5c33dd9e",
+      "title": "Beyond Adaptation Plans: Measuring Success in the Next Era of Federal Climate Adaptation",
+      "publishedAt": "2026-08-03",
+      "summary": "Dr. Bryan Hubbell of Resources for the Future on moving adaptation from good intentions to measurable outcomes, the EPA's role, and evidence gaps in resilience work.",
+      "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/americaadapts/Dr._Bryan_Hubbell_2026.mp3",
+      "durationSec": 2555,
+      "episodeUrl": "https://www.americaadapts.org/episodes/beyond-adaptation-plans-measuring-success-in-the-next-era-of-federal-climate-adaptation",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "a0013c14-634d-465b-8212-e2bd16b084a2",
+      "title": "Extreme Heat: The Deadliest Climate Hazard Is Also the Most Invisible with Dr. Ladd Keith",
+      "publishedAt": "2026-07-20",
+      "summary": "Dr. Ladd Keith, associate professor of planning at the University of Arizona, explains why extreme heat is the deadliest and most overlooked climate hazard, what Arizona has done to cut heat deaths, lessons from Europe's heat waves, rural vulnerabilities, and how communities should plan for a hotter future.",
+      "audioUrl": "https://pdcn.co/e/traffic.libsyn.com/secure/americaadapts/Dr._Ladd_Keith_2026.mp3?dest-id=401236",
+      "durationSec": 0,
+      "episodeUrl": "https://www.americaadapts.org/episodes/extreme-heat-the-deadliest-climate-hazard-is-also-the-most-invisible-with-dr-ladd-keith",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-is-extreme-heat-the-deadliest-climate-hazard",
+      "question": "Why is extreme heat the deadliest climate hazard?",
+      "metaDescription": "Heat kills more people than hurricanes or floods, yet it barely registers. Doug Parsons and Dr. Ladd Keith of America Adapts explain why, and what cities can do.",
+      "episodeGuid": "a0013c14-634d-465b-8212-e2bd16b084a2",
+      "intro": "Extreme heat kills more people in the United States than hurricanes, floods or tornadoes, and it does it quietly. That's the case Dr. Ladd Keith, a planning professor at the University of Arizona, makes on episode 257 of America Adapts with host Doug Parsons. Heat is the deadliest climate hazard because it's invisible: no wreckage, no dramatic footage, and deaths that get recorded as heart attacks or kidney failure rather than as heat. The good news is that Arizona has shown heat deaths can be driven down when a community decides to plan for them.",
+      "sections": [
+        {
+          "heading": "No debris field, no headline",
+          "body": "A hurricane leaves a picture. A wildfire leaves a scar you can see from space. A heat wave leaves nothing you can photograph, and that's the core of the problem Keith lays out. Heat doesn't damage buildings. It damages bodies, and it does so gradually, often indoors, often to people who were already vulnerable.\n\nThe host explains that this invisibility shows up in the data too. Many heat deaths are never coded as heat deaths. Someone with a heart condition dies during a 110-degree week and the certificate says cardiac arrest. Add up the excess deaths during heat events and the toll is far higher than the official heat count, which is why researchers describe heat as both the deadliest and one of the most overlooked climate hazards.\n\nBecause the harm is hard to see, it's also hard to fund. Emergency managers train for floods and storms. Planners write codes for wind loads and flood plains. Until recently, almost nobody had a job title that included heat.",
+          "quote": null
+        },
+        {
+          "heading": "What Arizona did that other places haven't",
+          "body": "Keith's home state is the proof that this isn't hopeless. Arizona, and Maricopa County around Phoenix in particular, has built one of the most developed heat response systems in the country, and the episode walks through the pieces.\n\nIt starts with treating heat as a formal hazard with its own governance: a heat officer, a heat action plan, coordination between public health, emergency management and planning departments. It includes a network of cooling centers and hydration stations that open on dangerous days, outreach to people experiencing homelessness, and rules that keep utilities from shutting off power during summer. It also includes design: shade requirements, cool pavement and roofing programs, and tree planting aimed at the hottest, poorest neighborhoods first.\n\nThe host's point is that none of this is exotic technology. It's organization. Arizona took heat seriously as a planning problem, and heat deaths have fallen as a result, even as summers have gotten hotter.",
+          "quote": null
+        },
+        {
+          "heading": "Europe shows what happens without a plan",
+          "body": "Keith uses Europe's recent heat waves as the cautionary side of the story. Tens of thousands of Europeans have died in summer heat events in recent years, in wealthy countries with strong health systems. The difference isn't money. It's preparation.\n\nMuch of Europe's housing was built for cool summers, without air conditioning, and the population is older on average. When temperatures spike, there's no cooling infrastructure to fall back on and few established routines for checking on vulnerable neighbors. The lesson, as Keith frames it, is that a place doesn't get to opt out of heat planning because it never used to be hot. Communities have to plan for the climate that's coming, not the one they remember.\n\nThat warning applies just as much to cooler parts of the US, from the Pacific Northwest to New England, where a few days of unusual heat can be more dangerous than a week of it in Phoenix.",
+          "quote": null
+        },
+        {
+          "heading": "Rural areas and the multi-hazard approach",
+          "body": "Two more themes round out the conversation. First, rural vulnerability. Heat adaptation gets discussed as a city problem, but rural residents often work outdoors, live farther from hospitals and cooling centers, and are more likely to be on fixed incomes in older housing. Keith argues that heat planning has to reach beyond metro areas.\n\nSecond, don't plan for heat in isolation. The most resilient designs handle several hazards at once. Shade trees cool streets and absorb stormwater. Better-insulated buildings protect against heat and cold and cut energy bills. Backup power keeps cooling running during the outages that increasingly accompany heat waves. Keith calls this multi-hazard urban design, and it makes the case for heat investments easier because every dollar does more than one job.\n\nThe episode closes with resources for practitioners: a policy brief that distills the recommendations, a one-hour meeting-in-a-box guide for teams that want to start the conversation, the University of Arizona's Heat Resilience Initiative at heat.arizona.edu, and the Heat Resilient Communities Toolkit from UCLA. Doug's closing message is simple. Heat is the hazard most likely to kill someone in your community this year. Plan for it like you mean it.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Extreme heat kills more Americans than any other weather hazard, but deaths are often recorded as heart or kidney failure, so the toll is undercounted.",
+        "Heat is overlooked because it leaves no visible damage, which makes it harder to fund and to organize around.",
+        "Arizona has reduced heat deaths through formal heat governance, cooling centers, utility shutoff protections and shade-focused design.",
+        "Europe's high heat death tolls show that wealth doesn't protect a place that hasn't planned for heat.",
+        "Plan for multiple hazards at once: shade, insulation and backup power protect against heat while solving other problems."
+      ],
+      "faq": [
+        {
+          "q": "Who is most at risk during extreme heat?",
+          "a": "Older adults, people with heart or kidney conditions, outdoor workers, people without air conditioning, and people experiencing homelessness. Risk rises sharply when nights stay hot and the body can't recover."
+        },
+        {
+          "q": "What can a small town do about heat with a limited budget?",
+          "a": "Start with organization rather than infrastructure: designate a heat lead, map where vulnerable residents live, set up a cooling location and a check-in system for hot days, and add shade requirements to new development."
+        },
+        {
+          "q": "Does air conditioning solve the problem?",
+          "a": "It helps enormously but isn't enough on its own. Power outages, high bills and homes without units leave gaps, which is why planners pair cooling access with shade, building design and utility protections."
+        }
+      ],
+      "sourceNote": "Based on America Adapts episode 257, \"Extreme Heat: The Deadliest Climate Hazard Is Also the Most Invisible,\" with Dr. Ladd Keith, released July 20, 2026. Credit to host Doug Parsons and America Adapts the Climate Change Podcast."
+    }
+  ]
+}

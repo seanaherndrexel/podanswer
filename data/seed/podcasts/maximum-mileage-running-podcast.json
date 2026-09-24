@@ -1,0 +1,143 @@
+{
+  "slug": "maximum-mileage-running-podcast",
+  "title": "Maximum Mileage Running Podcast",
+  "author": "Nick Hancock",
+  "description": "Real Chat for Real Runners. Professional insights, training tips and inspiring stories for everyday runners, hosted by certified running coaches covering marathon, ultra and trail running.",
+  "category": "fitness",
+  "website": "http://www.maximummileagecoaching.com",
+  "feedUrl": "https://rss.buzzsprout.com/2204727.rss",
+  "imageUrl": "https://storage.buzzsprout.com/iocig2apl8xcuadvkgrjbol3m5li?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19140906",
+      "title": "Ultra Marathon Training Tips for Technical Trails, Fueling & Mental Toughness with Daniel Hamilton",
+      "publishedAt": "2026-05-07",
+      "summary": "Ultra runner and mental health counselor Daniel Hamilton talks through moving efficiently on technical trails, fueling for long efforts and building the mental toughness ultras demand.",
+      "audioUrl": "https://www.buzzsprout.com/2204727/episodes/19140906-ultra-marathon-training-tips-for-technical-trails-fueling-mental-toughness-with-daniel-hamilton.mp3",
+      "durationSec": 3462,
+      "episodeUrl": "https://www.buzzsprout.com/2204727/episodes/19140906",
+      "transcriptUrl": "https://www.buzzsprout.com/2204727/19140906/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19131350",
+      "title": "Mental Strength for Runners: Building Confidence, Avoiding Burnout & Overcoming Imposter Syndrome with Shannon Mick",
+      "publishedAt": "2026-05-05",
+      "summary": "Licensed counselor Shannon Mick explains how mindset shapes performance and shares frameworks for building confidence, staying resilient and avoiding burnout.",
+      "audioUrl": "https://www.buzzsprout.com/2204727/episodes/19131350-mental-strength-for-runners-building-confidence-avoiding-burnout-overcoming-imposter-syndrome-with-shannon-mick.mp3",
+      "durationSec": 3273,
+      "episodeUrl": "https://www.buzzsprout.com/2204727/episodes/19131350",
+      "transcriptUrl": "https://www.buzzsprout.com/2204727/19131350/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19103376",
+      "title": "Your Running Plan Is Useless If It Can't Do This",
+      "publishedAt": "2026-05-01",
+      "summary": "Nick Hancock argues that a good training plan is a decision-making system, not a rigid schedule, and explains how to adapt it when life gets in the way.",
+      "audioUrl": "https://www.buzzsprout.com/2204727/episodes/19103376-your-running-plan-is-useless-if-it-can-t-do-this.mp3",
+      "durationSec": 1127,
+      "episodeUrl": "https://www.buzzsprout.com/2204727/episodes/19103376",
+      "transcriptUrl": "https://www.buzzsprout.com/2204727/19103376/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19103207",
+      "title": "Jason Koop: AI in Running, Ultra Training, and How to Get Faster",
+      "publishedAt": "2026-04-30",
+      "summary": "Coach Jason Koop covers ultra training principles, progressive overload and periodization, plus where AI is starting to fit into personalized coaching.",
+      "audioUrl": "https://www.buzzsprout.com/2204727/episodes/19103207-jason-koop-ai-in-running-ultra-training-and-how-to-get-faster.mp3",
+      "durationSec": 3065,
+      "episodeUrl": "https://www.buzzsprout.com/2204727/episodes/19103207",
+      "transcriptUrl": "https://www.buzzsprout.com/2204727/19103207/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19086217",
+      "title": "Stop Guessing: How to Actually Manage Running Injuries | Paddy Lally",
+      "publishedAt": "2026-04-27",
+      "summary": "Physiotherapist Paddy Lally explains how to tell normal soreness from injury, what to do with a niggle that won't go away, and how stress, fueling and lifestyle feed into pain.",
+      "audioUrl": "https://www.buzzsprout.com/2204727/episodes/19086217-stop-guessing-how-to-actually-manage-running-injuries-paddy-lally.mp3",
+      "durationSec": 3020,
+      "episodeUrl": "https://www.buzzsprout.com/2204727/episodes/19086217",
+      "transcriptUrl": "https://www.buzzsprout.com/2204727/19086217/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19067202",
+      "title": "Strength Training for Runners: Improve Performance, Prevent Injury & Train Smarter with Dr. Richard Blagrove",
+      "publishedAt": "2026-04-23",
+      "summary": "Dr. Richard Blagrove lays out the evidence for adding strength work to a running program, covering running economy, injury prevention and long-term durability.",
+      "audioUrl": "https://www.buzzsprout.com/2204727/episodes/19067202-strength-training-for-runners-improve-performance-prevent-injury-train-smarter-with-dr-richard-blagrove.mp3",
+      "durationSec": 3125,
+      "episodeUrl": "https://www.buzzsprout.com/2204727/episodes/19067202",
+      "transcriptUrl": "https://www.buzzsprout.com/2204727/19067202/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-you-know-if-running-pain-is-an-injury-or-just-soreness",
+      "question": "How do you know if running pain is an injury or just soreness?",
+      "metaDescription": "Physio Paddy Lally gives the Maximum Mileage Running Podcast a simple pain-scale rule for runners: what to run through, what to deload, and when to get seen.",
+      "episodeGuid": "Buzzsprout-19086217",
+      "intro": "Use a simple pain scale. On the Maximum Mileage Running Podcast, host Nick Hancock asks physiotherapist Paddy Lally exactly this question, and Paddy's answer is that pain around three out of ten is usually manageable with a tweak to your training load, while anything over five out of ten after a run isn't normal. Add a one-week deload test and a short list of red flags, and you can stop guessing.",
+      "sections": [
+        {
+          "heading": "The three-out-of-ten line",
+          "body": "Paddy's first tool is a number. Rate the pain from zero to ten, with ten being the worst you can imagine. If it sits around three, it's the kind of discomfort most runners can keep training through, as long as they adjust the load. That might mean shorter runs, fewer hard sessions or an extra easy day, not a full stop.\n\nHe's clear that this kind of low-level ache is a normal part of running. Muscles get sore. Tendons grumble when you add volume. A three that stays a three, or eases as you warm up and doesn't get worse overnight, is something to manage rather than fear.\n\nThe number matters because runners tend to sit at one of two extremes: ignoring real pain until it's a proper injury, or panicking at every twinge. Putting a score on it gives you a middle path.",
+          "quote": {
+            "text": "If your pain sort of in like the three out of ten, it tends to be something that you can manage with a bit of load adjustment.",
+            "speaker": "Paddy Lally",
+            "timestamp": "14:28"
+          }
+        },
+        {
+          "heading": "When the number says stop",
+          "body": "The other end of the scale is just as clear. Paddy says anything over five out of ten after a run isn't a normal amount of pain to be in. That's the point where continuing to train on it stops being sensible.\n\nHe also lists a few red flags that override the scale entirely. The first is bony pain, meaning pain you can point to on a bone rather than a muscle or tendon, because that's the territory of stress fractures. The second is being unable to bear weight properly. If either of those shows up, his advice is to get in touch with a physio or doctor sooner rather than later rather than waiting to see if it settles.\n\nThe host adds that this is where a lot of runners go wrong. They apply the same wait-and-see approach to a sharp, localized shin pain that they'd apply to a tight calf, and the two need completely different responses.",
+          "quote": {
+            "text": "Any high levels of pain, anything over like a five out of ten is not a normal amount of pain to be in post post-run.",
+            "speaker": "Paddy Lally",
+            "timestamp": "26:40"
+          }
+        },
+        {
+          "heading": "The one-week deload test for niggles",
+          "body": "Most running pain lives in the gray zone between three and five, and that's where niggles come from. Paddy's approach here is a simple experiment. Pull the load back for about a week: drop the volume, remove the intensity, keep some easy running if it's comfortable. Then see what happens.\n\nIf the niggle fades, you've found your answer. Build back up gradually and pay attention to what caused it. If it's still there after a week of deloading, that's the signal to stop self-managing and get a set of eyes on it. A physio can figure out whether it's a tendon, a bone, a joint or something else, and each of those has a different rehab path.\n\nHe uses shin splints as an example. The rehab is about deloading, letting the pain settle, and then building back slowly. There's no special trick, just patience and a sensible return.",
+          "quote": {
+            "text": "If you've had a niggle that's just not going away after deloading for a week or so, I think it can just be beneficial just to get a set of eyes on it.",
+            "speaker": "Paddy Lally",
+            "timestamp": "26:40"
+          }
+        },
+        {
+          "heading": "Check your Strava chart before you check your body",
+          "body": "When someone comes in with a new pain, Paddy often asks to see their training log before he examines them. Injuries usually have a story, and the story is in the weekly mileage. If the chart looks like an ECG, jumping up and down week to week, that pattern is the cause more often than any single shoe, surface or muscle imbalance.\n\nThe fix is boring: more consistent weeks, smaller jumps in volume, and not trying to make up for a missed week by doubling the next one.\n\nThe last part of the conversation goes beyond training. Paddy explains that sleep, fueling and life stress all change how much pain you feel and how fast you heal. He tells a story about his own low-level pain that he'd built into something bigger in his head, the curse of knowing too much. Sometimes a day off, taking care of yourself and getting your head straight is the reset that makes a niggle disappear. That's not a sign it wasn't real. It's a sign that pain has more inputs than just the tissue.",
+          "quote": {
+            "text": "Pull up your Strava, let me see your chart. If that chart is like an ECG and it's up and down and up and down, there that there lies the answer.",
+            "speaker": "Paddy Lally",
+            "timestamp": "26:40"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Rate the pain out of ten. Around three is manageable with a load adjustment. Over five after a run is not normal.",
+        "Bony pain or being unable to bear weight are red flags. Get seen quickly rather than waiting.",
+        "For anything in between, deload for about a week. If it's still there, book a physio.",
+        "Erratic week-to-week mileage causes more injuries than shoes or form. Smooth out the chart.",
+        "Sleep, fueling and stress change how pain feels. Sometimes a rest day is the treatment."
+      ],
+      "faq": [
+        {
+          "q": "Can I keep running with a niggle?",
+          "a": "Paddy's view is yes if it's around three out of ten, doesn't worsen during or after the run, and you reduce the load. If it climbs toward five or beyond, or it's bony, stop and get it checked."
+        },
+        {
+          "q": "How long should I rest a running injury?",
+          "a": "The episode suggests a deload rather than full rest as the first step, for about a week. If pain settles, build back gradually. If not, see a physio, since the right timeline depends on which tissue is involved."
+        },
+        {
+          "q": "What does shin pain mean for runners?",
+          "a": "Diffuse shin soreness is often shin splints, which Paddy treats with deloading and a slow rebuild. Sharp pain on one spot of the bone is a possible stress fracture and needs a professional assessment."
+        }
+      ],
+      "sourceNote": "Based on the episode \"Stop Guessing: How to Actually Manage Running Injuries | Paddy Lally\" from the Maximum Mileage Running Podcast with Nick Hancock, published April 27, 2026."
+    }
+  ]
+}

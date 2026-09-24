@@ -1,0 +1,131 @@
+{
+  "slug": "the-how-of-business",
+  "title": "The How of Business - How to start, run, grow and exit a small business.",
+  "author": "Henry Lopez",
+  "description": "A weekly show for aspiring entrepreneurs and small business owners offering actionable advice, tips and techniques on how to start, run and grow your small business.",
+  "category": "business",
+  "website": "https://www.thehowofbusiness.com/",
+  "feedUrl": "https://howofbusiness.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/4/1/a/2/41a2fb02be4543be/HOB_New_Logo_1400.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-how-of-business-how-to-start-run-grow-and/id1105145426",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "302ddc43-0a70-41d1-8114-2e2652105dd4",
+      "title": "Episode 620 - The Trust Factor",
+      "publishedAt": "2026-09-14",
+      "summary": "Henry Lopez explains the trust equation from The Trusted Advisor: credibility, reliability, intimacy, and self-orientation. He argues that lowering your self-orientation is the fastest way to earn trust in business relationships.",
+      "audioUrl": "https://pdcn.co/e/dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/howofbusiness/Episode_620_-_Trust_Factor.mp3?dest-id=346019",
+      "durationSec": 1405,
+      "episodeUrl": "https://www.thehowofbusiness.com/620-the-trust-factor/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "2c63c261-ce2d-42ba-a421-19e561a68f79",
+      "title": "Episode R361 - Start and Grow Without Investors with Tyler King",
+      "publishedAt": "2026-08-31",
+      "summary": "Tyler King, CEO of Less Annoying CRM, explains how he bootstrapped a software company without venture capital by shipping a quick MVP, staying profitable, and making customer service the main differentiator.",
+      "audioUrl": "https://pdcn.co/e/dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/howofbusiness/Episode_R361_-_Tyler_King.mp3?dest-id=346019",
+      "durationSec": 2624,
+      "episodeUrl": "https://www.thehowofbusiness.com/r361-start-and-grow-without-investors-with-tyler-king/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "8aed7a21-f639-4874-9a9e-3fbb23f78566",
+      "title": "Episode 619 - Presentations That Close Deals with Dean Curtis",
+      "publishedAt": "2026-08-24",
+      "summary": "Dean Curtis of Ingage explains how consistent, professional in-home presentations lift close rates for home services companies through brand trust, personalization, and education.",
+      "audioUrl": "https://pdcn.co/e/dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/howofbusiness/Episode_619_-_Dean_Curtis.mp3?dest-id=346019",
+      "durationSec": 2367,
+      "episodeUrl": "https://www.thehowofbusiness.com/619-presentations-that-close-deals-with-dean-curtis/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "b4817071-0a24-4587-a323-ce2d6e085195",
+      "title": "Episode 618 - Buyer Due Diligence",
+      "publishedAt": "2026-08-17",
+      "summary": "Henry Lopez walks through his buyer due diligence checklist for purchasing a small business: legal standing, three to five years of financials, operational systems, customer and owner concentration, and risk factors like leases, insurance, and SBA conditions. He also covers deal structure and valuing on seller's discretionary earnings.",
+      "audioUrl": "https://pdcn.co/e/dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/howofbusiness/Episode_618_-_Buyer_Due_Diligence.mp3?dest-id=346019",
+      "durationSec": 1474,
+      "episodeUrl": "https://www.thehowofbusiness.com/618-buyer-due-diligence/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "bca069fb-9d61-4ecb-b864-54814ae087db",
+      "title": "Episode 617 - Remote, Hybrid, or In-Office? with Claudia St. John",
+      "publishedAt": "2026-08-10",
+      "summary": "HR expert Claudia St. John weighs remote, hybrid, and in-office models, noting fully remote workers are often more productive but less happy. She advises owners to decide why first and then listen to the team.",
+      "audioUrl": "https://pdcn.co/e/dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/howofbusiness/Episode_617_-_Cluadia_St._John.mp3?dest-id=346019",
+      "durationSec": 2329,
+      "episodeUrl": "https://www.thehowofbusiness.com/617-remote-hybrid-or-in-office-with-claudia-st-john/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "5c3e7f28-d096-4c42-be38-c5ebadc30c87",
+      "title": "Episode 616 - Parkinson's Law for Small Business",
+      "publishedAt": "2026-08-03",
+      "summary": "Henry explores how work expands to fill the time available and shares eight tactics for constraining tasks, starting with asking how much time a job should really take.",
+      "audioUrl": "https://pdcn.co/e/dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/howofbusiness/Episode_616_-_Parkinsons_Law.mp3?dest-id=346019",
+      "durationSec": 1288,
+      "episodeUrl": "https://www.thehowofbusiness.com/616-parkinsons-law-for-small-business/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-should-i-check-before-buying-a-small-business",
+      "question": "What should I check before buying a small business?",
+      "metaDescription": "Henry Lopez of The How of Business shares his buyer due diligence checklist: legal standing, 3 to 5 years of financials, owner dependence, leases, and deal terms.",
+      "episodeGuid": "b4817071-0a24-4587-a323-ce2d6e085195",
+      "intro": "Before you buy a small business, verify the legal standing, three to five years of financials, how much the business depends on the owner or a few customers, and the lease and loan conditions that can quietly kill the deal. On The How of Business, host and serial entrepreneur Henry Lopez walks through his buyer due diligence checklist and the rule that runs through all of it: trust, but verify. The seller isn't lying to you, but protecting you isn't their job.",
+      "sections": [
+        {
+          "heading": "Make due diligence a written condition, never a handshake",
+          "body": "Henry's first rule has nothing to do with spreadsheets. Due diligence has to be written into your letter of intent or purchase agreement, with a defined period and the legal right to walk away. Never waive it, and never buy a business as is, the way you might buy a used car.\n\nHe reframes what the period is for. It has three possible outcomes: you confirm the deal, you renegotiate the price or terms based on what you found, or you walk. All three are wins. Buyers who treat it as a formality skip straight to the first and miss the other two.\n\nYou also shouldn't do it alone. The host recommends a team of a business coach, a CPA, and an attorney working together, each looking at the parts they're trained to see.",
+          "quote": null
+        },
+        {
+          "heading": "Buy verified profits, not revenue",
+          "body": "A business that's always busy isn't necessarily healthy. Henry's point is that you're not buying sales. You're buying verified profit and the assets that produce it. That means valuing the business on seller's discretionary earnings, which is the true cash the owner takes out once you add back their salary, perks, and one-time expenses, rather than on top-line revenue.\n\nHe shares the typical valuation range for small businesses, roughly one to three times SDE, and gives two warnings. Don't buy an unprofitable business on the promise you'll fix it. And don't buy an owner-dependent one where every relationship and decision lives in the seller's head, because you may just be buying yourself a lower-paying job.\n\nHe also explains why most small business deals are structured as asset purchases rather than stock purchases: you take the assets and leave the unknown liabilities behind, which is safer for the buyer.",
+          "quote": null
+        },
+        {
+          "heading": "The legal and financial checks that surface hidden risk",
+          "body": "On the legal side, Henry says to confirm the business is in good standing, that the person selling actually has the right to sell, and to read the lease carefully. Lease traps, like a landlord who won't assign the lease or a term that ends in six months, can quietly kill a deal or leave you without a location.\n\nOn the financial side, request three to five years of statements and reconcile them against the real flow of cash, bank deposits, and tax returns. Unexplained errors or gaps between what the books say and what the bank shows are red flags, not rounding issues. Demand complete access. A seller who limits what you can see is telling you something.",
+          "quote": null
+        },
+        {
+          "heading": "Operational questions the numbers won't answer",
+          "body": "The third area is operations. Who owns the systems and software, and do they transfer? How concentrated is the customer base, and would losing one account sink the business? Which employees are key, and will they stay after the sale? Are any workers misclassified as contractors, which becomes your liability the day you close?\n\nThen come market and risk factors: insurance coverage, regulatory triggers that a change of ownership might set off, SBA loan conditions if you're financing that way, and franchise approvals if it's a franchised unit. Each of these can add weeks or block the sale entirely, so surface them early.\n\nHenry's closing advice is to slow down. The only deal worth doing is the one you clearly understand.",
+          "quote": {
+            "text": "A no that you discover in due diligence is far cheaper than a yes you regret.",
+            "speaker": "Henry Lopez",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Write due diligence into the LOI or purchase agreement with a set period and the right to walk away. Never buy as is.",
+        "Value the business on seller's discretionary earnings, typically one to three times, not on revenue.",
+        "Avoid unprofitable or owner-dependent businesses; you may just be buying a lower-paying job.",
+        "Verify legal standing, the right to sell, and the lease, then reconcile three to five years of financials against real cash flow.",
+        "Check customer concentration, key employees, worker classification, insurance, SBA conditions, and franchise approvals before closing."
+      ],
+      "faq": [
+        {
+          "q": "How many years of financials should I ask for when buying a business?",
+          "a": "Henry recommends three to five years of financial statements, reconciled against bank records and tax returns. Unexplained discrepancies should be treated as red flags."
+        },
+        {
+          "q": "What is a typical multiple for a small business?",
+          "a": "The episode cites a typical range of one to three times seller's discretionary earnings, depending on the business, its risk, and how dependent it is on the owner."
+        },
+        {
+          "q": "Should I do an asset purchase or a stock purchase?",
+          "a": "Most small business deals are asset purchases, and Henry explains that's generally safer for the buyer because you acquire the assets without inheriting unknown liabilities."
+        }
+      ],
+      "sourceNote": "Based on Episode 618 of The How of Business, \"Buyer Due Diligence,\" released August 17, 2026 and hosted by Henry Lopez."
+    }
+  ]
+}

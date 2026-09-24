@@ -1,0 +1,152 @@
+{
+  "slug": "the-wine-pair-podcast",
+  "title": "The Wine Pair Podcast",
+  "author": "The Wine Pair",
+  "description": "A married couple, Joe and Carmela, review affordable wines (typically under $25) and give brutally honest opinions about what's worth buying, mixing wine education with food pairings and plenty of disagreement.",
+  "category": "food",
+  "website": "https://thewinepairpodcast.com/",
+  "feedUrl": "https://feeds.buzzsprout.com/1880401.rss",
+  "imageUrl": "https://storage.buzzsprout.com/skpwsf6wzlqhlmy1waal8uk0kek2?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19759095",
+      "title": "They Make Sparkling Wine in England?!?",
+      "publishedAt": "2026-09-13",
+      "summary": "Joe and Carmela explore why English sparkling wine has gotten so good, from climate change to chalk soils that resemble Champagne, and taste the Henners 2018 Vintage Sparkling Blend.",
+      "audioUrl": "https://www.buzzsprout.com/1880401/episodes/19759095-they-make-sparkling-wine-in-england.mp3",
+      "durationSec": 2472,
+      "episodeUrl": "https://thewinepairpodcast.com/episode/they-make-sparkling-wine-in-england",
+      "transcriptUrl": "https://www.buzzsprout.com/1880401/19759095/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19757371",
+      "title": "Minisode #21: Is \"Sugar-Free Wine\" Even a Real Thing?",
+      "publishedAt": "2026-09-06",
+      "summary": "A short episode on the marketing behind zero-sugar and low-sugar wine. Joe explains how fermentation converts grape sugar into alcohol, what dry actually means in grams per liter, and why most wines on the shelf already qualify as low sugar.",
+      "audioUrl": "https://www.buzzsprout.com/1880401/episodes/19757371-minisode-21-is-sugar-free-wine-even-a-real-thing.mp3",
+      "durationSec": 955,
+      "episodeUrl": "https://thewinepairpodcast.com/episode/minisode-21-is-sugar-free-wine-even-a-real-thing",
+      "transcriptUrl": "https://www.buzzsprout.com/1880401/19757371/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19721894",
+      "title": "Aglianico Rosato: If You Love a Bold Red Wine, Try Its Rosé!",
+      "publishedAt": "2026-08-30",
+      "summary": "A look at rosé made from Aglianico, a bold Southern Italian red grape, and how it differs from Provence-style pink wine. Joe and Carmela taste the 2024 San Salvatore Vetere and 2025 Feudi di San Gregorio.",
+      "audioUrl": "https://www.buzzsprout.com/1880401/episodes/19721894-aglianico-rosato-if-you-love-a-bold-red-wine-try-its-rose.mp3",
+      "durationSec": 2607,
+      "episodeUrl": "https://thewinepairpodcast.com/episode/aglianico-rosato-if-you-love-a-bold-red-wine-try-its-rose",
+      "transcriptUrl": "https://www.buzzsprout.com/1880401/19721894/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19685027",
+      "title": "Italian Wine Adventure #26: Schiava! Sommeliers Love This Chillable Red!",
+      "publishedAt": "2026-08-23",
+      "summary": "Schiava from Alto Adige is a light, low-tannin, chillable red that sommeliers love. The hosts taste the 2024 Alois Lageder and 2022 Elena Walch.",
+      "audioUrl": "https://www.buzzsprout.com/1880401/episodes/19685027-italian-wine-adventure-26-schiava-sommeliers-love-this-chillable-red.mp3",
+      "durationSec": 2649,
+      "episodeUrl": "https://thewinepairpodcast.com/episode/italian-wine-adventure-26-schiava-sommeliers-love-this-chillable-red",
+      "transcriptUrl": "https://www.buzzsprout.com/1880401/19685027/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19650919",
+      "title": "Costco Kirkland Signature Châteauneuf-du-Pape Challenge!",
+      "publishedAt": "2026-08-16",
+      "summary": "Joe and Carmela pit Costco's Kirkland Signature Châteauneuf-du-Pape against a highly rated alternative to see whether the budget bottle holds up.",
+      "audioUrl": "https://www.buzzsprout.com/1880401/episodes/19650919-costco-kirkland-signature-chateauneuf-du-pape-challenge.mp3",
+      "durationSec": 2982,
+      "episodeUrl": "https://thewinepairpodcast.com/episode/costco-kirkland-signature-chateauneuf-du-pape-challenge",
+      "transcriptUrl": "https://www.buzzsprout.com/1880401/19650919/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19616790",
+      "title": "Special Episode! Meet the (Wine) Makers #25: Brian and Jessica Smith from Wendelin Vines",
+      "publishedAt": "2026-08-09",
+      "summary": "Husband-and-wife winemakers Brian and Jessica Smith talk about reviving Kansas's forgotten wine tradition at Wendelin Vines.",
+      "audioUrl": "https://www.buzzsprout.com/1880401/episodes/19616790-special-episode-meet-the-wine-makers-25-brian-and-jessica-smith-from-wendelin-vines.mp3",
+      "durationSec": 2250,
+      "episodeUrl": "https://thewinepairpodcast.com/episode/special-episode-meet-the-wine-makers-25-brian-and-jessica-smith-from-wendelin-vines",
+      "transcriptUrl": "https://www.buzzsprout.com/1880401/19616790/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "is-sugar-free-wine-really-sugar-free",
+      "question": "Is sugar-free wine really sugar-free?",
+      "metaDescription": "Most dry wine already has almost no sugar, so 'sugar-free' labels mostly sell you what you'd get anyway. The Wine Pair Podcast breaks down the numbers.",
+      "episodeGuid": "Buzzsprout-19757371",
+      "intro": "Sugar-free wine is real in the sense that the wine has very little sugar. The catch is that almost every dry wine on the shelf already qualifies. On The Wine Pair Podcast, hosts Joe and Carmela spend a minisode picking apart the zero-sugar and \"clean wine\" marketing, and the short version is that fermentation did the work long before any brand slapped a label on it.",
+      "sections": [
+        {
+          "heading": "Yeast ate the sugar already",
+          "body": "Grapes are full of sugar. Wine isn't, because during fermentation yeast consumes that sugar and converts it into alcohol. If the winemaker lets the yeast finish, you get what's called a dry wine, with very little to no residual sugar left over.\n\nThat's the whole mechanism. A sweet wine is one where fermentation was stopped early, or where the grapes were so sugary the yeast couldn't finish. A dry wine is one where the yeast ran the table. Joe's rule of thumb from the episode: wines under about 11 percent alcohol tend to have more residual sugar, because less of the sugar was converted.",
+          "quote": {
+            "text": "During the fermentation process, yeast eats the sugar and converts most of it, or all of it, into alcohol.",
+            "speaker": "Joe",
+            "timestamp": "00:07"
+          }
+        },
+        {
+          "heading": "What dry actually means in grams",
+          "body": "There are real numbers behind the word dry. The European Union legally defines a dry wine as one with less than four grams of residual sugar per liter. Within the trade, bone-dry is zero to one gram, dry is zero to four, and semi-dry runs four to twelve grams per liter.\n\nFor scale, a teaspoon of sugar is about four grams, and a bottle of wine is three quarters of a liter. So a wine at the top of the dry range has roughly three quarters of a teaspoon of sugar in the entire bottle. A glass has a fraction of that.\n\nBrands that market themselves as no sugar or low sugar generally set their own threshold at half a gram per liter. Joe's point is that plenty of ordinary bottles clear that bar without ever mentioning it.",
+          "quote": {
+            "text": "Bone-dry wines are zero to one gram of residual sugar, dry is zero to four grams, and semi-dry is four to twelve grams.",
+            "speaker": "Joe",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The label is selling you the default",
+          "body": "Most of the wine sold in grocery stores and wine shops is dry. Joe cites figures suggesting somewhere between two thirds and four fifths of wine consumed worldwide is dry wine. So a normal Cabernet, Pinot Grigio or Sauvignon Blanc is already zero or near-zero sugar.\n\nThat's why the hosts are skeptical of brands built around \"clean\" or \"sugar-free\" claims. They're describing what dry wine already is. And \"clean\" has no legal definition at all: the US Alcohol and Tobacco Tax and Trade Bureau said in April 2022 that using the term to imply a health benefit is a misleading claim.\n\nJoe's advice is blunt. If the bottle says sugar-free and it's an ordinary dry red or white, you're not getting anything new. You're paying for the sticker.",
+          "quote": {
+            "text": "If a wine says sugar free and it's a normal dry red or white, you're probably not getting anything new.",
+            "speaker": "Joe",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Calories come from alcohol, not sugar",
+          "body": "A lot of people reach for sugar-free wine because they're watching carbs or calories. Joe points out that in a dry wine, most of the calories come from the alcohol itself, not from sugar. Cutting the last half gram of residual sugar barely moves the number. A higher-alcohol \"zero sugar\" wine can easily have more calories than a lighter dry wine that never made the claim.\n\nIf carbs are the concern, wine is already one of the lower-carb drinks. Joe notes that beer can carry five times as many carbs per serving.",
+          "quote": {
+            "text": "Most of the calories in wine don't come from sugar, which is of course a carb. They come from alcohol.",
+            "speaker": "Joe",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Two traps: sweet-tasting wine and sparkling labels",
+          "body": "Two things confuse people. First, a wine can have essentially zero residual sugar and still taste fruity or a little sweet. Ripe fruit flavors, floral aromas and low acidity all read as sweetness on the tongue. Taste isn't a sugar test.\n\nSecond, sparkling wine labels are backwards. On a Prosecco or Champagne, \"Dry\" and \"Extra Dry\" mean slightly sweet. \"Brut\" is the actually dry one. If you want the least sugar in your bubbles, look for Brut, Extra Brut or Brut Nature.\n\nJoe's practical takeaway: instead of hunting for a sugar-free label, check the alcohol percentage and buy a normal dry wine. Anything at 12 percent or above from a mainstream style is almost certainly low sugar already.",
+          "quote": {
+            "text": "On a Prosecco label, dry in a sparkling wine means slightly sweet. Brut is actually dry in a sparkling wine.",
+            "speaker": "Joe",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Fermentation converts grape sugar to alcohol. A dry wine has under four grams of residual sugar per liter, less than a teaspoon per bottle.",
+        "Most wine sold is already dry, so sugar-free branding mostly describes the default.",
+        "\"Clean wine\" has no legal meaning, and US regulators have called health-implying use of the term misleading.",
+        "Calories in dry wine come mainly from alcohol, so a sugar-free label doesn't make a bottle low calorie.",
+        "For sparkling wine, Brut is dry. Dry and Extra Dry are actually slightly sweet."
+      ],
+      "faq": [
+        {
+          "q": "How much sugar is in a glass of dry red wine?",
+          "a": "Very little. A dry wine has under four grams of residual sugar per liter, and many are under one gram. A five-ounce glass would have well under a gram of sugar."
+        },
+        {
+          "q": "Which wines have the most sugar?",
+          "a": "Wines under about 11 percent alcohol tend to carry more residual sugar, along with dessert wines, many sweet Rieslings and Moscato, and sparkling wines labeled Dry, Extra Dry or Demi-Sec."
+        },
+        {
+          "q": "Is low sugar wine lower in calories?",
+          "a": "Not necessarily. Most of a dry wine's calories come from alcohol, so a 14 percent sugar-free wine can have more calories than a 12 percent regular dry wine."
+        }
+      ],
+      "sourceNote": "Based on The Wine Pair Podcast Minisode #21, \"Is 'Sugar-Free Wine' Even a Real Thing?\", released September 6, 2026, with credit to hosts Joe and Carmela."
+    }
+  ]
+}

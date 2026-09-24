@@ -1,0 +1,132 @@
+{
+  "slug": "navigating-estate-planning-with-caress-law",
+  "title": "Navigating Estate Planning with Caress Law",
+  "author": "Tammi Caress",
+  "description": "Learn how to protect yourself and your loved ones as we help you navigate the estate planning process.",
+  "category": "law",
+  "website": "https://caresslaw.estate/",
+  "feedUrl": "https://navigatingestateplanning.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/7/a/e/b/7aeb7071b9e885ad16c3140a3186d450/Caress_Law_Podcast_Artwork.jpeg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/navigating-estate-planning-with-caress-law/id1576876621",
+  "spotifyUrl": "https://open.spotify.com/show/4iGJ7mtWDeqgHExxPqKeKp",
+  "episodes": [
+    {
+      "guid": "073cdf34-fedd-4e31-b504-06a0c11bef78",
+      "title": "How to Protect Your New Spouse Without Cutting Out Your Kids: Blended Families Pt 3",
+      "publishedAt": "2026-09-15",
+      "summary": "Tammi breaks down practical estate planning fixes for blended families, including QTIP trusts, ILITs, premarital agreements, beneficiary audits and choosing the right fiduciaries. She also explains why the hardest part is usually the family conversation, not the paperwork.",
+      "audioUrl": "https://traffic.libsyn.com/secure/navigatingestateplanning/35_How_to_Protect_Your_New_Spouse_Without_Cutting_Out_Your_Kids_Blended_Families_Pt_3.mp3",
+      "durationSec": 1905,
+      "episodeUrl": "https://navigatingestateplanning.libsyn.com/how-to-protect-your-new-spouse-without-cutting-out-your-kids-blended-families-pt-3",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "8ae7462c-2727-4635-9a44-ad6c5d4538b4",
+      "title": "Oregon and Washington Estate Taxes: What's Changed and Why It's Hitting More Families",
+      "publishedAt": "2026-09-02",
+      "summary": "Tammi explains Oregon's frozen $1 million estate tax exemption and Washington's shifting exemption and rates, why owning property in another state can trigger tax there, and the planning tools that can reduce the bill.",
+      "audioUrl": "https://traffic.libsyn.com/secure/navigatingestateplanning/34__Oregon__Washington_Estate_Taxes_Whats_Changed_and_Why_Its_Hitting_More_Families_V2.mp3",
+      "durationSec": 2870,
+      "episodeUrl": "https://navigatingestateplanning.libsyn.com/oregon-and-washington-estate-taxes-whats-changed-and-why-its-hitting-more-families",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ae5f0118-39d2-447d-a006-78c717611837",
+      "title": "What Happens to Your Family When You're Gone",
+      "publishedAt": "2026-08-04",
+      "summary": "A guest appearance where Tammi discusses the impact on a family after a death, how to select fiduciaries, and why clear estate planning documents prevent sibling conflict.",
+      "audioUrl": "https://traffic.libsyn.com/secure/navigatingestateplanning/33_What_Happens_to_Your_Family_When_Youre_Gone.mp3",
+      "durationSec": 2339,
+      "episodeUrl": "https://navigatingestateplanning.libsyn.com/what-happens-to-your-family-when-youre-gone",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "1b8eeb6b-e52a-4fb1-8430-6f0f6b97a364",
+      "title": "The Clock is Ticking: How Delays Drain Estates",
+      "publishedAt": "2025-06-26",
+      "summary": "How postponing estate administration creates real financial consequences, from missed tax deadlines and frozen assets to higher legal fees and lost planning opportunities.",
+      "audioUrl": "https://traffic.libsyn.com/secure/navigatingestateplanning/32_The_Clock_is_Ticking_How_Delays_Drain_Estates.mp3",
+      "durationSec": 2037,
+      "episodeUrl": "https://navigatingestateplanning.libsyn.com/the-clock-is-ticking-how-delays-drain-estates",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "54d099c6-0e31-4c5d-b5dc-19dd177cce48",
+      "title": "Big Tax Changes Are Coming to Washington: Are You Ready?",
+      "publishedAt": "2025-05-28",
+      "summary": "Tammi outlines Washington State's tax reforms taking effect July 1, 2025, including a $3 million estate tax exemption, higher top rates, and a capital gains tax on large long-term gains.",
+      "audioUrl": "https://traffic.libsyn.com/secure/navigatingestateplanning/31_Big_Tax_Changes_Are_Coming_to_Washington_Are_You_Ready.mp3",
+      "durationSec": 820,
+      "episodeUrl": "https://navigatingestateplanning.libsyn.com/big-tax-changes-are-coming-to-washington-are-you-ready",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "5dbafd3b-4911-49ed-b331-ce97d7b69f3a",
+      "title": "Naming Your Trust as an Insured Party",
+      "publishedAt": "2025-04-28",
+      "summary": "A short episode on why properly listing your trust on homeowner's and vehicle insurance policies matters, and how skipping it can lead to denied claims.",
+      "audioUrl": "https://traffic.libsyn.com/secure/navigatingestateplanning/30_Naming_Your_Trust_as_an_Insured_Party.mp3",
+      "durationSec": 555,
+      "episodeUrl": "https://navigatingestateplanning.libsyn.com/naming-your-trust-as-an-insured-party",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-i-protect-my-new-spouse-without-disinheriting-my-kids",
+      "question": "How do I protect my new spouse without disinheriting my kids?",
+      "metaDescription": "Estate attorney Tammi Caress explains how QTIP trusts, life insurance, prenups and beneficiary audits let you provide for a second spouse and still protect your kids.",
+      "episodeGuid": "073cdf34-fedd-4e31-b504-06a0c11bef78",
+      "intro": "Yes, you can provide for a new spouse and still guarantee your kids from a first marriage inherit, but it takes more than a simple will. On Navigating Estate Planning with Caress Law, Oregon and Washington estate attorney Tammi Caress walks through the tools that make it work: QTIP trusts, life insurance, premarital agreements, beneficiary audits and careful fiduciary choices. She also warns that the paperwork is usually the easy part. The family conversation is where most plans fall apart.",
+      "sections": [
+        {
+          "heading": "The QTIP trust: income for your spouse, principal for your kids",
+          "body": "The centerpiece of Tammi's approach is the QTIP trust, short for \"qualified terminable interest property\" trust. The idea is simple even if the name isn't. When you die, your assets go into the trust. Your surviving spouse gets the income from it (and in some setups, access to principal) for the rest of their life. When your spouse dies, whatever is left goes to the people you named, typically your children.\n\nThat structure solves the core blended family problem. If you leave everything outright to your new spouse, they can rewrite their own will the next day and your kids can be cut out entirely, even if nobody intends that. A QTIP locks in the remainder beneficiaries so the second spouse can't redirect it.\n\nTammi also points out two details that surprise people. First, a QTIP still qualifies for the marital deduction, so it doesn't create an estate tax problem at the first death. Second, you don't have to wait until you're married to set one up. The trust can be drafted before the wedding, which pairs nicely with a premarital agreement.",
+          "quote": null
+        },
+        {
+          "heading": "Using life insurance to give each side their own pot",
+          "body": "Sometimes the cleanest fix isn't splitting one estate at all. It's creating two. Tammi describes using life insurance to equalize distributions: the house or the retirement accounts go to the spouse, and a life insurance policy pays out to the kids (or the other way around). Everyone gets something immediately, and nobody has to wait for a second death to see their inheritance.\n\nFor larger estates, she recommends holding the policy inside an ILIT, an irrevocable life insurance trust. Because the trust owns the policy rather than you, the death benefit stays out of your taxable estate. That matters a lot in Oregon and Washington, where the state estate tax exemptions are far lower than the federal number. Oregon's exemption has been stuck at $1 million for years, and Washington's is now frozen at $3 million. A modest home plus a retirement account plus a life insurance payout can push a family over those lines without anyone feeling wealthy.",
+          "quote": null
+        },
+        {
+          "heading": "Prenups reframed as inheritance protection",
+          "body": "A lot of couples avoid premarital agreements because they feel like planning for divorce. Tammi flips that framing. In a blended family, a prenup or postnup is inheritance protection, not a sign of distrust.\n\nTwo things the agreement can do that a will can't. It can waive the elective share, which is the portion of an estate a surviving spouse is entitled to claim under state law no matter what the will says. And it can clearly separate what counts as community or marital property versus separate property, which works differently in Oregon and Washington. Without that clarity, assets you thought were earmarked for your kids can get pulled into the marital pot.\n\nShe also notes that a premarital agreement and a QTIP trust work well together: the agreement defines what each spouse is entitled to, and the trust delivers it in a controlled way.",
+          "quote": null
+        },
+        {
+          "heading": "The beneficiary audit most people skip",
+          "body": "Here's the part that undoes more plans than anything else. Retirement accounts, life insurance, and joint bank accounts pass by beneficiary designation or by title, not by your will or trust. You can have a perfect QTIP trust and still have your entire 401(k) go to an ex-spouse because nobody updated the form.\n\nTammi shares a real case from her practice where an ex-spouse was still listed as beneficiary after a remarriage. The documents said one thing. The account did another. The account won.\n\nHer rule: run a beneficiary audit any time there's a trigger event. Divorce, remarriage, a death in the family, or a serious illness should all send you back to every account to check who's named. The audit takes an afternoon. Skipping it can cost your kids everything.",
+          "quote": null
+        },
+        {
+          "heading": "Pick fiduciaries who won't end up in court together",
+          "body": "One more structural mistake: naming your new spouse and an adult child from your first marriage as co-trustees or co-executors. It feels balanced. In practice, Tammi explains, it puts two people with directly opposed financial interests in charge of the same checkbook, and disagreements turn into litigation.\n\nFor blended families she often recommends a corporate or professional trustee instead. It costs money, but it removes the family from the decision-making seat and gives everyone a neutral party to blame.\n\nFinally, she's blunt about the conversation itself. Documents alone aren't enough. Talk to your family before a crisis, whether that's a group meeting or one-on-ones. But don't let the kids vote on the plan, don't make promises you can't put in writing, and don't change your plan on the spot because someone reacted badly. And use an estate planning specialist rather than a general practitioner for this work; blended family plans are where generic documents fail.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "A QTIP trust gives your surviving spouse lifetime income while guaranteeing the remainder goes to your children, and it still qualifies for the marital deduction.",
+        "Life insurance, ideally held in an ILIT, can give the spouse and the kids separate inheritances so nobody waits on a second death.",
+        "A premarital or postmarital agreement can waive the elective share and define separate property, which a will cannot do on its own.",
+        "Retirement accounts and joint accounts pass outside your will, so audit every beneficiary designation after a divorce, remarriage, death or illness.",
+        "Avoid naming a spouse and a stepchild as co-fiduciaries; consider a professional trustee for blended families."
+      ],
+      "faq": [
+        {
+          "q": "What happens if I just leave everything to my spouse and trust them to take care of my kids?",
+          "a": "Legally, once assets pass outright to your spouse they belong to your spouse. They can change their will, remarry, or spend it, and your children have no enforceable claim. A QTIP trust is how you make the promise binding."
+        },
+        {
+          "q": "Can a will override a beneficiary designation on my 401(k) or IRA?",
+          "a": "No. Beneficiary designations control retirement accounts and life insurance regardless of what your will or trust says. That's why Tammi Caress recommends a beneficiary audit after every major life change."
+        },
+        {
+          "q": "Do I need a prenup if I already have a trust?",
+          "a": "Often yes in a blended family. A trust controls how your assets are distributed, but a premarital agreement can waive your spouse's elective share and clarify which property is separate. The two documents work together."
+        }
+      ],
+      "sourceNote": "Based on \"How to Protect Your New Spouse Without Cutting Out Your Kids: Blended Families Pt 3,\" released September 15, 2026 on Navigating Estate Planning with Caress Law, hosted by attorney Tammi Caress."
+    }
+  ]
+}

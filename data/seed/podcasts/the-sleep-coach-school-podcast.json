@@ -1,0 +1,135 @@
+{
+  "slug": "the-sleep-coach-school-podcast",
+  "title": "The Sleep Coach School Podcast",
+  "author": "Daniel Erichsen",
+  "description": "Resources for understanding why restful sleep has remained elusive despite various attempts, with education and peace of mind for people struggling with insomnia.",
+  "category": "health",
+  "website": "https://insomniainsight.podbean.com",
+  "feedUrl": "https://feed.podbean.com/insomniainsight/feed.xml",
+  "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/4071851/newartjune21_6aue53.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-sleep-coach-school-podcast/id1447825477",
+  "spotifyUrl": "https://open.spotify.com/show/4c7aq9aghfsfrN3hjoBgut",
+  "episodes": [
+    {
+      "guid": "insomniainsight.podbean.com/eb4f88a1-4f95-3ca5-9f16-c282079a417e",
+      "title": "That Was Pivotal Moment",
+      "publishedAt": "2026-09-05",
+      "summary": "Zach shares the realization that turned five years of insomnia into acceptance. After sleeping pills, breathing techniques, CBD and therapy didn't work, he found relief by letting go of control.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/y3sqashzv3tq6n86/How_5_Years_Of_Insomnia_Ended_For_Zach_Summer_Series_4_bw0ap.mp3",
+      "durationSec": 2456,
+      "episodeUrl": "https://insomniainsight.podbean.com/e/that-was-pivotal-moment/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "insomniainsight.podbean.com/c0d6db81-1fa3-38be-a952-b0f7197c7ab7",
+      "title": "Reversing \"Day After\" Insomnia",
+      "publishedAt": "2026-09-04",
+      "summary": "Daniel explains why the day after a bad night feels so hard. He separates ordinary tiredness from the emotional suffering that comes from the meaning we attach to lost sleep, and shows how fear of tomorrow keeps the cycle going.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/mt4f7brq26bkmqqj/The_Hidden_Cause_of_Severe_Sleep_Deprivation_Symptoms_Summer_Series_3_8lhza.mp3",
+      "durationSec": 782,
+      "episodeUrl": "https://insomniainsight.podbean.com/e/reversing-day-after-insomnia/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "insomniainsight.podbean.com/23b5f1ef-95de-3233-a87e-828d21c66c07",
+      "title": "Sleep No Longer Scares Me",
+      "publishedAt": "2026-09-03",
+      "summary": "Jen, a teacher, describes how fear of not sleeping spiraled into panic attacks. She found peace through mindfulness and self-compassion rather than chasing perfect sleep.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/37hu8naagvrwh7z5/How_a_Teacher_Found_Peace_Beyond_Insomnia_Talking_Insomnia_233_68psh.mp3",
+      "durationSec": 4370,
+      "episodeUrl": "https://insomniainsight.podbean.com/e/sleep-no-longer-scares-me/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "insomniainsight.podbean.com/aab559ee-0d75-37a8-b467-44d0973cc70a",
+      "title": "The Sentence That Led Tess to FREEDOM From Insomnia",
+      "publishedAt": "2026-09-02",
+      "summary": "Tess explains how the idea that your brain is not your business became her turning point. Instead of policing every thought, she let her brain do its thing and trusted the process.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/pbirev73s6nu2r8i/The_Sentence_That_Led_Tess_to_FREEDOM_From_Insomnia_Summer_Series_2_aj7d2.mp3",
+      "durationSec": 3048,
+      "episodeUrl": "https://insomniainsight.podbean.com/e/the-sentence-that-led-tess-to-freedom-from-insomnia/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "insomniainsight.podbean.com/1642cc34-a3e1-3a06-8f37-23912e88a0c2",
+      "title": "How To Get Off The Insomnia Rollercoaster",
+      "publishedAt": "2026-09-01",
+      "summary": "A Summer Series encore on the confidence and doubt cycle of insomnia recovery. Daniel explains why setbacks and rough nights don't mean lost progress, and how changing the meaning of sleep smooths the ride.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/xay39ybxymja4sy7/How_To_Get_Off_The_Insomnia_Rollercoaster_Summer_Series_2026_1_7r3te.mp3",
+      "durationSec": 832,
+      "episodeUrl": "https://insomniainsight.podbean.com/e/how-to-get-off-the-insomnia-rollercoaster/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "insomniainsight.podbean.com/dc83c6c7-7999-35e7-a8e4-5a37234e7e58",
+      "title": "My Body Jerked Every Time I Fell Asleep",
+      "publishedAt": "2026-08-31",
+      "summary": "A father of twins recounts how one bad night in 2022 grew into anxiety and hypnic jerks, and how he recovered by learning about acceptance. His message: you've got to go there to come back.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/uk6wd986dm5nfwcj/How_Father_Of_Twins_Recovered_From_Hypnic_Jerks_Insomnia_Talking_Insomnia_232_66ypf.mp3",
+      "durationSec": 2279,
+      "episodeUrl": "https://insomniainsight.podbean.com/e/my-body-jerked-every-time-i-fell-asleep/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-does-one-bad-night-of-sleep-make-the-next-day-so-hard",
+      "question": "Why does one bad night of sleep make the next day so hard?",
+      "metaDescription": "Sleep coach Daniel Erichsen explains why the day after a bad night feels awful, and why the meaning you give lost sleep matters more than the hours.",
+      "episodeGuid": "insomniainsight.podbean.com/c0d6db81-1fa3-38be-a952-b0f7197c7ab7",
+      "intro": "A rough night leaves you tired, but tiredness alone doesn't explain the dread, fog and irritability that can wreck the whole next day. On The Sleep Coach School Podcast, host Daniel Erichsen argues that most of that suffering comes from the meaning we attach to a bad night, not the missing hours themselves. Change the meaning, and the day after gets a lot easier.",
+      "sections": [
+        {
+          "heading": "Tired is one thing, suffering is another",
+          "body": "Daniel starts by pulling apart two experiences that usually get lumped together. The first is plain physical tiredness. Anyone who slept badly feels it: heavy eyes, slower thinking, a stronger pull toward the couch. That part is real and there's nothing wrong with it.\n\nThe second experience is emotional. It's the sinking feeling when you check the clock at 3 a.m., the dread about how you'll cope at work, the anger at your own brain. The host explains that this layer isn't caused by wakefulness. It's caused by the story you tell about wakefulness. Two people can lose the same amount of sleep, and the one who reads it as a catastrophe will have a far worse day than the one who shrugs it off.\n\nThis matters for anyone with insomnia because the second layer is the one that keeps growing. Tiredness fades after a nap or a decent night. Dread compounds.",
+          "quote": {
+            "text": "It's not just the lack of sleep that makes the next day so difficult. It's the meaning we attach to it.",
+            "speaker": "Daniel Erichsen (episode show notes)",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The thought experiment that exposes the loop",
+          "body": "To make the point concrete, Daniel walks listeners through a thought experiment. Imagine you slept four hours because you stayed up late for a great concert or a flight home from vacation. You're tired, but you're not frightened. Now imagine you slept the same four hours because you lay awake worrying about sleep. Same hours, completely different day.\n\nThe difference, the host explains, is fear of tomorrow. When you lie awake, part of your mind is already rehearsing how bad the next day will be. That rehearsal creates anxiety, and anxiety is stimulating, so you stay awake longer. Then the bad day arrives, seems to confirm the fear, and the next night you're even more on guard.\n\nSeeing the loop laid out like this is the first step. Once you notice that the fear of tomorrow is doing most of the damage, you can start working on the fear instead of trying to force more sleep.",
+          "quote": null
+        },
+        {
+          "heading": "What to do on the morning after",
+          "body": "Daniel's approach is to treat the day after like any other tired day, not like an emergency. In practice that means a few things.\n\n**Keep your plans.** Cancelling the gym, skipping a social event or working from bed teaches your brain that a bad night is dangerous. Doing the normal stuff, even at 70 percent, sends the opposite message.\n\n**Don't chase recovery sleep.** Long naps, going to bed hours early and lying in until noon all try to fix the night, and they usually push the next night off course. The host explains that a normal wake time and a normal bedtime do more for you than any catch-up strategy.\n\n**Name the story.** When you catch yourself thinking \"I can't function like this\" or \"tonight will be worse,\" notice that it's a prediction, not a fact. You have functioned on little sleep before. You'll do it again.\n\nNone of this makes you less tired. It makes you less afraid, and that is what breaks the cycle over time.",
+          "quote": null
+        },
+        {
+          "heading": "Setbacks aren't lost progress",
+          "body": "This episode is part of a summer series that also revisits Daniel's earlier episode on the confidence and doubt rollercoaster. The two ideas fit together. If you've been sleeping better and then hit a rough night, the temptation is to conclude that everything has unraveled. According to the show, that's the day-after story in a different outfit.\n\nSpeed bumps are a normal part of getting past insomnia. A hard night after a good stretch doesn't erase the good stretch. What matters is how you respond the next morning: whether you go back to protecting sleep and fearing the day, or whether you carry on and let the night be what it was.\n\nDaniel describes this as moving from fear and frustration toward smoother sailing. It isn't a trick for sleeping more. It's a way of making sleep matter less, which, ironically, is usually when it comes back.",
+          "quote": {
+            "text": "Setbacks, speed bumps, and difficult nights don't mean you've lost progress.",
+            "speaker": "Daniel Erichsen (episode show notes)",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Physical tiredness after a bad night is real but limited. The dread and fog mostly come from the meaning you give the lost sleep.",
+        "Fear of tomorrow keeps you awake tonight, which makes tomorrow harder, which feeds next night's fear. That's the loop to break.",
+        "Keep your normal plans and wake time the morning after. Cancelling everything teaches your brain a bad night is dangerous.",
+        "Skip long naps and early bedtimes meant to catch up. They tend to shift the next night off track.",
+        "A rough night after a good stretch is a speed bump, not a relapse."
+      ],
+      "faq": [
+        {
+          "q": "Is it safe to exercise after a bad night of sleep?",
+          "a": "For most people, yes, and Daniel's advice is to keep normal plans rather than avoiding them. Go lighter if you feel wiped out, but showing up matters more than the intensity."
+        },
+        {
+          "q": "Should I nap the day after insomnia?",
+          "a": "The host explains that long recovery naps usually make the next night harder. A short rest is fine if you must, but protecting your normal bedtime and wake time does more for you."
+        },
+        {
+          "q": "When should I see a doctor about insomnia?",
+          "a": "If poor sleep is affecting your safety, mood or health for weeks, or you snore heavily or stop breathing at night, talk to a physician. The podcast focuses on the fear and meaning side of insomnia and isn't a substitute for medical care."
+        }
+      ],
+      "sourceNote": "Based on the episode \"Reversing 'Day After' Insomnia\" from The Sleep Coach School Podcast with Daniel Erichsen, published September 4, 2026."
+    }
+  ]
+}

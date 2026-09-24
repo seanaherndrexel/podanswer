@@ -1,0 +1,131 @@
+{
+  "slug": "the-discover-strength-podcast",
+  "title": "The Discover Strength Podcast",
+  "author": "Luke Carlson",
+  "description": "Busy people don't have time to waste on exercise that doesn't work. Discover Strength delivers twice per week workouts with an expert trainer, and this podcast digs into the research behind effective strength training.",
+  "category": "fitness",
+  "website": "http://www.discoverstrength.com",
+  "feedUrl": "https://rss.buzzsprout.com/1583314.rss",
+  "imageUrl": "https://storage.buzzsprout.com/y4zesb5geaasqqnt3na7dppw1r2z?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19707345",
+      "title": "Owning A Discover Strength Franchise: Behind The Scenes With Real Owners",
+      "publishedAt": "2026-08-27",
+      "summary": "Luke Carlson talks with two franchise owners at different stages about choosing locations, building teams, customer service and scaling without losing the company's core values.",
+      "audioUrl": "https://www.buzzsprout.com/1583314/episodes/19707345-owning-a-discover-strength-franchise-behind-the-scenes-with-real-owners.mp3",
+      "durationSec": 2009,
+      "episodeUrl": "https://www.buzzsprout.com/1583314/episodes/19707345-owning-a-discover-strength-franchise-behind-the-scenes-with-real-owners",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19672426",
+      "title": "High-Quality Weight Loss: The New Paradigm for GLP-1s",
+      "publishedAt": "2026-08-20",
+      "summary": "Luke reviews recent research on GLP-1 medications and asks what high-quality weight loss looks like, with a focus on preserving muscle while losing fat.",
+      "audioUrl": "https://www.buzzsprout.com/1583314/episodes/19672426-high-quality-weight-loss-the-new-paradigm-for-glp-1s.mp3",
+      "durationSec": 970,
+      "episodeUrl": "https://www.buzzsprout.com/1583314/episodes/19672426-high-quality-weight-loss-the-new-paradigm-for-glp-1s",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19616531",
+      "title": "Keep the Main Thing the Main Thing",
+      "publishedAt": "2026-08-07",
+      "summary": "An essentialist take on fitness: hard resistance training, progressive overload, recovery and cardio matter far more than the latest optimization trend.",
+      "audioUrl": "https://www.buzzsprout.com/1583314/episodes/19616531-keep-the-main-thing-the-main-thing.mp3",
+      "durationSec": 1211,
+      "episodeUrl": "https://www.buzzsprout.com/1583314/episodes/19616531-keep-the-main-thing-the-main-thing",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19506499",
+      "title": "It's Never Too Late: Lessons on Strength, Purpose, and Longevity Featuring Ben Jaffray",
+      "publishedAt": "2026-07-17",
+      "summary": "A 96-year-old Discover Strength client shares lessons from military service, business and aging with purpose, and how strength training keeps him independent.",
+      "audioUrl": "https://www.buzzsprout.com/1583314/episodes/19506499-it-s-never-too-late-lessons-on-strength-purpose-and-longevity-featuring-ben-jaffray.mp3",
+      "durationSec": 2577,
+      "episodeUrl": "https://www.buzzsprout.com/1583314/episodes/19506499-it-s-never-too-late-lessons-on-strength-purpose-and-longevity-featuring-ben-jaffray",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19474813",
+      "title": "Why Repetition Speed Matters More Than You Think",
+      "publishedAt": "2026-07-10",
+      "summary": "Luke breaks down a systematic review and meta-analysis on tempo-controlled resistance training and explains how deliberately slowing your reps may improve neuromuscular function and produce greater strength gains than self-paced lifting.",
+      "audioUrl": "https://www.buzzsprout.com/1583314/episodes/19474813-why-repetition-speed-matters-more-than-you-think.mp3",
+      "durationSec": 498,
+      "episodeUrl": "https://www.buzzsprout.com/1583314/episodes/19474813-why-repetition-speed-matters-more-than-you-think",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19438356",
+      "title": "New Research: You are better off being fit than thin",
+      "publishedAt": "2026-07-03",
+      "summary": "A meta-analysis shows cardiorespiratory fitness predicts longevity better than body weight, which challenges the usual weight-loss-first health message.",
+      "audioUrl": "https://www.buzzsprout.com/1583314/episodes/19438356-new-research-you-are-better-off-being-fit-than-thin.mp3",
+      "durationSec": 902,
+      "episodeUrl": "https://www.buzzsprout.com/1583314/episodes/19438356-new-research-you-are-better-off-being-fit-than-thin",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "does-lifting-weights-slowly-build-more-strength",
+      "question": "Does lifting weights slowly build more strength?",
+      "metaDescription": "Luke Carlson of The Discover Strength Podcast reviews a meta-analysis on rep tempo and explains why controlling the speed of every rep can beat lifting at your natural pace.",
+      "episodeGuid": "Buzzsprout-19474813",
+      "intro": "According to a recent systematic review and meta-analysis covered by Luke Carlson on The Discover Strength Podcast, yes: deliberately controlling the tempo of each rep appears to produce greater strength gains than lifting at whatever speed feels natural. The mechanism seems to be better communication between your brain and the muscle, not just more time under tension. Here's what the research says and how to apply it.",
+      "sections": [
+        {
+          "heading": "The variable almost everyone ignores",
+          "body": "Walk into most gyms and you'll see people paying attention to weight, sets and reps, and almost nobody paying attention to how fast the bar moves. Luke calls repetition speed one of the most overlooked variables in resistance training. Most lifters go at whatever pace feels natural, which usually means a quick lift, a brief pause, and a lowering phase that's more of a drop than a controlled movement.\n\nThe episode is built around a systematic review and meta-analysis that pooled studies comparing tempo-controlled training, where the lifting and lowering phases are performed at a prescribed, slower speed, against self-paced training. The host explains that when you gather the studies together, the tempo-controlled groups came out ahead on strength.\n\nThat's a striking finding for a change that costs nothing. You don't need new equipment or more time in the gym. You just need to stop letting momentum do part of the work.",
+          "quote": null
+        },
+        {
+          "heading": "What slowing down does inside the muscle",
+          "body": "The interesting part of the episode is the proposed reason. It would be easy to assume that slow reps work simply because the muscle is under load for longer. Luke's read of the research points somewhere else: to the nervous system.\n\nWhen you move a weight quickly, momentum carries it through parts of the range where the muscle isn't doing much. When you move it slowly and deliberately, the muscle has to produce force through the entire range, and your brain has to keep sending a steady signal the whole time. The host describes this as improving communication between the brain and the muscle, which enhances neuromuscular function. Over weeks, that better signaling shows up as more strength.\n\nThis also explains why slow, controlled training feels so much harder at a given weight. You're removing the help that momentum was quietly providing, and the muscle finally has to do the whole job.",
+          "quote": {
+            "text": "Slowing down your repetitions may improve communication between your brain and muscles, enhance neuromuscular function, and produce greater strength gains than self-paced lifting.",
+            "speaker": "Luke Carlson (episode notes)",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "How to put a tempo on your reps",
+          "body": "The episode doesn't prescribe a single magic number, and different studies in the review used different tempos. But the practical version is simple.\n\nPick a controlled speed for both halves of the rep. A common approach is to take a few seconds to lift the weight and a few seconds to lower it, with no bounce at the bottom and no throwing at the top. Count in your head if it helps.\n\nExpect to use less weight. If you've been lifting at a natural pace, the same load will feel much heavier under a controlled tempo. That's not a step backward. It's a more honest measure of what the muscle can actually do.\n\nKeep everything else the same. Progressive overload still applies. Once you can complete your target reps at a controlled tempo, add weight. The tempo is a constraint that makes each rep count, not a replacement for getting stronger over time.\n\nLuke notes that this has been a cornerstone of the Discover Strength method for years, which is why the meta-analysis felt like confirmation of something their trainers see daily.",
+          "quote": null
+        },
+        {
+          "heading": "Where this fits with everything else",
+          "body": "It's worth putting rep speed in context. In another recent episode, Luke makes the case for keeping the main thing the main thing: hard resistance training, progressive overload, adequate recovery and some cardio. Tempo isn't a replacement for those. It's a way of making the resistance training part more effective.\n\nIf you're already training hard and progressing, adding deliberate tempo control is a low-cost upgrade. If you're not yet training consistently, tempo is not the first thing to fix. Showing up twice a week and working hard is.\n\nThe host's larger point is that this is a good example of an evidence-based tweak that traditional gym culture has mostly ignored, not because it doesn't work, but because it's less flashy than a new program or supplement. Slow down, control the weight, and let the research work in your favor.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "A systematic review and meta-analysis found tempo-controlled lifting produced greater strength gains than self-paced lifting.",
+        "The likely reason is better brain-to-muscle signaling and neuromuscular function, not just more time under load.",
+        "Control both the lifting and lowering phase, with no bouncing or throwing the weight.",
+        "Expect to use less weight at first. Progressive overload still drives results over time.",
+        "Tempo is an upgrade to hard, consistent training, not a substitute for it."
+      ],
+      "faq": [
+        {
+          "q": "How slow should each rep be?",
+          "a": "The episode doesn't lock in a single number because studies used a range of tempos. The practical advice is a deliberate few seconds up and a few seconds down, with full control at both ends of the rep."
+        },
+        {
+          "q": "Will slow reps build muscle as well as strength?",
+          "a": "The meta-analysis Luke discusses focused on strength outcomes. Controlled tempo also increases the difficulty of each rep, which supports hypertrophy, but the main finding in the episode is about strength."
+        },
+        {
+          "q": "Should I use tempo training on every exercise?",
+          "a": "You can. It's especially useful on machine and single-joint exercises where momentum easily takes over. For explosive or athletic movements, the goal is different and a slow tempo isn't the point."
+        }
+      ],
+      "sourceNote": "Based on the episode \"Why Repetition Speed Matters More Than You Think\" from The Discover Strength Podcast with Luke Carlson, published July 10, 2026."
+    }
+  ]
+}

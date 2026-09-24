@@ -1,0 +1,139 @@
+{
+  "slug": "diy-cyber-guy",
+  "title": "DIY Cyber Guy",
+  "author": "David W. Schropfer",
+  "description": "DIY Cyber Guy, hosted by David W. Schropfer, offers an approachable exploration of cybersecurity and emerging technologies like AI and quantum computing for all knowledge levels.",
+  "category": "technology",
+  "website": "https://diycyberguy.com/",
+  "feedUrl": "https://rss.libsyn.com/shows/122058/destinations/716345.xml",
+  "imageUrl": "https://static.libsyn.com/p/assets/f/0/8/b/f08b18e2e89e2c9d/schropfer-showname.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/diy-cyber-guy/id1342747189",
+  "spotifyUrl": "https://open.spotify.com/show/68gmcybt3ceL2xxplSHibf",
+  "episodes": [
+    {
+      "guid": "5932f3d2-0f77-4f80-a86b-e95136c7df03",
+      "title": "AI: Entry-Level Job Killer, or Mirage?",
+      "publishedAt": "2026-05-27",
+      "summary": "Guest Andy Sitison looks at whether AI genuinely threatens entry-level jobs or whether the concern is overstated, separating workforce myths from what the evidence shows.",
+      "audioUrl": "https://traffic.libsyn.com/secure/diycyber/99_audio.mp3?dest-id=716345",
+      "durationSec": 1358,
+      "episodeUrl": "https://diycyberguy.com/2026/05/26/sitison/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "436f2b48-5b5d-4a2f-aa73-5c22d48525ce",
+      "title": "Will AI Replace Humans? Answers from an Expert",
+      "publishedAt": "2026-04-30",
+      "summary": "Jonathan Aberman explains why AI produces homogeneous output and argues that originality and creative thinking become the competitive advantage as automation gets commoditized.",
+      "audioUrl": "https://traffic.libsyn.com/secure/diycyber/98_Audio.mp3?dest-id=716345",
+      "durationSec": 1544,
+      "episodeUrl": "https://diycyberguy.com/2026/04/28/aberman/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "889214af-01a6-407d-a2e2-8f161b91c6ee",
+      "title": "As ChatGPT's Market Share Drops, What's In It For You?",
+      "publishedAt": "2026-04-02",
+      "summary": "Jim Ferry of Volition Capital on ChatGPT's declining dominance and rising competition, and where AI competition genuinely creates value for users versus where the claims are overblown.",
+      "audioUrl": "https://traffic.libsyn.com/secure/diycyber/97_Audio.mp3?dest-id=716345",
+      "durationSec": 1761,
+      "episodeUrl": "https://diycyberguy.com/2026/03/31/ferry/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "c4f6a23f-0c2c-4044-8384-74d417d21819",
+      "title": "How to Secure SaaS Platforms Designed for Productivity, Not Security",
+      "publishedAt": "2026-03-12",
+      "summary": "Ben Wilcox on FBI warnings about criminals exploiting Salesforce and similar platforms through phishing and misconfiguration rather than technical exploits, with practical hardening steps.",
+      "audioUrl": "https://traffic.libsyn.com/secure/diycyber/96_Audio.mp3?dest-id=716345",
+      "durationSec": 1552,
+      "episodeUrl": "https://diycyberguy.com/2026/03/09/wilcox/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "64caee64-b8ca-442a-8c81-f8ae4090d51f",
+      "title": "Are Internet Companies Becoming Too Big To 'Fail'",
+      "publishedAt": "2026-03-09",
+      "summary": "ZeroTier CEO Andrew Gault on infrastructure concentration risk after Cloudflare outages took down major services, and why redundant, resilient networks matter.",
+      "audioUrl": "https://traffic.libsyn.com/secure/diycyber/95_audio.mp3?dest-id=716345",
+      "durationSec": 1597,
+      "episodeUrl": "https://diycyberguy.com/2026/03/06/galt/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "fa398283-0759-431e-a1ab-510feac13d39",
+      "title": "How to Reduce C-Level & Executive Targeting",
+      "publishedAt": "2026-02-10",
+      "summary": "Chris Pierson of BlackCloak on how AI and data brokers make it easy to target executives through their personal digital footprints, and how to shrink that exposure.",
+      "audioUrl": "https://traffic.libsyn.com/secure/diycyber/94_Audio.mp3?dest-id=716345",
+      "durationSec": 1448,
+      "episodeUrl": "https://diycyberguy.com/2026/02/08/pierson/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "will-ai-replace-humans-at-work",
+      "question": "Will AI replace humans at work?",
+      "metaDescription": "DIY Cyber Guy host David W. Schropfer and Jonathan Aberman on why AI will not replace humans but changes how people add value.",
+      "episodeGuid": "436f2b48-5b5d-4a2f-aa73-5c22d48525ce",
+      "intro": "AI won't replace humans at work, but it will force people to add value differently than they did before. That's the short answer from Jonathan Aberman on DIY Cyber Guy, hosted by David W. Schropfer. Aberman's argument is that language models generate sameness at scale, which makes originality, judgment, and being at the edge of your field the things that still command a premium.",
+      "sections": [
+        {
+          "heading": "What the McKinsey numbers actually say about skills",
+          "body": "David frames the episode with a McKinsey Global Institute article titled \"Human skills will matter more than ever in the age of AI.\" The headline finding is that more than 70 percent of current workplace skills remain relevant across both automatable and non-automatable tasks. Only a small slice of skills is purely human or fully automatable.\n\nThe shift McKinsey describes is not elimination but relocation. As AI takes over routine, execution-heavy work like data processing and basic analysis, human roles move up the value chain toward problem framing, decision-making, interpretation, judgment, leadership, and collaboration.\n\nDavid's summary is that value gets created by applying human judgment and creativity on top of AI-driven insights. Machines handle scale and efficiency. Humans provide context, creativity, and accountability.",
+          "quote": null
+        },
+        {
+          "heading": "Why AI's efficiency is also its weakness",
+          "body": "Aberman's most useful contribution is an explanation of a structural limit in how large language models work. To be reliable, a model needs some level of predictability. Its outputs have to resemble each other and resemble the patterns in the training data. That's what makes it useful, and it's also what makes the output homogeneous.\n\nHe describes the phenomenon people now call AI \"work slop\": documents that are technically complete and contain nothing useful, because they were generated by a system optimized to produce the expected answer. The more people lean on AI for the same kinds of tasks, the more everything starts to look the same.\n\nThat's the opening for humans. If the machine's core strength is producing sameness at scale, then difference is what's scarce.",
+          "quote": {
+            "text": "Its efficiency is its weakness, in other words, it generates sameness at scale.",
+            "speaker": "Jonathan Aberman",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Originality as the currency that holds value",
+          "body": "Aberman puts it in economic terms. The people who benefit in any economy are the ones who have scarcity and can keep providing it. In a world where competent, average output is nearly free, what's scarce is originality.\n\nHe goes further and frames it as a human need, not just a market dynamic. Whatever we do in life, we're trying to experience something special. That applies to the products we buy, the writing we read, and the people we hire. AI can approximate special, but it can't be it, because it's built to converge on the expected.\n\nThe practical implication for anyone worried about their job: the risk isn't that AI does your work. It's that your work was already indistinguishable from the average, and now the average is automated.",
+          "quote": {
+            "text": "Originality is the currency of society. Whatever we do in life, we're trying to experience something special.",
+            "speaker": "Jonathan Aberman",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Use AI to differentiate, and argue with it",
+          "body": "None of this means avoiding AI. Aberman's advice is to use it as a way to accelerate your ability to differentiate. Let it handle the first draft, the summary, the routine analysis, and then push it. Engage in dialogue. Tell it when it's wrong. The value you add is precisely in the places where you disagree with the default output.\n\nFor knowledge workers specifically, he's blunt: you're going to have to be at the edge of your field. You can't phone it in anymore, because phoning it in is exactly what the machine does well.\n\nDavid's bottom line for the episode is that the future of work is about augmenting human capability, not replacing it. Competitive advantage goes to people who combine technical fluency with judgment, creativity, and leadership, rather than relying on routine execution.",
+          "quote": {
+            "text": "If you want to be a knowledge worker, understand you're going to have to be at the edge. You can't phone it in.",
+            "speaker": "Jonathan Aberman",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "McKinsey finds over 70 percent of current workplace skills stay relevant; roles shift toward judgment, framing, and leadership.",
+        "Language models need predictability to work, which means they generate homogeneous output at scale.",
+        "Originality is what's scarce when competent average output is nearly free.",
+        "Use AI to speed up your work, then push back on it; your value lives where you disagree with the default.",
+        "Knowledge workers need to operate at the edge of their field rather than coasting on routine execution."
+      ],
+      "faq": [
+        {
+          "q": "Which jobs are most at risk from AI?",
+          "a": "The episode's framing is that routine, execution-heavy tasks like data processing and basic analysis are what AI absorbs first, while work requiring expertise, stakeholder interaction, and managing people becomes more important."
+        },
+        {
+          "q": "What is AI \"work slop\"?",
+          "a": "Aberman uses the term for AI-generated documents that are technically complete but contain nothing useful, a byproduct of models optimized to produce expected, predictable output."
+        },
+        {
+          "q": "Should I stop using AI so my work stays original?",
+          "a": "No. Aberman recommends using AI to accelerate your work and then engaging with it critically, telling it when it's wrong and adding the judgment it can't supply."
+        }
+      ],
+      "sourceNote": "Based on the DIY Cyber Guy episode \"Will AI Replace Humans? Answers from an Expert\" with guest Jonathan Aberman, released April 30, 2026, hosted by David W. Schropfer."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "recording-studio-rockstars",
+  "title": "Recording Studio Rockstars",
+  "author": "Lij Shaw",
+  "description": "Interviews with music producers, engineers and studio owners sharing insights and techniques for taking your recordings to the next level, hosted by Nashville producer and engineer Lij Shaw.",
+  "category": "creative",
+  "website": "http://recordingstudiorockstars.com",
+  "feedUrl": "https://feeds.captivate.fm/rsr/",
+  "imageUrl": "https://artwork.captivate.fm/37a158ad-5af2-4098-8f06-c822d407b6f3/lij-design-2000.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "da500a4c-2fb0-4bc2-88d7-687b9b5eda26",
+      "title": "RSR575 - David Amlen",
+      "publishedAt": "2026-09-11",
+      "summary": "A studio designer with more than 35 years of experience on acoustics, layout and the human side of recording spaces, from bass traps and ISO booths to balancing specs with what performers need.",
+      "audioUrl": "https://episodes.captivate.fm/episode/da500a4c-2fb0-4bc2-88d7-687b9b5eda26.mp3",
+      "durationSec": 6721,
+      "episodeUrl": "https://RSRockstars.com/575",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "b1ea122d-627c-4c15-a27b-ef043f175b6e",
+      "title": "RSR574 - JJ Catalyst",
+      "publishedAt": "2026-09-04",
+      "summary": "Emmy-nominated LA mixer JJ Catalyst on finishing mixes fast by trusting your instincts, managing loudness for streaming, low-end and space in a mix, and avoiding endless revisions.",
+      "audioUrl": "https://episodes.captivate.fm/episode/b1ea122d-627c-4c15-a27b-ef043f175b6e.mp3",
+      "durationSec": 5501,
+      "episodeUrl": "https://RSRockstars.com/574",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "f590474d-00e4-4195-9e59-d9ca7d7979da",
+      "title": "RSR573 - Greg Giorgio",
+      "publishedAt": "2026-08-28",
+      "summary": "Producer and engineer Greg Giorgio of 9 Point Studios (formerly Tarquin Studios with Peter Katis) on getting a deep, punchy snare through tuning, towel dampening, snare choice and mic placement, plus parallel processing and hybrid studio routing.",
+      "audioUrl": "https://episodes.captivate.fm/episode/f590474d-00e4-4195-9e59-d9ca7d7979da.mp3",
+      "durationSec": 6734,
+      "episodeUrl": "https://recordingstudiorockstars.com/rsr573-greg-giorgio-hybrid-studio-from-deep-snares-and-cue-sends-to-creative-mixing-techniques/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "d79ed37a-0701-415e-b3a5-9e25a40d7b18",
+      "title": "RSR572 - BZ Lewis",
+      "publishedAt": "2026-08-21",
+      "summary": "Six-time Emmy winner BZ Lewis on Dolby Atmos and immersive audio for emotional storytelling: speaker setups, overhead channels, spatial placement and tools like Superior Drummer.",
+      "audioUrl": "https://episodes.captivate.fm/episode/d79ed37a-0701-415e-b3a5-9e25a40d7b18.mp3",
+      "durationSec": 5887,
+      "episodeUrl": "https://RSRockstars.com/572",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "11f57e49-f0df-4130-9d44-c6de40f888b2",
+      "title": "RSR571 - Brian Moncarz",
+      "publishedAt": "2026-08-14",
+      "summary": "Toronto mixer Brian Moncarz on drum recording: mic placement, room acoustics, tuning, and why the player and the room matter more than plugins for punchy drums.",
+      "audioUrl": "https://episodes.captivate.fm/episode/11f57e49-f0df-4130-9d44-c6de40f888b2.mp3",
+      "durationSec": 7561,
+      "episodeUrl": "https://RSRockstars.com/571",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "d50a3fc3-fd5e-47fd-82ac-a36b0fa53de0",
+      "title": "RSR570 - Jordie Lane",
+      "publishedAt": "2026-08-07",
+      "summary": "Australian artist Jordie Lane on embracing limitations, recording with minimal gear in unconventional spaces, layering, spontaneous performance and letting accidents spark ideas.",
+      "audioUrl": "https://episodes.captivate.fm/episode/d50a3fc3-fd5e-47fd-82ac-a36b0fa53de0.mp3",
+      "durationSec": 5623,
+      "episodeUrl": "https://RSRockstars.com/570",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-you-get-a-deep-punchy-snare-sound",
+      "question": "How do you get a deep, punchy snare sound?",
+      "metaDescription": "Producer Greg Giorgio tells Lij Shaw on Recording Studio Rockstars how tuning, towel dampening, snare choice and lighter hits make a deep, punchy snare.",
+      "episodeGuid": "f590474d-00e4-4195-9e59-d9ca7d7979da",
+      "intro": "A deep, punchy snare comes from the drum, the tuning and the player long before it comes from a plugin. On Recording Studio Rockstars, host Lij Shaw asks producer and engineer Greg Giorgio (The National, Death Cab for Cutie, Delta Rae) how he gets that sound, and the answer is mostly about working with the instrument's natural voice: choose a big mahogany snare, tune it low, dampen it with a towel, and don't hit it too hard.",
+      "sections": [
+        {
+          "heading": "Start with the drum, not the mic",
+          "body": "Greg's first move is picking the right snare. His go-to for a deep, thick sound is a big mahogany snare. Mahogany shells have a warm, low-mid character that already leans toward the sound most people are chasing, so you spend less time fighting the drum with EQ later.\n\nThe host explains that this is the pattern across Greg's approach: solve as much as possible at the source. A bright, ringy metal snare can be forced into a deep sound with processing, but it never feels quite right. A drum that naturally sits low just needs capturing.\n\nIf you don't own a mahogany snare, the principle still applies. Pick the deepest, warmest drum available, and tune and dampen it before you reach for any plugins.",
+          "quote": {
+            "text": "It's about working with the instrument's natural voice.",
+            "speaker": "Lij Shaw",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Tuning and towel dampening do most of the work",
+          "body": "The next two steps are tuning and dampening. Greg tunes for the sound he wants rather than the tuning the drum came with, and he uses towels to control ring and overtones. A towel laid partly across the head kills the sustain and turns a ringing snare into a short, fat thump.\n\nThe episode describes these as subtle miking tricks alongside the tuning, but the point is they happen in the room, not in the box. How much towel you use is the control knob: a little takes the edge off the ring, a lot gives you that dead, 70s-style thud.\n\nThe host's takeaway is that these moves are cheap, fast and reversible. You can try three tunings and two towel positions in the time it takes to audition one compressor preset, and the differences are far bigger.",
+          "quote": null
+        },
+        {
+          "heading": "Hit softer for a thicker sound",
+          "body": "This is the counterintuitive one. Greg's advice is not to hit the drums too hard, especially when you're after a thick, squishy sound that still feels dynamic. Hard hits choke the drum, push the transient forward and thin out the body. A slightly lighter hit lets the shell resonate and gives you the low, round tone that reads as \"deep\" on a record.\n\nThe host explains that this also gives the mix engineer more to work with. A snare with real body and controlled dynamics takes compression and saturation gracefully. A snare that's been hammered flat leaves you with nothing to shape.\n\nSo the conversation with the drummer matters. Ask for a relaxed hit and let the tuning and the towel provide the weight.",
+          "quote": null
+        },
+        {
+          "heading": "Add character with parallel chains, then listen in context",
+          "body": "Once the snare is captured, Greg adds character with distortion and saturation on parallel chains rather than on the main track. He picks plugins carefully to avoid phase problems between the parallel signal and the original, so the blend adds weight without hollowing out the hit.\n\nThe other half of his approach is how he listens. Rather than soloing everything, he judges the snare in context with the rest of the kit and the track. A snare that sounds huge on its own can vanish in a mix, and one that seems dull in solo can be exactly right with the guitars in.\n\nGreg works on a hybrid setup, using a stereo SSL board as a summing mixer and routing analog effects into a digital workflow, and he's candid about experimenting with routing and unconventional room mic placements. The lesson for a home studio is that the tools are secondary. The order of operations is what matters: drum, tuning, dampening, player, then processing.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Pick a drum that naturally sounds deep, like a big mahogany snare, before touching EQ.",
+        "Tune low and use a towel on the head to control ring; those two moves shape the sound more than any plugin.",
+        "Ask the drummer to hit a little softer for a thick, squishy snare that still feels dynamic.",
+        "Add distortion and saturation on parallel chains with plugins chosen to avoid phase issues.",
+        "Judge the snare in context with the whole kit and track, not in solo."
+      ],
+      "faq": [
+        {
+          "q": "Why does my snare sound thin even after EQ and compression?",
+          "a": "Usually because the source is thin. Greg's approach fixes that first with drum choice, low tuning, towel dampening and a lighter hit, so processing only has to add character."
+        },
+        {
+          "q": "Does hitting the snare harder make it punchier?",
+          "a": "Not for a deep, thick sound. Greg specifically advises against hitting too hard, because it chokes the shell and thins the body. A relaxed hit with the right tuning gives more weight."
+        },
+        {
+          "q": "How do I add saturation to a snare without messing up the phase?",
+          "a": "Use parallel processing with plugins that don't introduce latency or phase shift, and check the blend against the dry signal. Greg chooses his parallel chain plugins carefully for exactly this reason."
+        }
+      ],
+      "sourceNote": "Based on the Recording Studio Rockstars episode RSR573 with Greg Giorgio, released August 28, 2026, hosted by Lij Shaw."
+    }
+  ]
+}

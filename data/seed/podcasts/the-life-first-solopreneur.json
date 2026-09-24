@@ -1,0 +1,143 @@
+{
+  "slug": "the-life-first-solopreneur",
+  "title": "The Life-First Solopreneur",
+  "author": "Joe Rando and Carly Ries",
+  "description": "A twice-weekly podcast for solopreneurs who believe the business should be designed around life, not the other way around. Hosts Joe Rando and Carly Ries explore what it takes to design, run, and evolve a one-person business with your life at the center.",
+  "category": "business",
+  "website": "https://www.lifestarr.com/podcast",
+  "feedUrl": "https://feeds.transistor.fm/the-aspiring-solopreneur",
+  "imageUrl": "https://img.transistorcdn.com/Wwe7xRWRHnuug0IV_3rrS_M1N9ROrI6zXrLbwksyFIg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wN2Rl/NDdhOTAzZGVmZTYw/ZGI0ZGUyMTNhYzIw/NGVkNy5wbmc.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-aspiring-solopreneur/id1594296970",
+  "spotifyUrl": "https://open.spotify.com/show/1bwLBOxPAHErfWxuWR5eJQ",
+  "episodes": [
+    {
+      "guid": "bff1998b-5a8b-4d86-86fc-18db50ebf07d",
+      "title": "A Solopreneur's Case Against Trendy Marketing",
+      "publishedAt": "2026-09-15",
+      "summary": "Polly Pollock makes the case for capacity-conscious marketing. She explains why trendy advice burns out solopreneurs and offers alternatives like podcast guesting and partnerships instead of daily social posting.",
+      "audioUrl": "https://media.transistor.fm/5280bef4/bf4af251.mp3",
+      "durationSec": 1455,
+      "episodeUrl": "https://www.lifestarr.com/podcast/a-solopreneurs-case-against-trendy-marketing",
+      "transcriptUrl": "https://share.transistor.fm/s/5280bef4/transcription.txt"
+    },
+    {
+      "guid": "41926ade-62ce-479e-8328-102591b1ddae",
+      "title": "How Smart Solopreneurs Choose Who to Work With",
+      "publishedAt": "2026-09-10",
+      "summary": "Carly and Joe talk through vetting clients and contractors, from personality fit to red flags like early requests for free work.",
+      "audioUrl": "https://media.transistor.fm/ab0c30ae/df85c9c9.mp3",
+      "durationSec": 810,
+      "episodeUrl": "https://www.lifestarr.com/podcast/how-smart-solopreneurs-choose-who-to-work-with",
+      "transcriptUrl": "https://share.transistor.fm/s/ab0c30ae/transcription.txt"
+    },
+    {
+      "guid": "938f954c-c990-4535-936a-a1039256f8d1",
+      "title": "The Solopreneur's Guide to Hiring Your First VA Without the Panic",
+      "publishedAt": "2026-09-08",
+      "summary": "Virtual assistant expert Rachael Davila explains the difference between doers and collaborators, when a solopreneur is ready to hire, what to hand off first, and why the cheapest VA often costs more. She also covers a 90-day trust-building onboarding.",
+      "audioUrl": "https://media.transistor.fm/5df99d1e/c614676d.mp3",
+      "durationSec": 2032,
+      "episodeUrl": "https://www.lifestarr.com/podcast/the-solopreneurs-guide-to-hiring-your-first-va-without-the-panic",
+      "transcriptUrl": "https://share.transistor.fm/s/5df99d1e/transcription.txt"
+    },
+    {
+      "guid": "4e84c2e8-2597-4488-9235-5ec3f6007b0b",
+      "title": "The Solopreneur's Guide to Breaking Up With a Bad Client",
+      "publishedAt": "2026-09-03",
+      "summary": "How to fire a difficult client without burning bridges: calculating what the client really costs per hour, using a rate increase to fix the relationship, staying professional, and giving proper notice.",
+      "audioUrl": "https://media.transistor.fm/04cdce9b/938a1714.mp3",
+      "durationSec": 737,
+      "episodeUrl": "https://www.lifestarr.com/share/s/04cdce9b",
+      "transcriptUrl": "https://share.transistor.fm/s/04cdce9b/transcription.txt"
+    },
+    {
+      "guid": "7ede4e7d-ca00-4faf-943c-22cdda09ff3c",
+      "title": "What Solopreneurs Should Stop Copying From Big Brands",
+      "publishedAt": "2026-09-01",
+      "summary": "Branding veteran Warren Kornblum argues branding is about the customer, not technology or reach, and introduces the idea of a brand stand: consistently keeping promises instead of chasing vanity metrics.",
+      "audioUrl": "https://media.transistor.fm/452a8d5a/6fb4a62d.mp3",
+      "durationSec": 1852,
+      "episodeUrl": "https://www.lifestarr.com/podcast/the-branding-secret-every-solopreneur-needs-to-steal",
+      "transcriptUrl": "https://share.transistor.fm/s/452a8d5a/transcription.txt"
+    },
+    {
+      "guid": "9098c188-9228-4943-9fdd-42fa3cc1c866",
+      "title": "[Re-Release] How to Get Leads Without Social Media",
+      "publishedAt": "2026-08-27",
+      "summary": "Carly and Joe outline relationship-first lead generation for people who hate posting: working your existing network, borrowing audiences through podcast guesting, and building a structured referral system.",
+      "audioUrl": "https://media.transistor.fm/075c4d69/4f3a9a90.mp3",
+      "durationSec": 775,
+      "episodeUrl": "https://www.lifestarr.com/podcast/how-to-get-leads-without-social-media-for-solopreneurs-who-hate-posting",
+      "transcriptUrl": "https://share.transistor.fm/s/075c4d69/transcription.txt"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "when-should-a-solopreneur-hire-a-virtual-assistant",
+      "question": "When should a solopreneur hire a virtual assistant?",
+      "metaDescription": "VA expert Rachael Davila tells The Life-First Solopreneur when to hire your first virtual assistant, what to hand off first, and why the cheapest VA costs more.",
+      "episodeGuid": "938f954c-c990-4535-936a-a1039256f8d1",
+      "intro": "If you're already asking whether you need a virtual assistant, you're probably ready to start, and the smart move is to start small. On The Life-First Solopreneur, hosts Joe Rando and Carly Ries talk with virtual assistant expert Rachael Davila about when to hire, whether you want a doer or a collaborator, which tasks to hand off first, and why a $15-an-hour VA can end up costing more than a $60-an-hour one.",
+      "sections": [
+        {
+          "heading": "The question itself is the signal",
+          "body": "Davila's first point is that people wait too long. They hire when they're drowning, which is the worst time to onboard anyone. Her view is that the moment you start wondering whether you need help, you've already noticed a capacity gap, and that's enough to begin.\n\nShe frames the decision as risk versus benefit. Early on, doing everything yourself is cheap and low risk. But there's a point where your time on admin costs more than a VA would, and where dropped balls start hurting clients. Once the risk of not having help outweighs the cost of getting it, hire.\n\nThe hosts add that this doesn't have to mean 20 hours a week. A few hours a month on the right tasks can be the whole first step.",
+          "quote": {
+            "text": "If you're asking the question, hey, do I need a VA? You're already on the journey.",
+            "speaker": "Rachael Davila",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Doer or collaborator: decide before you post the job",
+          "body": "Davila splits VAs into two types. Doers want a clear task and they'll execute it well. Collaborators look at the whole picture, ask what the goal is, and suggest better ways to get there. Neither is better, but they suit different owners and different stages.\n\nIf you have documented processes and just need hands, a doer is the efficient choice. If your business is still messy and you want someone to help build the systems, a collaborator is worth the higher rate. The mistake is hiring a doer and expecting them to figure out your undefined processes, or hiring a collaborator and micromanaging every step.\n\nBefore you post anything, she suggests knowing three things: your hand-off list, your budget, and the qualities you want in the person beyond the tasks.",
+          "quote": {
+            "text": "Collaborators look at the whole picture. What's your goal? Why are we doing this?",
+            "speaker": "Rachael Davila",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Hand off what won't hurt if it comes back",
+          "body": "What goes first? Davila's rule is to start with tasks that won't damage the business if you have to take them back. Inbox triage, scheduling, invoicing follow-ups, formatting documents, uploading content. Low stakes, easy to explain, easy to check.\n\nBefore that, though, she recommends an awareness pass. Ask yourself, for each task, whether you actually have a process. Many solopreneurs discover they don't, and that's the real blocker to delegating. If writing procedures sounds miserable, record a video walkthrough while you do the task. That's usually enough for a good VA to build the process from.\n\nShe describes the first 90 days as a trust-building window. Keep the work simple, review it, give feedback, and expand the scope as the relationship proves itself. By the end of that window you'll know whether this person can take on client-facing work, and they'll know your business well enough to spot the next thing you should hand off.",
+          "quote": {
+            "text": "Start off with those easier to hand off projects that won't impact your business if you have to take it back on.",
+            "speaker": "Rachael Davila",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Why the $15 VA can be the expensive one",
+          "body": "The part of the episode most people need to hear is about rates. Davila's example: if a $15-an-hour VA takes three hours on something a $60-an-hour VA finishes in twenty minutes, you paid $45 for the cheap option and $20 for the expensive one. And that's before counting your own time spent correcting the work.\n\nHer phrase for it is that cheaper isn't inexpensive. A VA hour and a client hour aren't the same unit, because skill and familiarity change how much gets done in that hour.\n\nThe practical takeaway is to budget by outcome, not by hourly rate. Figure out what you need done each month, then compare candidates on how much of that they can realistically deliver for the money.",
+          "quote": {
+            "text": "If it takes a $15 an hour VA, three hours to do something that a $60 an hour VA can do in twenty minutes, are you saving money?",
+            "speaker": "Rachael Davila",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "If you're asking whether you need a VA, you've already spotted a capacity gap. Hire before you're drowning.",
+        "Decide whether you need a doer (executes clear tasks) or a collaborator (helps design the process) before you hire.",
+        "Delegate low-risk tasks first and treat the first 90 days as a trust-building period.",
+        "Record a video walkthrough of a task if writing procedures feels like too much.",
+        "Compare VAs by output, not hourly rate. A slower cheap VA often costs more than a fast experienced one."
+      ],
+      "faq": [
+        {
+          "q": "What tasks should I give a virtual assistant first?",
+          "a": "Start with work that won't hurt the business if you have to take it back: inbox management, scheduling, invoicing follow-ups, document formatting, and content uploads. Expand from there as trust builds."
+        },
+        {
+          "q": "How much does a virtual assistant cost?",
+          "a": "Rates in the episode range from about $15 to $60 an hour. Davila's point is that the cheaper rate often takes several times longer, so judge cost by what gets done, not the hourly number."
+        },
+        {
+          "q": "Do I need written processes before hiring a VA?",
+          "a": "Not necessarily written ones. Davila suggests a video walkthrough of each task if documentation feels overwhelming. A good VA can turn that into a repeatable process."
+        }
+      ],
+      "sourceNote": "Based on the September 8, 2026 episode of The Life-First Solopreneur, \"The Solopreneur's Guide to Hiring Your First VA Without the Panic,\" hosted by Joe Rando and Carly Ries with guest Rachael Davila."
+    }
+  ]
+}

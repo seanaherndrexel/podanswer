@@ -1,0 +1,132 @@
+{
+  "slug": "legally-legit-podcast",
+  "title": "Legally Legit Podcast",
+  "author": "The Legal Paige (Paige Griffith, J.D.)",
+  "description": "A podcast for creative entrepreneurs and service-based business owners covering legal and business advice, contracts, client disputes, intellectual property, and entrepreneurship, combined with candid conversations about balancing business with motherhood.",
+  "category": "law",
+  "website": "https://thelegalpaige.com/pages/podcasts",
+  "feedUrl": "https://feeds.buzzsprout.com/2060693.rss",
+  "imageUrl": "https://storage.buzzsprout.com/fb4m4stkqyq9j3g2n91uquqf8vte?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19773507",
+      "title": "215: Meet Retainly: The Simple CRM I Built for Service-Based Business Owners",
+      "publishedAt": "2026-09-09",
+      "summary": "Paige tells the full story of Retainly, the CRM she spent nearly two years building for service-based business owners, covering proposals, contracts, invoicing and client management, and why contracts sit at the center of the platform.",
+      "audioUrl": "https://www.buzzsprout.com/2060693/episodes/19773507-215-meet-retainly-the-simple-crm-i-built-for-service-based-business-owners.mp3",
+      "durationSec": 2424,
+      "episodeUrl": "https://www.buzzsprout.com/2060693/19773507",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-17885708",
+      "title": "214: The 5 Lessons I Learned from Redesigning Our Shopify Website",
+      "publishedAt": "2025-10-29",
+      "summary": "Five takeaways from launching a custom Shopify site: projects take longer than planned, you can't disappear from the design process, AI helps if you protect your brand voice, and user experience beats flashy features.",
+      "audioUrl": "https://www.buzzsprout.com/2060693/episodes/17885708-214-the-5-lessons-i-learned-from-redesigning-our-shopify-website.mp3",
+      "durationSec": 1901,
+      "episodeUrl": "https://www.buzzsprout.com/2060693/17885708",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-18045409",
+      "title": "213: What Happens to Your Business When You Die?",
+      "publishedAt": "2025-10-21",
+      "summary": "Paige walks through everything that belongs in a business owner's death folder: wills, trusts, powers of attorney, business account access, passwords, client contracts, a digital directive, and where to store it and who should have access.",
+      "audioUrl": "https://www.buzzsprout.com/2060693/episodes/18045409-213-what-happens-to-your-business-when-you-die.mp3",
+      "durationSec": 1615,
+      "episodeUrl": "https://www.buzzsprout.com/2060693/18045409",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-17885681",
+      "title": "212: Insurance + COIs: What Every Wedding Vendor Needs to Know",
+      "publishedAt": "2025-10-15",
+      "summary": "A breakdown of business liability insurance for wedding vendors, including what a Certificate of Insurance is, typical coverage amounts, annual versus per-event policies, and what venues require before you can work.",
+      "audioUrl": "https://www.buzzsprout.com/2060693/episodes/17885681-212-insurance-cois-what-every-wedding-vendor-needs-to-know.mp3",
+      "durationSec": 1222,
+      "episodeUrl": "https://www.buzzsprout.com/2060693/17885681",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-17885656",
+      "title": "211: How to Customize One Portrait Contract for Every Type of Session",
+      "publishedAt": "2025-10-08",
+      "summary": "Photographers don't need a separate contract for every session type. Paige explains how to use one core portrait contract with interchangeable clause bundles for families, seniors, boudoir and maternity.",
+      "audioUrl": "https://www.buzzsprout.com/2060693/episodes/17885656-211-how-to-customize-one-portrait-contract-for-every-type-of-session.mp3",
+      "durationSec": 2042,
+      "episodeUrl": "https://www.buzzsprout.com/2060693/17885656",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-17885549",
+      "title": "210: 5 Non-Negotiable Days That Changed How I Run My Business",
+      "publishedAt": "2025-10-01",
+      "summary": "Paige shares the five protected calendar days each month that changed how she runs her business, and why blocking time for yourself like a client appointment keeps you grounded.",
+      "audioUrl": "https://www.buzzsprout.com/2060693/episodes/17885549-210-5-non-negotiable-days-that-changed-how-i-run-my-business.mp3",
+      "durationSec": 1128,
+      "episodeUrl": "https://www.buzzsprout.com/2060693/17885549",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-happens-to-my-business-if-i-die",
+      "question": "What happens to my business if I die?",
+      "metaDescription": "Attorney Paige Griffith of the Legally Legit Podcast explains what happens to a small business when the owner dies and how a death folder keeps clients and family protected.",
+      "episodeGuid": "Buzzsprout-18045409",
+      "intro": "If you die without a plan, your business can stall overnight: nobody can get into the bank account, clients with paid deposits get no answers, and your family is left guessing at passwords. On the Legally Legit Podcast, attorney and former photographer Paige Griffith of The Legal Paige explains the fix she recommends to every service-based business owner: a death folder. It's a single organized file of legal documents, account access and instructions so someone can step in and wind things up.",
+      "sections": [
+        {
+          "heading": "The two questions your family can't answer today",
+          "body": "Paige opens with a gut check. If something happened to you tomorrow, would anyone know where your will is? Would anyone know how to get into your business bank account? For most solo business owners, the honest answer to both is no.\n\nThat's the problem a death folder solves. She uses the term interchangeably with \"In Case of Death File\" and \"Peace-of-Mind Packet,\" and the idea is the same: one place that holds everything a trusted person would need to keep your clients whole and shut the business down (or hand it off) without a scavenger hunt.\n\nThis isn't only about the worst case. The same folder works if you're hospitalized, incapacitated after an accident, or simply unreachable for weeks. The host explains that a business with active client contracts has obligations that don't pause just because the owner can't work.",
+          "quote": null
+        },
+        {
+          "heading": "Legal documents that belong in the folder",
+          "body": "The foundation is your estate paperwork. Paige lists three essentials:\n\n- **A will** that addresses your business interest, not just your personal assets. If you run an LLC, the will (or your operating agreement) should say who inherits your membership interest.\n- **A trust**, if you have one, and a note about which assets are titled in it.\n- **Powers of attorney**, both financial and healthcare. A financial power of attorney is what lets someone act for the business while you're alive but incapacitated, which a will can't do.\n\nShe stresses that these should be actual signed documents or clear instructions for where the originals are, not a to-do list of documents you meant to create. If you haven't done them, the death folder exercise is a good forcing function to get them done.",
+          "quote": null
+        },
+        {
+          "heading": "Accounts, passwords and the client list",
+          "body": "This is the operational half, and it's where most business owners are weakest. Paige recommends documenting:\n\n- **Business bank accounts and payment processors**: which bank, which login, and how two-factor authentication works so someone can actually get in.\n- **Passwords**, ideally through a password manager with an emergency access feature rather than a paper list that goes stale.\n- **Client contracts and current projects**: who has paid a deposit, what's been delivered, what's still owed, and where the files live. A client who paid for a wedding shoot next month needs to be refunded or reassigned, and your contract's cancellation and death clauses should say how.\n- **Recurring expenses and subscriptions**: software, domain, hosting, insurance, so they can be cancelled or kept running deliberately.\n\nThe point isn't to write a manual. It's to make sure the person stepping in can find the money, find the clients, and find the obligations within an hour.",
+          "quote": null
+        },
+        {
+          "heading": "A digital directive for everything online",
+          "body": "One item Paige singles out as critical and almost universally missing is a digital directive. That's a written statement of what should happen to your online assets: your website, social media accounts, email, cloud storage, and any online galleries or course platforms.\n\nWithout it, platforms may refuse to grant access to anyone, even a spouse, and years of client work or a revenue-generating site can end up locked or deleted. The directive names who may access each account and what you want done with it: keep it running, memorialize it, download and close it, or transfer it. Paired with your password manager's emergency access, it gives your designated person both the permission and the means.",
+          "quote": null
+        },
+        {
+          "heading": "Where to keep it and who should have the key",
+          "body": "A death folder only works if the right person can reach it fast. Paige covers two decisions: storage and access.\n\nFor storage, she describes using a secure location that a trusted person already knows about, whether that's a physical fireproof box, an encrypted digital folder, or both. The originals of your will and powers of attorney should be somewhere your executor can retrieve them without a court order.\n\nFor access, she recommends naming a specific \"wind-up person,\" someone who knows they've been chosen and has agreed. That may be your spouse, but often it's better to pick a business-savvy friend or colleague who can handle client communications and refunds while your family grieves. Tell that person where the folder is, and revisit it at least once a year so the passwords and client list aren't a year out of date. The Legal Paige offers a free In Case of Death File template through the legal training at thelegalpaige.com/plan/.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Build one death folder (also called an In Case of Death File) so a trusted person can find your documents, accounts and client obligations fast.",
+        "Include signed estate documents: a will that covers your business interest, any trust, and financial and healthcare powers of attorney.",
+        "Document business bank logins, payment processors, a password manager with emergency access, and every active client contract with deposits and deliverables.",
+        "Write a digital directive stating who can access your website, social media, email and cloud storage and what should happen to each.",
+        "Name a specific wind-up person, tell them where the folder is, and update it at least yearly."
+      ],
+      "faq": [
+        {
+          "q": "What happens to a single-member LLC when the owner dies?",
+          "a": "Unless your operating agreement or will says otherwise, your membership interest passes through your estate, which can take months. Paige Griffith recommends naming a successor in your documents and keeping bank access instructions in your death folder so the business isn't frozen in the meantime."
+        },
+        {
+          "q": "Do clients get their deposits back if a business owner dies?",
+          "a": "It depends on your contract's cancellation and death clauses. A well-drafted contract spells out whether deposits are refunded or a substitute is provided, and your death folder should list every client with money on the table."
+        },
+        {
+          "q": "Who should I give access to my death folder?",
+          "a": "A designated wind-up person who has agreed to the role, plus your executor. It's often smart to choose someone with business sense rather than relying solely on a grieving spouse."
+        }
+      ],
+      "sourceNote": "Based on Episode 213, \"What Happens to Your Business When You Die?\", released October 21, 2025 on the Legally Legit Podcast, hosted by attorney Paige Griffith of The Legal Paige."
+    }
+  ]
+}

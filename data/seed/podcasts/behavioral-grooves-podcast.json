@@ -1,0 +1,127 @@
+{
+  "slug": "behavioral-grooves-podcast",
+  "title": "Behavioral Grooves Podcast",
+  "author": "Kurt Nelson, PhD and Tim Houlihan",
+  "description": "Stories, science and secrets from the world's brightest thought-leaders exploring why we do what we do. Explanations of human behavior that improve relationships, wellbeing, and organizations.",
+  "category": "psychology",
+  "website": "https://behavioralgrooves.podbean.com",
+  "feedUrl": "https://feed.podbean.com/behavioralgrooves/feed.xml",
+  "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/2137480/Behavioral_Grooves_-_Podcast_Final_Sq62qdx.png",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "behavioralgrooves.podbean.com/ee02de28-3b20-39c8-8440-e2b21235bf76",
+      "title": "How to Make Work Fun | Bree Groff",
+      "publishedAt": "2026-09-14",
+      "summary": "Bree Groff on changing workplace culture through small behavioral shifts, psychological safety, the cost of chronic overwork, and making work mostly fun most days.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/a6uubfdw7quseiek/BG_Bree_Edited.mp3",
+      "durationSec": 4110,
+      "episodeUrl": "https://behavioralgrooves.podbean.com/e/how-to-make-work-fun-bree-groff/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "behavioralgrooves.podbean.com/9f6a68aa-7649-33ff-8df4-da2e45437638",
+      "title": "The Behavioral Science of Psychological Safety | Jeremy Pollack",
+      "publishedAt": "2026-09-07",
+      "summary": "Dr. Jeremy Pollack explores the neuroscience behind conflict patterns and trust, how organizational systems fuel tension, and self-regulation techniques for leaders.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/icpt3224hrmfhg72/BG_Jeremy_Edited79e90.mp3",
+      "durationSec": 3904,
+      "episodeUrl": "https://behavioralgrooves.podbean.com/e/the-behavioral-science-of-psychological-safety-jeremy-pollack/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "behavioralgrooves.podbean.com/36c61226-8d77-3c7b-8180-6b4d2ad8d0c8",
+      "title": "How to Disagree Better | Julia Minson",
+      "publishedAt": "2026-08-31",
+      "summary": "Harvard Kennedy School professor Julia Minson on why disagreements turn into conflicts, naive realism, why receptiveness isn't weakness, and how to ask better questions in a hard conversation.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/4wteu8k2d8ws4dhe/Tim_Julia_Minson_EDITED8sec0.mp3",
+      "durationSec": 4550,
+      "episodeUrl": "https://behavioralgrooves.podbean.com/e/how-to-disagree-better-julia-minson/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "behavioralgrooves.podbean.com/aa881847-fcd8-391b-9cb5-9bcb3c1aeb46",
+      "title": "The Science Behind Constraints | David Epstein",
+      "publishedAt": "2026-08-27",
+      "summary": "David Epstein on how limits on time and resources can drive innovation, with historical examples and workplace strategies for finding bottlenecks.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/g85542xfj9tajujm/Tim_David_Epstein_Edited9izql.mp3",
+      "durationSec": 5872,
+      "episodeUrl": "https://behavioralgrooves.podbean.com/e/the-science-behind-constraints-david-epstein/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "behavioralgrooves.podbean.com/d6044e2b-2e40-3c2d-82a9-a1e5bc7cbd72",
+      "title": "The Science of Trust, Identity, and Tension | Claude Steele",
+      "publishedAt": "2026-08-24",
+      "summary": "Social psychologist Claude Steele on identity threat, how trust lowers interpersonal tension, and why understanding context beats colorblindness more than colorblindness.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/wbfuphvjhy8dn5vh/BG_Claude_Edited.mp3",
+      "durationSec": 4843,
+      "episodeUrl": "https://behavioralgrooves.podbean.com/e/the-science-of-trust-identity-and-tension-claude-steele/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "behavioralgrooves.podbean.com/bcd6ab44-b102-3a0c-b8e1-3486ab52940a",
+      "title": "How Culture Shapes Human Behavior | Oliver Sweet",
+      "publishedAt": "2026-08-17",
+      "summary": "Anthropologist Oliver Sweet on the hidden social rules that shape behavior across cultures, generational shifts, and what AI means for human connection.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/56dyfsn4gr7b88tz/BG_Oliver_Edited.mp3",
+      "durationSec": 5310,
+      "episodeUrl": "https://behavioralgrooves.podbean.com/e/how-culture-shapes-human-behavior-oliver-sweet/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-you-disagree-with-someone-without-it-turning-into-a-fight",
+      "question": "How do you disagree with someone without it turning into a fight?",
+      "metaDescription": "Behavioral Grooves hosts talk with Harvard professor Julia Minson about naive realism, receptiveness, and asking better questions in a disagreement.",
+      "episodeGuid": "behavioralgrooves.podbean.com/36c61226-8d77-3c7b-8180-6b4d2ad8d0c8",
+      "intro": "You disagree without it becoming a fight by separating what you actually know from what you're assuming, and by making the other person feel heard before you make your case. That's the approach Harvard Kennedy School professor Julia Minson lays out with hosts Kurt Nelson and Tim Houlihan on the Behavioral Grooves Podcast. The episode's framing is blunt: disagreements are inevitable, but they don't have to become conflicts.",
+      "sections": [
+        {
+          "heading": "Feeling heard changes what people are willing to hear",
+          "body": "The episode opens on a question the hosts put to Minson early: does feeling heard actually make us more receptive? Her research says yes, and it flips the usual order of a disagreement. Most of us lead with our argument and hope the other person listens. Minson's work suggests it works the other way. When someone believes you've genuinely understood their position, they become more willing to consider yours.\n\nThe hosts explain that this isn't a manipulation tactic. It's a description of how people work. If you skip the step of showing you've heard someone, you're not just being rude, you're making your own argument less likely to land.\n\nContext matters too. The episode spends time on why the same words can go over fine in one setting and blow up in another, and why reading the room isn't optional.",
+          "quote": null
+        },
+        {
+          "heading": "Naive realism: the belief that you see things as they are",
+          "body": "Around the 21-minute mark, Minson introduces the concept at the center of most bad disagreements: naive realism. It's the deeply held, mostly unconscious belief that you see the world as it actually is, and that anyone who sees it differently must be biased, uninformed, or acting in bad faith.\n\nThe problem is that the other person believes exactly the same thing about you. Two people, each convinced they hold the objective view, are set up to talk past each other indefinitely.\n\nThe host and guest discuss how simply knowing about naive realism helps. Once you accept that your view is a view, not a direct readout of reality, it becomes easier to get curious about how someone else arrived at theirs. That curiosity is the ingredient most fights are missing.",
+          "quote": null
+        },
+        {
+          "heading": "Receptiveness is not the same as giving in",
+          "body": "A common objection comes up at about 37 minutes: doesn't being open to the other side make you look weak? Minson's answer is no, and the episode makes the case that receptiveness tends to strengthen your position rather than undermine it.\n\nBeing receptive means signaling that you've considered the other view. It doesn't mean you agree with it. People who do this well are generally seen as more reasonable and more persuasive, not less. The person who refuses to engage with any counterpoint is the one who looks like they're hiding something.\n\nThe hosts also poke at a habit Minson calls \"boomer asking,\" at around 42 minutes, which is the kind of question that's really a statement with a question mark on the end. If your question already contains your conclusion, you're not asking, and the other person can tell.",
+          "quote": null
+        },
+        {
+          "heading": "What do you actually know? Asking, notes, and the grooving session",
+          "body": "The most practical stretch of the episode runs from about 44 minutes to the end. Minson walks through how to start a difficult conversation, and then asks a question worth writing down: what do you actually know? Most of what feels like fact in a disagreement is inference. Separating the two before you open your mouth takes a lot of heat out of the exchange.\n\nFrom there the conversation turns to asking better questions and, at about 51 minutes, checking whether you're actually being curious or just performing curiosity while waiting for your turn. She also suggests using notes to prepare for a hard conversation, which sounds formal but keeps you from getting swept into reacting.\n\nThe episode closes with the hosts' grooving session, where Kurt and Tim pull the practical tips together: lead with understanding, name your assumptions, ask real questions, and treat openness as a strength.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "People become more receptive to your view once they feel genuinely heard.",
+        "Naive realism, the belief that you see things objectively, is behind most stuck disagreements.",
+        "Being receptive to another view is not weakness and usually makes you more persuasive.",
+        "Avoid questions that are really statements in disguise; ask things you don't know the answer to.",
+        "Before a hard conversation, separate what you actually know from what you're assuming, and consider preparing notes."
+      ],
+      "faq": [
+        {
+          "q": "What is naive realism in a disagreement?",
+          "a": "It's the assumption that your perception is the objective truth and that people who disagree are biased or misinformed. The episode covers it at about the 21-minute mark and explains why both sides usually hold this belief at once."
+        },
+        {
+          "q": "Does being open-minded make me look weak in an argument?",
+          "a": "According to Minson, no. Receptiveness signals that you've considered the other side, and that generally makes you seem more reasonable and more persuasive, not less."
+        },
+        {
+          "q": "How do I start a difficult conversation?",
+          "a": "The episode suggests going in with clarity about what you actually know versus what you're assuming, preparing notes if it helps, and opening with genuine questions rather than your conclusion."
+        }
+      ],
+      "sourceNote": "Based on the Behavioral Grooves Podcast episode \"How to Disagree Better | Julia Minson,\" released August 31, 2026, hosted by Kurt Nelson and Tim Houlihan."
+    }
+  ]
+}

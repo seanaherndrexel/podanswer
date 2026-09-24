@@ -1,0 +1,128 @@
+{
+  "slug": "the-parenting-pair",
+  "title": "The Parenting Pair | Teens & Tweens",
+  "author": "Dr. Annalise Caron & Dr. Suzanne Allen",
+  "description": "Expert guidance for parents of teens and tweens. Two clinical psychologists cover evidence-based mental health topics including anxiety, depression, ADHD and family dynamics. New episodes every Wednesday.",
+  "category": "parenting",
+  "website": "https://drscaronandallen.com/podcast/",
+  "feedUrl": "https://feeds.transistor.fm/the-parenting-pair-podcast",
+  "imageUrl": "https://img.transistorcdn.com/4OQ5pxs1TyODIHugAqD2Dzku8Os6qNQFdxBRC4eKemQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzQz/YjcwNTg0N2ExZWNj/NzU1NjgwOGNkMjIz/ZGQ5Yi5qcGc.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-parenting-pair-teens-tweens/id1815564442",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "13e52e43-ccb2-4bec-b6ca-28aa314982b7",
+      "title": "Is 13 Too Young for Social Media? | Dr. Eva Telzer",
+      "publishedAt": "2026-09-16",
+      "summary": "Neuroscientist Dr. Eva Telzer of UNC Chapel Hill explains why adolescence is such a sensitive period for rewards and social feedback, and why turning 13 doesn't make a kid ready for social media. The hosts and Telzer weigh delaying, limiting or banning, and cover the one boundary every parent can set tonight: phones out of the bedroom.",
+      "audioUrl": "https://media.transistor.fm/4531dd95/64d28111.mp3",
+      "durationSec": 2227,
+      "episodeUrl": "https://drscaronandallen.com/podcast/episode/Is-13-too-young-for-social-media-what-parents-need-to-know-about-the-teen-brain-dr-eva-telzer/",
+      "transcriptUrl": "https://share.transistor.fm/s/4531dd95/transcription"
+    },
+    {
+      "guid": "8fbe0060-24bb-48f1-836e-ae23bd362e21",
+      "title": "AI, Teens & Relationships | Dr. Mitch Prinstein",
+      "publishedAt": "2026-09-09",
+      "summary": "Dr. Mitch Prinstein discusses how AI chatbots are changing teen relationships and why the friction of real conversation matters for building communication and conflict skills.",
+      "audioUrl": "https://media.transistor.fm/c232d692/f20f933d.mp3",
+      "durationSec": 2385,
+      "episodeUrl": "https://drscaronandallen.com/podcast/episode/ai-teens-relationships-what-parents-need-to-know-dr-mitch-prinstein/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "b3909970-92b1-403b-8842-24ef5cb5363a",
+      "title": "Medical Trauma in Parents | Dr. Meghan Marsac",
+      "publishedAt": "2026-09-02",
+      "summary": "Dr. Meghan Marsac addresses the traumatic stress parents feel during a child's medical crisis, introduces the COACH model for supporting kids, and makes the case for parent self-care.",
+      "audioUrl": "https://media.transistor.fm/d6b5531e/6f0c3cd7.mp3",
+      "durationSec": 1342,
+      "episodeUrl": "https://drscaronandallen.com/podcast/episode/medical-trauma-in-parents-caring-for-yourself-so-you-can-care-for-your-child-dr-meghan-marsac/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ecb9db17-c60f-47e3-b3cf-652e8e46f2ba",
+      "title": "Back-to-School Parenting: Connection Over Management",
+      "publishedAt": "2026-08-26",
+      "summary": "The hosts explain why prioritizing the relationship over the to-do list during busy seasons strengthens the parent-teen bond and supports long-term well-being.",
+      "audioUrl": "https://media.transistor.fm/1ea0ae1e/1a10a959.mp3",
+      "durationSec": 1214,
+      "episodeUrl": "https://drscaronandallen.com/podcast/episode/back-to-school-parenting-why-connection-matters-more-than-getting-everything-done/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-age-should-a-kid-get-social-media",
+      "question": "What age should a kid get social media?",
+      "metaDescription": "There's no magic age, and 13 may be the worst one. Neuroscientist Dr. Eva Telzer explains on The Parenting Pair what to do instead of banning.",
+      "episodeGuid": "13e52e43-ccb2-4bec-b6ca-28aa314982b7",
+      "intro": "There's no age at which a kid is suddenly ready for social media, and 13 may actually be the most vulnerable time to start. That's the view of neuroscientist Dr. Eva Telzer on The Parenting Pair podcast, hosted by clinical psychologists Dr. Annalise Caron and Dr. Suzanne Allen. Her advice: delay when you can, don't rely on a flat ban, and get phones out of the bedroom at night no matter what.",
+      "sections": [
+        {
+          "heading": "Where the number 13 came from, and what it doesn't mean",
+          "body": "Most platforms set 13 as the minimum age, but that number comes from privacy law, not developmental science. Telzer, who co-directs the Winston Center for Technology and the Developing Mind at UNC Chapel Hill, is blunt about it.\n\nHer concern is that 13 lines up with the peak of puberty. That's the window when the adolescent brain becomes especially sensitive to rewards and to social feedback, while the executive functioning that helps a kid pause and evaluate is still catching up. Likes, streaks, upvotes and personalized feeds hit exactly the systems that are most reactive at that age.\n\nSo the honest answer to \"what age?\" is that later is generally better, and the transition into the teen years is the worst moment to add a powerful new source of social comparison.",
+          "quote": {
+            "text": "There's no science that says on your thirteenth birthday, you're gonna wake up and be capable of navigating social media.",
+            "speaker": "Dr. Eva Telzer",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Delay beats ban",
+          "body": "If later is better, why not just ban it? Telzer's answer is that an outright ban tends to push a teen toward getting access secretly, and secret access is unsupervised access. You lose the chance to talk about what they're seeing and how it's designed.\n\nWhat she recommends instead is a deliberate delay paired with real conversations. Talk with your teen about the pros and cons and about what they actually want access to. Some of it, like a group chat with the soccer team, is very different from an algorithmic feed of short videos.\n\nCaron adds that the delay is easier when it starts early. If you're setting expectations in second grade, a phone without social apps at 12 doesn't feel like a punishment. And you can limit what a phone can do, rather than treating it as all or nothing.",
+          "quote": {
+            "text": "A ban is going to just encourage an adolescent to sneak and get access to it. That access is then unsupervised.",
+            "speaker": "Dr. Eva Telzer",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The one boundary to set tonight",
+          "body": "Whatever you decide about apps, Telzer says the clearest, most doable rule is no devices in the bedroom at night. Sleep is where the damage shows up first: attention, mood, school functioning and overall mental health all depend on it, and a phone under the pillow reliably steals it.\n\nShe describes this as the easier thing to implement precisely because it's concrete. There's no negotiating about content or hours, just a charging spot outside the bedroom and a consistent time the phone goes there.",
+          "quote": {
+            "text": "No tech at night is an easier thing to implement. Social media and access to devices at bedtime should be limited.",
+            "speaker": "Dr. Eva Telzer",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Your feed is not their feed",
+          "body": "One reason parents underestimate the problem is that they look at their own version of a platform and see recipes and old friends. Algorithms personalize everything, so your 14-year-old can be on the same app and living in a completely different environment.\n\nTelzer's suggestion is curiosity. Ask what they're seeing. Ask which features they notice pulling them back, and talk about how likes and streaks are built to do that. Allen points out that empathy opens the door here. Responding to a frustrating online moment with \"that sounds annoying\" or \"was that disappointing?\" leads to a real conversation far more often than a lecture does.\n\nThe hosts also make the case for parents banding together. When several families in a grade agree to delay smartphones, the social pressure on any one kid drops. The episode references the Wait Until 8th movement as an example of how that can work.",
+          "quote": {
+            "text": "Parents need to have conversations with their adolescents about the pros and cons and what their adolescent wants access to.",
+            "speaker": "Dr. Eva Telzer",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The upside teens get, and how to keep it",
+          "body": "This isn't a doom episode. Telzer stresses that adolescence is also a time of enormous growth, creativity and social awareness, and social media can be a tool for connection, organizing and advocacy. Teens have used it to build real social movements.\n\nThe goal, then, isn't fear. It's helping teens learn to navigate the digital world with their eyes open. Telzer supports digital media literacy in schools, with the caveat that programs need to be science-backed and shown to work, not just well-intentioned.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "The age 13 threshold is a legal artifact, not a sign of readiness. It coincides with peak puberty, when the brain is most sensitive to social reward.",
+        "Delaying is better than banning. Bans tend to produce secret, unsupervised use.",
+        "Keep phones and devices out of the bedroom at night. Sleep protection is the clearest boundary a parent can set.",
+        "Your teen's algorithmic feed looks nothing like yours. Ask what they see, and respond with empathy before advice.",
+        "Coordinate with other parents to reduce social pressure, and set expectations years before the phone shows up."
+      ],
+      "faq": [
+        {
+          "q": "Is 13 too young for social media?",
+          "a": "According to Dr. Telzer, 13 is probably the most vulnerable age to start because it sits at the peak of puberty, when teens are most reactive to social rewards and comparison. Later is generally safer."
+        },
+        {
+          "q": "Should I just ban social media for my teen?",
+          "a": "A total ban often backfires by pushing teens to get access secretly, where you can't guide them. A planned delay, limited apps and honest conversations tend to work better."
+        },
+        {
+          "q": "What's the single most useful rule for teen phone use?",
+          "a": "No devices in the bedroom overnight. It protects sleep, which supports attention, mood and school performance, and it's simple enough to enforce consistently."
+        }
+      ],
+      "sourceNote": "Based on The Parenting Pair episode \"Is 13 Too Young for Social Media? | Dr. Eva Telzer,\" released September 16, 2026, with credit to hosts Dr. Annalise Caron and Dr. Suzanne Allen."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "marketing-for-entrepreneurs",
+  "title": "Marketing for Entrepreneurs | SEO for small business",
+  "author": "Rachel Lindteigen",
+  "description": "Small business SEO coach Rachel Lindteigen teaches practical SEO strategies for small business owners who don't want to rely on social media or paid ads, so you can do SEO yourself, understand the results and focus on what's working.",
+  "category": "marketing",
+  "website": "https://www.etchedmarketing.com/",
+  "feedUrl": "https://rss.buzzsprout.com/2125812.rss",
+  "imageUrl": "https://storage.buzzsprout.com/p370j36d501ddix7kghmdyugzx7k?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/marketing-for-entrepreneurs-seo-for-small-business/id1669342467",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19284514",
+      "title": "Does moving your blog to Substack hurt your SEO?",
+      "publishedAt": "2026-07-07",
+      "summary": "Rachel explains what happens to your search visibility when your blog moves to Substack: no canonical tags, Substack outranking your own site, and authority flowing to their domain instead of yours. She lays out how to use Substack as a supplement without giving up your website.",
+      "audioUrl": "https://www.buzzsprout.com/2125812/episodes/19284514-does-moving-your-blog-to-substack-hurt-your-seo.mp3",
+      "durationSec": 1049,
+      "episodeUrl": "https://www.etchedmarketing.com/blog/substack-blog-seo-issues",
+      "transcriptUrl": "https://www.buzzsprout.com/2125812/19284514/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19130525",
+      "title": "Is SEO important for online businesses?",
+      "publishedAt": "2026-06-30",
+      "summary": "Rachel places SEO alongside AEO, GEO, ads and social media to help online business owners decide which approach fits their situation.",
+      "audioUrl": "https://www.buzzsprout.com/2125812/episodes/19130525-is-seo-important-for-online-businesses.mp3",
+      "durationSec": 730,
+      "episodeUrl": "https://www.etchedmarketing.com/blog/seo-online-entrepreneurs",
+      "transcriptUrl": "https://www.buzzsprout.com/2125812/19130525/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19130418",
+      "title": "Small Business SEO Explained: How to check your SEO rankings",
+      "publishedAt": "2026-06-23",
+      "summary": "A walkthrough of which SEO metrics to track and what the numbers actually mean, so you can tell whether your SEO program is working.",
+      "audioUrl": "https://www.buzzsprout.com/2125812/episodes/19130418-small-business-seo-explained-how-to-check-your-seo-rankings-what-matters-to-your-seo-program.mp3",
+      "durationSec": 711,
+      "episodeUrl": "https://www.etchedmarketing.com/blog/how-to-check-your-seo-ranking",
+      "transcriptUrl": "https://www.buzzsprout.com/2125812/19130418/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19128953",
+      "title": "Small Business SEO Explained: What is SEO copywriting?",
+      "publishedAt": "2026-06-16",
+      "summary": "Rachel explains the difference between ordinary copywriting and SEO copywriting, and how knowing what people search for gets your content in front of the right audience.",
+      "audioUrl": "https://www.buzzsprout.com/2125812/episodes/19128953-small-business-seo-explained-what-is-seo-copywriting.mp3",
+      "durationSec": 740,
+      "episodeUrl": "https://www.etchedmarketing.com/blog/what-is-seo-copywriting",
+      "transcriptUrl": "https://www.buzzsprout.com/2125812/19128953/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19128790",
+      "title": "How to create an SEO content calendar for your small business",
+      "publishedAt": "2026-06-09",
+      "summary": "Rachel shows how to brainstorm content ideas and build a content calendar that reduces the weekly workload of running a blog.",
+      "audioUrl": "https://www.buzzsprout.com/2125812/episodes/19128790-how-to-create-an-seo-content-calendar-for-your-small-business.mp3",
+      "durationSec": 819,
+      "episodeUrl": "https://www.etchedmarketing.com/blog/how-to-create-a-content-calendar",
+      "transcriptUrl": "https://www.buzzsprout.com/2125812/19128790/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19268727",
+      "title": "Is SEO changing? What Google's changes mean for your small business",
+      "publishedAt": "2026-06-02",
+      "summary": "Rachel covers Google's AI optimization guidance and search changes, and why following SEO best practices still determines visibility in AI-driven search.",
+      "audioUrl": "https://www.buzzsprout.com/2125812/episodes/19268727-is-seo-changing-what-google-s-changes-mean-for-your-small-business.mp3",
+      "durationSec": 1249,
+      "episodeUrl": "https://www.etchedmarketing.com/",
+      "transcriptUrl": "https://www.buzzsprout.com/2125812/19268727/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "does-moving-your-blog-to-substack-hurt-seo",
+      "question": "Does moving your blog to Substack hurt your SEO?",
+      "metaDescription": "SEO coach Rachel Lindteigen explains why moving your whole blog to Substack hurts your site's rankings, and how to use Substack without losing them.",
+      "episodeGuid": "Buzzsprout-19284514",
+      "intro": "Yes, moving your entire blog to Substack hurts your SEO, because every post you publish there builds Substack's authority instead of your own website's. That's the short answer from small business SEO coach Rachel Lindteigen on her podcast Marketing for Entrepreneurs. Substack isn't the problem. Using it as a replacement for your site is. Used as a supplement, it can actually help.",
+      "sections": [
+        {
+          "heading": "What search engines find when your blog leaves",
+          "body": "Rachel's first question for anyone considering the move is simple. If all your content lives on Substack, what are Google and the AI search engines going to find on your website? A home page, a services page and not much else.\n\nThe host explains that blog content is how a small business site earns visibility for the questions customers actually search. Strip that out and your domain has very little for a search engine to rank or for an AI engine to cite. Meanwhile, every post on Substack is building credibility and resource depth for Substack's domain. You're doing the work. They're collecting the authority.",
+          "quote": null
+        },
+        {
+          "heading": "The canonical tag problem",
+          "body": "Some people try to have it both ways by publishing the same post on their site and on Substack. Rachel explains why that backfires. Normally, when the same content lives in two places, you'd add a canonical tag telling Google which version is the original. Substack doesn't let you do that.\n\nWithout it, Google sees duplicate content and picks a winner. Because Substack is a far more authoritative domain than most small business websites, it usually wins. Your own post ends up buried under the copy you posted elsewhere.",
+          "quote": {
+            "text": "Because Substack is a more authoritative website, it's more likely your substack is gonna show up versus your blog.",
+            "speaker": "Rachel Lindteigen",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Keep the important content on your own domain",
+          "body": "Rachel's rule is to put your most important information on your site. The goal is to train Google, and increasingly AI search engines, that your website is the place with the answers. Full blog posts, guides and anything you'd want to rank for should live on the domain you control.\n\nThat isn't just about rankings today. It's about who owns the asset. Content on your site keeps compounding for your business. Content on a platform compounds for the platform, and you're renting the audience.",
+          "quote": null
+        },
+        {
+          "heading": "How to use Substack without losing rankings",
+          "body": "Rachel isn't telling you to delete your Substack. She suggests using it as behind-the-scenes. Share something extra that didn't make it into the blog post, a story, a personal take, a short update, and link back to the full article on your site. Substack becomes supplemental rather than primary.\n\nThere's a bonus in that setup. Substack gives you a dofollow link, which passes authority to the site it points at. When your Substack post links to the full version on your website, you're using Substack's strength to build your own domain authority instead of the other way around. That only works if the primary content stays on your domain.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Moving your whole blog to Substack builds Substack's authority, not yours, and leaves your website with little to rank.",
+        "Substack doesn't support canonical tags, so duplicate posts usually end up with Substack outranking your own site.",
+        "Keep full blog posts and your most important content on your own domain.",
+        "Use Substack for supplemental, behind-the-scenes content that links back to the full post on your site.",
+        "Substack's dofollow links can boost your domain authority, but only if your website stays the primary home for content."
+      ],
+      "faq": [
+        {
+          "q": "Can I post the same article on my website and on Substack?",
+          "a": "Rachel advises against it. Substack doesn't let you set a canonical tag, so Google treats the two as duplicates and typically ranks the Substack version above yours."
+        },
+        {
+          "q": "Does Substack help SEO at all?",
+          "a": "It can. Substack posts give a dofollow link, which passes authority to your website when you link back to your full post. The benefit depends on keeping the main content on your own domain."
+        },
+        {
+          "q": "What should I publish on Substack instead of my full blog?",
+          "a": "Rachel suggests behind-the-scenes extras: stories, context or updates that didn't fit in the blog post, with a link to the complete article on your site."
+        }
+      ],
+      "sourceNote": "Based on the Marketing for Entrepreneurs episode \"Does moving your blog to Substack hurt your SEO?\", released July 7, 2026, hosted by Rachel Lindteigen."
+    }
+  ]
+}

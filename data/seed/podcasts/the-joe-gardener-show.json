@@ -1,0 +1,143 @@
+{
+  "slug": "the-joe-gardener-show",
+  "title": "The joe gardener Show",
+  "author": "Joe Lamp'l",
+  "description": "This podcast is devoted to all things gardening. National gardening television host Joe Lamp'l guides you through each episode with practical tips and information to help you become a better, smarter gardener, with a strong emphasis on organic gardening and growing food.",
+  "category": "home",
+  "website": "https://joegardener.com",
+  "feedUrl": "https://thejoegardenershow.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/4/9/3/0/49305ddc68c1a77927a2322813b393ee/JG_iTunes_1400x1400-20241024-d7uejhv7qa.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-joe-gardener-show-organic-gardening-vegetable/id1245331505",
+  "spotifyUrl": "https://open.spotify.com/show/6BZXZkFb4qbgOXnZDesezY",
+  "episodes": [
+    {
+      "guid": "d6171f39-b4b0-418e-ba2f-e5e7a8db9d14",
+      "title": "486-Modern Home Canning and Homesteading, with Melissa K. Norris",
+      "publishedAt": "2026-09-10",
+      "summary": "Fifth-generation homesteader Melissa K. Norris talks food preservation and how to make modern home canning approachable, whether you're a seasoned gardener or just starting to grow for self-sufficiency.",
+      "audioUrl": "https://traffic.libsyn.com/secure/thejoegardenershow/486-FINAL.mp3?dest-id=501938",
+      "durationSec": 3240,
+      "episodeUrl": "https://thejoegardenershow.libsyn.com/486-modern-home-canning-and-homesteading-with-melissa-k-norris",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "7ddea723-35bf-49ed-be59-256e24068e96",
+      "title": "485-Home Greenhouse Revival, with Leslie Halleck",
+      "publishedAt": "2026-09-03",
+      "summary": "Author Leslie Halleck explains the resurgence of home greenhouses and how to grow foliage, flowers and food in them year-round.",
+      "audioUrl": "https://traffic.libsyn.com/secure/thejoegardenershow/485-FINAL.mp3?dest-id=501938",
+      "durationSec": 3970,
+      "episodeUrl": "https://thejoegardenershow.libsyn.com/485-home-greenhouse-revival-with-leslie-halleck",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "1b3716ea-f993-4aff-b833-2ff53e8120e7",
+      "title": "484-Tomato Season Wrap-Up, with Craig LeHoullier",
+      "publishedAt": "2026-08-27",
+      "summary": "Tomato expert Craig LeHoullier shares lessons from the growing season and updates on his breeding experiments as summer winds down.",
+      "audioUrl": "https://traffic.libsyn.com/secure/thejoegardenershow/484-FINAL.mp3?dest-id=501938",
+      "durationSec": 3720,
+      "episodeUrl": "https://thejoegardenershow.libsyn.com/484-tomato-season-wrap-up-with-craig-lehoullier",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "c1146b71-06b4-4d22-af70-894c93a9eef1",
+      "title": "483-Take Control of Your Salad Bowl: Grow Your Own Fall Greens",
+      "publishedAt": "2026-08-20",
+      "summary": "Joe shares his top 10 fall greens and explains how to time sowing so plants mature in cool weather. He covers seed priming, frost tolerance, cut-and-come-again harvesting and why cold makes greens sweeter.",
+      "audioUrl": "https://traffic.libsyn.com/secure/thejoegardenershow/483-FINAL.mp3?dest-id=501938",
+      "durationSec": 2895,
+      "episodeUrl": "https://joegardener.com/podcast/grow-your-own-fall-greens/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "fdf7c56f-7ef9-4c23-8a86-fcef58c811c9",
+      "title": "482-Insect Safari: The Wondrous World of Everyday Bugs",
+      "publishedAt": "2026-08-13",
+      "summary": "Science writer Margie Patlak explores the insects living in your garden and the role they play in a healthy ecosystem.",
+      "audioUrl": "https://traffic.libsyn.com/secure/thejoegardenershow/482-FINAL.mp3?dest-id=501938",
+      "durationSec": 3259,
+      "episodeUrl": "https://thejoegardenershow.libsyn.com/482-insect-safari-the-wondrous-world-of-everyday-bugs",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "f3b2e3ef-43b6-4f47-beb3-4dd49f0b2889",
+      "title": "481-A Year of Cut Flowers, with Sarah Raven",
+      "publishedAt": "2026-08-06",
+      "summary": "Horticulturist Sarah Raven shares techniques for growing abundant, long-lasting cut flowers for fresh bouquets through the year.",
+      "audioUrl": "https://traffic.libsyn.com/secure/thejoegardenershow/481-FINAL.mp3?dest-id=501938",
+      "durationSec": 3705,
+      "episodeUrl": "https://thejoegardenershow.libsyn.com/481-a-year-of-cut-flowers-with-sarah-raven",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-vegetables-can-you-plant-in-the-fall",
+      "question": "What vegetables can you plant in the fall?",
+      "metaDescription": "Joe Lamp'l of The joe gardener Show names his top 10 fall greens, from lettuce to collards, and explains how to time sowing around your first frost.",
+      "episodeGuid": "c1146b71-06b4-4d22-af70-894c93a9eef1",
+      "intro": "Leafy greens are the easiest crops to plant in the fall: lettuce, spinach, kale, arugula, bok choy, mustard, chard, beets, collards and peas. On The joe gardener Show, host Joe Lamp'l walks through his top 10 fall greens and the one timing rule that decides whether you get a harvest before winter.",
+      "sections": [
+        {
+          "heading": "Count backward from your first frost date",
+          "body": "The whole game is timing. Joe's rule is simple: the \"days to harvest\" number on your seed packet can't be longer than the number of days you have left until your first frost. Look up your frost date on Almanac.com by zip code, then count back.\n\nThat math surprises people, because it usually means sowing fall crops while it's still hot outside. Joe's point is that the plants need to be maturing in cool weather, not starting in it.\n\nIf your soil is too hot for direct sowing (a soil thermometer will tell you), start seeds indoors at around 70 degrees and transplant later. And if you'd rather buy seedlings, Joe notes that local nurseries stock what's appropriate for the season, so if it's on the shelf, it's probably the right time to plant it.",
+          "quote": {
+            "text": "The goal is to get the timing right so the plants are maturing in cool weather. And to time that correctly, it often means getting started during summer temperatures.",
+            "speaker": "Joe Lamp'l",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Joe's top 10 fall greens",
+          "body": "Here's the list, with the notes Joe gives on each.\n\n1. **Leaf lettuce.** Fast, cut-and-come-again, and hard to mess up. He likes Salanova in red and green and Red Sails for looks and flavor.\n2. **Spinach.** Extremely cold-tolerant and will keep growing through winter in many areas. Germination can be finicky, so prime the seeds first (more on that below).\n3. **Bok choy.** A quick-growing Chinese cabbage with a crunchy \"zing,\" great stir-fried or sauteed.\n4. **Snow and snap peas.** Some varieties mature in about 40 days. Eat them fresh, in salads or in a stir-fry.\n5. **Arugula.** Spicy, cut-and-come-again, and excellent on pizza.\n6. **Kale.** Joe calls its cold tolerance bulletproof. Curly, dinosaur and purple types are all ornamental as well as edible.\n7. **Mustard.** Easy and fast to germinate. Giant Red is striking to look at, and the leaves get spicier as they grow.\n8. **Swiss chard.** Broad, upright leaves. The Rainbow variety gives you a mosaic of stem colors. Soak seeds overnight for better germination.\n9. **Beets.** You get two crops: the greens for salads or sauteing, and the roots, which you can pull as small as marble size.\n10. **Collards.** Tolerant of both heat and cold, and much sweeter after a frost. Joe times his for a Thanksgiving harvest.",
+          "quote": {
+            "text": "Some of these are just flat out ornamental, and even if you didn't like eating them, you would love having them in your fall garden.",
+            "speaker": "Joe Lamp'l",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "The overnight seed trick for spinach and chard",
+          "body": "Spinach and chard seeds are known for spotty germination, especially in warm soil. Joe's fix is to prime them: soak the seeds overnight, let them air-dry for a couple of days, then store them in a sealed zip-lock bag somewhere cool and dry until you're ready to sow. The seed has already started the process, so it comes up faster and more evenly once it hits soil.\n\nOne other soil warning from the episode: if your bed has fresh animal manure in it, reconsider before planting greens you'll eat raw. Manure should be composted for at least 30 days at 131 degrees or hotter before it goes near a salad crop.",
+          "quote": {
+            "text": "Take your seeds and soak them overnight, and then allow them to air-dry for a couple days, and then place them into a sealed zip-lock bag in a cool, dry environment.",
+            "speaker": "Joe Lamp'l",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Harvest from the outside in, and don't fear frost",
+          "body": "Most of these greens are cut-and-come-again crops. You don't pull the plant once; you take outer leaves and let it keep producing. Joe's caution is to avoid cutting everything down to the center, because new growth emerges from the center and expands outward. Leave that core alone and the plant keeps feeding you for weeks.\n\nFrost is your friend here. Cold triggers a chemical reaction in the plant that converts starches to sugars, which is why kale and collards taste better after a freeze. Joe distinguishes frost-tolerant plants, which handle around 28 degrees for several hours, from freeze-tolerant plants, which shrug off temperatures from the teens to the mid-20s. Everything on his list falls into one of those camps, and in colder climates he says you'd be amazed how resilient they are through severe frosts.",
+          "quote": {
+            "text": "Cold temperatures cause a chemical reaction that turns starches into sugars. So don't be afraid of a few frosts because all of these plants can tolerate it.",
+            "speaker": "Joe Lamp'l",
+            "timestamp": null
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Days to harvest on the seed packet must be shorter than the days left until your first frost. Look up your frost date by zip code.",
+        "Fall crops usually need to be sown in late summer heat. Start indoors at 70 degrees if the soil is too hot.",
+        "Lettuce, spinach, bok choy, peas, arugula, kale, mustard, chard, beets and collards are Joe's top 10 fall greens.",
+        "Prime spinach and chard seeds: soak overnight, air-dry, then bag them until sowing.",
+        "Harvest outer leaves and leave the center. Frost makes most of these greens sweeter, not worse."
+      ],
+      "faq": [
+        {
+          "q": "How late can you plant fall vegetables?",
+          "a": "As long as the crop's days to harvest fits before your first frost date. Fast greens like arugula, leaf lettuce and some peas (around 40 days) give you the most flexibility."
+        },
+        {
+          "q": "Will lettuce survive frost?",
+          "a": "Leaf lettuce is frost-tolerant, meaning it can take temperatures around 28 degrees for a few hours. Spinach, kale and collards are even hardier and handle hard freezes into the teens and 20s."
+        },
+        {
+          "q": "Can I plant fall greens from seedlings instead of seed?",
+          "a": "Yes. Joe points out that if your local nursery has the seedlings in stock, it's very likely the right time to plant them in your area."
+        }
+      ],
+      "sourceNote": "Based on The joe gardener Show episode 483, \"Take Control of Your Salad Bowl: Grow Your Own Fall Greens,\" released August 20, 2026, with credit to host Joe Lamp'l."
+    }
+  ]
+}

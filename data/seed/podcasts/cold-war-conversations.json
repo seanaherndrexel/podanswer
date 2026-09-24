@@ -1,0 +1,144 @@
+{
+  "slug": "cold-war-conversations",
+  "title": "Cold War Conversations",
+  "author": "Ian Sanders",
+  "description": "An award-winning podcast featuring firsthand accounts from people who lived through the Cold War era, including soldiers, spies, and civilians. Unfiltered voices from the frontlines of history.",
+  "category": "history",
+  "website": "https://coldwarconversations.com/",
+  "feedUrl": "https://feeds.megaphone.fm/NSR5326520675",
+  "imageUrl": "https://megaphone.imgix.net/podcasts/4c941332-cd54-11ed-891b-5f881caae663/image/e538425e88d5a24ff3c6d98b6126d441.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/cold-war-conversations/id1363778974",
+  "spotifyUrl": "https://open.spotify.com/show/3XEltQNIhwCN60teFmbQwl",
+  "episodes": [
+    {
+      "guid": "ecb04946-3808-11f0-bd0a-3b51c219abe0",
+      "title": "If the Soviets Invaded: Sweden's Secret Underground Resistance Plan (473)",
+      "publishedAt": "2026-09-11",
+      "summary": "Historian Johan Wennström explains Sweden's clandestine Stay Behind organisation, a network of ordinary citizens trained to resist a Soviet occupation. He describes how officially neutral Sweden quietly worked with MI6, the CIA and NATO, and how the network kept its secrets for decades.",
+      "audioUrl": "https://traffic.megaphone.fm/NSR1131366155.mp3",
+      "durationSec": 2821,
+      "episodeUrl": "https://coldwarconversations.com/episode473/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ec7b30d0-3808-11f0-bd0a-8fd074c0c733",
+      "title": "Bandit Country - The IRA and South Armagh (472)",
+      "publishedAt": "2026-09-04",
+      "summary": "Journalist Toby Harnden looks at the IRA's South Armagh Brigade and its long campaign against British forces in Northern Ireland. The conversation covers sniper operations, intelligence networks, and the brigade's doubts about the Good Friday Agreement.",
+      "audioUrl": "https://traffic.megaphone.fm/NSR2691837512.mp3",
+      "durationSec": 4079,
+      "episodeUrl": "https://coldwarconversations.com/episode472/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ec462f66-3808-11f0-bd0a-4f862d7e55bc",
+      "title": "A Czech Border Guard's Daring Escape to the West (471)",
+      "publishedAt": "2026-08-29",
+      "summary": "Jiří Barteček recounts his 1975 escape from Czechoslovakia, where he served as a border guard, disabled the alarms and crossed into Austria. He also describes the assassination attempts he faced while living as a refugee in Vienna.",
+      "audioUrl": "https://traffic.megaphone.fm/NSR2473921978.mp3",
+      "durationSec": 5014,
+      "episodeUrl": "https://coldwarconversations.com/episode471/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ec10ddac-3808-11f0-bd0a-57b2dab55195",
+      "title": "Twenty-Six Years Apart: A Family Reunited Behind the Iron Curtain (470)",
+      "publishedAt": "2026-08-21",
+      "summary": "The daughters of Aleksander Jablonski share their father's journey through Stalin's labor camps and his eventual reunion with family in communist Poland after decades apart.",
+      "audioUrl": "https://traffic.megaphone.fm/NSR6575243371.mp3",
+      "durationSec": 3273,
+      "episodeUrl": "https://coldwarconversations.com/episode470/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ebda31d0-3808-11f0-bd0a-8799350d34a0",
+      "title": "Between Two Air Forces: From East German Officer to German Captain (469)",
+      "publishedAt": "2026-08-14",
+      "summary": "Former East German Air Force officer Roland describes his transition into the Bundeswehr after reunification, including reduced rank, lower pay, and suspicion from his new colleagues.",
+      "audioUrl": "https://traffic.megaphone.fm/NSR5707473175.mp3",
+      "durationSec": 3003,
+      "episodeUrl": "https://coldwarconversations.com/episode469/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "eb90a01a-3808-11f0-bd0a-f3c37177e61d",
+      "title": "MiGs, Helicopters and Ideology: Life as an East German Air Force Officer (468)",
+      "publishedAt": "2026-08-07",
+      "summary": "Roland gives a rare inside view of East German Air Force training, where technical skill, military discipline and socialist ideology were inseparable parts of preparing officers to defend the GDR.",
+      "audioUrl": "https://traffic.megaphone.fm/NSR2314314189.mp3",
+      "durationSec": 2678,
+      "episodeUrl": "https://coldwarconversations.com/episode468/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "was-sweden-really-neutral-during-the-cold-war",
+      "question": "Was Sweden really neutral during the Cold War?",
+      "metaDescription": "Officially yes, but Sweden ran a secret Stay Behind resistance network with MI6, the CIA and NATO. Historian Johan Wennström explains on Cold War Conversations.",
+      "episodeGuid": "ecb04946-3808-11f0-bd0a-3b51c219abe0",
+      "intro": "On paper, yes. In practice, Sweden spent the Cold War quietly preparing for a Soviet occupation with help from MI6, the CIA and NATO. On the Cold War Conversations podcast, host Ian Sanders talks with historian Johan Wennström about Sweden's Stay Behind organisation, a hidden network of ordinary citizens trained to resist an invading army.",
+      "sections": [
+        {
+          "heading": "Farmers and salesmen with radios in the barn",
+          "body": "The Stay Behind network wasn't made up of soldiers. According to the episode, its members were farmers, factory workers, gamekeepers and travelling salesmen. The idea was simple. If Soviet forces rolled across the border and the regular army was defeated or pushed back, these people would already be in place, living normal lives in occupied territory, ready to act.\n\nThey were trained to operate radios, use dead drops, scout escape routes and, if it came to it, sabotage an occupying army. Wennström describes the organisation as a long term project that ran for decades, with hundreds of volunteers carrying a secret they couldn't share with anyone.",
+          "quote": {
+            "text": "Farmers, factory workers, gamekeepers and travelling salesmen were recruited into a clandestine resistance network, trained to operate radios, use dead drops, scout escape routes and, if necessary, sabotage an invading army.",
+            "speaker": "Ian Sanders (episode notes)",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Neutral in public, allied in private",
+          "body": "Sweden's official line throughout the Cold War was non-alignment in peace and neutrality in war. The Stay Behind story shows how thin that line was. Wennström explains that the organisation collaborated with MI6, the CIA and NATO, which supplied know-how and support for a resistance that would only ever matter if Sweden was overrun by the Soviet Union.\n\nThe host draws out an even more striking detail: there were plans for the royal family and the government to flee to Britain if the country fell. That's not the posture of a state that expected to sit out a European war. It's the posture of a country that had picked a side and didn't want to say so out loud.",
+          "quote": {
+            "text": "He explains why officially neutral Sweden quietly collaborated with MI6, the CIA and NATO, how the organisation preserved its secrecy, and why the royal family and government might have fled to Britain.",
+            "speaker": "Ian Sanders (episode notes)",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Elk surveys, Sunday walks and ammunition at the railway station",
+          "body": "A lot of the tradecraft sounds almost quaint until you think about what it was for. The episode describes mysterious Sunday walks that were actually reconnaissance and training exercises. Ammunition was delivered to railway stations. Aerial 'elk surveys' gave a plausible cover for flights that were really mapping terrain and potential targets.\n\nThe darker side was there too. Operatives were issued cyanide capsules for use if they were captured. These were volunteers with day jobs, not professional agents, and they carried that risk for years without any public recognition.",
+          "quote": {
+            "text": "We hear of mysterious Sunday walks, ammunition delivered to railway stations, aerial \"elk surveys\" concealing reconnaissance missions and the cyanide capsules for use if an operative was captured.",
+            "speaker": "Ian Sanders (episode notes)",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "How the secret held for so long",
+          "body": "One of the questions Sanders puts to Wennström is how a network of hundreds of civilians stayed hidden across several decades. Wennström walks through how the organisation preserved its secrecy and how it recruited people who could be trusted to keep quiet for the rest of their lives.\n\nThe network also never had to activate. The war it was built for never came to Sweden, which meant no operations, no arrests, and no trials that might have exposed it. The host frames the whole story as one of patriotism, secrecy and sacrifice, and of people who prepared for the worst and were lucky enough never to face it.",
+          "quote": null
+        },
+        {
+          "heading": "What this changes about the neutrality story",
+          "body": "If you grew up with the textbook version of Sweden as the calm, non-aligned country between the blocs, this episode complicates it in a useful way. Sweden's leaders clearly believed a Soviet attack was possible, and they planned for a defeat of the regular forces, not just a defence at the border. They also decided that the best partners for that plan were the Western intelligence services, which tells you which side they expected to be on.\n\nNone of this makes the public neutrality a lie exactly. Sweden never joined an alliance, never hosted foreign bases, and kept its own large conscript army. But the Stay Behind network shows that neutrality was a diplomatic position, not a prediction about how a war would go. Wennström has written a book on the subject, and the episode is a good entry point before reading it.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Sweden was officially neutral, but it ran a secret Stay Behind resistance organisation for decades.",
+        "Members were ordinary civilians such as farmers, factory workers and salesmen, trained in radio, dead drops and sabotage.",
+        "The network worked with MI6, the CIA and NATO, and there were plans for the royal family and government to flee to Britain.",
+        "Cover activities included Sunday walks and aerial 'elk surveys' that hid reconnaissance work.",
+        "Operatives carried cyanide capsules in case of capture, but the network was never activated."
+      ],
+      "faq": [
+        {
+          "q": "What was a Stay Behind organisation?",
+          "a": "A Stay Behind network was a pre-positioned resistance force meant to operate inside occupied territory after an invasion. Members stayed in their normal lives and jobs until they were needed, so they'd already be behind enemy lines when a war started."
+        },
+        {
+          "q": "Did Sweden join NATO during the Cold War?",
+          "a": "No. Sweden stayed formally non-aligned throughout the Cold War. The episode shows that behind that public stance, Swedish planners were quietly cooperating with NATO members on resistance preparations."
+        },
+        {
+          "q": "Who were the members of Sweden's secret resistance?",
+          "a": "According to Johan Wennström, they were volunteers drawn from everyday walks of life, including farmers, factory workers, gamekeepers and travelling salesmen. Hundreds took part over the years."
+        }
+      ],
+      "sourceNote": "Based on Cold War Conversations episode 473, 'If the Soviets Invaded: Sweden's Secret Underground Resistance Plan,' with historian Johan Wennström, released September 11, 2026. Credit to host Ian Sanders and Cold War Conversations."
+    }
+  ]
+}

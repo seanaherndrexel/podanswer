@@ -1,0 +1,152 @@
+{
+  "slug": "unsung-history",
+  "title": "Unsung History",
+  "author": "Kelly Therese Pollock",
+  "description": "A podcast about people and events in American history you may not know much about. Yet.",
+  "category": "history",
+  "website": "https://www.unsunghistorypodcast.com/",
+  "feedUrl": "https://feeds.redcircle.com/c6fa1a15-b38f-48e2-88d1-90cc9a290b3e",
+  "imageUrl": "https://media.redcircle.com/images/2024/4/5/23/5c6a8eed-d6d4-4486-917a-f5be449504ec_1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/unsung-history/id1570650874",
+  "spotifyUrl": "https://open.spotify.com/show/0iSbTVKE1NN5IyCyQwB1Zq",
+  "episodes": [
+    {
+      "guid": "9f79d8fe-a278-47f8-9a5c-6195d090b5d8",
+      "title": "Jane Addams, Hull House, and Chicago's Nineteenth Ward",
+      "publishedAt": "2026-08-10",
+      "summary": "Jane Addams and Ellen Gates Starr launched Hull House in 1889 to serve Chicago's poor, offering education and cultural programs while pushing for worker protections. The episode looks at how their privileged backgrounds sometimes put them at odds with immigrant neighbors and local political bosses.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/680922e1-d415-4420-af28-5c9280040127/stream.mp3",
+      "durationSec": 2802,
+      "episodeUrl": "https://www.unsunghistorypodcast.com/Jane-Addams/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "fa65e045-f43a-4dd6-8202-2790376e55e2",
+      "title": "Buddy Bradley",
+      "publishedAt": "2026-07-27",
+      "summary": "Born in the Jim Crow South, Buddy Bradley became a tap dance innovator in Harlem before moving to London in the 1930s, where he built a career choreographing for stage and film. His influence on dance is huge, but his name is rarely remembered today.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/262ff4a2-d252-4b23-9c1e-9febe055ae04/stream.mp3",
+      "durationSec": 3057,
+      "episodeUrl": "https://www.unsunghistorypodcast.com/Buddy-Bradley/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "8b42f856-e5a3-496d-9733-28eb515fc6a5",
+      "title": "The All-American Girls Professional Baseball League",
+      "publishedAt": "2026-07-13",
+      "summary": "During World War II, Philip K. Wrigley created a professional women's baseball league that ran for twelve seasons and employed more than 600 players. Historian Dr. Leslie Heaphy joins Kelly to explain how the league worked, why it ended, and how the film A League of Their Own brought it back into public memory.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/32d5e1b9-8613-4421-b08d-f43b026d2c65/stream.mp3",
+      "durationSec": 3287,
+      "episodeUrl": "https://www.unsunghistorypodcast.com/AllAmericanLeague/",
+      "transcriptUrl": "https://s3.us-east-2.amazonaws.com/pod-public-transcripts/2026/7/13/3/b9411e49-0a15-4f73-b785-230d7e4400ab_3354245657.vtt"
+    },
+    {
+      "guid": "6a46bdd4-46ad-470e-867b-b13d211badc9",
+      "title": "The Declaration of Independence",
+      "publishedAt": "2026-06-29",
+      "summary": "Congress voted for independence on July 2, 1776, and approved the Declaration's text on July 4, but the news traveled slowly by broadside, newspaper, and letter. The episode follows how word of independence spread across the new nation.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/908f6595-fa1f-4f3f-990a-76ec9e0a1ac6/stream.mp3",
+      "durationSec": 2927,
+      "episodeUrl": "https://www.unsunghistorypodcast.com/Declaration/",
+      "transcriptUrl": "https://drive.google.com/file/d/15FVNU-3u-Wk6RCXLnjg6tziP20GjgwmG/view?usp=sharing"
+    },
+    {
+      "guid": "37a031db-328b-4b4e-9185-7fd58345183e",
+      "title": "The Statue of Liberty and the Empire State Building",
+      "publishedAt": "2026-06-15",
+      "summary": "Two New York landmarks stand for competing ideals of liberty and ambition, and their meanings have shifted as American values changed. The episode compares how each monument was understood when built with how we read it today.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/97dd9a5a-4adc-41e9-a516-a4e6b40ab268/stream.mp3",
+      "durationSec": 2333,
+      "episodeUrl": "https://www.unsunghistorypodcast.com/Liberty&Empire/",
+      "transcriptUrl": "https://drive.google.com/file/d/1pzEz8hVKjsiWdSFp-d2LS1m2qjUEQn3b/view?usp=sharing"
+    },
+    {
+      "guid": "8dac7c36-82db-4eb7-9b0e-a27ab7d22d0a",
+      "title": "An American History of Purses",
+      "publishedAt": "2026-06-01",
+      "summary": "The purse market is now worth more than $12 billion, but purses only became a 'women's item' once men's clothing gained pockets and cosmetics marketing targeted women in the 1920s and 30s. The episode traces how an everyday object picked up its gendered meaning.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/a1cfe136-8183-4c75-adc0-fa6c133905ab/stream.mp3",
+      "durationSec": 2410,
+      "episodeUrl": "https://www.unsunghistorypodcast.com/Purses/",
+      "transcriptUrl": "https://drive.google.com/file/d/1YH8EQXew1UdZSZK905MOjFFoEW7f2Kmf/view?usp=sharing"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "was-a-league-of-their-own-based-on-a-true-story",
+      "question": "Was A League of Their Own based on a true story?",
+      "metaDescription": "Yes. The All-American Girls Professional Baseball League ran from 1943 to 1954. Historian Leslie Heaphy explains the real story on Unsung History.",
+      "episodeGuid": "8b42f856-e5a3-496d-9733-28eb515fc6a5",
+      "intro": "Yes. A League of Their Own is based on the All-American Girls Professional Baseball League, a real league that played from 1943 to 1954 and employed more than 600 women. On the Unsung History podcast, host Kelly Therese Pollock and historian Dr. Leslie Heaphy of Kent State University walk through what the movie got right, what it smoothed over, and why the league disappeared for almost forty years.",
+      "sections": [
+        {
+          "heading": "A chewing gum magnate and a wartime problem",
+          "body": "The league started with Philip K. Wrigley, owner of the Chicago Cubs. In 1943 the draft was pulling hundreds of major and minor league players into the military, and Wrigley worried that men's baseball might shut down entirely. Dr. Heaphy explains that his plan was never meant to be permanent. He wanted a stopgap that would keep ballparks full and give people some entertainment during the war.\n\nThe first tryouts drew hopefuls from across the country. As Kelly describes it, 75 women were invited to Chicago for a final tryout at Wrigley Field, and 60 were chosen, 15 for each of four teams. Those teams were the South Bend Blue Sox, the Rockford Peaches, the Kenosha Comets, and the Racine Belles. The first game was played on May 30, 1943, and the league never left the Midwest.",
+          "quote": {
+            "text": "For Wrigley it was very much about the concern that men's baseball was going to grind to a halt because of the war.",
+            "speaker": "Dr. Leslie Heaphy",
+            "timestamp": "15:42"
+          }
+        },
+        {
+          "heading": "What the players were actually paid",
+          "body": "One reason so many women showed up to tryouts was money. Dr. Heaphy says paychecks ran from $45 up to $85 a week, which was strong pay in the 1940s even compared with what young men earned. For a farm girl from Iowa or a factory worker from Ontario, that was life changing.\n\nThe tryouts were technically open to anyone, but Dr. Heaphy points out that the league never put its color line in writing. It didn't need to. No woman of color ever played in the AAGPBL, and the film only hints at this in a single scene. The real league drew its talent from white amateur softball circuits in the United States and Canada.",
+          "quote": {
+            "text": "There's the making money, and there was $45 to up to $85 in terms of paycheck.",
+            "speaker": "Dr. Leslie Heaphy",
+            "timestamp": "26:19"
+          }
+        },
+        {
+          "heading": "The charm school was real, but short lived",
+          "body": "The scenes where players learn to walk, sit, and apply lipstick came straight from history. Wrigley did set up a charm school, and the players' rules of conduct required feminine dress off the field, no slacks or shorts, well groomed hair, and lipstick at all times. Dr. Heaphy notes that the charm school itself only ran during the first year, though the appearance rules stuck around.\n\nThe game on the field also changed a lot over twelve seasons. It began as something closer to softball, with underhand pitching and a big ball. By 1946 sidearm throwing was allowed, and in 1948 pitchers switched to overhand. By the final season the ball was nine inches around and the base paths were 85 feet, nearly the same as men's baseball.",
+          "quote": {
+            "text": "The other decision it really made, which was an interesting one, was to create the Charm School that everybody remembers from the movie.",
+            "speaker": "Dr. Leslie Heaphy",
+            "timestamp": "18:54"
+          }
+        },
+        {
+          "heading": "Television, not the end of the war, killed the league",
+          "body": "A common assumption is that the league folded as soon as the men came home in 1945. It didn't. The AAGPBL kept going for nine more seasons. What changed was the entertainment landscape. Dr. Heaphy argues the biggest cause of the league's collapse was television, which gave families a reason to stay home and gave them major league games to watch instead.\n\nOnce people had a choice between a night at the ballpark and a game on the screen at home, the smaller Midwestern teams couldn't compete. After the 1954 season the league folded for good, and for decades the story faded from public memory.",
+          "quote": {
+            "text": "I believe that one of the biggest causes for the end of the league is the advance of television.",
+            "speaker": "Dr. Leslie Heaphy",
+            "timestamp": "31:03"
+          }
+        },
+        {
+          "heading": "How a documentary led to the 1992 film",
+          "body": "The revival came from the players themselves and from a documentary about the league that director Penny Marshall saw. Kelly explains that Marshall was inspired by that documentary and by her own conversations with former players to make the movie.\n\nA League of Their Own opened in July 1992 and pulled in $13.2 million on its first weekend. It turned a forgotten league into a household story. The film's characters are composites rather than real players, and it compresses twelve seasons into one, but the core facts hold up: a wartime women's league, real professional salaries, strict rules about femininity, and players who were genuinely good at baseball.",
+          "quote": {
+            "text": "Marshall was inspired by a documentary about the league and by her conversations with players to make a movie.",
+            "speaker": "Kelly Therese Pollock",
+            "timestamp": "09:16"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "The AAGPBL was a real professional league that ran twelve seasons, from 1943 to 1954, with over 600 players.",
+        "Philip K. Wrigley started it as a temporary wartime substitute in case the draft shut down men's baseball.",
+        "Players earned $45 to $85 a week, but the league quietly excluded women of color.",
+        "The charm school and femininity rules in the film were real, though the school itself only lasted one year.",
+        "Television, not the return of male players, was the biggest reason the league folded."
+      ],
+      "faq": [
+        {
+          "q": "Were the Rockford Peaches a real team?",
+          "a": "Yes. The Rockford Peaches were one of the four original 1943 teams, along with the South Bend Blue Sox, Kenosha Comets, and Racine Belles. They played in every season of the league's existence."
+        },
+        {
+          "q": "Did the women play baseball or softball?",
+          "a": "It started as a hybrid closer to softball, with underhand pitching and a larger ball. Rules changed almost every year, and by 1954 the league used a nine inch ball, overhand pitching, and 85 foot base paths."
+        },
+        {
+          "q": "Are Dottie Hinson and Jimmy Dugan real people?",
+          "a": "No. The film's characters are fictional composites. Penny Marshall drew on a documentary and interviews with real players, but she didn't portray specific individuals by name."
+        }
+      ],
+      "sourceNote": "Based on the Unsung History episode 'The All-American Girls Professional Baseball League' with guest Dr. Leslie Heaphy, released July 13, 2026. Credit to host Kelly Therese Pollock and Unsung History."
+    }
+  ]
+}

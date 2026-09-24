@@ -1,0 +1,127 @@
+{
+  "slug": "food-friends-home-cooking-made-easy",
+  "title": "Food Friends: Home Cooking Made Easy",
+  "author": "Sonya Sanford and Kari Lauritzen",
+  "description": "Two former personal chefs share trusted recipes, tips and friendship through twice-weekly episodes featuring seasonal cooking solutions and expert guest interviews.",
+  "category": "food",
+  "website": "https://www.foodfriendspodcast.com/",
+  "feedUrl": "https://feeds.captivate.fm/food-friends-podcast/",
+  "imageUrl": "https://artwork.captivate.fm/b87e0f40-2107-43dc-b309-d646111dd6a4/food-friends-ppot.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/food-friends-home-cooking-made-easy/id1651167933",
+  "spotifyUrl": "https://open.spotify.com/show/38CTpGxjKS54CBIIeHereQ",
+  "episodes": [
+    {
+      "guid": "e4ef1ae2-22b0-464b-bd10-824d5656f318",
+      "title": "8 Make-Ahead Salads for Fall",
+      "publishedAt": "2026-09-15",
+      "summary": "Eight salads that hold up in the fridge all week, built on fall produce. Sonya and Kari cover which vegetables prep well in advance, how to keep them crisp, and how to layer textures and flavor for lunches and potlucks.",
+      "audioUrl": "https://episodes.captivate.fm/episode/e4ef1ae2-22b0-464b-bd10-824d5656f318.mp3",
+      "durationSec": 1599,
+      "episodeUrl": "https://www.foodfriendspodcast.com/episodes/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "06c0cff9-7d17-47c2-bb0f-15db0867c7e0",
+      "title": "Cookbook Club, Fig & Almond Cake + A Vegetarian Phyllo Pie",
+      "publishedAt": "2026-09-10",
+      "summary": "Seasonal cookbook picks and the week's best bites, including David Tanis' fig and almond cake and a spiced vegetable phyllo pie with chickpeas and sweet potatoes.",
+      "audioUrl": "https://episodes.captivate.fm/episode/06c0cff9-7d17-47c2-bb0f-15db0867c7e0.mp3",
+      "durationSec": 1139,
+      "episodeUrl": "https://www.foodfriendspodcast.com/episodes/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "1c1e45f5-093a-4ef2-8dce-8c88ec3aae51",
+      "title": "What to Cook on Busy Weeknights: 6 Dinners, with Maggie Hoffman",
+      "publishedAt": "2026-09-08",
+      "summary": "Guest Maggie Hoffman shares meal-planning strategies and six quick fall dinners including gochujang-sesame noodles, sheet-pan harissa chicken and pasta e ceci.",
+      "audioUrl": "https://episodes.captivate.fm/episode/1c1e45f5-093a-4ef2-8dce-8c88ec3aae51.mp3",
+      "durationSec": 2196,
+      "episodeUrl": "https://www.foodfriendspodcast.com/episodes/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "7de62bf3-0f76-469b-a3b2-bc0a5d2c468d",
+      "title": "Easy Pickles, Quick Broccoli & Carrot Cake, with Leah Koenig",
+      "publishedAt": "2026-09-03",
+      "summary": "A quick refrigerator pickle that works with almost any vegetable, a restaurant-inspired broccoli crostini for meatless dinners, and author Leah Koenig's easy carrot-date cake.",
+      "audioUrl": "https://episodes.captivate.fm/episode/7de62bf3-0f76-469b-a3b2-bc0a5d2c468d.mp3",
+      "durationSec": 1504,
+      "episodeUrl": "https://www.foodfriendspodcast.com/episodes/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ef8f40fa-a520-438a-8fea-3ed4c80b34d1",
+      "title": "Hosting this Fall? Four Menus for Seasonal Cooking at Home",
+      "publishedAt": "2026-09-01",
+      "summary": "Four complete fall entertaining menus built around advance prep, including Rosh Hashanah classics, a vegetarian pizza party and a roast chicken dinner with make-ahead components.",
+      "audioUrl": "https://episodes.captivate.fm/episode/ef8f40fa-a520-438a-8fea-3ed4c80b34d1.mp3",
+      "durationSec": 2294,
+      "episodeUrl": "https://www.foodfriendspodcast.com/episodes/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ed4300ab-f383-4022-8b4a-70d781bf9985",
+      "title": "One-Pot Meatballs & Greens + Two Italian Cookies",
+      "publishedAt": "2026-08-27",
+      "summary": "A weeknight one-pot of lemony meatballs with greens, plus double-chocolate biscotti that freeze well and Italian butter cookies for entertaining.",
+      "audioUrl": "https://episodes.captivate.fm/episode/ed4300ab-f383-4022-8b4a-70d781bf9985.mp3",
+      "durationSec": 795,
+      "episodeUrl": "https://www.foodfriendspodcast.com/episodes/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-salads-can-you-make-ahead-for-the-week",
+      "question": "What salads can you make ahead for the week?",
+      "metaDescription": "Former personal chefs Sonya and Kari of Food Friends share eight fall salads that hold up in the fridge for days, plus how to keep them crisp.",
+      "episodeGuid": "e4ef1ae2-22b0-464b-bd10-824d5656f318",
+      "intro": "The salads that survive a week in the fridge are built on grains, beans, lentils and sturdy fall vegetables, not lettuce. On Food Friends: Home Cooking Made Easy, former personal chefs Sonya Sanford and Kari Lauritzen walk through eight make-ahead salads that hold up beautifully, and the handful of techniques that keep them crisp instead of soggy.",
+      "sections": [
+        {
+          "heading": "Start with produce that gets better after a day",
+          "body": "The hosts explain that the first decision is which vegetables to build around. Fall is the easy season for this. Fennel, apples, celery, radicchio, cauliflower, green beans and hardy herbs all hold their crunch or their structure for days, and some taste better once they've had time to sit in a dressing.\n\nThe things to avoid are the obvious ones: delicate greens that wilt within hours and anything that weeps water into the bowl. If you want leafy greens in a make-ahead salad, the hosts' approach is to add them at serving time rather than at prep time.\n\nThe other move is to lean on ingredients that were never going to wilt anyway. Cooked grains, lentils, beans and pasta are the backbone of most of the eight salads in the episode. They absorb dressing overnight instead of collapsing under it, which is why grain and bean salads are the classic potluck dish.",
+          "quote": null
+        },
+        {
+          "heading": "The eight salads from the episode",
+          "body": "Here's the lineup Sonya and Kari share, each chosen because it holds up in the fridge:\n\n1. **Sonya's fennel, apple, celery and pomegranate salad.** All crunchy produce, so it stays crisp for days.\n2. **Honey and harissa farro salad** (Deb Perelman). A chewy grain base with a sweet-spicy dressing.\n3. **Quinoa with caramelized corn and scallions** (Lauryn Tyrell). Quinoa soaks up flavor overnight.\n4. **Four bean salad with green romesco** (Alison Roman). Beans plus a punchy herb sauce.\n5. **Warm green bean and lentil salad** (Ottolenghi). Works warm or cold from the fridge.\n6. **Lentil salad with roasted radicchio and cauliflower** (Alexandra Stafford). Roasted vegetables that don't mind a few days' rest.\n7. **Pearled couscous and tomato salad** (Baked By Melissa). Pearl couscous stays springy.\n8. **Ravioli and tomato salad with masses of basil** (Deborah Madison). A pasta salad that actually tastes like summer's last tomatoes.\n\nNotice the pattern: every one of them has a grain, a legume, a pasta or an all-crunchy vegetable base. That's the rule of thumb for anything you want to eat on Thursday that you made on Sunday.",
+          "quote": null
+        },
+        {
+          "heading": "Keeping vegetables crisp and textures interesting",
+          "body": "The episode's second promise is simple techniques for keeping vegetables crisp, layering textures and maximizing flavor. The hosts' advice comes down to a few habits:\n\n- **Keep crunchy things crunchy.** Nuts, seeds and anything toasted go on at serving time, or get stored separately, so they don't soften in the dressing.\n- **Layer textures on purpose.** A good make-ahead salad has something chewy (the grain), something creamy (beans, cheese or a soft vegetable), something crisp (fennel, apple, celery) and something bright (herbs, citrus, pomegranate).\n- **Dress the sturdy parts early and the delicate parts late.** Grains and beans can marinate overnight. Herbs and greens should be folded in just before eating.\n- **Cut for the fridge, not the plate.** Slightly larger pieces of vegetables hold up better over several days than a fine dice.\n\nThe hosts explain that the flavor payoff is real. Grains and beans that sit in an acidic, well-seasoned dressing overnight taste more seasoned on day two than on day one.",
+          "quote": null
+        },
+        {
+          "heading": "Turning one salad into lunches, sides and a potluck dish",
+          "body": "The point of the episode is that these salads are flexible. The same farro or lentil salad is a weekday lunch on its own, a side for roast chicken at dinner, and the dish you bring to a potluck or a holiday table without having to cook the morning of.\n\nA practical rhythm the hosts' approach suggests: make two of the eight on Sunday, one grain-based and one bean- or lentil-based. Store them in wide containers so nothing gets crushed, keep the crunchy toppings and fresh herbs in a separate container, and assemble bowls as you go. Add a protein like leftover chicken or a boiled egg if you want a bigger meal.\n\nDone that way, a single hour of prep covers most of a busy fall week.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Salads that last a week are built on grains, beans, lentils, pasta or all-crunchy vegetables, not tender greens.",
+        "Fall produce like fennel, apple, celery, radicchio and cauliflower holds up for days and often improves in the dressing.",
+        "Store nuts, seeds, herbs and delicate greens separately and add them at serving time.",
+        "Layer chewy, creamy, crisp and bright elements so the salad stays interesting on day three.",
+        "Make two salads on Sunday, one grain-based and one legume-based, and you've covered lunches and sides for the week."
+      ],
+      "faq": [
+        {
+          "q": "How long do make-ahead salads last in the fridge?",
+          "a": "Grain, bean and lentil salads like the ones in the episode are designed to hold up all week. Keep crunchy toppings and fresh herbs separate to extend that."
+        },
+        {
+          "q": "Can you dress a salad the night before?",
+          "a": "Yes, for sturdy salads. Sonya and Kari's picks are built on grains, beans and hardy vegetables that absorb dressing overnight rather than wilting. Save the greens and herbs for serving time."
+        },
+        {
+          "q": "What's a good make-ahead salad for a potluck?",
+          "a": "The bean and grain options, like the four bean salad with green romesco or the honey and harissa farro salad, travel well and don't need to be served cold."
+        }
+      ],
+      "sourceNote": "Based on the Food Friends: Home Cooking Made Easy episode \"8 Make-Ahead Salads for Fall\", released September 15, 2026, hosted by Sonya Sanford and Kari Lauritzen."
+    }
+  ]
+}

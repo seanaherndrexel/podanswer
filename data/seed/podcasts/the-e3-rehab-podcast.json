@@ -1,0 +1,127 @@
+{
+  "slug": "the-e3-rehab-podcast",
+  "title": "The E3 Rehab Podcast",
+  "author": "E3 Rehab",
+  "description": "Doctors of Physical Therapy who specialize in rehabilitation, performance and injury risk reduction, offering evidence-based education to help you overcome setbacks and reach your goals.",
+  "category": "health",
+  "website": "http://e3rehab.com",
+  "feedUrl": "https://rss.libsyn.com/shows/215930/destinations/1566185.xml",
+  "imageUrl": "https://static.libsyn.com/p/assets/4/1/2/5/4125c7b968e61160bafc7308ab683e82/New_Podcast_Cover.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-e3-rehab-podcast/id1484112288",
+  "spotifyUrl": "https://open.spotify.com/show/5ZbaI145Bk94Guq7olMJIA",
+  "episodes": [
+    {
+      "guid": "538e3459-0752-4dbf-86ae-e56b6267247e",
+      "title": "270. Overrated vs. Underrated: ACL Edition w/ Laura Opstedal",
+      "publishedAt": "2026-09-15",
+      "summary": "Chris Hughen and Laura Opstedal sort ACL rehab tools into overrated and underrated, including neuromuscular electrical stimulation, blood flow restriction and force plate testing.",
+      "audioUrl": "https://traffic.libsyn.com/secure/e3rehab/270._Laura_Opstedal.mp3?dest-id=1566185",
+      "durationSec": 2740,
+      "episodeUrl": "https://e3rehab.libsyn.com/270-overrated-vs-underrated-acl-edition-w-laura-opstedal",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "3f4ac74c-fbf3-46f2-b781-76e8bc87bfec",
+      "title": "269. All Things Jump Training (Part 2) w/ Eamonn Flanagan",
+      "publishedAt": "2026-09-08",
+      "summary": "Part two with performance specialist Eamonn Flanagan on types of jump training, how to manipulate them and how to test progress.",
+      "audioUrl": "https://traffic.libsyn.com/secure/e3rehab/269._Eamonn_Flanagan_Part_2-.mp3?dest-id=1566185",
+      "durationSec": 3524,
+      "episodeUrl": "https://e3rehab.libsyn.com/269-all-things-jump-training-part-2-w-eamonn-flanagan",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "37eb9228-0415-4380-99ea-a73cdb67a38c",
+      "title": "268. ACL Prehab w/ Marc Surdyka and Chris Hughen",
+      "publishedAt": "2026-09-01",
+      "summary": "Marc Surdyka and Chris Hughen lay out the five priorities of phase 1 ACL prehab: limiting pain and swelling, restoring knee extension and flexion, improving quad function and normalizing walking. They also cover phase 2 and non-operative management.",
+      "audioUrl": "https://traffic.libsyn.com/secure/e3rehab/268._Marc_and_Chris_ACL_Prehab.mp3?dest-id=1566185",
+      "durationSec": 3979,
+      "episodeUrl": "https://e3rehab.libsyn.com/268-acl-prehab-w-marc-surdyka-and-chris-hughen",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "8514bc22-d0bd-40a6-8975-1be54bad608c",
+      "title": "267. Hamstring Rehab Pathway w/ Dermot Simpson",
+      "publishedAt": "2026-08-25",
+      "summary": "Dermot Simpson walks through the Aspetar hamstring rehab pathway paper: initial assessment, clinical tests, progressive training and the milestones that mark recovery.",
+      "audioUrl": "https://traffic.libsyn.com/secure/e3rehab/267._Dermot_Simpson.mp3?dest-id=1566185",
+      "durationSec": 3414,
+      "episodeUrl": "https://e3rehab.libsyn.com/267-hamstring-rehab-pathway-w-dermot-simpson",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "4b21a9b7-3758-47c8-bffb-7a54efcb6a63",
+      "title": "266. Rectus Femoris / Quadriceps Rehab w/ Simon Wallace",
+      "publishedAt": "2026-08-18",
+      "summary": "Simon Wallace presents the Aspetar rectus femoris rehab pathway, covering examination, clinical assessment, progressive interventions and recovery milestones.",
+      "audioUrl": "https://traffic.libsyn.com/secure/e3rehab/266._Simon_Wallace.mp3?dest-id=1566185",
+      "durationSec": 3515,
+      "episodeUrl": "https://e3rehab.libsyn.com/266-rectus-femoris-quadriceps-rehab-w-simon-wallace",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "cffd1e01-3ac4-4e75-a83e-510bd3e3b1c3",
+      "title": "265. All Things Plyometrics w/ Eamonn Flanagan",
+      "publishedAt": "2026-08-11",
+      "summary": "Eamonn Flanagan and Chris Hughen cover plyometric fundamentals, strength qualities, intensive versus extensive methods and how to progress.",
+      "audioUrl": "https://traffic.libsyn.com/secure/e3rehab/265._Eamonn_Flanagan.mp3?dest-id=1566185",
+      "durationSec": 3516,
+      "episodeUrl": "https://e3rehab.libsyn.com/265-all-things-plyometrics-w-eamonn-flanagan",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "should-you-do-physical-therapy-before-acl-surgery",
+      "question": "Should you do physical therapy before ACL surgery?",
+      "metaDescription": "Physical therapists Marc Surdyka and Chris Hughen of The E3 Rehab Podcast explain what ACL prehab is, the five priorities before surgery, and when you might skip surgery.",
+      "episodeGuid": "37eb9228-0415-4380-99ea-a73cdb67a38c",
+      "intro": "Yes. Physical therapists Marc Surdyka and Chris Hughen of The E3 Rehab Podcast make the case that the weeks between an ACL tear and surgery are too valuable to spend on the couch. Prehab calms the knee down, restores motion, wakes up the quad and gets you walking normally, and the research they cite links better pre-op function to better long-term results. It also gives some people enough function to reconsider whether they need surgery at all.",
+      "sections": [
+        {
+          "heading": "The five jobs of phase 1",
+          "body": "The hosts organize the first phase of prehab around five priorities, in rough order.\n\n1. **Keep pain and swelling from getting worse.** A swollen knee shuts down the quad and limits motion, so this comes first. That means respecting the knee, not pushing through sharp pain, and using rest, elevation and gentle movement to settle it.\n2. **Restore full knee extension.** Getting the knee fully straight is the single most important range-of-motion goal. Losing extension before surgery makes it much harder to get back afterward.\n3. **Restore knee flexion.** Bending matters too, but the hosts explain it usually comes along more easily than extension.\n4. **Improve quad function.** The quad tends to go quiet after an ACL injury. Waking it back up is a major focus.\n5. **Normalize walking.** Limping for weeks builds a pattern that has to be undone later. Getting a normal gait back is a goal in itself.\n\nThese five overlap, and progress in one usually helps the others. Less swelling means better extension, which means a stronger quad, which means a better walk.",
+          "quote": null
+        },
+        {
+          "heading": "What the daily work actually looks like",
+          "body": "The episode and its companion guide from E3 Rehab give a practical picture of a phase 1 day.\n\nFor extension, heel props are the workhorse: lie with your heel propped on a rolled towel so the knee hangs straight, and accumulate time in that position throughout the day. The hosts talk in terms of short blocks several times daily rather than one long session. Quad sets, where you press the back of the knee down and hold for several seconds, get done throughout the day too.\n\nFor flexion, heel slides a few times a day and a few minutes on a stationary bike, starting with partial rotations if a full revolution isn't comfortable yet.\n\nFor quad function, short arc quads or light leg extensions for higher reps, with a clear checkpoint: can you do a straight leg raise without the knee sagging? That lag disappearing is a sign the quad is back online.\n\nFor walking, single-leg balance work builds toward longer holds, and the hosts encourage walking with as normal a pattern as the knee allows rather than protecting it with a limp.",
+          "quote": null
+        },
+        {
+          "heading": "Phase 2 is a real training program",
+          "body": "Once the knee is calm, straight and walking normally, prehab becomes something that looks a lot like a strength program. Marc and Chris describe two to three sessions a week built around squats, leg extensions, hamstring work and balance, with plyometrics added later if the knee tolerates them.\n\nThis is where the research they mention comes in. Preoperative quad strength and function are linked to how well people do a year or two after reconstruction. So going into surgery with a strong, well-controlled leg isn't just about comfort in the first week after the operation. It's an investment in the outcome.\n\nThe hosts explain that this phase can also be revealing. Some people get to the end of it, realize their knee feels stable in daily life and in the activities they care about, and start asking whether surgery is still the right call.",
+          "quote": null
+        },
+        {
+          "heading": "When not having surgery is a reasonable option",
+          "body": "The last part of the episode covers non-operative management, which the hosts treat as a legitimate path for the right person rather than a fallback. They point to trials where roughly half of people who started with rehab alone went on to have surgery, while the other half who stuck with rehab had outcomes that were broadly similar.\n\nYou're more likely to be a candidate if you're older, your knee feels stable and functions well after prehab, you don't play cutting and pivoting sports at a competitive level, and the ACL tear is isolated rather than combined with major meniscus or cartilage damage. Younger athletes heading back to level-1 sports are more often steered toward reconstruction.\n\nMarc and Chris also link to the Melbourne ACL Injury Decision Aid, a structured tool for weighing the choice with your surgeon and physical therapist. Their message is that prehab is worth doing either way: it prepares you for a better surgery, or it shows you that you might not need one.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Prehab before ACL surgery is worth doing. Better pre-op quad strength and function are linked to better long-term outcomes.",
+        "Phase 1 has five priorities: calm swelling, restore full extension, restore flexion, wake up the quad, and walk normally.",
+        "Heel props, quad sets, heel slides, a stationary bike and short arc quads make up most of the early daily work.",
+        "A straight leg raise with no lag is the checkpoint that the quad is working again.",
+        "Some people, especially older adults with stable knees who don't play pivoting sports, do well without surgery."
+      ],
+      "faq": [
+        {
+          "q": "How long should ACL prehab last?",
+          "a": "The hosts don't set a fixed number of weeks. Phase 1 continues until the knee is calm, fully straight and walking normally, and phase 2 continues until strength and control are solid, which often means several weeks of consistent training."
+        },
+        {
+          "q": "Is it safe to bike or squat with a torn ACL before surgery?",
+          "a": "According to the episode, yes, as long as swelling and pain stay under control and there's no other structural damage that rules it out. Start light, avoid cutting and pivoting, and check the plan with your physical therapist and surgeon."
+        },
+        {
+          "q": "Can prehab replace ACL surgery?",
+          "a": "For some people it can. Older adults with an isolated tear, a stable-feeling knee and no plans to return to competitive cutting sports often do well non-operatively. Younger athletes in pivoting sports are usually advised to have reconstruction."
+        }
+      ],
+      "sourceNote": "Based on episode 268, \"ACL Prehab w/ Marc Surdyka and Chris Hughen,\" from The E3 Rehab Podcast, published September 1, 2026."
+    }
+  ]
+}

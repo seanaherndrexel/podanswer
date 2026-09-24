@@ -1,0 +1,119 @@
+{
+  "slug": "productivity-podcast",
+  "title": "PRODUCTIVITY",
+  "author": "Brandon White",
+  "description": "The PRODUCTIVITY Podcast brings you science backed productivity tactics, techniques, and procedures that work so you can get the most out of your time, talent and ideas.",
+  "category": "productivity",
+  "website": "https://theproductivitypodcast.com",
+  "feedUrl": "https://rss.buzzsprout.com/2154246.rss",
+  "imageUrl": "https://storage.buzzsprout.com/55b8se0egh97kbdj76nsga5ig0c8?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/productivity/id1694396715",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19645036",
+      "title": "Zapier AI: How to Put Your Busywork on Autopilot With AI",
+      "publishedAt": "2026-08-14",
+      "summary": "Brandon explains what Zapier AI is, what a 2025 study of 5,172 support agents found about plugging AI into existing workflows, and three protocols for automating email triage, form follow-ups and content repurposing.",
+      "audioUrl": "https://www.buzzsprout.com/2154246/episodes/19645036-zapier-ai-how-to-put-your-busywork-on-autopilot-with-ai.mp3",
+      "durationSec": 307,
+      "episodeUrl": "https://www.buzzsprout.com/2154246/episodes/19645036",
+      "transcriptUrl": "https://www.buzzsprout.com/2154246/19645036/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19411822",
+      "title": "Job Crafting: Why This Is the Best Approach for Your Team",
+      "publishedAt": "2026-06-28",
+      "summary": "A look at job crafting research showing how letting employees reshape their own roles raises productivity, with three protocols for putting it into practice.",
+      "audioUrl": "https://www.buzzsprout.com/2154246/episodes/19411822-job-crafting-why-this-is-the-best-approach-for-your-team.mp3",
+      "durationSec": 248,
+      "episodeUrl": "https://www.buzzsprout.com/2154246/episodes/19411822",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19409659",
+      "title": "Metacognition: The Skill Behind Every Skill You'll Ever Build",
+      "publishedAt": "2026-06-26",
+      "summary": "Brandon explores metacognition, the practice of analyzing your own thinking, and shares three protocols for catching errors faster and making sharper decisions.",
+      "audioUrl": "https://www.buzzsprout.com/2154246/episodes/19409659-metacognition-the-skill-behind-every-skill-you-ll-ever-build.mp3",
+      "durationSec": 291,
+      "episodeUrl": "https://www.buzzsprout.com/2154246/episodes/19409659",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19398429",
+      "title": "Why Taking Photos Makes You Forget: The Science of Cognitive Offloading",
+      "publishedAt": "2026-06-24",
+      "summary": "An episode on how photographing moments weakens memory, what cognitive offloading is, and three protocols for staying present and remembering more.",
+      "audioUrl": "https://www.buzzsprout.com/2154246/episodes/19398429-why-taking-photos-makes-you-forget-the-science-of-cognitive-offloading.mp3",
+      "durationSec": 255,
+      "episodeUrl": "https://www.buzzsprout.com/2154246/episodes/19398429",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-you-automate-busywork-with-zapier-ai",
+      "question": "How do you automate busywork with Zapier AI?",
+      "metaDescription": "Brandon White of the PRODUCTIVITY podcast shares three Zapier AI workflows for email triage, form follow-ups and content repurposing, plus what the research says.",
+      "episodeGuid": "Buzzsprout-19645036",
+      "intro": "You automate busywork with Zapier AI by dropping an AI step into a workflow you already run, so it reads the input, makes a decision, and drafts the output before you ever see it. On the PRODUCTIVITY podcast, host Brandon White walks through three specific setups: email triage, form-to-draft follow-ups, and content repurposing. Most of them take a couple of clicks from a template, and Zapier has a free plan to start with.",
+      "sections": [
+        {
+          "heading": "Where the AI step sits in a Zap",
+          "body": "Zapier has been connecting apps for years. What changed is that you can now route data through a language model inside a Zap. Brandon describes the AI step as sitting in the middle of the connections you already have, reading what comes in, deciding what to do with it, and drafting what goes out.\n\nThat means you don't have to rebuild anything. If Gmail already talks to your spreadsheet, or your form tool already talks to your inbox, the AI step slots in between. It can classify an input, generate a draft, or even run as a small autonomous agent.\n\nBrandon points out that Zapier connects over 7,000 apps, so the odds are good that the tools you use daily are already supported.",
+          "quote": {
+            "text": "The AI step sits right in the middle of those connections, reading inputs, making decisions, and drafting outputs",
+            "speaker": "Brandon White",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "What a 5,172-person study found",
+          "body": "Before getting into the protocols, Brandon grounds the episode in research. He cites a 2025 study in the Quarterly Journal of Economics that tracked 5,172 customer support agents who got access to an AI assistant plugged into their existing workflow.\n\nThe headline result: workers with the tool resolved 15 percent more issues per hour on average. The more interesting finding is who benefited most. Less experienced workers improved by significantly more than veterans, because the AI effectively surfaced the habits of the top performers and handed them to everyone else.\n\nBrandon's takeaway is that you don't need to be the most experienced person in the room. You need to wire the right AI step into the right place.",
+          "quote": {
+            "text": "Workers with access to the tool resolved 15% more issues per hour on average",
+            "speaker": "Brandon White",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Protocol 1: let AI sort your inbox",
+          "body": "The first protocol is email triage. Route incoming Gmail messages through an AI step that classifies each one, for example as \"urgent, follow-up needed\" or \"no action.\" The result gets pushed to a Google Sheet or a Slack channel.\n\nYou still read your email. The difference is that the sorting has already happened, so you open your inbox knowing which three messages actually need you today and which forty can wait or be archived. For anyone who spends the first hour of the day wading through mail, this is the quickest win of the three.",
+          "quote": null
+        },
+        {
+          "heading": "Protocols 2 and 3: drafts from forms and content that multiplies",
+          "body": "The second protocol is a form-to-content pipeline. When someone fills out a form on your site, the submission feeds into an AI step that drafts the follow-up email or a content brief based on what they wrote. The draft lands in a Google Doc or your email composer. As Brandon puts it, you're not writing from scratch. You're editing a draft that already knows the context.\n\nThe third protocol is content repurposing. Pull the title and description of a new blog post or podcast episode, run it through AI to generate three social variants (a LinkedIn post, a short-form caption, and a thread), and drop them into Trello or Notion for review. The post you spent two hours writing goes three more places before you close the tab.\n\nBrandon stresses that Zapier's template library means most of these Zaps are two clicks to set up, and the free plan is enough to test all three.",
+          "quote": {
+            "text": "You're not writing from scratch. You're editing a draft that already knows the context",
+            "speaker": "Brandon White",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Add an AI step to a Zap you already run instead of building a new system from scratch.",
+        "A 2025 study of 5,172 support agents found a 15 percent gain in issues resolved per hour, with the biggest gains for less experienced workers.",
+        "Start with email triage: classify incoming mail as urgent or no-action and push results to a sheet or Slack.",
+        "Use form submissions to trigger AI-drafted follow-up emails so you edit rather than write.",
+        "Repurpose every blog post or episode into three social variants automatically."
+      ],
+      "faq": [
+        {
+          "q": "Do I need a paid Zapier plan to use the AI step?",
+          "a": "Brandon notes that Zapier has a free plan and that most of the Zaps he describes come straight from the template library, so you can test them before paying anything."
+        },
+        {
+          "q": "Will AI triage delete or reply to my emails without me?",
+          "a": "Not in the setup he describes. The AI step classifies messages and logs the result to a sheet or Slack. You still decide what to do with each one."
+        },
+        {
+          "q": "Which workflow should I automate first?",
+          "a": "Pick the one that eats the most of your morning. For most people that's email, which is why Brandon lists inbox triage as protocol one."
+        }
+      ],
+      "sourceNote": "Based on the PRODUCTIVITY podcast episode \"Zapier AI: How to Put Your Busywork on Autopilot With AI,\" released August 14, 2026, hosted by Brandon White."
+    }
+  ]
+}

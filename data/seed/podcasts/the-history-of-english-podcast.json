@@ -1,0 +1,148 @@
+{
+  "slug": "the-history-of-english-podcast",
+  "title": "The History of English Podcast",
+  "author": "Kevin Stroud",
+  "description": "The Spoken History of a Global Language. A chronological history of the English language, examined through the historical events that shaped it.",
+  "category": "history",
+  "website": "https://historyofenglishpodcast.com",
+  "feedUrl": "https://historyofenglishpodcast.com/feed/podcast/",
+  "imageUrl": "https://historyofenglishpodcast.com/wp-content/uploads/powerpress/HOE-Cover8a.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-history-of-english-podcast/id1618231428",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "https://historyofenglishpodcast.com/?p=1602",
+      "title": "Episode 190: Union, Division and Unusual U",
+      "publishedAt": "2026-06-30",
+      "summary": "Set against the English Civil War of the 1640s, this episode explains how the letter U split into several distinct long and short sounds. Kevin traces the origin of the difference between words like put and cut, and why northern England never picked up the change.",
+      "audioUrl": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep190-Union-Division.mp3",
+      "durationSec": 4776,
+      "episodeUrl": "https://historyofenglishpodcast.com/2026/06/30/episode-190-union-division-and-unusual-u/",
+      "transcriptUrl": "https://historyofenglishpodcast.com/wp-content/uploads/2026/07/HOE-Transcript-Episode190.pdf"
+    },
+    {
+      "guid": "https://historyofenglishpodcast.com/?p=1594",
+      "title": "Episode 189: Stressed Out",
+      "publishedAt": "2026-04-30",
+      "summary": "Wraps up the 1630s with the run-up to the English Civil War and colonial expansion along the North American coast, then looks at how syllable stress has shifted in English and why modern speakers stress some words differently.",
+      "audioUrl": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep189-Stressed-Out-C.mp3",
+      "durationSec": 4961,
+      "episodeUrl": "https://historyofenglishpodcast.com/2026/04/30/episode-189-stressed-out/",
+      "transcriptUrl": "https://historyofenglishpodcast.com/wp-content/uploads/2026/05/HOE-Transcript-Episode189.pdf"
+    },
+    {
+      "guid": "https://historyofenglishpodcast.com/?p=1588",
+      "title": "Episode 188: Old England and New England",
+      "publishedAt": "2026-02-27",
+      "summary": "Follows the early 1600s migration of English settlers to the Massachusetts Bay Colony and explores the linguistic ties between New England and East Anglia, showing how regional English dialects shaped early American speech.",
+      "audioUrl": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep188-Old-England-and-New-England2.mp3",
+      "durationSec": 5042,
+      "episodeUrl": "https://historyofenglishpodcast.com/2026/02/27/episode-188-old-england-and-new-england/",
+      "transcriptUrl": "https://historyofenglishpodcast.com/wp-content/uploads/2026/02/HOE-Transcript-Episode188.pdf"
+    },
+    {
+      "guid": "https://historyofenglishpodcast.com/?p=1584",
+      "title": "Episode 187: Islands and Sea",
+      "publishedAt": "2025-12-31",
+      "summary": "Looks at how seafaring vocabulary entered English in the early 1600s, alongside the settlement of the Caribbean and Charles I's early clashes with Parliament.",
+      "audioUrl": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep187-Islands-and-Sea.mp3",
+      "durationSec": 4360,
+      "episodeUrl": "https://historyofenglishpodcast.com/2025/12/31/episode-187-islands-and-sea/",
+      "transcriptUrl": "https://historyofenglishpodcast.com/wp-content/uploads/2026/01/HOE-Transcript-Episode187.pdf"
+    },
+    {
+      "guid": "https://historyofenglishpodcast.com/?p=1573",
+      "title": "Episode 186: A Dutch Treat",
+      "publishedAt": "2025-10-31",
+      "summary": "Covers the Pilgrims at Plymouth and the Dutch settlement of what became New York and New Jersey, and documents the Dutch words that made their way into American English.",
+      "audioUrl": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep186-Dutch-Treat2.mp3",
+      "durationSec": 5159,
+      "episodeUrl": "https://historyofenglishpodcast.com/2025/10/31/episode-186-a-dutch-treat/",
+      "transcriptUrl": "https://historyofenglishpodcast.com/wp-content/uploads/2025/11/HOE-Transcript-Episode186.pdf"
+    },
+    {
+      "guid": "https://historyofenglishpodcast.com/?p=1569",
+      "title": "Episode 185: Spelling Says a Lot (Part 2)",
+      "publishedAt": "2025-09-01",
+      "summary": "Continues the survey of early 1600s letter sounds from K through Z, tracing how each sound changed through the Modern English period and what that means for pronunciation today.",
+      "audioUrl": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep185-Spelling-Says-A-Lot2.mp3",
+      "durationSec": 4651,
+      "episodeUrl": "https://historyofenglishpodcast.com/2025/09/01/episode-185-spelling-says-a-lot-part-2/",
+      "transcriptUrl": "https://historyofenglishpodcast.com/wp-content/uploads/2025/08/HOE-Transcript-Episode185.pdf"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-do-put-and-cut-have-different-vowel-sounds",
+      "question": "Why do 'put' and 'cut' have different vowel sounds?",
+      "metaDescription": "Put and cut split apart in southern England around 1600. Kevin Stroud of The History of English Podcast explains the foot-strut split and why the north kept the old sound.",
+      "episodeGuid": "https://historyofenglishpodcast.com/?p=1602",
+      "intro": "Because they used to sound the same, and then southern English speakers changed one of them. Around the late 1500s and early 1600s, people in the south of England stopped rounding their lips on the short U in words like cut and cup, which created a brand new vowel. On The History of English Podcast, host Kevin Stroud explains where that split came from, why put and bull escaped it, and why you can still hear the old sound in northern England today.",
+      "sections": [
+        {
+          "heading": "One short U became two",
+          "body": "For most of the history of English, the short U in put and the short U in cut were the same vowel, a rounded 'uh' sound made with the lips pushed forward. Stroud explains that starting in the late 1500s, some speakers in southern England dropped the lip rounding and let the tongue flatten out. The result was a new vowel, the one most English speakers today use in cut, cup, luck and but.\n\nLinguists call this the foot-strut split, because foot kept the old rounded vowel while strut moved to the new one. Stroud's example is even simpler: put versus putt. Same three consonant sounds, two different vowels, and the only reason is that one word changed and the other didn't.",
+          "quote": {
+            "text": "Some speakers stopped rounding their lips when they pronounced that sound. Linguists would say that is became 'unrounded.' And in doing so, the tongue also started to flatten out a bit.",
+            "speaker": "Kevin Stroud",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "A spelling reformer noticed it in 1644",
+          "body": "Sound changes don't leave recordings, so historians of English rely on people who wrote about pronunciation at the time. Stroud points to Richard Hodges, who published a phonetic spelling system in 1644. Hodges used two different characters for the two short U sounds, which is the first clear written evidence that southern speakers heard put and cut as different vowels.\n\nThat's why the episode places the split in the Civil War era. The change was probably underway for a generation or two before Hodges described it, but by the 1640s it was established enough for a careful observer to build it into a spelling system.",
+          "quote": {
+            "text": "But we don't get a clear description of the change until Richard Hodges in 1644. In his phonetic spelling system, he represented these two 'short' vowel sounds of letter U with two different characters.",
+            "speaker": "Kevin Stroud",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Why put, push, bull and butcher didn't change",
+          "body": "If the new vowel spread through southern English, why didn't put become 'putt'? Stroud's answer is the consonant in front of the vowel. When the short U came after a P or B sound, the lips were already rounded and pushed together, and speakers tended to keep the old rounded vowel rather than switching.\n\nThat single rule explains a long list of apparent exceptions: put, push, pull, and pudding after P; bull, bullet, bush and butcher after B. It isn't a perfect rule, and there are a handful of words that went the other way, but it covers most of the cases that trip up learners. Stroud also touches on sugar and sure, where an old 'h' glide survived after the S and helped keep those words sounding the way they do.",
+          "quote": {
+            "text": "But it didn't tend to happen when the [u] was preceded by a 'p' sound or 'b' sound.",
+            "speaker": "Kevin Stroud",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "The north of England never made the switch",
+          "body": "The unrounded vowel was a southern innovation, and it never spread to the north of England. Stroud explains that this is why northern speakers today pronounce cup, up and luck with the older rounded vowel, so that cut and put rhyme for them. To southern ears and to most Americans, it sounds like a northerner is saying 'coop' for cup, but it's actually the older pronunciation. The south is the one that changed.\n\nThis is one of the clearest dividing lines between northern and southern English accents, and it's a good example of a general pattern: when a sound change starts in one region, the places it doesn't reach end up preserving the older form.",
+          "quote": null
+        },
+        {
+          "heading": "The long U had its own story",
+          "body": "The episode also covers the long U, which developed differently. Words like moot, with the 'oo' spelling, came through the Great Vowel Shift from Old English. Words like mute and unity came in from French and Latin, and they picked up a little 'y' glide at the front of the vowel. Stroud notes that unity and university were once pronounced 'oonity' and 'ooniversity,' with a plain 'oo' like most other European languages, before that glide developed.\n\nSo the letter U in modern English carries at least four sounds: the old rounded short U in put, the newer unrounded one in cut, the plain long 'oo' in rule, and the glided 'yoo' in mute. All four trace back to changes that were underway or complete by the middle of the 1600s.",
+          "quote": {
+            "text": "The 'h' sound was obviously lost in the word suit, but it survives in some other words spelled with [s-u] like sugar and sure (s-u-r-e).",
+            "speaker": "Kevin Stroud",
+            "timestamp": null
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Put and cut had the same rounded vowel until southern English speakers unrounded it in the late 1500s and early 1600s.",
+        "The first clear written description of the two sounds comes from Richard Hodges' phonetic spelling system in 1644.",
+        "Words with a P or B before the vowel, like put, pull, bull and butcher, mostly kept the older sound.",
+        "Northern England never adopted the new vowel, which is why cut and put still rhyme there.",
+        "The long U in rule and the 'yoo' in mute came from separate developments, so the letter U now carries several sounds."
+      ],
+      "faq": [
+        {
+          "q": "What is the foot-strut split?",
+          "a": "It's the name linguists give to the point where the short U in foot and the short U in strut stopped being the same vowel. It happened in southern England around 1600 and spread to most later varieties of English, including American English."
+        },
+        {
+          "q": "Do northern English accents really say 'cut' and 'put' the same way?",
+          "a": "Yes. Northern speakers generally use the older rounded vowel in both words, so they rhyme. That's not a mistake or a shortcut; it's the pronunciation English had before the southern change."
+        },
+        {
+          "q": "Why does 'butcher' rhyme with 'put' and not 'cut'?",
+          "a": "Because the vowel follows a B sound. Kevin Stroud explains that after P or B the lips were already rounded, so speakers tended to keep the old vowel. The same thing happened in bull, bullet, push and pull."
+        }
+      ],
+      "sourceNote": "Based on The History of English Podcast, Episode 190: 'Union, Division and Unusual U,' released June 30, 2026. Credit to host Kevin Stroud and The History of English Podcast."
+    }
+  ]
+}

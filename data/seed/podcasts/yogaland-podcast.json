@@ -1,0 +1,131 @@
+{
+  "slug": "yogaland-podcast",
+  "title": "Yogaland Podcast",
+  "author": "Andrea Ferretti and Jason Crandell",
+  "description": "A down-to-earth podcast exploring yoga technique, philosophy, and practical tools for balanced living. Features conversations with experts and solo episodes on evidence-based approaches to movement and mindfulness.",
+  "category": "fitness",
+  "website": "http://www.jasonyoga.com/podcast",
+  "feedUrl": "https://rss.acast.com/yogaland",
+  "imageUrl": "https://assets.pippa.io/shows/61433a0ff581aa62a3520e2a/1633450578484-970649ae89b3a1880791778ca0f23753.jpeg",
+  "appleUrl": "https://podcasts.apple.com/gb/podcast/yogaland-podcast/id1105565152",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "6a694dbd0ee147a124c4b960",
+      "title": "Yoga Philosophy Explained — The 6 Core Teachings That Unite Every Tradition",
+      "publishedAt": "2026-07-29",
+      "summary": "Jason identifies six philosophical teachings that show up across yoga traditions, from Hatha to Bhakti, using scholarship and Sanskrit etymology to build a real framework rather than a slogan.",
+      "audioUrl": "https://sphinx.acast.com/p/acast/s/yogaland/e/6a694dbd0ee147a124c4b960/media.mp3",
+      "durationSec": 1988,
+      "episodeUrl": "https://jasonyoga.com/podcast/episode394",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6a610a8522500f7120c0a54d",
+      "title": "Your Twists Are Missing This",
+      "publishedAt": "2026-07-23",
+      "summary": "Most yoga twists rotate the spine passively using the arms and legs as levers. Jason teaches active spinal rotation with resistance bands to engage the deep stabilizers.",
+      "audioUrl": "https://sphinx.acast.com/p/acast/s/yogaland/e/6a610a8522500f7120c0a54d/media.mp3",
+      "durationSec": 1314,
+      "episodeUrl": "https://jasonyoga.com/episode392",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6a52884ce31e37bb56ce0e15",
+      "title": "Does Yoga Build Strength? The Science Behind What Yoga Actually Does",
+      "publishedAt": "2026-07-11",
+      "summary": "Jason looks at what yoga can and can't do for strength. It builds neuromuscular efficiency but doesn't produce hypertrophy or recruit Type 2 fibers, so resistance training complements it rather than competing with it.",
+      "audioUrl": "https://sphinx.acast.com/p/acast/s/yogaland/e/6a52884ce31e37bb56ce0e15/media.mp3",
+      "durationSec": 2654,
+      "episodeUrl": "https://jasonyoga.com/podcast/episode392",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6a443d8875e7a3e961de0a0d",
+      "title": "3 Breathwork and Pranayama Techniques for Yoga Teachers Who Keep Putting It Off",
+      "publishedAt": "2026-07-01",
+      "summary": "Three practical pranayama techniques, coherence breathing, breath-linked movement and extended-exhale breathing, with guidance on where each fits in a class.",
+      "audioUrl": "https://sphinx.acast.com/p/acast/s/yogaland/e/6a443d8875e7a3e961de0a0d/media.mp3",
+      "durationSec": 1281,
+      "episodeUrl": "https://jasonyoga.com/podcast/episode391",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6a27838fc022d9c4fed69203",
+      "title": "Boat Pose Is Not an Ab Exercise",
+      "publishedAt": "2026-06-09",
+      "summary": "Full Boat Pose mainly works the hip flexors, not the abdominals. Jason explains why Low Boat Pose is the underused core exercise in yoga.",
+      "audioUrl": "https://sphinx.acast.com/p/acast/s/yogaland/e/6a27838fc022d9c4fed69203/media.mp3",
+      "durationSec": 875,
+      "episodeUrl": "https://jasonyoga.com/podcast/episode390",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6a1e25e9f11c757df6ecbe4e",
+      "title": "The Real Reason Your Hamstrings Are Still Tight — A Mobility Breakdown for Teachers & Students",
+      "publishedAt": "2026-06-02",
+      "summary": "Hamstring tightness is almost always multifactorial. Jason walks through six strategies beyond passive stretching: foam rolling, glute strengthening, hip flexor work, adductor assessment, dynamic stretching and engaged stretching.",
+      "audioUrl": "https://sphinx.acast.com/p/acast/s/yogaland/e/6a1e25e9f11c757df6ecbe4e/media.mp3",
+      "durationSec": 1068,
+      "episodeUrl": "https://jasonyoga.com/podcast/episode389",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-are-my-hamstrings-always-tight-even-though-i-stretch",
+      "question": "Why are my hamstrings always tight even though I stretch?",
+      "metaDescription": "Yoga teacher Jason Crandell of the Yogaland Podcast explains why passive stretching fails tight hamstrings and shares six strategies that work better.",
+      "episodeGuid": "6a1e25e9f11c757df6ecbe4e",
+      "intro": "If you stretch your hamstrings constantly and they still feel tight, the stretching isn't the problem. On the Yogaland Podcast, yoga teacher Jason Crandell explains that hamstring tightness is almost always multifactorial, so doing more of the same passive stretching rarely fixes it. His answer is a mix of six strategies that address the nervous system, the glutes, the hip flexors and the adductors.",
+      "sections": [
+        {
+          "heading": "Tight hamstrings are usually a nervous system problem, not a length problem",
+          "body": "The first thing Jason wants you to understand is that the feeling of tightness doesn't mean your hamstrings are short. Much of the sensation comes from how your nervous system is guarding the muscle. If your brain doesn't feel safe letting the hamstrings lengthen, it will keep them on a short leash no matter how long you hold a forward fold.\n\nThat's why years of passive stretching can leave you exactly where you started. Passive holds give the nervous system very little useful feedback. The host explains that the strategies that actually change tightness are the ones that give the brain more input and more reasons to relax its grip.\n\nOnce you frame it that way, the list of fixes looks less like a stretching routine and more like a training plan.",
+          "quote": {
+            "text": "Hamstring tightness is almost always multifactorial, which means the solution requires a broader range of strategies",
+            "speaker": "Jason Crandell",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Six things that work better than another forward fold",
+          "body": "Jason lays out six evidence-informed strategies. None of them replaces the others; the point is to use several.\n\n1. **Foam rolling.** It works through neurological mechanisms, not just mechanical pressure on the tissue. A minute or two on the hamstrings before practice can lower the guarding response.\n2. **Glute strengthening.** Weak glutes leave the hamstrings doing extra hip extension work, so they stay tense. Strengthening the glutes may do more for hamstring flexibility than extra stretching.\n3. **Hip flexor strengthening.** Your hip flexors tilt the pelvis forward, which is what lets the hamstrings lengthen in a fold. Weak hip flexors limit anterior pelvic tilt, so the fold stalls before the hamstrings even get challenged.\n4. **Adductor assessment.** The inner thigh muscles share jobs with the hamstrings. Tight adductors can inhibit hamstring flexibility, so check them before blaming the back of the leg.\n5. **Dynamic stretching.** Moving in and out of range gives the nervous system more feedback than holding still.\n6. **Engaged stretching.** Actively contracting muscles while you stretch provides far more neurological input than passively hanging in a pose.",
+          "quote": null
+        },
+        {
+          "heading": "Putting the strategies into a yoga practice",
+          "body": "This is a yoga podcast, so Jason's advice is meant to fit inside a class or home practice rather than replace it. A simple way to apply it:\n\n- Start with a short foam rolling pass on the hamstrings and, if they're cranky, the adductors.\n- Add glute work early in the practice. Bridge variations and single-leg hip extensions fit naturally into a warm-up.\n- Include something that loads the hip flexors, like lifting the leg in a standing balance or holding Low Boat rather than Full Boat.\n- Move dynamically through lunges and half splits before you settle into a long hold.\n- When you do hold a fold, engage. Press the heel down, draw the hip flexors on, and treat it as an active shape.\n\nThe host's point is that you don't need more time stretching. You need to redistribute the time you already spend.",
+          "quote": null
+        },
+        {
+          "heading": "What to expect and how long it takes",
+          "body": "Because the change is mostly neurological, you can often feel a difference within a single session, especially after foam rolling or engaged stretching. Lasting change takes longer, since the glute and hip flexor strengthening pieces work on a timeline of weeks, not minutes.\n\nJason frames the episode for both teachers and students. For teachers, the takeaway is to stop cueing endless passive folds for tight students and to build in strength and dynamic work. For students, the takeaway is to stop measuring progress by how far you fold and start measuring it by how much easier the fold feels.\n\nIf you've been stretching for years without results, that's not a sign to stretch harder. It's a sign the tightness has more than one cause, and the fix has more than one part.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Feeling tight doesn't mean your hamstrings are short; much of it is nervous system guarding.",
+        "Passive stretching alone gives the brain very little useful feedback, which is why it stops working.",
+        "Foam rolling, glute strengthening, hip flexor strengthening and adductor work address causes that stretching misses.",
+        "Dynamic and engaged stretching deliver more neurological input than holding still.",
+        "Use several strategies together rather than more of the one that hasn't worked."
+      ],
+      "faq": [
+        {
+          "q": "Should I stop stretching my hamstrings altogether?",
+          "a": "No. Jason still includes stretching, but he shifts it toward dynamic and engaged versions and pairs it with strength work rather than relying on long passive holds."
+        },
+        {
+          "q": "Can weak glutes cause tight hamstrings?",
+          "a": "Yes. When the glutes don't pull their weight in hip extension, the hamstrings pick up the slack and stay tense. Strengthening the glutes is one of Jason's six strategies."
+        },
+        {
+          "q": "Does foam rolling actually lengthen muscles?",
+          "a": "Not really. Jason explains that foam rolling works mainly through neurological mechanisms, calming the guarding response, rather than by physically changing the tissue."
+        }
+      ],
+      "sourceNote": "Based on the Yogaland Podcast episode 389, \"The Real Reason Your Hamstrings Are Still Tight\", released June 2, 2026, hosted by Jason Crandell and Andrea Ferretti."
+    }
+  ]
+}

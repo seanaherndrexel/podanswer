@@ -1,0 +1,143 @@
+{
+  "slug": "everyday-ai-podcast",
+  "title": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+  "author": "Everyday AI",
+  "description": "A daily livestream and podcast helping everyday people grow their careers with AI, covering artificial intelligence trends, practical applications and tools like ChatGPT. Hosted by Jordan Wilson.",
+  "category": "technology",
+  "website": "https://youreverydayai.com/",
+  "feedUrl": "https://rss.buzzsprout.com/2175779.rss",
+  "imageUrl": "https://storage.buzzsprout.com/etb1r36wdmr2bglfbxx12zu48ori?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/everyday-ai-podcast-an-ai-and-chatgpt-podcast/id1683401861",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19731557",
+      "title": "Ep 862: AI Change Management That Works - 5 Moves the Top 5% Make",
+      "publishedAt": "2026-09-15",
+      "summary": "Why successful AI rollouts depend more on change management than on the technology, and how top-performing companies restructure processes and put people before tools.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19731557-ep-862-ai-change-management-that-works-5-moves-the-top-5-make-start-here-series-vol-21.mp3",
+      "durationSec": 2188,
+      "episodeUrl": "https://youreverydayai.com/",
+      "transcriptUrl": "https://www.buzzsprout.com/2175779/19731557/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19731187",
+      "title": "Ep 861: The 7 Silent Sins of Doing AI Right",
+      "publishedAt": "2026-09-14",
+      "summary": "Hidden pitfalls of AI adoption including sycophancy, automation bias and accidental deskilling, and how to avoid undermining your own expertise.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19731187-ep-861-the-7-silent-sins-of-doing-ai-right-how-to-spot-and-overcome-the-invisible-ai-work-traps-start-here-series-vol-20.mp3",
+      "durationSec": 2646,
+      "episodeUrl": "https://youreverydayai.com/",
+      "transcriptUrl": "https://www.buzzsprout.com/2175779/19731187/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19731128",
+      "title": "Ep 860: Managing the AI Capability Gap - AI Is More Than Ready, Most Companies Are Not",
+      "publishedAt": "2026-09-11",
+      "summary": "The gap between what frontier AI models can do and how little most companies use them, and how to close it.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19731128-ep-860-managing-the-ai-capability-gap-ai-is-more-than-ready-most-companies-are-not-start-here-series-vol-19.mp3",
+      "durationSec": 2134,
+      "episodeUrl": "https://youreverydayai.com/",
+      "transcriptUrl": "https://www.buzzsprout.com/2175779/19731128/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19730939",
+      "title": "Ep 859: The Vibe Coding Boom - Why Vibe Coding Isn't Going Away and How It's Both Good and Bad",
+      "publishedAt": "2026-09-10",
+      "summary": "Jordan looks at the explosion of AI-generated code and no-code app builders: the adoption numbers, who's using them, the security and maintainability risks, the emerging rescue engineering industry, and why governance decides whether vibe coding pays off.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19730939-ep-859-the-vibe-coding-boom-why-vibe-coding-isn-t-going-away-and-how-it-s-both-good-and-bad-start-here-series-ep-18.mp3",
+      "durationSec": 2153,
+      "episodeUrl": "https://youreverydayai.com/",
+      "transcriptUrl": "https://www.buzzsprout.com/2175779/19730939/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19730912",
+      "title": "Ep 858: Responsible AI Playbook - What It Means and 5 Moves to Ensure Your AI Strategy Survives",
+      "publishedAt": "2026-09-09",
+      "summary": "A five-step framework for responsible AI governance that turns compliance from a burden into a competitive advantage.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19730912-ep-858-responsible-ai-playbook-what-it-means-and-5-moves-to-ensure-your-ai-strategy-survives-start-here-series-vol-17.mp3",
+      "durationSec": 1579,
+      "episodeUrl": "https://youreverydayai.com/",
+      "transcriptUrl": "https://www.buzzsprout.com/2175779/19730912/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19730847",
+      "title": "Ep 857: From Chatbots to Super Agents - The 11 AI Tool Categories Explained",
+      "publishedAt": "2026-09-08",
+      "summary": "Jordan sorts the flood of AI tools into 11 categories, from text reasoning assistants to autonomous agents, and explains which ones to master.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19730847-ep-857-from-chatbots-to-super-agents-the-11-ai-tool-categories-explained-start-here-series-ep-16.mp3",
+      "durationSec": 3088,
+      "episodeUrl": "https://youreverydayai.com/",
+      "transcriptUrl": "https://www.buzzsprout.com/2175779/19730847/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-is-vibe-coding-and-is-it-safe",
+      "question": "What is vibe coding, and is it safe?",
+      "metaDescription": "Vibe coding means describing an app in plain English and letting AI build it. Jordan Wilson of Everyday AI explains what it's good for and where it goes wrong.",
+      "episodeGuid": "Buzzsprout-19730939",
+      "intro": "Vibe coding is when you describe what you want in plain English and let an AI write the software, often without reading the code yourself. It's real, it's growing fast, and according to Jordan Wilson on episode 859 of the Everyday AI Podcast, it's both a genuine breakthrough and a genuine liability. Safe? It can be, if you treat what the AI builds like real engineering. Left unchecked, it produces apps with security holes that nobody on the team understands.",
+      "sections": [
+        {
+          "heading": "Describe it, and an app appears",
+          "body": "Jordan opens with an analogy: imagine describing your dream house out loud and watching a building appear in minutes. That's what vibe coding feels like the first time. You type what you want, and the tool handles the database, the login system, the payments integration and the deployment. A working app, with a live URL, from a paragraph of text.\n\nThe numbers he cites show how far this has gone. Somewhere between 41 and 46 percent of new code written worldwide is now AI-generated. Around 92 percent of US developers use AI coding tools daily. And the striking one for non-technical listeners: about 63 percent of people vibe coding have never written a line of code themselves. This isn't a developer trend anymore. It's an everyone trend.",
+          "quote": {
+            "text": "63% of vibe coders have never even written a line of code themselves, which makes sense given the accessibility.",
+            "speaker": "Jordan Wilson",
+            "timestamp": "9:15"
+          }
+        },
+        {
+          "heading": "One in four AI code samples had a security flaw",
+          "body": "Here's where the host turns serious. He points to research that examined 534 samples of AI-generated code and found confirmed security flaws in about a quarter of them. That's not a rounding error. If you vibe-code a customer portal and never have anyone look at what's underneath, there's a meaningful chance you've shipped something exploitable.\n\nThe problem compounds because trust in AI code is dropping even as usage rises. Jordan cites survey data showing developer confidence in AI-generated code fell from 43 percent to 29 percent over two years. The common complaint is that the output is almost right, which is worse than obviously wrong because it passes a glance and fails under pressure.\n\nAnd fewer experienced people are doing that glance. The host notes that some prominent developers have said openly that they don't review AI output anymore. The volume of generated code has outrun anyone's ability to read it.",
+          "quote": {
+            "text": "Out of 534 AI code samples, about 25% had confirmed security flaws. That's a very high percentage.",
+            "speaker": "Jordan Wilson",
+            "timestamp": "15:40"
+          }
+        },
+        {
+          "heading": "The 90-day wall",
+          "body": "Jordan describes a pattern he calls the 90-day problem. A vibe-coded project launches fast and works. Then, roughly three months in, something needs to change: a new feature, a bug, a scaling issue. The AI session that built the foundation is long gone, its context expired. The humans never understood the architecture because they never had to. Everything stalls.\n\nThis has spawned a new line of work he calls rescue engineering: firms that come in to rebuild or untangle AI-generated codebases. He cites an estimate of around 8,000 startups needing full or partial rebuilds, at costs ranging from 50,000 dollars to several million. The speed you gained at the start gets paid back with interest.",
+          "quote": {
+            "text": "After 90 days, software teams just kind of forget. The AI forgets how it built the foundation. Everything stalls.",
+            "speaker": "Jordan Wilson",
+            "timestamp": "17:20"
+          }
+        },
+        {
+          "heading": "How to vibe code without getting burned",
+          "body": "None of this is an argument against vibe coding. Jordan is clear that the technology isn't going away and that refusing to use it is its own risk. His argument is about governance, and it comes down to a few practical rules.\n\nMatch the tool to the stakes. A personal dashboard, an internal prototype or a throwaway calculator can be vibe-coded freely. Anything that stores customer data, takes payments or faces the public internet needs a human who understands it.\n\nHave someone read the code, or at least test it. Even a non-developer can run a security scanner, ask the AI to explain each part of the app, and ask a second AI to look for vulnerabilities. Treat the output as a draft, not a finished product.\n\nDocument as you go. Ask the AI to write down what it built and why, so the next person, or the next AI session, has a map. That's the single cheapest defense against the 90-day wall.\n\nAnd for organizations, watch for sprawl. Non-technical staff quietly deploying apps that IT has never seen is how a security incident starts. Jordan's closing line is that companies treating AI coding as rigorous engineering with human oversight capture real value. The tech isn't optional. The discipline is a choice.",
+          "quote": {
+            "text": "Companies treating AI coding as rigorous engineering with human oversight capture real value. This technology isn't optional, but governance is your choice.",
+            "speaker": "Jordan Wilson",
+            "timestamp": "20:15"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Vibe coding means describing software in plain language and letting AI build it, and most people doing it have never coded.",
+        "Roughly a quarter of AI-generated code samples in one study had confirmed security flaws, and developer trust in AI code is falling.",
+        "Projects often hit a wall around 90 days when nobody, human or AI, remembers how the foundation was built.",
+        "A rescue engineering industry now exists to rebuild vibe-coded apps, at costs from tens of thousands to millions of dollars.",
+        "Use it freely for low-stakes tools, but anything with customer data or payments needs review, testing and documentation."
+      ],
+      "faq": [
+        {
+          "q": "Can I build a real business app with vibe coding?",
+          "a": "You can build a prototype quickly, and many people have. Before it handles real customer data or money, get a developer or a security review involved so you understand what you've deployed."
+        },
+        {
+          "q": "What's the difference between vibe coding and no-code tools?",
+          "a": "No-code tools give you a visual builder with guardrails the vendor maintains. Vibe coding generates actual source code from your description, which is more flexible but leaves you responsible for code you may not understand."
+        },
+        {
+          "q": "How do I check if AI-generated code is secure?",
+          "a": "Ask the AI to explain every component, run an automated security scanner on the project, ask a second model to audit it for vulnerabilities, and have a human developer review anything that touches authentication, payments or personal data."
+        }
+      ],
+      "sourceNote": "Based on Everyday AI Podcast episode 859, \"The Vibe Coding Boom,\" released September 10, 2026. Credit to host Jordan Wilson and the Everyday AI Podcast."
+    }
+  ]
+}

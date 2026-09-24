@@ -1,0 +1,148 @@
+{
+  "slug": "your-landlord-resource-podcast",
+  "title": "Your Landlord Resource Podcast",
+  "author": "Stacie Casella & Kevin Kilroy",
+  "description": "Stacie Casella and Kevin Kilroy, founders of Your Landlord Resource, discuss their personal experiences as Realtors and rental property owners for over 20 years to help listeners become confident, profitable landlords.",
+  "category": "real-estate",
+  "website": "https://yourlandlordresource.com",
+  "feedUrl": "https://rss.buzzsprout.com/2143553.rss",
+  "imageUrl": "https://storage.buzzsprout.com/5okrgx1njiiv0wc6i6z38rzu83c0?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/your-landlord-resource-podcast/id1677242266",
+  "spotifyUrl": "https://open.spotify.com/show/1S7fVT4TgmR7jf4ltZHzSH",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19774564",
+      "title": "Rental Appliance Repairs: Who's Responsible For What?",
+      "publishedAt": "2026-09-08",
+      "summary": "Stacie and Kevin break down the three tiers of rental appliances, the one rule that decides most repair questions, and the four things to put in writing before a tenant brings in their own appliance. Kevin lays out all five ways landlords handle appliance repairs and how each one fails.",
+      "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/2143553/episodes/19774564-rental-appliance-repairs-who-s-responsible-for-what.mp3",
+      "durationSec": 1695,
+      "episodeUrl": "https://yourlandlordresource.com/episode141/",
+      "transcriptUrl": "https://www.buzzsprout.com/2143553/19774564/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19727573",
+      "title": "Vacancy Checklist: Before You Say Yes to a Showing",
+      "publishedAt": "2026-08-31",
+      "summary": "A nine-step checklist for the stretch between posting a vacancy and showing the unit, covering ad writing, prescreening questions, scheduling, and follow-up communication.",
+      "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/2143553/episodes/19727573-vacancy-checklist-before-you-say-yes-to-a-showing.mp3",
+      "durationSec": 1292,
+      "episodeUrl": "https://yourlandlordresource.com/episode140/",
+      "transcriptUrl": "https://www.buzzsprout.com/2143553/19727573/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19722407",
+      "title": "Landlord DIY vs Hire Out: What to Handle Yourself",
+      "publishedAt": "2026-08-29",
+      "summary": "The hosts share a four-question filter for deciding whether to do a maintenance job yourself or hire it out, including licensing rules, legal exposure, and the business math.",
+      "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/2143553/episodes/19722407-landlord-diy-vs-hire-out-what-to-handle-yourself.mp3",
+      "durationSec": 1376,
+      "episodeUrl": "https://yourlandlordresource.com/episode139/",
+      "transcriptUrl": "https://www.buzzsprout.com/2143553/19722407/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19666559",
+      "title": "Collect Rent on Time, Every Time",
+      "publishedAt": "2026-08-18",
+      "summary": "A full discussion of rent collection systems, payment methods, late fees that comply with California law, lease clauses that encourage on-time payment, and rent reporting to credit bureaus.",
+      "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/2143553/episodes/19666559-collect-rent-on-time-every-time.mp3",
+      "durationSec": 2328,
+      "episodeUrl": "https://yourlandlordresource.com/episode138/",
+      "transcriptUrl": "https://www.buzzsprout.com/2143553/19666559/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19612135",
+      "title": "Maintenance Requests: What's Urgent and What Can Wait",
+      "publishedAt": "2026-08-10",
+      "summary": "A three-tier system for sorting maintenance requests by urgency, how context changes response times, and move-in setup habits that cut down on repair calls.",
+      "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/2143553/episodes/19612135-maintenance-requests-what-s-urgent-and-what-can-wait.mp3",
+      "durationSec": 1551,
+      "episodeUrl": "https://yourlandlordresource.com/episode137/",
+      "transcriptUrl": "https://www.buzzsprout.com/2143553/19612135/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19582518",
+      "title": "What To Do After a Tenant Signs Their Lease, Our Move-In Process",
+      "publishedAt": "2026-08-03",
+      "summary": "A step-by-step walkthrough of what happens after signing, including collecting funds, California's unit photo requirements, welcome communications, and a comparison of property management software.",
+      "audioUrl": "https://pdcn.co/e/www.buzzsprout.com/2143553/episodes/19582518-what-to-do-after-a-tenant-signs-their-lease-our-move-in-process.mp3",
+      "durationSec": 2365,
+      "episodeUrl": "https://yourlandlordresource.com/episode136/",
+      "transcriptUrl": "https://www.buzzsprout.com/2143553/19582518/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "who-is-responsible-for-appliance-repairs-in-a-rental",
+      "question": "Who is responsible for appliance repairs in a rental?",
+      "metaDescription": "Landlords Stacie Casella and Kevin Kilroy explain the one rule for appliance repairs, how to handle tenant-supplied appliances, and five ways to structure it.",
+      "episodeGuid": "Buzzsprout-19774564",
+      "intro": "If the landlord provided the appliance, the landlord maintains it. That's the rule Stacie Casella and Kevin Kilroy, 20-year rental owners and hosts of the Your Landlord Resource Podcast, say decides almost every appliance question. The exceptions are tenant misuse, tenant-owned appliances, and whatever your lease legally spells out differently. Here's how they sort appliances into tiers, what to put in writing, and the five ways landlords actually handle repairs.",
+      "sections": [
+        {
+          "heading": "Three tiers of appliances, and the rule that covers all of them",
+          "body": "Stacie starts by sorting rental appliances into three groups, because the answer depends on which group you're in.\n\n**Tier one** is the core kitchen equipment: the stove or range, the oven, and the refrigerator. **Tier two** is the expected extras, like a dishwasher, a built-in microwave, and a garbage disposal. **Tier three** is the negotiable stuff, such as a washer and dryer, window air conditioners, or a second fridge or freezer.\n\nThe rule that hangs over all three is simple.",
+          "quote": {
+            "text": "If you provided it, you maintain it. So the stovetop, the oven, the refrigerator, and the dishwasher, the built-in microwave, garbage disposal, all that.",
+            "speaker": "Stacie Casella",
+            "timestamp": "6:34"
+          }
+        },
+        {
+          "heading": "A lease that says nothing about appliances works against you",
+          "body": "A lot of landlords assume silence in the lease gives them flexibility. Stacie says it's the opposite. If your lease doesn't address appliances, the default assumption is that anything you supplied is yours to keep working. Wanting it to be different isn't enough.",
+          "quote": {
+            "text": "If you want a different arrangement, you have to write it down. And this is important, it has to be legal where your property sits.",
+            "speaker": "Stacie Casella",
+            "timestamp": "8:52"
+          }
+        },
+        {
+          "heading": "Four things to write down before a tenant's own appliance shows up",
+          "body": "Tenant-supplied appliances are where things get expensive, and Kevin walks through the clause most landlords never write. His advice is to get it in writing before the appliance comes through the door, either in the lease or an addendum, and cover four things.\n\n**Ownership.** Name the appliance specifically and state that it belongs to the tenant.\n\n**Repairs.** Their appliance, their repair, their replacement.\n\n**Damages.** If the appliance causes damage, say a washing machine hose lets go and floods the unit below, put in writing that the tenant is responsible.\n\n**Move-out.** They take it with them, and they restore any connections they made.\n\nThe damages clause is the one Kevin flags as the expensive omission. A tenant-owned washer that floods a downstairs neighbor turns a $150 repair conversation into an insurance claim, and without that clause you're the one arguing about it.",
+          "quote": {
+            "text": "Get it in writing before it comes through the door, in the lease or in an addendum, and cover these four things.",
+            "speaker": "Kevin Kilroy",
+            "timestamp": "11:34"
+          }
+        },
+        {
+          "heading": "Wear and tear is yours. Misuse is theirs, if you can prove it",
+          "body": "Stacie is direct about where lifespan failures land. A compressor that dies at year 12 is not the tenant's problem; that's a lifespan problem, and it's on the landlord.\n\nMisuse is different, but the burden is on you.",
+          "quote": {
+            "text": "You have to be able to prove that, right? You don't get to decide if it was their fault because you don't want to pay that bill.",
+            "speaker": "Stacie Casella",
+            "timestamp": "14:55"
+          }
+        },
+        {
+          "heading": "The five ways landlords handle appliance repairs",
+          "body": "Kevin closes with the five structures he sees, and he's honest about how each one fails.\n\n**1. You supply them and cover repairs.** The most common approach. It's simple and tenants like it, but every breakdown is your bill.\n\n**2. Non-essential appliances provided as is.** The lease states that specific tier-three items are provided as is and won't be repaired. Clear, but it can annoy tenants who assumed the washer was part of the deal.\n\n**3. Tenant pays the first $50 or $100 of any repair.** In theory it discourages nuisance calls. In practice tenants may delay reporting real problems.\n\n**4. Washer and dryer as a paid add-on.** The units become an optional monthly charge with maintenance included. Kevin calls it clean and honest, since everybody knows what they're paying for.\n\n**5. Tenant-supplied.** Lowest cost to you, highest need for the four-part clause above.\n\nStacie also shares the exceptions they spell out in their own lease, word for word: they don't repair ice makers even when the fridge came with one, a tenant who overloads the washer owns that damage, leaving wet laundry in a front loader and ruining the gasket is on the tenant, and the dryer vent gets cleaned.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "If the landlord provided the appliance, the landlord maintains it. Everything else is an exception you have to write down.",
+        "Sort appliances into core, expected extras, and negotiable so you know which ones you actually control.",
+        "For tenant-owned appliances, put ownership, repairs, damages, and move-out in writing before it arrives.",
+        "Lifespan failures are the landlord's cost. Misuse is the tenant's only if you can prove it.",
+        "Pick one of the five repair structures deliberately, and make sure it's legal where the property sits."
+      ],
+      "faq": [
+        {
+          "q": "Can a landlord make a tenant pay for appliance repairs?",
+          "a": "Only for damage the tenant caused, and only if you can prove it, or under a lease clause that's legal in your jurisdiction, such as a small repair deductible or an as-is clause for non-essential appliances."
+        },
+        {
+          "q": "Does a landlord have to fix a washer and dryer?",
+          "a": "If the landlord supplied them and the lease is silent, yes. Stacie and Kevin describe washers and dryers as tier-three negotiable appliances that can be provided as is, offered as a paid add-on, or left to the tenant, but only if the lease says so."
+        },
+        {
+          "q": "What should the lease say about a tenant's own appliance?",
+          "a": "Kevin lists four items: name the appliance and state it belongs to the tenant, make repairs and replacement their responsibility, make them liable for damage it causes, and require them to remove it and restore connections at move-out."
+        }
+      ],
+      "sourceNote": "Based on Your Landlord Resource Podcast episode 141, \"Rental Appliance Repairs: Who's Responsible For What?\" with Stacie Casella and Kevin Kilroy, released September 8, 2026."
+    }
+  ]
+}

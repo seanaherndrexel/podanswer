@@ -1,0 +1,143 @@
+{
+  "slug": "saving-bread",
+  "title": "Saving Bread",
+  "author": "Allison White",
+  "description": "A podcast exploring sourdough, grain, fermentation, craftsmanship and the people keeping real bread alive. Host baker and educator Allison White shares practical lessons and thoughtful conversations with bakers, millers, farmers and others shaping the future of bread.",
+  "category": "food",
+  "website": "https://matriarchbread.com/pages/saving-bread-podcast",
+  "feedUrl": "https://rss.buzzsprout.com/2619416.rss",
+  "imageUrl": "https://storage.buzzsprout.com/93b4er6zq6o6fbzbkd4bb4qp8h6e?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19780048",
+      "title": "Lessons E11 - Whole Grain Chat with Baylin Speidel",
+      "publishedAt": "2026-09-11",
+      "summary": "A practical conversation on choosing whole grain flours, comparing hard red, hard white, soft wheat, rye, spelt, buckwheat and einkorn. Covers extraction rates, scalds and what to ask a farmer or miller before you buy.",
+      "audioUrl": "https://www.buzzsprout.com/2619416/episodes/19780048-lessons-e11-whole-grain-chat-with-baylin-speidel.mp3",
+      "durationSec": 2948,
+      "episodeUrl": "https://www.buzzsprout.com/2619416/episodes/19780048",
+      "transcriptUrl": "https://www.buzzsprout.com/2619416/19780048/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19775661",
+      "title": "Lessons E06 Whole Grain Sourdough: Fermentation, Microbiology and Adding More Whole Wheat",
+      "publishedAt": "2026-09-09",
+      "summary": "How pushing whole grain percentages to 40, 50, 60 or 100 percent changes water absorption, gluten development, fermentation speed and starter activity. Allison suggests baking ten loaves with one flour to really learn it.",
+      "audioUrl": "https://www.buzzsprout.com/2619416/episodes/19775661-lessons-e06-whole-grain-sourdough-fermentation-microbiology-and-adding-more-whole-wheat.mp3",
+      "durationSec": 2363,
+      "episodeUrl": "https://www.buzzsprout.com/2619416/episodes/19775661",
+      "transcriptUrl": "https://www.buzzsprout.com/2619416/19775661/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19738472",
+      "title": "Interviews E09 - Jenny Berg on Wholesale, Cottage Food Laws & Knowing When Enough Is Enough",
+      "publishedAt": "2026-09-02",
+      "summary": "Jenny Berg of Crumb Sourdough Microbakery on moving from direct-to-consumer to wholesale, producing 230 loaves a week, pricing and payment terms, and choosing quality of life over endless growth.",
+      "audioUrl": "https://www.buzzsprout.com/2619416/episodes/19738472-interviews-e09-jenny-berg-on-wholesale-cottage-food-laws-knowing-when-enough-is-enough.mp3",
+      "durationSec": 3730,
+      "episodeUrl": "https://www.buzzsprout.com/2619416/episodes/19738472",
+      "transcriptUrl": "https://www.buzzsprout.com/2619416/19738472/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19713629",
+      "title": "Interviews E08 Eric Pallant - Sourdough Culture",
+      "publishedAt": "2026-08-28",
+      "summary": "Author Eric Pallant on the history of starters, how fermentation was discovered, whether starter age matters, and why sourdough stays accessible without complexity.",
+      "audioUrl": "https://www.buzzsprout.com/2619416/episodes/19713629-interviews-e08-eric-pallant-sourdough-culture.mp3",
+      "durationSec": 3278,
+      "episodeUrl": "https://www.buzzsprout.com/2619416/episodes/19713629",
+      "transcriptUrl": "https://www.buzzsprout.com/2619416/19713629/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19702826",
+      "title": "Lessons E05 Common Sourdough Failures — Country Loaf Troubleshooting",
+      "publishedAt": "2026-08-26",
+      "summary": "Allison works through flat loaves, tunneling and bulk fermentation timing, treating bread as a system where starter, flour, temperature, hydration, shaping, scoring and steam all matter. She shares a bakery lesson where identical doughs baked very differently because of scoring placement and steam.",
+      "audioUrl": "https://www.buzzsprout.com/2619416/episodes/19702826-lessons-e05-common-sourdough-failures-country-loaf-troubleshooting.mp3",
+      "durationSec": 2124,
+      "episodeUrl": "https://www.buzzsprout.com/2619416/episodes/19702826",
+      "transcriptUrl": "https://www.buzzsprout.com/2619416/19702826/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19666040",
+      "title": "Interviews E07 Tom Cucuzza of The Sourdough Journey: Bulk Fermentation & Starter Health",
+      "publishedAt": "2026-08-19",
+      "summary": "Tom Cucuzza on starter strength, accumulated acidity, peak-to-peak feeding, recognizing peak fermentation, judging the end of bulk, dough temperature and percentage rise, and building intuition by watching the dough.",
+      "audioUrl": "https://www.buzzsprout.com/2619416/episodes/19666040-interviews-e07-tom-cucuzza-of-the-sourdough-journey-bulk-fermentation-starter-health.mp3",
+      "durationSec": 3730,
+      "episodeUrl": "https://www.buzzsprout.com/2619416/episodes/19666040",
+      "transcriptUrl": "https://www.buzzsprout.com/2619416/19666040/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-is-my-sourdough-bread-flat-and-dense",
+      "question": "Why is my sourdough bread flat and dense?",
+      "metaDescription": "Baker Allison White of the Saving Bread podcast on the real causes of flat sourdough: starter, fermentation time, hydration, shaping, scoring and steam.",
+      "episodeGuid": "Buzzsprout-19702826",
+      "intro": "A flat, dense sourdough loaf almost always traces back to fermentation, but the fix isn't always \"ferment longer.\" On the Saving Bread podcast, baker and educator Allison White of Matriarch Bread treats bread as a system: starter, flour, temperature, hydration, shaping, scoring and steam all push on each other. Her episode on common sourdough failures works through them in order so you can find your actual problem.",
+      "sections": [
+        {
+          "heading": "Check the starter before you blame the recipe",
+          "body": "Allison starts where most flat loaves start: the starter. If it's sluggish, nothing downstream will save the bread. Her benchmark is that a healthy starter should double or triple within the timeframe you expect. If it isn't, feed it twice a day until it does. A starter that lives in the fridge will usually need three or four feeds to come back to full strength before a bake.\n\nOnly once starter health is genuinely dialed in does she move on to the next variable. That order matters, because people often adjust hydration or timing when the real problem is a tired culture.\n\nFor levain quantity, the episode's working numbers are around 20 percent levain, or roughly 10 percent prefermented flour. Use that as a baseline before changing anything else.",
+          "quote": {
+            "text": "Your starter influences fermentation, your flour influences fermentation and dough strength, temperature influences fermentation, hydration influences handling",
+            "speaker": "Allison White",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "How long bulk fermentation should actually take",
+          "body": "The most common cause of a dense loaf is underfermentation. Allison gives concrete targets: with a healthy starter, a country loaf should typically bulk ferment for three to four hours at a dough temperature around 77 to 78 degrees Fahrenheit. Colder dough takes longer. If your kitchen is cool, that's the first thing to fix.\n\nThe diagnostic is in the crumb. Cut an underfermented loaf open and you'll see large, elongated holes through the center, often with a tight, gummy crumb around them. That's tunneling, and it means the dough didn't get enough time or warmth.\n\nHer advice for finding your limit is to push fermentation as far as you can, then walk back slowly, rather than pulling early and baking heavy bread over and over. After bulk, she gives a 20 to 30 minute pre-shape rest and 30 to 45 minutes or more in the basket before the dough goes into the refrigerator.",
+          "quote": {
+            "text": "That dough should typically ferment between three and four hours during bulk fermentation, at a temperature of around 77, 78 degrees Fahrenheit",
+            "speaker": "Allison White",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Dough that spreads instead of rising",
+          "body": "Sometimes fermentation is fine and the loaf still flattens. Allison points to two handling causes.\n\nFirst, hydration. The flour has to be hydrated in a way it can still support. If the dough is slack and spreading, drop hydration by two to three percent, or up to five percent in extreme cases, and see if the loaf holds its shape. Different flours absorb very different amounts of water.\n\nSecond, mixing and handling. Overworking dough in a mixer can heat it more than you realize and the dough can start to separate. On the bench, she asks bakers to avoid over-handling during pre-shape and final shape. Every extra fold and stretch degasses the dough and tears the structure you spent hours building.\n\nA smaller detail from the episode: if you refrigerate uncovered dough, the surface can dry and produce a hard, chewy bottom crust. She'll let the dough chill for a few hours first, then go back and cover it.",
+          "quote": {
+            "text": "Please try to avoid over-handling it when you turn it out for shaping, for pre-shaping and final shaping",
+            "speaker": "Allison White",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The scoring and steam mistakes that flatten good dough",
+          "body": "The episode's best lesson comes from a bakery day where identical batches of dough baked dramatically differently. The difference was scoring and steam.\n\nOne set of loaves was scored on the right third, almost on the side. The loaf couldn't support itself and collapsed toward the cut. Allison's rule is to score down the center third of the loaf, not too deep and not too shallow, and stay away from the outer thirds.\n\nThe other set was sprayed with water directly on the dough instead of around it. Wetting the surface stopped the loaves from opening up. Steam should fill the oven, not soak the crust. Spray around the loaves, or use a lidded pot or a tray of water, so the surface stays flexible long enough for the loaf to spring.\n\nIf your fermentation numbers look right and the bread still comes out flat, these two are the next things to change.",
+          "quote": {
+            "text": "The bakers sprayed the bread directly instead of spraying around the loaves. It really stopped the loaves from opening up",
+            "speaker": "Allison White",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Fix the starter first: it should double or triple on schedule, and a fridge starter needs three or four feeds to recover.",
+        "Bulk ferment a country loaf about three to four hours at 77 to 78 degrees Fahrenheit; large elongated holes in the crumb mean it was underfermented.",
+        "If dough spreads, cut hydration by two to three percent and handle it less during shaping.",
+        "Score down the center third of the loaf, never on the outer thirds.",
+        "Steam the oven, not the dough; spraying loaves directly keeps them from opening."
+      ],
+      "faq": [
+        {
+          "q": "How do I know when bulk fermentation is done?",
+          "a": "Allison's baseline is three to four hours at around 77 to 78 degrees with a healthy starter. Push it as far as you can and walk back slowly rather than pulling early. Underfermented loaves show big elongated holes when cut."
+        },
+        {
+          "q": "Does hydration make sourdough flat?",
+          "a": "It can. If the dough can't support the water it holds, it spreads. Reduce hydration by two to three percent, up to five percent in extreme cases, and compare."
+        },
+        {
+          "q": "Where should I score a sourdough loaf?",
+          "a": "Down the center third. In the episode, loaves scored on the outer third collapsed toward the cut because they couldn't support themselves."
+        }
+      ],
+      "sourceNote": "Based on the Saving Bread episode \"Lessons E05 Common Sourdough Failures, Country Loaf Troubleshooting\", released August 26, 2026, hosted by Allison White of Matriarch Bread."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "the-prostate-health-podcast",
+  "title": "The Prostate Health Podcast",
+  "author": "Garrett Pohlman, MD",
+  "description": "A podcast exploring prostate health education with medical experts, helping men and their caregivers understand prostate conditions and the latest management options through conversations with leaders in urology.",
+  "category": "health",
+  "website": "http://prostatehealthpodcast.com",
+  "feedUrl": "https://rss.libsyn.com/shows/251147/destinations/1894274.xml",
+  "imageUrl": "https://static.libsyn.com/p/assets/c/5/0/4/c504ca6d44a364aa5f2e77a3093c12a1/Prostate_Health_Podcast_Album_Cover_Final-20230525-d8n4rwowvt.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-prostate-health-podcast/id1500815108",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "33eeb715-a9d7-4ea9-a4db-282db4ba8f70",
+      "title": "114: Personalizing Prostate Cancer Care with the ArteraAI Prostate Test - Jason Hafron, MD",
+      "publishedAt": "2026-08-06",
+      "summary": "Dr. Jason Hafron explains how an AI-based test on biopsy tissue can help predict prostate cancer risk and personalize treatment decisions, with the aim of avoiding both over- and under-treatment.",
+      "audioUrl": "https://traffic.libsyn.com/secure/theprostatehealthpodcast/TPHS_114.mp3?dest-id=1894274",
+      "durationSec": 1640,
+      "episodeUrl": "https://www.prostatehealthpodcast.com/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "3d56a8e8-6582-442a-9c07-7596e978850c",
+      "title": "113: Beyond Traditional Prostate Surgery: Why HoLEP is Gaining Momentum - Austen Slade, MD",
+      "publishedAt": "2026-07-16",
+      "summary": "Urologic surgeon Dr. Austen Slade explains holmium laser enucleation of the prostate (HoLEP) as a minimally invasive treatment for an enlarged prostate, how it compares to TURP and robotic surgery, who's a candidate, and what to expect before, during and after.",
+      "audioUrl": "https://traffic.libsyn.com/secure/theprostatehealthpodcast/TPHS_113_REVISED_Edited_Audio.mp3?dest-id=1894274",
+      "durationSec": 3195,
+      "episodeUrl": "https://theprostatehealthpodcast.libsyn.com/113-beyond-traditional-prostate-surgery-why-holep-is-gaining-momentum-austen-slade-md",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "a0cd80ae-11de-487a-8615-d0b3abb39f43",
+      "title": "112: BioProtect Balloon Spacer: Reducing Side Effects in Modern Prostate Cancer Radiation Therapy - Jeffrey P. Wolters, MD and Coyt Rountree, MD",
+      "publishedAt": "2026-05-14",
+      "summary": "A urologist and a radiation oncologist discuss how a biodegradable balloon spacer keeps radiation away from healthy tissue during prostate cancer treatment, lowering side effects without reducing effectiveness.",
+      "audioUrl": "https://traffic.libsyn.com/secure/theprostatehealthpodcast/Revised_TPHS_112.mp3?dest-id=1894274",
+      "durationSec": 2188,
+      "episodeUrl": "https://theprostatehealthpodcast.libsyn.com/112-bioprotect-balloon-spacer-reducing-side-effects-in-modern-prostate-cancer-radiation-therapy-jeffrey-p-wolters-md-and-coyt-rountree-md",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6cc74b24-e5f6-4bd7-9c67-6d8a70a3386c",
+      "title": "111: TULSA-PRO, the Only AI-Powered, MRI-Guided Treatment for Men with Prostate Cancer - Y. Mark Hong, MD",
+      "publishedAt": "2026-01-15",
+      "summary": "Dr. Y. Mark Hong describes TULSA-PRO, an MRI-guided ultrasound ablation procedure for prostate cancer, including who's a candidate and how it differs from conventional treatment.",
+      "audioUrl": "",
+      "durationSec": 0,
+      "episodeUrl": "https://theprostatehealthpodcast.libsyn.com/111-tulsa-pro-the-only-ai-powered-mri-guided-treatment-for-men-with-prostate-cancer-y-mark-hong-md",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-is-holep-surgery-for-an-enlarged-prostate",
+      "question": "What is HoLEP surgery for an enlarged prostate?",
+      "metaDescription": "Urologist Garrett Pohlman and HoLEP surgeon Austen Slade explain on The Prostate Health Podcast how laser enucleation treats BPH and how it compares to TURP.",
+      "episodeGuid": "3d56a8e8-6582-442a-9c07-7596e978850c",
+      "intro": "HoLEP, short for holmium laser enucleation of the prostate, is a minimally invasive surgery that removes the inner tissue of an enlarged prostate with a laser, working through the urethra with no external incision. On The Prostate Health Podcast, urologist Dr. Garrett Pohlman talks with Dr. Austen Slade, one of the most experienced HoLEP surgeons in the United States, about how the procedure works, who it suits and why more urologists are offering it.",
+      "sections": [
+        {
+          "heading": "First, what an enlarged prostate actually does",
+          "body": "The episode opens with the basics of benign prostatic hyperplasia, or BPH. As men age, the prostate grows, and because the urethra runs through the middle of it, that growth squeezes the channel urine has to pass through. The result is the familiar list of symptoms: a weak or stop-start stream, straining, feeling like the bladder never empties, and getting up several times a night.\n\nDr. Pohlman and Dr. Slade discuss how BPH is evaluated, which usually combines a symptom questionnaire, a check of how well the bladder empties, and an estimate of prostate size by ultrasound or MRI. They also spend time on how much these symptoms cost men in daily life. Broken sleep, planning outings around bathrooms and the anxiety of urgency all add up, and many men put up with it for years before asking about treatment.\n\nMedication is typically the first step. Surgery comes into the picture when pills stop working, cause side effects, or when the prostate is large enough that they were never going to do much.",
+          "quote": null
+        },
+        {
+          "heading": "How HoLEP differs from TURP and robotic surgery",
+          "body": "For decades the standard operation for BPH was TURP, transurethral resection of the prostate, which shaves away obstructing tissue in strips with an electrical loop. For very large prostates, surgeons often turned instead to an open or robotic simple prostatectomy, which removes the inner prostate through an incision in the abdomen.\n\nHoLEP takes a different approach. Instead of shaving tissue piece by piece, the surgeon uses a holmium laser to separate the entire inner portion of the prostate, the adenoma, from its outer capsule, a bit like peeling an orange from the inside. The freed tissue is pushed into the bladder and then removed with a device called a morcellator. Everything happens through the urethra.\n\nDr. Slade explains that this is why HoLEP is often described as size-independent. Because it removes the whole adenoma rather than carving a channel, it can handle prostates that would otherwise need an abdominal operation, while still working well on smaller glands. The laser also seals blood vessels as it goes, which is part of why bleeding tends to be lower than with older techniques.",
+          "quote": null
+        },
+        {
+          "heading": "Why the results tend to last",
+          "body": "A recurring theme in the conversation is durability. With procedures that only remove part of the obstructing tissue, the prostate can keep growing and symptoms can return, sometimes leading to a second operation years later. Because HoLEP removes the adenoma in full, Dr. Slade describes the results as long-lasting, with low rates of men needing retreatment down the line.\n\nThat's also why the hosts see it as a good option for younger men with BPH who are looking at decades of life ahead, and for men who want one definitive treatment rather than a series of smaller procedures.\n\nThe episode also covers the equipment side. Newer laser systems and improved morcellation tools have made the operation faster and more precise than when it was introduced, which has helped it spread from a handful of academic centers to a growing number of community practices. Dr. Slade talks about the steep learning curve for surgeons, which historically limited access, and how better training and instruments are lowering that barrier.",
+          "quote": null
+        },
+        {
+          "heading": "What to expect if you're a candidate",
+          "body": "Dr. Pohlman and Dr. Slade walk through the patient journey in three parts.\n\n**Before surgery.** Expect the standard BPH workup plus imaging to size the prostate. The hosts discuss patient selection, including men on blood thinners, men with very large glands, and men who've had urinary retention and are dependent on a catheter. HoLEP is often a good fit in exactly those harder situations.\n\n**During surgery.** The procedure is done under anesthesia, usually takes one to a few hours depending on prostate size, and leaves no external incision.\n\n**After surgery.** Most men go home the same day or the next with a catheter that's typically removed within a day or two. Some burning, urgency and blood in the urine are normal for a few weeks while the inside of the prostate heals. Dr. Slade addresses common misconceptions, including fears about incontinence and sexual side effects. Temporary leakage can happen while the area heals, and retrograde ejaculation, where semen goes into the bladder, is common after any BPH surgery, so it's worth discussing with your urologist if fertility or ejaculation matter to you.\n\nThe hosts' overall message is that HoLEP is not experimental. It's a well-studied option that's finally becoming widely available, and men with bothersome BPH should ask whether it's right for them.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "HoLEP uses a holmium laser to remove the entire inner portion of an enlarged prostate through the urethra, with no external incision.",
+        "Unlike TURP, it works on prostates of any size, so it can replace open or robotic surgery for very large glands.",
+        "Because the whole adenoma is removed, results are durable and retreatment rates are low.",
+        "Catheter time and hospital stay are short, and bleeding is typically lower than with older techniques.",
+        "Retrograde ejaculation is common after BPH surgery, so discuss sexual side effects before choosing a procedure."
+      ],
+      "faq": [
+        {
+          "q": "Is HoLEP better than TURP?",
+          "a": "According to the episode, HoLEP removes more tissue, handles larger prostates and tends to give longer-lasting results with less bleeding. TURP remains a reasonable option for smaller glands, and the right choice depends on your anatomy and your surgeon's experience."
+        },
+        {
+          "q": "How long is recovery after HoLEP?",
+          "a": "Most men are home within a day and the catheter comes out within a day or two. Expect some urgency, burning and blood in the urine for a few weeks, with symptoms improving steadily over the first couple of months."
+        },
+        {
+          "q": "Does HoLEP affect sexual function?",
+          "a": "Erectile function is generally preserved, but retrograde ejaculation is common after HoLEP and other BPH surgeries. If ejaculation or fertility matter to you, raise it with your urologist before deciding."
+        }
+      ],
+      "sourceNote": "Based on episode 113, \"Beyond Traditional Prostate Surgery: Why HoLEP is Gaining Momentum\" with guest Dr. Austen Slade, from The Prostate Health Podcast hosted by Dr. Garrett Pohlman, published July 16, 2026."
+    }
+  ]
+}

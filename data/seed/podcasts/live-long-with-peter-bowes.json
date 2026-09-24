@@ -1,0 +1,139 @@
+{
+  "slug": "live-long-with-peter-bowes",
+  "title": "Live Long with Peter Bowes",
+  "author": "Healthspan Media",
+  "description": "A podcast about health optimization and mastering the aging process, examining science-based interventions that promote extended healthspan, the years of good health before chronic disease develops.",
+  "category": "health",
+  "website": "http://www.livelongpodcast.com",
+  "feedUrl": "https://rss.buzzsprout.com/87724.rss",
+  "imageUrl": "https://storage.buzzsprout.com/tkgr09uuepqhjqvdh84uj55gwdv1?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/live-long-and-master-aging/id1211124529",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19779932",
+      "title": "Are Your Organs Aging at Different Speeds? | Paul Coletta",
+      "publishedAt": "2026-09-13",
+      "summary": "Paul Coletta discusses research on organ-specific biological aging that uses blood proteins and machine learning to estimate how fast individual organs are aging, and whether that could flag health risks before disease shows up.",
+      "audioUrl": "https://www.buzzsprout.com/87724/episodes/19779932-are-your-organs-aging-at-different-speeds-paul-coletta.mp3",
+      "durationSec": 2330,
+      "episodeUrl": "https://healthspan-media.com/live-long-podcast/paul-coletta/",
+      "transcriptUrl": "https://www.buzzsprout.com/87724/19779932/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19763358",
+      "title": "How to Outpoint Father Time | Gunnar Peterson",
+      "publishedAt": "2026-09-06",
+      "summary": "Trainer Gunnar Peterson talks about fitting exercise into daily life and why recovery deserves the same attention as strength and cardio work as you age.",
+      "audioUrl": "https://www.buzzsprout.com/87724/episodes/19763358-how-to-outpoint-father-time-gunnar-peterson.mp3",
+      "durationSec": 1994,
+      "episodeUrl": "https://healthspan-media.com/live-long-podcast/gunnar-peterson",
+      "transcriptUrl": "https://www.buzzsprout.com/87724/19763358/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19601213",
+      "title": "Why Sleep Matters More Than Biohacking | Drew Griesel",
+      "publishedAt": "2026-08-04",
+      "summary": "Executive performance coach Drew Griesel explains why sleep quality drives performance and longevity more than trendy biohacks, and how a morning routine, hydration and daily movement set up a good night.",
+      "audioUrl": "https://www.buzzsprout.com/87724/episodes/19601213-why-sleep-matters-more-than-biohacking-drew-griesel.mp3",
+      "durationSec": 2114,
+      "episodeUrl": "https://healthspan-media.com/live-long-podcast/drew-griesel",
+      "transcriptUrl": "https://www.buzzsprout.com/87724/19601213/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19569893",
+      "title": "Living Well on Purpose | Emma Magnolia",
+      "publishedAt": "2026-07-29",
+      "summary": "Holistic health educator Emma Magnolia makes the case for consistent daily habits like strength training, hydration and sleep over chasing supplements and wellness trends.",
+      "audioUrl": "https://www.buzzsprout.com/87724/episodes/19569893-living-well-on-purpose-emma-magnolia.mp3",
+      "durationSec": 1957,
+      "episodeUrl": "https://healthspan-media.com/live-long-podcast/emma-magnolia",
+      "transcriptUrl": "https://www.buzzsprout.com/87724/19569893/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19490069",
+      "title": "Hidden Drivers Of Longevity | Oscar Trelles",
+      "publishedAt": "2026-07-13",
+      "summary": "Oscar Trelles argues that daily rhythms, recovery and resilience shape aging more than isolated interventions, and that reconnecting with natural living conditions supports long-term wellbeing.",
+      "audioUrl": "https://www.buzzsprout.com/87724/episodes/19490069-hidden-drivers-of-longevity-oscar-trelles.mp3",
+      "durationSec": 2224,
+      "episodeUrl": "https://healthspan-media.com/live-long-podcast/oscar-trelles",
+      "transcriptUrl": "https://www.buzzsprout.com/87724/19490069/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19395741",
+      "title": "Overcoming a Binge Eating Disorder | Phil Williams",
+      "publishedAt": "2026-06-24",
+      "summary": "Broadcaster Phil Williams talks openly about binge eating disorder and sugar addiction, and how behavioral struggles shape physical and mental health across a lifetime.",
+      "audioUrl": "https://www.buzzsprout.com/87724/episodes/19395741-overcoming-a-binge-eating-disorder-phil-williams.mp3",
+      "durationSec": 2957,
+      "episodeUrl": "https://healthspan-media.com/live-long-podcast/phil-williams",
+      "transcriptUrl": "https://www.buzzsprout.com/87724/19395741/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "is-sleep-more-important-than-exercise-for-longevity",
+      "question": "Is sleep more important than exercise for longevity?",
+      "metaDescription": "Performance coach Drew Griesel tells Live Long with Peter Bowes why sleep is the foundation that makes exercise pay off, and how to fix it with small steps.",
+      "episodeGuid": "Buzzsprout-19601213",
+      "intro": "Sleep isn't more important than exercise, exactly, but it comes first. On Live Long with Peter Bowes, executive performance coach Drew Griesel explains that training hard on bad sleep gives you a poor return on the effort, and that no cold plunge, peptide or supplement can make up for a body that isn't recovering at night. Get sleep, movement and food roughly right, and the fancy stuff has something to build on.",
+      "sections": [
+        {
+          "heading": "The return on your workouts depends on your nights",
+          "body": "Drew works with executives who often arrive wanting the latest biohack. His first questions are boring on purpose: how much water do you drink, and how do you sleep? He explains that sleep, movement and nutrition are the foundation, and that everything else sits on top of them.\n\nThe host, Peter Bowes, adds his own experience from years of interviewing longevity researchers. When his sleep slips, his training slips and he eats more. Drew agrees, and puts it in terms of investment. You can put in the hours at the gym, but if you're not sleeping, the adaptation you're chasing doesn't fully happen. Muscle repair, hormone regulation and appetite control all lean on sleep.\n\nSo the answer to \"sleep or exercise\" is that they're not competing. Exercise makes you sleep better, and sleep makes exercise work. But if one of them is badly broken, sleep is the one to fix first.",
+          "quote": {
+            "text": "If you're exercising like crazy and you sleep like garbage, you are not going to get the return on investment.",
+            "speaker": "Drew Griesel",
+            "timestamp": "12:30"
+          }
+        },
+        {
+          "heading": "Quality beats hours in bed",
+          "body": "A lot of people count sleep by the clock: eight hours in bed, job done. Drew pushes back on that. What he cares about is quality, which he defines as three things happening together.\n\nFirst, you fall asleep without a long struggle. Second, you stay asleep, or at least get back to sleep quickly if you wake. Third, you move through the sleep stages so you get deep sleep and REM in the amounts your body needs.\n\nSomeone who spends nine hours in bed but lies awake for an hour and wakes three times may be worse off than someone who sleeps a solid seven. That reframing matters because it points you at the right fixes. If quality is the problem, adding an extra hour in bed doesn't help. Changing what you do during the day does.",
+          "quote": {
+            "text": "Sleep quality is your ability to fall asleep, stay asleep and move through the sleep stages.",
+            "speaker": "Drew Griesel",
+            "timestamp": "15:03"
+          }
+        },
+        {
+          "heading": "Good sleep starts in the morning",
+          "body": "The most practical idea in the episode is that tonight's sleep is set up by this morning. Drew explains that from the moment you wake, you're preparing your body for sleep that night. A consistent wake time, natural light early, water before coffee and some movement all anchor your circadian rhythm.\n\nHe's a strong believer in a morning routine, and says that every client he's helped build one reports feeling better for it. The routine doesn't need to be elaborate. Ten to twenty minutes of the same things in the same order is enough.\n\nThen there's activity. Drew says a better night's sleep always follows a very active day. Most of his clients sit in offices, so he looks for ways to add walking, standing and short bouts of exercise into a day that would otherwise be still. Physical tiredness at bedtime is one of the most reliable sleep aids there is, and it's free.",
+          "quote": {
+            "text": "100% of the people that I have build a morning routine report feeling better from having done it.",
+            "speaker": "Drew Griesel",
+            "timestamp": "20:02"
+          }
+        },
+        {
+          "heading": "Small changes you'll still be doing in a year",
+          "body": "Drew is wary of dramatic ten-day overhauls. They feel productive, but they rarely turn into habits. He describes himself as a big fan of baby steps: subtle lifestyle changes that stack up over months.\n\nFor sleep, that might look like this. Week one, pick a wake time and stick to it every day, including weekends. Week two, drink a glass of water first thing and get outside for five minutes. Week three, add a short walk after lunch. Week four, set a cutoff for screens or caffeine. Each step is small enough that you'll actually do it, and together they change your nights.\n\nHydration gets special mention. Drew says most people he meets are chronically under-hydrated, and the difference in energy when someone fixes that is, in his words, incredible. It's not a biohack. It's water. But it's the kind of fundamental that makes everything else, including sleep, easier.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Sleep and exercise aren't rivals. Sleep is the foundation that lets exercise pay off, so fix it first if it's broken.",
+        "Judge sleep by quality: falling asleep easily, staying asleep and cycling through the stages, not just hours in bed.",
+        "Tonight's sleep is set up in the morning. A consistent wake time, early light, water and movement matter more than evening tricks.",
+        "An active day is the most reliable route to a good night, especially for people who sit at desks.",
+        "Make one small change at a time. Baby steps become habits; ten-day overhauls usually don't."
+      ],
+      "faq": [
+        {
+          "q": "Should I skip a workout if I slept badly?",
+          "a": "Drew's point is that a bad night lowers what you'll get from a hard session, not that you should stop moving. A lighter session or a walk keeps the habit and helps you sleep better the next night."
+        },
+        {
+          "q": "Do cold plunges and supplements help with sleep?",
+          "a": "The episode's view is that these sit on top of the fundamentals, not in place of them. If sleep, movement and hydration are in order, extras may add something. If they aren't, the extras won't rescue you."
+        },
+        {
+          "q": "How long should a morning routine be?",
+          "a": "It doesn't need to be long. Drew's clients get results from a short, consistent sequence, like a fixed wake time, a glass of water, daylight and a few minutes of movement."
+        }
+      ],
+      "sourceNote": "Based on the episode \"Why Sleep Matters More Than Biohacking | Drew Griesel\" from Live Long with Peter Bowes, published August 4, 2026."
+    }
+  ]
+}

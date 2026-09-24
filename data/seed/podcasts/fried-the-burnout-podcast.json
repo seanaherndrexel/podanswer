@@ -1,0 +1,135 @@
+{
+  "slug": "fried-the-burnout-podcast",
+  "title": "FRIED. The Burnout Podcast",
+  "author": "Cait Donovan",
+  "description": "A podcast exploring workplace burnout through a systems-based lens, examining where mismatches occur between people and their environments, and covering leadership, culture, retention, and sustainable high performance without blame or band-aid solutions.",
+  "category": "psychology",
+  "website": "https://www.caitdonovan.com/fried",
+  "feedUrl": "https://feeds.redcircle.com/e4c0db0a-98a4-47e6-a2b0-6a291469e1d6",
+  "imageUrl": "https://media.redcircle.com/images/2026/8/24/15/640c3c49-404c-4361-9f44-ac7365ced797_fried_logo_white_background.jpg",
+  "appleUrl": "https://podcasts.apple.com/ca/podcast/fried-the-burnout-podcast/id1469939920",
+  "spotifyUrl": "https://open.spotify.com/show/2VhzgpY24d6xDhxPLGn9Ex",
+  "episodes": [
+    {
+      "guid": "dd645252-2e75-4403-8069-9d0322118687",
+      "title": "Can You Burn Out in a Good Workplace? a #straightfromcait episode",
+      "publishedAt": "2026-09-13",
+      "summary": "Cait explains why good people burn out inside good organizations, why individual responsibility isn't the same as individual blame, and why the useful question is whether there's a mismatch rather than whose fault it is.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/f389bde0-aa95-4454-96c2-0e12362b046a/stream.mp3",
+      "durationSec": 455,
+      "episodeUrl": "https://redcircle.com/shows/fried-the-burnout-podcast/ep/f389bde0-aa95-4454-96c2-0e12362b046a",
+      "transcriptUrl": "https://s3.us-east-2.amazonaws.com/pod-public-transcripts/2026/9/3/20/5245b098-d96f-49d1-8565-0a17fcf28858_2383241385.vtt"
+    },
+    {
+      "guid": "858ab0b5-2b1b-4315-87e7-481749aeeff7",
+      "title": "How a Leader's Ego Can Burn Out Their Team with Ewa Błaszczak",
+      "publishedAt": "2026-09-06",
+      "summary": "Leadership expert Ewa Błaszczak on conscious leadership, how unconscious ego drives leader behavior and team burnout, the drama triangle, and why managing your own ego is a core leadership responsibility.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/b700a7df-0551-43c9-a090-8dbf1c7d235f/stream.mp3",
+      "durationSec": 3280,
+      "episodeUrl": "https://redcircle.com/shows/fried-the-burnout-podcast/ep/b700a7df-0551-43c9-a090-8dbf1c7d235f",
+      "transcriptUrl": "https://s3.us-east-2.amazonaws.com/pod-public-transcripts/2026/9/3/13/a95aa07a-8a35-48c3-bd3d-52a325e87d9a_1475748693.vtt"
+    },
+    {
+      "guid": "08c8aa68-141c-4d5f-b296-c08e13bede0d",
+      "title": "What Employee Engagement Surveys Really Tell You a #straightfromcait episode",
+      "publishedAt": "2026-08-30",
+      "summary": "Cait treats engagement survey data as a diagnostic signal rather than a prescription, and explains why low autonomy scores don't automatically mean people need more independence.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/fc11fac2-c8b1-4286-bc21-4699dcd3fdc1/stream.mp3",
+      "durationSec": 587,
+      "episodeUrl": "https://redcircle.com/shows/fried-the-burnout-podcast/ep/fc11fac2-c8b1-4286-bc21-4699dcd3fdc1",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ec6ff16b-5e80-4448-8301-2f9acb2666bc",
+      "title": "CEO Burnout: Why a Great Leader Was Burning Out in a Healthy Organization, a #straightfromcait episode",
+      "publishedAt": "2026-08-23",
+      "summary": "A case study of a CEO burning out inside a supportive organization, showing how internal urgency creates a pace mismatch with the team, and previewing Cait's book Mismatch.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/aa58b8b5-b42a-497a-b63a-7a3333551176/stream.mp3",
+      "durationSec": 429,
+      "episodeUrl": "https://redcircle.com/shows/fried-the-burnout-podcast/ep/aa58b8b5-b42a-497a-b63a-7a3333551176",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6cf3925d-4200-4dee-918f-0f6fd368f17f",
+      "title": "The $322 Billion Business Case for Employee Wellbeing, with Bhushan Sethi",
+      "publishedAt": "2026-08-16",
+      "summary": "PwC partner Bhushan Sethi on G20 research linking workforce wellbeing to GDP, the cost of burnout, financial stress as an overlooked driver, and the measurable impact of microaggressions.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/ef9b34da-3cda-4c60-8bd6-89ba25de0c26/stream.mp3",
+      "durationSec": 2754,
+      "episodeUrl": "https://redcircle.com/shows/fried-the-burnout-podcast/ep/ef9b34da-3cda-4c60-8bd6-89ba25de0c26",
+      "transcriptUrl": "https://s3.us-east-2.amazonaws.com/pod-public-transcripts/2026/7/31/15/f1249cac-f505-4631-b354-88c00621e2e9_272097056.vtt"
+    },
+    {
+      "guid": "1d2bee10-c36b-4196-93a4-710836e3f390",
+      "title": "What is Emotional Intelligence? a #straightfromcait episode",
+      "publishedAt": "2026-08-09",
+      "summary": "Cait traces emotional intelligence to its 1990 origins and breaks down Daniel Goleman's four domains, with research on how few people actually practice self-awareness.",
+      "audioUrl": "https://audio4.redcircle.com/episodes/3a31e836-dbe9-46a3-a0d4-ec50aac05136/stream.mp3",
+      "durationSec": 778,
+      "episodeUrl": "https://redcircle.com/shows/fried-the-burnout-podcast/ep/3a31e836-dbe9-46a3-a0d4-ec50aac05136",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "can-you-burn-out-at-a-good-job",
+      "question": "Can you burn out at a good job?",
+      "metaDescription": "Burnout expert Cait Donovan of FRIED on why good people burn out in good workplaces, and why match or mismatch beats asking whose fault it is.",
+      "episodeGuid": "dd645252-2e75-4403-8069-9d0322118687",
+      "intro": "Yes, you can burn out at a good job. Cait Donovan, host of FRIED. The Burnout Podcast, opens this episode by saying plainly that burnout does not require a bad workplace. Her explanation is that burnout is usually a mismatch between what a person needs and what their environment provides, and mismatches happen even when everyone involved has good intentions.",
+      "sections": [
+        {
+          "heading": "The finger-pointing that keeps burnout stuck",
+          "body": "Cait describes two stories that dominate the burnout conversation. Organizations tell employees to be more resilient. Burnt-out employees point back at leadership and say the system has to change. Each side is convinced the other is the problem.\n\nHer view is that both sides are only partially right. If burnout only happened in toxic workplaces, then fixing the workplace would fix burnout. But she sees people burning out inside organizations with supportive leaders, reasonable expectations, and genuine care. The toxic-workplace story doesn't explain those cases.\n\nAt the same time, telling burnt-out people to simply toughen up ignores the real ways environments grind people down. Neither story is complete, which is why the argument never resolves.",
+          "quote": {
+            "text": "Burnout does not require that you work in a bad workplace.",
+            "speaker": "Cait Donovan",
+            "timestamp": "0:00"
+          }
+        },
+        {
+          "heading": "\"Not your fault\" is not the same as \"nothing to do\"",
+          "body": "One of the more careful distinctions in the episode is between blame and responsibility. Cait stands by the idea that burnout is not your fault. She also says that individuals have real work to do in their own recovery, and that the two statements don't contradict each other.\n\nThe patterns that make someone vulnerable to burnout often come from long before the current job. She mentions childhood experiences, learned behaviors, and cultural or parental expectations. Those aren't things you chose, so they aren't your fault. But they're running inside you, and no employer can reach in and switch them off.\n\nShe uses herself as the example. Her own drivers were perfectionism and hyper-independence, along with a sense that she wasn't entitled to the kind of support she gave everyone else. A great manager can't fix that for you. Only you can, and doing so is responsibility, not blame.",
+          "quote": null
+        },
+        {
+          "heading": "How a good leader and a good employee still mismatch",
+          "body": "The clearest example in the episode involves autonomy. A leader, trying hard not to micromanage, gives an employee lots of room. The employee actually needs more support and check-ins. Nobody is doing anything wrong. The leader is being thoughtful, the employee is being honest about their needs, and the two still don't fit.\n\nCait's point is that these small mismatches are happening constantly in ordinary workplaces. Pace, communication style, how much structure someone wants, how feedback lands. Any of them can be misaligned without anyone being a villain.\n\nThat's why she wants to retire the question \"whose fault is this?\" and replace it with \"is this a match or a mismatch?\" The second question doesn't require anyone to be wrong, which makes it far easier to actually answer.",
+          "quote": {
+            "text": "Is this a match or a mismatch?",
+            "speaker": "Cait Donovan",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Moving toward a good-enough match",
+          "body": "Once you've named a mismatch, the follow-up question is what each side can realistically change to move closer to a match. Cait is clear that the goal isn't a workplace perfectly customized to every individual, and it isn't asking people to contort themselves to fit an environment that doesn't work for them.\n\nIn the transcript she frames it as asking \"how much can you do?\" on each side and landing on a middle-ground agreement that both parties can live with. Sustainable work doesn't require perfect alignment. It requires enough alignment that people feel safe and supported.\n\nShe also draws a line between a mismatch and a genuinely toxic environment. If the workplace is toxic, the answer is to leave. The internal work in that case is understanding why you tolerated it for as long as you did, so the pattern doesn't repeat at the next job.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Burnout happens in good workplaces because it's driven by mismatch, not just toxicity.",
+        "Blaming employees or blaming organizations are both incomplete explanations.",
+        "\"Burnout isn't your fault\" and \"you have recovery work to do\" are both true at once.",
+        "Perfectionism, hyper-independence, and learned patterns can drive burnout regardless of leadership quality.",
+        "Replace \"whose fault is this?\" with \"is this a match or a mismatch, and what can each of us change?\""
+      ],
+      "faq": [
+        {
+          "q": "What's the difference between a toxic workplace and a mismatch?",
+          "a": "Cait says a toxic workplace calls for an exit, while a mismatch is two well-intentioned parties whose needs and styles don't line up. Mismatches can often be adjusted; toxicity usually can't."
+        },
+        {
+          "q": "If my manager is supportive, why am I still burning out?",
+          "a": "The episode points to internal drivers like perfectionism and hyper-independence, and to small mismatches in things like autonomy or pace. Good leadership can't neutralize every one of those."
+        },
+        {
+          "q": "Is burnout the employee's responsibility or the employer's?",
+          "a": "Both, in Cait's framing. It's not about fault. Each side asks what they can realistically change to get closer to a good-enough match."
+        }
+      ],
+      "sourceNote": "Based on the FRIED. The Burnout Podcast episode \"Can You Burn Out in a Good Workplace? a #straightfromcait episode,\" released September 13, 2026, hosted by Cait Donovan."
+    }
+  ]
+}

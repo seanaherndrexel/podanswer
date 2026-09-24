@@ -1,0 +1,127 @@
+{
+  "slug": "tooth-or-dare-podcast",
+  "title": "Tooth or Dare Podcast",
+  "author": "Irene Iancu (@Toothlife.Irene)",
+  "description": "A podcast from Canada's first Restorative Dental Hygienist, featuring dental professionals discussing oral health, career development and practice ownership in an entertaining and educational way.",
+  "category": "health",
+  "website": "https://www.toothordare.ca",
+  "feedUrl": "https://feed.podbean.com/toothordare/feed.xml",
+  "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/3587256/Podcast_Art_2024_3_7jh0v.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/tooth-or-dare-podcast/id1441039535",
+  "spotifyUrl": "https://open.spotify.com/show/1aT89gxC5nD0UACeG9wEXF",
+  "episodes": [
+    {
+      "guid": "toothordare.podbean.com/b5daf1e7-5134-38a8-9e46-81ea5b2a69b4",
+      "title": "Are Lead Aprons Still Required for Dental X-Rays?",
+      "publishedAt": "2026-06-15",
+      "summary": "Irene and Victoria untangle the 1999 versus 2022 radiation protection guidelines and explain why not required doesn't mean never use. They offer a simple framework: assess risk, justify the exposure, optimize protection.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/y3f3jg8fxumje8p3/Lead_apron76dy3.mp3",
+      "durationSec": 1667,
+      "episodeUrl": "https://toothordare.podbean.com/e/are-lead-aprons-still-required-for-dental-x-rays/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "toothordare.podbean.com/054225f5-2f66-3eee-8dac-fdaa50ed4aec",
+      "title": "RDH with 30 Years of Experience Starting Over in a New Office",
+      "publishedAt": "2026-05-26",
+      "summary": "A conversation about the difference between real expertise and repeated habit, and how experienced hygienists can join a new office with humility and earn trust before pushing for changes.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/xerd5ja8xr9hsb2b/30_years_experience_podcast_audio9kx5h.mp3",
+      "durationSec": 889,
+      "episodeUrl": "https://toothordare.podbean.com/e/rdh-with-30-years-of-experience-starting-over-in-a-new-office-tooth-or-dare-podcast-with-toothlifeirene/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "toothordare.podbean.com/972255ee-e3f8-3395-bd90-ccf109f06938",
+      "title": "Restorative Dental Hygiene & the CE Struggle in Canada",
+      "publishedAt": "2026-05-02",
+      "summary": "Irene and Victoria discuss the barriers to advanced restorative education for hygienists in Canada and how the Restorative Dental Hygiene Study Club grew out of that gap.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/57vuadg4zs45mrum/RRDH_podcast7zh6k.mp3",
+      "durationSec": 1243,
+      "episodeUrl": "https://toothordare.podbean.com/e/restorative-dental-hygiene-the-ce-struggle-in-canada-tooth-or-dare-podcast-with-toothlifeirene/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "toothordare.podbean.com/8cfd457b-240d-365e-91f8-c8e295cf8667",
+      "title": "I Lost My Dad to Lung Cancer & His Oral Care During Treatment",
+      "publishedAt": "2026-04-16",
+      "summary": "A personal episode in which Irene shares her father's cancer journey and how oral health was overlooked in hospital care, making the case for dental professionals on oncology teams.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/g2b6s8352i8uiqvt/Irene_Dad_podcast_audio9kovn.mp3",
+      "durationSec": 1533,
+      "episodeUrl": "https://toothordare.podbean.com/e/i-lost-my-dad-to-lung-cancer-his-oral-care-during-tx-tooth-or-dare-podcast-with-toothlifeirene/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "toothordare.podbean.com/6bd452fd-281d-3d29-8aa1-53d0e2cacc5f",
+      "title": "What Dentistry in New York City is Like",
+      "publishedAt": "2026-03-24",
+      "summary": "Dentist Cody Levine describes his Tribeca practice and its four pillars of care: esthetics, structure, function and biology, with a focus on interdisciplinary collaboration.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/evswz7g4wbmepg2j/Cody_Levine-_Smile_House_Podcast_Audio7vhjf.mp3",
+      "durationSec": 1741,
+      "episodeUrl": "https://toothordare.podbean.com/e/what-dentistry-in-new-york-city-is-like-tooth-or-dare-podcast-with-toothlifeirene/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "toothordare.podbean.com/5c078d69-7253-369a-91db-3af43dc4c28c",
+      "title": "Taking Blood Pressure as Dental Hygienist?",
+      "publishedAt": "2026-03-11",
+      "summary": "Irene and Victoria explain that blood pressure screening at dental visits is recommended but rarely mandatory, and share cases where a routine reading caught hypertension and gestational diabetes.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/9wgxmx3dw6k8usxz/Podcast_Audio_Op_Talk_-_TBD_-_Blood_Pressure67k7c.mp3",
+      "durationSec": 1322,
+      "episodeUrl": "https://toothordare.podbean.com/e/taking-blood-pressure-as-dental-hygienist-toothlifeirene-tooth-or-dare-podcast/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "do-you-still-need-a-lead-apron-for-dental-x-rays",
+      "question": "Do you still need a lead apron for dental X-rays?",
+      "metaDescription": "Dental hygienist Irene Iancu of the Tooth or Dare Podcast explains why newer guidelines dropped the lead apron requirement, and when shielding still makes sense.",
+      "episodeGuid": "toothordare.podbean.com/b5daf1e7-5134-38a8-9e46-81ea5b2a69b4",
+      "intro": "Under the current guidelines, a lead apron is no longer required for routine dental X-rays, but that isn't the same as saying it should never be used. On the Tooth or Dare Podcast, restorative dental hygienist Irene Iancu and her co-host Victoria walk through what changed between the 1999 and 2022 recommendations and why the real question is whether the X-ray is justified in the first place.",
+      "sections": [
+        {
+          "heading": "What changed between 1999 and 2022",
+          "body": "For decades, draping a lead apron over every patient before a dental X-ray was standard. That practice came out of guidelines written in the late 1990s, when film X-rays needed more radiation and equipment was less precise.\n\nThe hosts explain that updated guidance from 2022 onward, echoed by bodies like the American Dental Association and the American Academy of Oral and Maxillofacial Radiology, dropped the blanket requirement. Digital sensors need far less exposure, modern units use rectangular collimation that keeps the beam tight to the area being imaged, and the amount of scatter reaching the abdomen or reproductive organs from a dental X-ray is tiny.\n\nIn Canada, where Irene practices, the same shift shows up in Health Canada's Safety Code 30 and in guidance from provincial regulators. The bottom line across all of these documents is that the apron doesn't meaningfully reduce risk for a properly taken dental radiograph, and in some cases can get in the way of the image.",
+          "quote": null
+        },
+        {
+          "heading": "Not required is not the same as never",
+          "body": "This is the distinction the whole episode turns on. Irene and Victoria point out that a lot of clinicians and patients heard \"no longer required\" and translated it to \"banned\" or \"pointless.\" Neither is true.\n\nThe guidelines leave room for judgment. If a patient is anxious and an apron helps them feel comfortable, there's no harm in using one as long as it doesn't block the image. If a clinic is still using older equipment, or taking a larger scan like a panoramic or cone-beam CT, the calculation is different from a single bitewing on a modern digital unit.\n\nThe hosts also separate the apron from the thyroid collar. They're often treated as one item, but the collar sits at the neck and shields a gland that is more sensitive to radiation, especially in kids. Recommendations on collars vary by type of X-ray and patient, so it's worth asking your clinic what they use and why, rather than assuming both pieces come as a set.",
+          "quote": null
+        },
+        {
+          "heading": "The three-step check before any X-ray",
+          "body": "Rather than arguing about shielding, the hosts want the conversation to move upstream to whether the X-ray should happen at all. Their framework has three steps.\n\n**Assess risk.** Who is the patient, what's their history, and how recently were images taken? A child, a pregnant patient and an adult with a long gap since their last films all get weighed differently.\n\n**Justify the exposure.** Every radiograph should have a clinical reason. Is there a suspected cavity, an area of bone loss to monitor, a symptom to investigate? Irene and Victoria are clear that an X-ray taken on a schedule with no clinical question behind it is an elective exposure, and elective exposures are the ones to question.\n\n**Optimize protection.** Once an image is justified, use the lowest dose that gives a diagnostic result: digital sensors, tight collimation, correct settings and good technique. Shielding fits here as one option among several, not as the main event.\n\nThe hosts explain that a well-justified, well-taken X-ray without an apron delivers less risk than an unnecessary one taken with full shielding.",
+          "quote": null
+        },
+        {
+          "heading": "What to ask at your next appointment",
+          "body": "If you're a patient, the episode gives you a few useful questions. Ask what the X-ray is for. A good clinic will tell you what they're looking for and why now. Ask whether the equipment is digital and whether they use rectangular collimation. And if you'd feel better with an apron, say so. Under the current guidelines that's a reasonable request, not an outdated one.\n\nIf you're pregnant, tell the clinic. Dental X-rays are generally considered safe in pregnancy when they're needed, but it changes the risk assessment and many offices will offer shielding for comfort.\n\nFor parents, the same applies to kids. Children's tissues are more radiosensitive, so the justification step matters more, and thyroid protection is more likely to be appropriate. The hosts' larger point is that the equipment and the reasoning behind the image protect you more than a lead blanket ever did, and asking about both is fair game.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Current guidelines no longer require a lead apron for routine dental X-rays because digital imaging and tight collimation have cut the dose dramatically.",
+        "Not required doesn't mean never. Clinics can still use an apron for patient comfort, older equipment or larger scans.",
+        "A thyroid collar is a separate item from the apron and is more likely to be appropriate, especially for children.",
+        "The bigger safety lever is justification: every X-ray should answer a clinical question, not follow a calendar.",
+        "Ask what the image is for, whether the equipment is digital, and tell the clinic if you're pregnant."
+      ],
+      "faq": [
+        {
+          "q": "Are dental X-rays safe during pregnancy?",
+          "a": "They're generally considered safe when clinically needed, but the hosts stress telling your clinic so the risk assessment can account for it. Many offices will offer shielding for reassurance and may defer purely elective images."
+        },
+        {
+          "q": "Can I ask for a lead apron anyway?",
+          "a": "Yes. The updated guidelines removed the requirement but didn't prohibit aprons. If it makes you more comfortable and doesn't obstruct the image, most clinics will accommodate it."
+        },
+        {
+          "q": "How often should you get dental X-rays?",
+          "a": "The episode's answer is that there's no fixed schedule. Frequency should depend on your cavity risk, gum health and history, and each set of images should have a specific reason behind it."
+        }
+      ],
+      "sourceNote": "Based on the episode \"Are Lead Aprons Still Required for Dental X-Rays?\" from the Tooth or Dare Podcast with Irene Iancu and Victoria, published June 15, 2026."
+    }
+  ]
+}

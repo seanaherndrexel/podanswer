@@ -1,0 +1,97 @@
+{
+  "slug": "the-ask-rusty-podcast",
+  "title": "The Ask Rusty Podcast - Answers to Questions About Personal Injury Cases",
+  "author": "Rusty Messer",
+  "description": "Welcome to the Ask Rusty Podcast, hosted by Attorney Rusty Messer with Big River Trial Attorneys in Baton Rouge, Louisiana.",
+  "category": "law",
+  "website": "https://www.buzzsprout.com/2450234",
+  "feedUrl": "https://anchor.fm/s/1068ee994/podcast/rss",
+  "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43949965/43949965-1752895381875-5cc89418e7d3.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "f00170d9-eaf9-4801-8b2f-5a5d8f426e25",
+      "title": "Who Pays When a Tree Falls on You or Your Property?",
+      "publishedAt": "2026-09-09",
+      "summary": "Attorney Rusty Messer breaks down liability when a tree falls on a house, car, fence or person: when it's an Act of God, when a property owner is responsible for a dead or dangerous tree, how insurance and subrogation work, and what changes when someone is injured.",
+      "audioUrl": "https://anchor.fm/s/1068ee994/podcast/play/125487899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F431559399-44100-2-1138b199dd198.mp3",
+      "durationSec": 896,
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/rusty-messer4/episodes/Who-Pays-When-a-Tree-Falls-on-You-or-Your-Property-e3ok3ar",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "1ead683e-27cb-4da4-8177-6389bf7eda40",
+      "title": "The Hidden Witness: Vehicle Electronic & Video Data in Crash Cases",
+      "publishedAt": "2026-08-04",
+      "summary": "Rusty explains how modern vehicles record crash data through event data recorders, truck ECM logs, telematics and dash cams, why that evidence must be preserved quickly, and which experts are needed to interpret it.",
+      "audioUrl": "https://anchor.fm/s/1068ee994/podcast/play/123648706/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-2%2F429060465-44100-2-a7c6e90ecd3dd.mp3",
+      "durationSec": 1530,
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/rusty-messer4/episodes/The-Hidden-Witness-Vehicle-Electronic--Video-Data-in-Crash-Cases-e3mrv82",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "446ed79d-9aca-4414-b967-0a7c8ecfb03c",
+      "title": "Understanding the Jones Act: Are You a Seaman or a Longshoreman?",
+      "publishedAt": "2026-08-02",
+      "summary": "A plain-English guide to maritime injury rights: who qualifies as a Jones Act seaman, the 30% rule, maintenance and cure, unseaworthiness claims, and how the Longshore and Harbor Workers' Compensation Act differs.",
+      "audioUrl": "https://anchor.fm/s/1068ee994/podcast/play/123647645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-2%2F429058894-44100-2-ded0dff10325.mp3",
+      "durationSec": 1115,
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/rusty-messer4/episodes/Understanding-the-Jones-Act-Are-You-a-Seaman-or-a-Longshoreman-e3mru6t",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "who-is-responsible-when-a-neighbors-tree-falls-on-my-property",
+      "question": "Who is responsible when a neighbor's tree falls on my property?",
+      "metaDescription": "Attorney Rusty Messer explains when a fallen tree is an Act of God, when the owner is liable for a dead or dangerous tree, and how insurance handles the damage.",
+      "episodeGuid": "f00170d9-eaf9-4801-8b2f-5a5d8f426e25",
+      "intro": "In most cases, if a healthy tree falls in a storm, nobody is legally at fault and your own insurance pays for the damage. If the tree was dead, diseased or obviously dangerous and the owner knew or should have known, the owner can be liable. That's the framework Baton Rouge personal injury attorney Rusty Messer lays out on The Ask Rusty Podcast, where he walks through fallen trees, insurance claims, subrogation and what changes when a person gets hurt.",
+      "sections": [
+        {
+          "heading": "The question that decides everything: why did it fall?",
+          "body": "Rusty's starting point is simple. Before you think about who pays, figure out why the tree came down. A healthy tree knocked over by severe weather is a very different legal situation from a rotting, hollow or leaning tree that should have been dealt with long before the storm.\n\nWhen a sound tree falls because of wind, lightning or a hurricane, the law generally treats it as an Act of God. Nobody was negligent, so nobody is at fault, and the damage lands on whoever's property got hit. Your homeowners policy covers your house. Your auto policy covers your car. The neighbor whose tree it was usually owes you nothing, even though it feels unfair.\n\nThe picture changes when the tree was a known hazard. That's where the negligence standard comes in.",
+          "quote": null
+        },
+        {
+          "heading": "What 'knew or should have known' actually means",
+          "body": "The legal test Rusty describes is whether the owner knew, or reasonably should have known, that the tree was dangerous. You don't need proof that the neighbor was warned in writing. Visible signs count: dead limbs, fungus at the base, a hollow trunk, a heavy lean, bark falling off, or a prior complaint from anyone.\n\nIf those signs were obvious and the owner did nothing, and then the tree fell on your fence, roof or car, the owner (and their liability insurance) can be responsible for the damage. The host explains that documenting the tree's condition matters a lot here. Photos of the rot or the dead canopy taken right after the fall, before cleanup, are the evidence that turns an Act of God into a negligence claim.\n\nHe also covers a wrinkle people don't expect: ownership. A tree belongs to whoever owns the land where the trunk stands, even if the branches hang over your yard. So a limb from your neighbor's tree that drops on your shed is still your neighbor's tree.",
+          "quote": null
+        },
+        {
+          "heading": "How the insurance claim and subrogation play out",
+          "body": "Practically, Rusty says most people should start with their own insurer regardless of fault. Your homeowners policy handles structural damage and usually some debris removal. Your auto policy's comprehensive coverage handles a crushed vehicle.\n\nIf it turns out the neighbor was negligent, your insurance company can go after the neighbor's insurer to recover what it paid. That process is called subrogation, and it can also get your deductible back. So filing with your own carrier first doesn't give up your claim against the neighbor. It just gets the repairs moving.\n\nTrees on public land are a separate category. When a city or parish tree comes down and causes damage, there may be a claim against the government, but those claims come with shorter notice deadlines and special rules, so it pays to move quickly.",
+          "quote": null
+        },
+        {
+          "heading": "When a person is hurt, the stakes go up",
+          "body": "Everything above is about property. When a falling tree or limb injures someone, Rusty explains that the same negligence analysis applies, but the potential damages are far larger: medical bills, lost wages, pain and suffering, and in the worst cases wrongful death.\n\nThat's also where the 'should have known' standard gets scrutinized hardest. A landowner who ignored a visibly dead tree next to a sidewalk, driveway or play area is in a much worse position than one whose healthy oak snapped in a tornado. If you or a family member is injured, he recommends preserving evidence of the tree's condition immediately, getting medical care documented, and talking to a lawyer before giving a recorded statement to any insurance company.\n\nOne last warning from the episode: don't be a hero with the chainsaw. Cutting up a damaged or fallen tree yourself creates real physical risk and can also destroy the evidence you'd need to prove the tree was rotten. Let a professional handle removal, and photograph everything first.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "A healthy tree that falls in a storm is usually an Act of God, so no one is liable and your own insurance covers your property.",
+        "If the tree was dead, diseased or visibly dangerous and the owner knew or should have known, the owner can be liable for the damage.",
+        "The tree belongs to whoever owns the land where the trunk stands, even if the branches extend over your property.",
+        "File with your own insurer first; if the neighbor was negligent, your insurer can subrogate against theirs and recover your deductible.",
+        "Photograph the tree's condition before cleanup and don't remove it yourself; the evidence matters and the work is dangerous."
+      ],
+      "faq": [
+        {
+          "q": "Does my neighbor have to pay if their tree falls on my house?",
+          "a": "Not automatically. If the tree was healthy and a storm brought it down, your own homeowners insurance pays. Your neighbor is only responsible if the tree was a known or obvious hazard they failed to address."
+        },
+        {
+          "q": "Who pays if a tree falls on my car?",
+          "a": "Your auto policy's comprehensive coverage typically handles it. If the tree's owner was negligent, your insurer may pursue their insurer through subrogation, and you may recover your deductible."
+        },
+        {
+          "q": "Can I sue the city if a public tree falls on my property?",
+          "a": "Possibly, but claims against government bodies have special notice requirements and short deadlines. Rusty Messer recommends acting fast and getting legal advice early in those situations."
+        }
+      ],
+      "sourceNote": "Based on \"Who Pays When a Tree Falls on You or Your Property?\", released September 9, 2026 on The Ask Rusty Podcast, hosted by attorney Rusty Messer of Big River Trial Attorneys in Baton Rouge."
+    }
+  ]
+}

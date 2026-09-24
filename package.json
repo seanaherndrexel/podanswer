@@ -1,0 +1,30 @@
+{
+  "name": "podanswer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PodAnswer - the podcast network where episodes answer the questions people search for.",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "migrate": "node src/db.js migrate",
+    "seed": "node src/seed.js",
+    "ingest": "node src/ingest.js",
+    "generate": "node src/generate.js",
+    "build": "npm run migrate && npm run seed"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "bcryptjs": "^3.0.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.0",
+    "marked": "^14.1.0",
+    "pg": "^8.13.0",
+    "rss-parser": "^3.13.0",
+    "sharp": "^0.35.4",
+    "stripe": "^22.6.2"
+  }
+}

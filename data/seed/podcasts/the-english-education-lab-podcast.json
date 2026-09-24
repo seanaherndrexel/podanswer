@@ -1,0 +1,132 @@
+{
+  "slug": "the-english-education-lab-podcast",
+  "title": "The English Education Lab Podcast",
+  "author": "Karolina Thomoglou",
+  "description": "Welcome to The English Education Lab Podcast, your go-to guide for all things English language learning! Host Karolina Thomoglou explores grammar, vocabulary, pronunciation, conversation, and study strategies to help learners build confidence and proficiency.",
+  "category": "education",
+  "website": "http://www.englisheducationlab.net",
+  "feedUrl": "https://feeds.buzzsprout.com/2388585.rss",
+  "imageUrl": "https://storage.buzzsprout.com/isddze3txiqv77tnx5gsrmmhdeo5?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19675974",
+      "title": "The hidden rules of English communication",
+      "publishedAt": "2026-08-20",
+      "summary": "Karolina explores the unwritten rules of English conversation that native speakers follow without thinking: timing, interruption etiquette, and listening cues. She discusses how cultural background shapes the way silence is read and why adapting beats following rigid rules.",
+      "audioUrl": "https://www.buzzsprout.com/2388585/episodes/19675974-the-hidden-rules-of-english-communication.mp3",
+      "durationSec": 707,
+      "episodeUrl": "https://www.buzzsprout.com/2388585/episodes/19675974-the-hidden-rules-of-english-communication",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-18950122",
+      "title": "Why you freeze when someone speaks English to you",
+      "publishedAt": "2026-04-02",
+      "summary": "Why learners who know the words still go blank in live conversation. Karolina explains the processing overload and performance anxiety behind freezing, and shares strategies like thinking-time phrases and slowing the conversation down.",
+      "audioUrl": "https://www.buzzsprout.com/2388585/episodes/18950122-why-you-freeze-when-someone-speaks-english-to-you.mp3",
+      "durationSec": 739,
+      "episodeUrl": "https://www.buzzsprout.com/2388585/episodes/18950122-why-you-freeze-when-someone-speaks-english-to-you",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-18669559",
+      "title": "How to turn passive vocabulary into power words!",
+      "publishedAt": "2026-02-12",
+      "summary": "The gap between recognising a word and using it in conversation. Karolina covers the forgetting curve and science-backed techniques like spaced repetition and the testing effect to activate vocabulary.",
+      "audioUrl": "https://www.buzzsprout.com/2388585/episodes/18669559-how-to-turn-passive-vocabulary-into-power-words.mp3",
+      "durationSec": 610,
+      "episodeUrl": "https://www.buzzsprout.com/2388585/episodes/18669559-how-to-turn-passive-vocabulary-into-power-words",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-18540168",
+      "title": "How to discuss sensitive topics in English with confidence",
+      "publishedAt": "2026-01-20",
+      "summary": "Cultural and linguistic differences when discussing difficult subjects in English, with strategies for softening language, disagreeing respectfully, and staying composed without relying on scripts.",
+      "audioUrl": "https://www.buzzsprout.com/2388585/episodes/18540168-how-to-discuss-sensitive-topics-in-english-with-confidence.mp3",
+      "durationSec": 752,
+      "episodeUrl": "https://www.buzzsprout.com/2388585/episodes/18540168-how-to-discuss-sensitive-topics-in-english-with-confidence",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-18421238",
+      "title": "Shadowing: The fast track to natural English",
+      "publishedAt": "2025-12-28",
+      "summary": "An introduction to the shadowing technique for pronunciation and fluency at every level, how it synchronises brain and mouth, and how to fit it into a daily routine without a partner or classroom.",
+      "audioUrl": "https://www.buzzsprout.com/2388585/episodes/18421238-shadowing-the-fast-track-to-natural-english.mp3",
+      "durationSec": 896,
+      "episodeUrl": "https://www.buzzsprout.com/2388585/episodes/18421238-shadowing-the-fast-track-to-natural-english",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-18205149",
+      "title": "Stop translating in your head - Learn to think directly in English!",
+      "publishedAt": "2025-11-17",
+      "summary": "Why translating in your head slows spoken English, brain-training methods to shift toward thinking directly in English, and a one-week challenge to see the difference.",
+      "audioUrl": "https://www.buzzsprout.com/2388585/episodes/18205149-stop-translating-in-your-head-learn-to-think-directly-in-english.mp3",
+      "durationSec": 697,
+      "episodeUrl": "https://www.buzzsprout.com/2388585/episodes/18205149-stop-translating-in-your-head-learn-to-think-directly-in-english",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-do-i-freeze-when-someone-speaks-english-to-me",
+      "question": "Why do I freeze when someone speaks English to me?",
+      "metaDescription": "English teacher Karolina Thomoglou explains why learners who know the words still go blank in conversation, and the strategies that stop the freeze.",
+      "episodeGuid": "Buzzsprout-18950122",
+      "intro": "You freeze because your brain is overloaded, not because you don't know enough English. That's the explanation from Karolina Thomoglou, host of The English Education Lab Podcast. In a short episode on exactly this problem, she explains that live conversation demands real-time processing under pressure, and the mind's response to that pressure is to go blank. The good news is the fix isn't more grammar. It's a handful of habits that slow the exchange down and keep you present.",
+      "sections": [
+        {
+          "heading": "Knowing the words is not the same as retrieving them under pressure",
+          "body": "The pattern Karolina describes will be familiar to most learners. You've studied for years. You can read an article, write an email, follow a film. Then a stranger asks you a question in English and nothing comes out.\n\nHer point is that this isn't a knowledge gap. Reading and writing give you time. Conversation doesn't. You have to decode what was said, work out a response, find the words, and produce them, all in a second or two, while someone watches you. She describes that as processing overload: too many jobs at once for a brain that's still building automatic pathways in a second language. When the load spikes, the system stalls.",
+          "quote": null
+        },
+        {
+          "heading": "The anxiety on top of the overload",
+          "body": "The second cause the host explains is performance anxiety. The moment you feel evaluated, part of your attention goes to monitoring yourself instead of the conversation. You're listening to your own accent, worrying about the mistake you just made, and predicting how the other person is judging you.\n\nThat self-monitoring eats the little processing capacity you had left. So the freeze is really two problems stacked together: the raw difficulty of real-time language, and the fear that makes it worse. Karolina's strategies target both.",
+          "quote": null
+        },
+        {
+          "heading": "Slow the conversation down on purpose",
+          "body": "The first practical move is to take control of the pace. Most learners feel they have to keep up with the native speaker's speed, which guarantees overload. Karolina's advice is to deliberately slow things down: speak at your own pace, ask the other person to repeat or rephrase, and don't treat a pause as a failure.\n\nThe host notes that native speakers rarely mind. A slightly slower exchange where you understand each other is far better for both sides than a fast one where you nod along and freeze.",
+          "quote": null
+        },
+        {
+          "heading": "Use thinking-time phrases",
+          "body": "The second tool is what Karolina calls thinking-time phrases: short, natural fillers that buy you a few seconds without silence. Things like \"That's a good question,\" \"Let me think,\" or \"How do I put this.\" Native speakers use them constantly, and to a listener they sound like normal conversation rather than a stall.\n\nThe benefit is twofold. You get the processing time you need, and you stay in the conversation instead of dropping out of it. She suggests learning a handful and practising them until they come out automatically, so they're available exactly when your mind goes blank.",
+          "quote": null
+        },
+        {
+          "heading": "Train your brain to stay present",
+          "body": "The last strategy is about attention. When panic starts, the mind jumps ahead to the mistake you might make or back to the one you just made. Karolina's advice is to train yourself to stay with the current sentence: what did they actually say, and what's the one thing you want to say back?\n\nShe frames this as calm, clear thinking rather than perfect English. Her closing message in the episode is that the goal is confident communication, not flawless grammar. A learner who stays present, uses a filler phrase, and answers simply is communicating well, even with errors. A learner who freezes chasing the perfect sentence isn't communicating at all.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Freezing comes from processing overload and performance anxiety, not from lack of vocabulary or grammar.",
+        "Deliberately slow the conversation down; ask for repeats and don't treat pauses as failure.",
+        "Learn a few thinking-time phrases and practise them until they're automatic.",
+        "Keep your attention on the current sentence instead of past mistakes or future judgment.",
+        "Aim for confident communication, not perfect English."
+      ],
+      "faq": [
+        {
+          "q": "Does freezing mean my English isn't good enough?",
+          "a": "No. Karolina's whole point is that learners who freeze usually know the words. The problem is real-time processing under pressure, which is a separate skill from knowledge."
+        },
+        {
+          "q": "What are some thinking-time phrases in English?",
+          "a": "Short natural fillers such as \"That's a good question,\" \"Let me think,\" or \"Well, how do I put this.\" They buy a few seconds without awkward silence."
+        },
+        {
+          "q": "Will native speakers be annoyed if I ask them to slow down?",
+          "a": "The host's view is that most won't. A slower conversation where you understand each other is better for both people than a fast one where you go blank."
+        }
+      ],
+      "sourceNote": "Based on the episode \"Why you freeze when someone speaks English to you,\" released April 2, 2026 on The English Education Lab Podcast, hosted by Karolina Thomoglou."
+    }
+  ]
+}

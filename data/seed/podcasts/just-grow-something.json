@@ -1,0 +1,127 @@
+{
+  "slug": "just-grow-something",
+  "title": "Just Grow Something | Evidence-Based Home Gardening",
+  "author": "Karin Velez",
+  "description": "A podcast helping home gardeners grow vegetables using research-based techniques, covering plants, pests, diseases, soil health, and garden planning for all experience levels.",
+  "category": "science",
+  "website": "https://justgrowsomethingpodcast.com",
+  "feedUrl": "https://feeds.simplecast.com/7R3MwW5X",
+  "imageUrl": "https://image.simplecastcdn.com/images/6215cda8-011d-4ccd-9fe8-c389912a62af/9a6d4f39-7930-463f-9ce7-5f0909a48ceb/3000x3000/just_grow_something.jpg?aid=rss_feed",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/just-grow-something-the-why-behind-the-how-of-gardening/id1555674609",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "ff982abc-b974-4249-99b3-75840bb14067",
+      "title": "Cover Crops in the Home Garden - Ep. 318",
+      "publishedAt": "2026-09-15",
+      "summary": "Karin explains cover crops for both in-ground and raised beds, from nitrogen-fixing legumes like crimson clover and hairy vetch to soil-building grasses and fast summer options like buckwheat.",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/00fa24d0-7912-460f-9961-069ff42e2b56/episodes/b216e6eb-bffe-4b7f-b69d-f9d4273abb01/audio/128/default.mp3",
+      "durationSec": 2182,
+      "episodeUrl": "https://bleav.com/shows/just-grow-something-evidence-based-home-gardening/?post_type=gp_podcast_episode&p=370",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "27f3cc9a-3b37-4016-aae1-89b45a4c1d23",
+      "title": "Fall-Planted vs. Spring-Planted Onions: Choosing the Right System for Your Garden - Ep. 317",
+      "publishedAt": "2026-09-08",
+      "summary": "The science of day-length triggers and cold exposure that decides whether fall-planted onions bulb or bolt, so you can pick the right planting system for your climate.",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/00fa24d0-7912-460f-9961-069ff42e2b56/episodes/b87e8d23-f3d5-4dd1-801a-0e420d3f5041/audio/128/default.mp3",
+      "durationSec": 2064,
+      "episodeUrl": "https://bleav.com/shows/just-grow-something-evidence-based-home-gardening/?post_type=gp_podcast_episode&p=368",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "a68c9f47-0285-4e60-9e85-f7bd287abb12",
+      "title": "Choosing a Garlic Variety Based on the Science - Ep. 316",
+      "publishedAt": "2026-09-01",
+      "summary": "Karin breaks down hardneck versus softneck garlic based on vernalization requirements, clove structure and storage life, and explains how to match a variety to your climate, where to source seed garlic, and why grocery store garlic is a gamble.",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/00fa24d0-7912-460f-9961-069ff42e2b56/episodes/4cc1b47e-6a18-47e7-836b-34175c1cb1e0/audio/128/default.mp3",
+      "durationSec": 2290,
+      "episodeUrl": "https://bleav.com/shows/just-grow-something-evidence-based-home-gardening/?post_type=gp_podcast_episode&p=367",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "3f7bbcda-7d57-483a-b171-6b54553cb5e4",
+      "title": "How to Know When Winter Squash is Ready to Harvest (and How to Store Them) - Ep. 315",
+      "publishedAt": "2026-08-25",
+      "summary": "How to spot maturity on butternut, acorn and other winter squash, plus curing and storage methods that keep the harvest through winter.",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/00fa24d0-7912-460f-9961-069ff42e2b56/episodes/23ebb89b-36a7-4de5-ab19-7f14f1b0a7aa/audio/128/default.mp3",
+      "durationSec": 1586,
+      "episodeUrl": "https://bleav.com/shows/just-grow-something-evidence-based-home-gardening/?post_type=gp_podcast_episode&p=366",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "bc77ec8b-4a62-44a1-bd06-5f1b4c1faec4",
+      "title": "Wildlife Damage in Gardens - Ep. 314",
+      "publishedAt": "2026-08-18",
+      "summary": "How to identify damage from squirrels, chipmunks, rabbits, deer, raccoons, groundhogs and armadillos, with university research on which deterrents actually work for each.",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/00fa24d0-7912-460f-9961-069ff42e2b56/episodes/9ea83a80-23a1-471f-873f-336c1c123648/audio/128/default.mp3",
+      "durationSec": 1814,
+      "episodeUrl": "https://bleav.com/shows/just-grow-something-evidence-based-home-gardening/?post_type=gp_podcast_episode&p=365",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "e8f66c44-0fd9-45e0-95b0-ba6536eaeb9d",
+      "title": "Nutrition: Organic vs. Conventional vs. Homegrown - Ep. 313",
+      "publishedAt": "2026-08-11",
+      "summary": "What peer-reviewed research says about nutritional differences between organic and conventional produce, and how soil health and storage time affect nutrient density in homegrown vegetables.",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/00fa24d0-7912-460f-9961-069ff42e2b56/episodes/c69f1896-8d1d-4a0d-ba0d-ae1a2e381f1d/audio/128/default.mp3",
+      "durationSec": 1878,
+      "episodeUrl": "https://bleav.com/shows/just-grow-something-evidence-based-home-gardening/?post_type=gp_podcast_episode&p=364",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "should-i-plant-hardneck-or-softneck-garlic",
+      "question": "Should I plant hardneck or softneck garlic?",
+      "metaDescription": "Hardneck or softneck garlic? Karin Velez of Just Grow Something explains how vernalization, clove structure and storage life decide which type will bulb in your climate.",
+      "episodeGuid": "a68c9f47-0285-4e60-9e85-f7bd287abb12",
+      "intro": "Plant hardneck garlic if you get real winters and softneck if you don't. That's the short answer from Karin Velez, host of Just Grow Something, in episode 316. The longer answer comes down to one word, vernalization, which is the cold-exposure requirement that decides whether a garlic plant divides into a proper bulb or just sits there as a single round clove.",
+      "sections": [
+        {
+          "heading": "The cold requirement that decides everything",
+          "body": "Karin's whole framework starts with vernalization. Garlic doesn't form a bulb because it's warm or because the days get long. It forms a bulb because it was cold first, for long enough, and then the warmth and longer days trigger it to divide into cloves.\n\nHardneck garlic has a strong vernalization requirement. It needs weeks of temperatures at or below the low 40s Fahrenheit to bulb properly. Give it a mild winter and you'll harvest something that looks like a big single clove, sometimes called a round, with no divisions at all. That's why hardneck is the natural choice for cold climates in the northern US, Canada and anywhere with a hard freeze.\n\nSoftneck garlic has a much lighter cold requirement. It will still bulb after a mild winter, which is why it's the type grown commercially in California and the type you almost always find in the grocery store. Karin explains that in warm regions, softneck is the safer bet, and in borderline zones you can push hardneck by planting in fall so it gets the full winter chill.",
+          "quote": null
+        },
+        {
+          "heading": "Clove structure and what it means at harvest",
+          "body": "The names describe the plant. Hardneck garlic sends up a stiff central flower stalk called a scape, which leaves a woody stem running through the middle of the bulb. The cloves arrange themselves in a single ring around that stem, so you get fewer cloves per bulb, typically four to twelve, but each one is large and easy to peel.\n\nSoftneck garlic doesn't produce a scape under normal conditions. Without that central stalk, the bulb packs in multiple layers of cloves, often twelve to twenty or more, with the outer ones large and the inner ones small. The neck stays pliable, which is why softneck is the type you see braided.\n\nKarin points out a practical bonus with hardneck: the scapes themselves are a harvest. You cut them in early summer so the plant puts energy into the bulb instead of the flower, and they're delicious sautéed or blended into pesto.",
+          "quote": null
+        },
+        {
+          "heading": "How long each type keeps in storage",
+          "body": "This is where softneck wins. Because it has more wrapper layers and no central stem to dry out from the inside, softneck garlic stores for nine months to a year in a cool, dry, dark spot. If you want garlic from one harvest to last until the next, softneck is the way to do it.\n\nHardneck garlic generally keeps for three to six months. The flavor is often more complex and varies more between varieties, which is why chefs and garlic enthusiasts love it, but you need to eat it or preserve it sooner. Karin's suggestion for cold-climate gardeners who want both flavor and shelf life is to grow a mix: hardneck for eating through fall and early winter, and a softneck variety that will tolerate your climate for the long haul.",
+          "quote": null
+        },
+        {
+          "heading": "Where to get seed garlic, and why not the grocery store",
+          "body": "Karin is direct about this. Grocery store garlic is a gamble. It's usually a softneck variety bred for California conditions, it may have been treated with a sprout inhibitor, and it can carry diseases like white rot or nematodes that will live in your soil for years.\n\nInstead, she recommends buying certified disease-free seed garlic from a reputable supplier or a local grower, and picking varieties that are already adapted to a climate like yours. Regional seed companies and farmers' markets are good sources because the garlic has already proven it can bulb in your conditions.\n\nThe episode also covers timing. Plant in fall, roughly two to four weeks before the ground freezes in cold regions, so the cloves root before winter and get their full chill. In warm regions, plant in late fall once temperatures cool. Cover the bed with a few inches of mulch, which Karin covered in more detail in an earlier episode on mulching newly planted garlic. Then wait. Garlic is slow, but if you've matched the type to your winter, it will reward you.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Hardneck garlic needs weeks of cold below the low 40s F to divide into cloves. Softneck bulbs even after a mild winter.",
+        "Cold climates: choose hardneck. Warm climates: choose softneck. Borderline zones can grow both with fall planting.",
+        "Softneck stores nine to twelve months. Hardneck keeps three to six months but usually has more complex flavor and bonus scapes.",
+        "Buy certified disease-free seed garlic adapted to your region rather than planting cloves from the grocery store.",
+        "Plant in fall, a few weeks before the ground freezes, and mulch the bed so the cloves root and chill over winter."
+      ],
+      "faq": [
+        {
+          "q": "Can I grow hardneck garlic in a warm climate?",
+          "a": "It's a gamble. Without enough cold exposure, hardneck often produces a single undivided round instead of a bulb. Some gardeners pre-chill seed cloves in the refrigerator for several weeks before planting to help, but softneck is the more reliable choice."
+        },
+        {
+          "q": "Why did my garlic come out as one big clove?",
+          "a": "That's a sign it didn't get enough vernalization. The plant never received the cold signal that tells it to divide, so it grew as a single round. Planting earlier in fall or choosing a type suited to your winter fixes it."
+        },
+        {
+          "q": "When should I plant garlic?",
+          "a": "In fall. In cold regions, aim for two to four weeks before the ground freezes so the cloves root but don't send up much top growth. In mild regions, plant in late fall once the weather cools."
+        }
+      ],
+      "sourceNote": "Based on Just Grow Something episode 316, \"Choosing a Garlic Variety Based on the Science,\" released September 1, 2026. Credit to host Karin Velez and the Just Grow Something podcast."
+    }
+  ]
+}

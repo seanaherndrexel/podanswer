@@ -1,0 +1,131 @@
+{
+  "slug": "your-money-guide-on-the-side",
+  "title": "Your Money Guide on the Side",
+  "author": "Tyler Gardner",
+  "description": "A finance podcast from Tyler Gardner covering money, investing, and business, with expert conversations that simplify complex topics while adding nuance to the ones that seem straightforward.",
+  "category": "money",
+  "website": "https://www.tylergardner.com",
+  "feedUrl": "https://feeds.megaphone.fm/TCL9866893823",
+  "imageUrl": "https://megaphone.imgix.net/podcasts/b3f1360c-c4bb-11f0-af91-773ac9227c81/image/a0cd99974c47628f4330ac9b5605706d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/your-money-guide-on-the-side/id1799219049",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "19741e34-ac5d-11f1-8f14-33fe7af37df5",
+      "title": "The Greatest Financial Advisor You Never Knew You Had",
+      "publishedAt": "2026-09-14",
+      "summary": "Tyler examines the S&P 500 as an investment vehicle, covering concentration risk, fees, and the behavioral side of index investing compared with paying for professional advice.",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TCL6180042582.mp3",
+      "durationSec": 2762,
+      "episodeUrl": "",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "90e64fd0-a6f6-11f1-b392-ffec6cd85b0e",
+      "title": "How to Build the Perfect Portfolio - Part 2 of 2",
+      "publishedAt": "2026-09-07",
+      "summary": "Tyler covers five more of the greatest investing thinkers of the last century, including Merton, Leibowitz, Shiller, Ellis, and Siegel, then pulls all ten together into a practical framework. The conclusion: keep costs low, know yourself, diversify broadly, protect against inflation, and stay the course.",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TCL9363915446.mp3",
+      "durationSec": 2298,
+      "episodeUrl": "",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6ddf3498-a156-11f1-bd59-eb2a17e915d0",
+      "title": "How to Build the Perfect Portfolio - Part 1 of 2",
+      "publishedAt": "2026-08-31",
+      "summary": "Tyler explores correlation, diversification, and efficient markets through the work of Markowitz, Sharpe, Fama, and Bogle, laying out the foundational principles of portfolio construction.",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TCL4180022018.mp3",
+      "durationSec": 2117,
+      "episodeUrl": "https://podcasts.apple.com/us/podcast/how-to-build-the-perfect-portfolio-part-1-of-2/id1799219049?i=1000786955051",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "7e32183a-9bc8-11f1-a229-fb8473522719",
+      "title": "The 4 Greatest Money (And Life) Lessons I Have Ever Learned",
+      "publishedAt": "2026-08-24",
+      "summary": "Tyler shares personal perspectives on time, work, and happiness, arguing that money is a means rather than an end and should fund the life you actually want.",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TCL5494383363.mp3",
+      "durationSec": 2674,
+      "episodeUrl": "",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "320109e0-964f-11f1-93c0-7bfadd6ff08b",
+      "title": "The $4.2 Million Man Who Couldn't Spend His Own Money",
+      "publishedAt": "2026-08-17",
+      "summary": "The final episode in a decumulation series looks at the psychological barriers to spending in retirement. Tyler argues the portfolio exists to fund the life, not the other way around.",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TCL7695124897.mp3",
+      "durationSec": 2430,
+      "episodeUrl": "",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "e2da8382-90d6-11f1-bdff-27982d73d6b8",
+      "title": "The Subtle Art of Doing Nothing (And Making More Money While Doing It)",
+      "publishedAt": "2026-08-10",
+      "summary": "Tyler discusses sequence-of-returns risk in early retirement, cash buffers, spending guardrails, and the discipline it takes to avoid panic decisions in a downturn.",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/TCL3560319799.mp3",
+      "durationSec": 2657,
+      "episodeUrl": "",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-i-build-a-simple-investment-portfolio",
+      "question": "How do I build a simple investment portfolio?",
+      "metaDescription": "Tyler Gardner distills ten legendary investors into five rules for a portfolio you will actually stick with: low costs, self-knowledge, diversification.",
+      "episodeGuid": "90e64fd0-a6f6-11f1-b392-ffec6cd85b0e",
+      "intro": "Keep costs low, know yourself, diversify broadly, protect against inflation, and stay the course. That's the whole framework Tyler Gardner lands on in the Your Money Guide on the Side podcast after studying ten of the most influential investing thinkers of the last century. His bigger point is that there's no single perfect portfolio. There's only the one that's right for you and simple enough that you won't abandon it when markets get ugly.",
+      "sections": [
+        {
+          "heading": "Why ten Nobel-level thinkers all end up in the same place",
+          "body": "This two-part series is built on a simple experiment. Take the people who shaped modern investing, Markowitz, Sharpe, Fama, Bogle, Merton, Leibowitz, Shiller, Ellis, Siegel, and others, and ask what each would put in a portfolio. Part 1 covers correlation, diversification, and efficient markets. Part 2 adds five more thinkers and then compares all ten side by side.\n\nWhat Tyler finds is that the disagreements are mostly at the edges. On the fundamentals, they converge. Nobody argues for high fees. Nobody argues for concentration. Nobody argues for trading on headlines. The host distills the overlap into five principles, and the rest of the episode is about what each one means in practice.",
+          "quote": null
+        },
+        {
+          "heading": "Start from the income you need, not the return you want",
+          "body": "One of the most useful ideas in Part 2 comes from Robert Merton, who argues you should build around the income you'll actually need rather than chasing a target balance. That flips the usual starting question. Instead of \"how do I get the highest return?\" it becomes \"what does this money need to do for me, and when?\"\n\nMartin Leibowitz adds a related point: your capacity for risk matters more than your tolerance for it. A questionnaire can tell you how you feel about losses. It can't tell you whether you can afford them. Someone with a stable job, no debt, and 30 years to retirement has high capacity even if they're nervous. Someone five years from retirement with a thin cushion has low capacity even if they feel brave.\n\nTyler's takeaway is that \"know yourself\" means both. Be honest about how you'll react in a crash, and be honest about what a crash would do to your plan.",
+          "quote": null
+        },
+        {
+          "heading": "Diversify broadly, then add inflation protection",
+          "body": "Robert Shiller's contribution is about valuations, behavioral finance, and global diversification. Markets can stay expensive or cheap for years, investors overreact in both directions, and owning more than one country's stock market is a cheap way to avoid betting your whole retirement on a single economy.\n\nThe inflation piece surprised Tyler. Across the ten thinkers, Treasury Inflation-Protected Securities, or TIPS, keep showing up as the preferred long-term risk-off asset. The logic is that the real threat to a long-term saver isn't a bad year in stocks. It's decades of purchasing power quietly eroding. TIPS adjust with inflation, so the \"safe\" part of the portfolio stays safe in real terms, not just nominal ones.\n\nFor a simple portfolio, that usually means a broad low-cost stock fund covering US and international markets for growth, plus a bond allocation that includes some inflation-protected bonds for the defensive side.",
+          "quote": null
+        },
+        {
+          "heading": "Win by avoiding mistakes and refusing to quit",
+          "body": "Charles Ellis describes investing as a loser's game, meaning the winner is whoever makes the fewest errors, not whoever makes the most brilliant moves. Jeremy Siegel makes the case for stocks over long horizons and for dollar-cost averaging, putting money in on a schedule regardless of what the market is doing.\n\nTyler ties these together as \"stay the course.\" The cleverest allocation in the world is worthless if you sell it in a panic. So the design goal isn't maximum return on paper. It's a portfolio you understand well enough, and trust enough, to leave alone for 20 years.\n\nHis closing summary of the whole series is one line.",
+          "quote": {
+            "text": "Keep costs low. Know yourself. Diversify broadly. Protect against inflation. And stay the course.",
+            "speaker": "Tyler Gardner",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "There's no perfect portfolio, only the one built around your life, goals, and risk capacity.",
+        "Start from the income you'll need and how much loss you can actually afford, not from a return target or a risk questionnaire.",
+        "Diversify across the whole market and across countries using low-cost funds.",
+        "Include inflation protection. TIPS show up repeatedly as the preferred long-term safe asset.",
+        "Investing is won by avoiding mistakes. Automate contributions, keep it simple, and don't abandon the plan in a downturn."
+      ],
+      "faq": [
+        {
+          "q": "What's the difference between risk tolerance and risk capacity?",
+          "a": "Tolerance is how you feel about losses. Capacity is whether your finances can absorb them. Tyler, drawing on Martin Leibowitz, says capacity matters more, so look at your job stability, time horizon, and cushion before deciding how much stock to hold."
+        },
+        {
+          "q": "Should a beginner hold international stocks?",
+          "a": "Tyler highlights Robert Shiller's case for global diversification. Owning more than one country's market is a low-cost way to avoid concentrating your entire future on a single economy."
+        },
+        {
+          "q": "What are TIPS and why do they keep coming up?",
+          "a": "TIPS are Treasury bonds whose principal adjusts with inflation. Across the ten thinkers Tyler studied, they repeatedly appear as the preferred long-term risk-off asset because they protect purchasing power, not just the nominal balance."
+        }
+      ],
+      "sourceNote": "Based on the Your Money Guide on the Side episode \"How to Build the Perfect Portfolio - Part 2 of 2\" with Tyler Gardner, released September 7, 2026."
+    }
+  ]
+}

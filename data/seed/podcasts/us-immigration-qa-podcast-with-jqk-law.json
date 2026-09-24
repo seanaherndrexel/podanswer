@@ -1,0 +1,132 @@
+{
+  "slug": "us-immigration-qa-podcast-with-jqk-law",
+  "title": "U.S. Immigration Q&A Podcast with JQK Law: Visa, Green Card, Citizenship & More!",
+  "author": "JQK Law (John Khosravi)",
+  "description": "U.S. Immigration Law Questions from Listeners living across the world. Every Tuesday at 5 PM Pacific.",
+  "category": "law",
+  "website": "https://JQKLaw.com",
+  "feedUrl": "https://jqklaw.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/b/5/5/a/b55a324eff6ee704bafc7308ab683e82/Screen_Shot_2022-04-29_at_10.36.08_AM.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/u-s-immigration-q-a-podcast-with-jqk-law-visa-green/id1519713207",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "7a2eb15a-e98d-4caf-af68-42ed3e1ba1ef",
+      "title": "#447 LIVE U.S. Immigration Q&A - September 1, 2026",
+      "publishedAt": "2026-09-07",
+      "summary": "A live listener Q&A covering the new I-864 affidavit of support form changes, visa bulletin updates, I-751 evidence, lost green card replacement, the 75-country visa processing pause, public charge rules and mandamus lawsuits for delayed cases.",
+      "audioUrl": "https://traffic.libsyn.com/secure/jqklaw/_447_LIVE_U_S__Immigration_QA_-_September_1__2026.mp3",
+      "durationSec": 1864,
+      "episodeUrl": "https://jqklaw.libsyn.com/447-live-us-immigration-qa-september-1-2026",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "744c9125-ef60-4c63-8c30-b20bb6c77e71",
+      "title": "#446 LIVE U.S. Immigration Q&A - August 18, 2026",
+      "publishedAt": "2026-08-20",
+      "summary": "Listener questions on the 75-country pause litigation, a proposed bond system for public charge cases, I-751 interview waivers and divorce waivers, citizenship processing times by country, and re-entry permits.",
+      "audioUrl": "https://traffic.libsyn.com/secure/jqklaw/_446_LIVE_U_S__Immigration_QA_-_August_18__2026.mp3",
+      "durationSec": 1714,
+      "episodeUrl": "https://jqklaw.libsyn.com/446-live-us-immigration-qa-august-18-2026",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "372737ad-ca42-4832-8b2d-97153ef59659",
+      "title": "#445 LIVE U.S. Immigration Q&A - August 11, 2026",
+      "publishedAt": "2026-08-13",
+      "summary": "Covers green card processing updates, DACA advance parole approvals, marriage-based green cards after unlawful entry and the I-601A waiver, travel with a pending green card, and how to check whether you have a removal order.",
+      "audioUrl": "https://traffic.libsyn.com/secure/jqklaw/_445_LIVE_U_S__Immigration_QA_-_August_11__2026.mp3",
+      "durationSec": 1886,
+      "episodeUrl": "https://jqklaw.libsyn.com/445-live-us-immigration-qa-august-11-2026",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "e315160c-9757-4c68-bc2f-1406b6e14f40",
+      "title": "#444 LIVE U.S. Immigration Q&A - August 4, 2026",
+      "publishedAt": "2026-08-06",
+      "summary": "Listener questions on the 75-country pause, stricter public charge requirements, I-130 processing timelines, biometrics changes, affidavit of support enforcement and N-400 citizenship trends.",
+      "audioUrl": "https://traffic.libsyn.com/secure/jqklaw/_444_LIVE_U_S__Immigration_QA_-_August_4__2026.mp3",
+      "durationSec": 1895,
+      "episodeUrl": "https://jqklaw.libsyn.com/444-live-us-immigration-qa-august-4-2026",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "3e451ea2-1d6c-4418-8297-14455e259a1d",
+      "title": "#443 LIVE U.S. Immigration Q&A - July 28, 2026",
+      "publishedAt": "2026-07-30",
+      "summary": "A longer live session answering listener questions on visa processing, green card applications and citizenship.",
+      "audioUrl": "https://traffic.libsyn.com/secure/jqklaw/_443_LIVE_U_S__Immigration_QA_-_July_28__2026.mp3",
+      "durationSec": 2366,
+      "episodeUrl": "https://jqklaw.libsyn.com/443-live-us-immigration-qa-july-28-2026",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "3e26adaa-7b40-45dc-8f50-a3ac9275e70e",
+      "title": "Big Student Visa (F-1) Regulation Update 2026",
+      "publishedAt": "2026-07-23",
+      "summary": "John Khosravi explains the biggest overhaul to F-1 student visa rules in over 45 years, effective September 15, 2026: the end of duration of status, a four-year cap, a shorter grace period, mandatory I-539 extensions, a language program cap and tighter transfer rules.",
+      "audioUrl": "https://traffic.libsyn.com/secure/jqklaw/F-1_J-1__Regulation_Update_2026.mp3",
+      "durationSec": 659,
+      "episodeUrl": "https://jqklaw.libsyn.com/big-student-visa-f-1-regulation-update-2026",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-are-the-new-f-1-student-visa-rules-for-2026",
+      "question": "What are the new F-1 student visa rules for 2026?",
+      "metaDescription": "Immigration attorney John Khosravi breaks down the 2026 F-1 overhaul: no more duration of status, a 4-year cap, a 30-day grace period and mandatory I-539 extensions.",
+      "episodeGuid": "3e26adaa-7b40-45dc-8f50-a3ac9275e70e",
+      "intro": "Starting September 15, 2026, F-1 students no longer get \"duration of status.\" Instead they get a fixed end date, a four-year cap on their stay, a 30-day grace period instead of 60, and a requirement to file Form I-539 for any extension. On the U.S. Immigration Q&A Podcast, immigration attorney John Khosravi of JQK Law calls it the biggest overhaul to student visa rules in more than 45 years. Here's what changed and what students should do about it.",
+      "sections": [
+        {
+          "heading": "Duration of status is gone, and your I-94 date now controls",
+          "body": "For decades, F-1 students were admitted for \"D/S,\" or duration of status. Your I-94 didn't carry a date. As long as you stayed enrolled and followed the rules, you were in status, and you could roll from a bachelor's into a master's into a PhD without ever asking the government for more time.\n\nJohn explains that the new regulation replaces D/S with a specific admission end date. That single change ripples through everything else. Your legal stay is now tied to a date on your I-94, not to your enrollment. His first piece of advice is the most basic one: look at your I-94 and find your end date. Many students have never had a reason to check it. Under the new rules, that date is the number that governs your life in the U.S.",
+          "quote": null
+        },
+        {
+          "heading": "The four-year cap and what it means for long programs",
+          "body": "The headline limit is a four-year maximum on an F-1 admission. That fits a typical undergraduate degree, but it's a real problem for anyone whose path runs longer: a five-year engineering program, a PhD, or a student who transfers between programs.\n\nThe host explains that going past the cap will require an extension rather than happening automatically. He also flags a related restriction: a 24-month lifetime cap on language school programs. Students who planned to spend a couple of years in an ESL program before starting a degree need to know that clock is now counting against them.\n\nOn top of that, changing schools or changing majors is now more restricted than it used to be. Under D/S, a transfer or a new major was largely handled by your school's international office. Under the new structure, those moves carry more scrutiny and may affect your admission period.",
+          "quote": null
+        },
+        {
+          "heading": "A 30-day grace period and I-539 for everything",
+          "body": "Two practical changes hit students at the end of a program. First, the grace period after you finish drops from 60 days to 30. That's the window to leave the country, start a new program, or change status. Half the time means far less room for a delayed decision or a slow transfer.\n\nSecond, extensions now require filing Form I-539 with USCIS, with fees and processing times, instead of a school-issued adjustment. John notes that OPT work permits now involve I-539 filings too, which adds a step to what used to be a fairly routine process. Anyone whose program end date, OPT start date or STEM extension is coming up should start counting backward from those dates now, because a late I-539 is a status problem, not just a paperwork problem.",
+          "quote": null
+        },
+        {
+          "heading": "Unlawful presence gets easier to accrue",
+          "body": "This is the change John treats as the most dangerous. Under duration of status, a student who fell out of status generally didn't start accruing \"unlawful presence\" until USCIS or an immigration judge formally said so. That protected a lot of students from the three-year and ten-year bars, which kick in after 180 days or a year of unlawful presence and can lock you out of the U.S. even if you later marry a citizen or get a job offer.\n\nWith a fixed end date on the I-94, unlawful presence becomes simple to calculate: it starts the day after that date if you haven't extended or changed status. The host explains that a student who overstays by six months could face a three-year bar, and a year could mean ten. The margin for error that D/S used to provide is gone.",
+          "quote": null
+        },
+        {
+          "heading": "Who is grandfathered and what to do now",
+          "body": "Current students may get some grandfathering depending on their enrollment status on the September 15, 2026 effective date, but John is careful not to promise anyone a free pass. His advice is to assume the rules apply to you unless your school's designated official confirms otherwise, and to assume they fully apply to anyone starting a program after the effective date.\n\nHis to-do list for students and their families: check your I-94 end date, map out your full academic timeline against the four-year cap, know the 30-day grace period, and calendar your I-539 filing well before any deadline. If your plan involves a transfer, a change of major, or a long language program, talk to your school's international office and, for anything complicated, an immigration attorney before you act.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Effective September 15, 2026, F-1 students get a fixed admission end date instead of duration of status; check your I-94.",
+        "There's a four-year cap on F-1 stays, a 24-month lifetime cap on language programs, and tighter rules on changing schools or majors.",
+        "The post-completion grace period drops from 60 days to 30, and extensions (including OPT-related filings) now require Form I-539.",
+        "Unlawful presence now starts the day after your I-94 end date, so overstays can trigger the three-year and ten-year bars.",
+        "Some current students may be grandfathered, but assume the rules apply to you until your school confirms otherwise."
+      ],
+      "faq": [
+        {
+          "q": "Does the four-year cap apply to PhD students?",
+          "a": "The cap applies to the F-1 admission period, so a program longer than four years will require an extension through Form I-539 rather than continuing automatically. Plan the filing well in advance."
+        },
+        {
+          "q": "How long is the F-1 grace period after graduation now?",
+          "a": "Under the new rules explained on the podcast, the grace period after program completion is 30 days, down from 60."
+        },
+        {
+          "q": "If I'm already in the U.S. on an F-1, do the new rules apply to me?",
+          "a": "Possibly with grandfathering depending on your enrollment status on September 15, 2026. John Khosravi recommends confirming with your school's international office and assuming the rules apply if you can't get a clear answer."
+        }
+      ],
+      "sourceNote": "Based on \"Big Student Visa (F-1) Regulation Update 2026,\" released July 23, 2026 on the U.S. Immigration Q&A Podcast with JQK Law, hosted by immigration attorney John Khosravi."
+    }
+  ]
+}

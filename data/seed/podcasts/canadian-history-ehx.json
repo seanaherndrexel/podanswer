@@ -1,0 +1,132 @@
+{
+  "slug": "canadian-history-ehx",
+  "title": "Canadian History Ehx",
+  "author": "Craig Baird",
+  "description": "Follow Craig Baird as he explores the good, the bad and the weird of Canada's history from the pre-colonial era to 25 years ago.",
+  "category": "history",
+  "website": "https://canadaehx.com/",
+  "feedUrl": "https://feeds.megaphone.fm/CORU1035320574",
+  "imageUrl": "https://megaphone.imgix.net/podcasts/6aa01112-3503-11ed-bee1-872ac11db678/image/Canada_History_Ehx_3000x3000.jpg",
+  "appleUrl": "https://podcasts.apple.com/ca/podcast/canadian-history-ehx/id1437838013",
+  "spotifyUrl": "https://open.spotify.com/show/5YXOurIavEa0gT9uvktPrg",
+  "episodes": [
+    {
+      "guid": "7ddb3fdc-aa29-11f1-90e5-9bd6de7e42b7",
+      "title": "The Greatest Hockey Player: Gordie Howe",
+      "publishedAt": "2026-09-15",
+      "summary": "The career of Mr. Hockey, whose skill and longevity inspired generations of players. Craig looks at the gentleman off the ice and the fierce competitor on it.",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/CORU9520847447.mp3",
+      "durationSec": 2185,
+      "episodeUrl": "https://canadaehx.com/2026/09/15/gordie-howe/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "95af903a-a89f-11f1-8ec9-b770b04f9881",
+      "title": "A Unique Currency: New France's Playing Card Money",
+      "publishedAt": "2026-09-11",
+      "summary": "For decades, New France used playing cards as money whenever coins from France ran short. Craig explains how the system started in 1685, how cards were cut and signed to mark different values, and why it kept coming back until the British conquest.",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/CORU2431644887.mp3",
+      "durationSec": 1149,
+      "episodeUrl": "https://canadaehx.com/2026/09/11/new-frances-playing-card-money/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "89d6d0ce-a48b-11f1-85e5-d771167037a1",
+      "title": "The Man Behind The Mask: Jacques Plante",
+      "publishedAt": "2026-09-08",
+      "summary": "How goaltender Jacques Plante changed hockey by popularizing the protective mask, and why he ranks among the most innovative players in the game's history.",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/CORU2970629878.mp3",
+      "durationSec": 2459,
+      "episodeUrl": "https://canadaehx.com/2026/09/08/jacques-plante/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "545bd836-9f0e-11f1-871f-f7a5717e1bbf",
+      "title": "Le Gros Bill: Jean Beliveau",
+      "publishedAt": "2026-09-01",
+      "summary": "The Montreal Canadiens bought an entire league to sign Jean Beliveau. He went on to win 10 Stanley Cups and a reputation as the classiest player in hockey.",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/CORU7950498737.mp3",
+      "durationSec": 2079,
+      "episodeUrl": "",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-did-new-france-use-playing-cards-as-money",
+      "question": "Why did New France use playing cards as money?",
+      "metaDescription": "In 1685 New France ran out of coins and paper, so the intendant signed playing cards instead. Craig Baird of Canadian History Ehx explains how it worked.",
+      "episodeGuid": "95af903a-a89f-11f1-8ec9-b770b04f9881",
+      "intro": "Because in 1685 the colony had no coins, no paper, and soldiers who hadn't been paid in eight months. Intendant Jacques de Meulles solved the problem by writing values on the backs of playing cards, stamping them with his seal, and declaring them money. On Canadian History Ehx, host Craig Baird tells the story of a currency experiment that lasted, on and off, for nearly 80 years.",
+      "sections": [
+        {
+          "heading": "A colony with no cash and an unpaid army",
+          "body": "Craig sets the scene in 1685. New France ran on coins shipped from France each year, and that year the ship with the money didn't come. At the same time the fur trade, the colony's main source of income, was in freefall. Beaver exports had dropped from 43,000 kilograms in 1683 to just over 10,000 by 1685, thanks partly to competition from English traders. On top of that, the colony was paying for constant fighting with First Nations.\n\nJacques de Meulles had been intendant since 1682, responsible for the colony's finances and supplies. By 1685 his troops had gone eight months without pay and he was struggling to feed them. He wrote to Paris to say he was in great straits over the sustenance of the troops, and then he did something the king hadn't authorized.",
+          "quote": {
+            "text": "In 1685, New France was dealing with a serious financial and military crisis.",
+            "speaker": "Craig Baird",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "No paper, so cards would have to do",
+          "body": "The obvious fix was paper money, but Craig points out the catch: there wasn't any paper to print it on. Paper was scarce in the colony. Playing cards, on the other hand, were everywhere. Soldiers and settlers played cards constantly, and decks were sturdy, uniform, and easy to come by.\n\nSo de Meulles took decks of cards, wrote a value on the back of each, signed them, and added his seal. He promised to redeem them for real coin when the ship finally arrived. Craig notes that the cards were accepted immediately. Nobody refused them, and the troops were able to live as usual until the money came. The king wasn't pleased when he found out, but the colony liked the cards, which were easier to carry and easier to get than coins.",
+          "quote": {
+            "text": "Instead, Jacques de Meulles printed values on the backs of cards and put his seal on them.",
+            "speaker": "Craig Baird",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Cutting corners, literally",
+          "body": "The card money had a denomination system built around damage. A whole card was worth 24 livres, the highest value. Cut off the four corners and the card was worth half that. Cut the card in half and it was worth six livres. That made it easy to make change without printing anything new, and easy for anyone to check a card's value at a glance.\n\nWhat began as a stopgap became a habit. Every time coin shipments ran short, the intendant issued more cards. Craig explains that by 1714 there were 2 million livres worth of card money in circulation, far more than the colony could ever redeem in coin.",
+          "quote": {
+            "text": "Under this system, a whole card was worth 24 livres which was the highest currency denomination.",
+            "speaker": "Craig Baird",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Banned in 1717, back by 1729",
+          "body": "After Louis XIV's wars drained the French treasury, the crown decided to end the experiment. Craig describes a 1717 decree ordering all playing card money withdrawn from circulation within three years, redeemed at half its face value. Anyone holding cards lost half their money overnight.\n\nIt didn't stick. The coin shortage never went away, and in 1729 Intendant Gilles Hocquart bought 2,000 packs of blank playing cards to use as currency again. Two thirds of them sank in a shipwreck on the way over. Card money kept circulating right up to the end of French rule.",
+          "quote": {
+            "text": "In 1729, intendant Gilles Hocquart bought 2,000 packs of unprinted playing cards to use as currency in New France, but two thirds of them were lost in a shipwreck.",
+            "speaker": "Craig Baird",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "What happened to the cards after the conquest",
+          "body": "When Britain took New France in 1763, about 16 million livres of paper and card money was in circulation, and nearly four percent of it was playing cards. Under the Treaty of Paris, France agreed to convert the card money into government bonds, so holders got something for their cards, even if it wasn't coin.\n\nBritain then banned paper currency in the colony except in wartime emergencies. Craig's episode draws on the Bank of Canada Museum for the details of how this odd colonial workaround actually functioned.",
+          "quote": {
+            "text": "France agreed to convert all the card money into government bonds.",
+            "speaker": "Craig Baird",
+            "timestamp": null
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Card money started in 1685 when a coin shipment failed to arrive and troops had gone eight months unpaid.",
+        "Intendant Jacques de Meulles used playing cards because paper was scarce and cards were everywhere.",
+        "A whole card was worth 24 livres; removing corners or cutting it in half lowered the value.",
+        "By 1714 there were 2 million livres in card money, and a 1717 decree redeemed it at half value.",
+        "Card money returned in 1729 and lasted until the British conquest, when France converted it to bonds."
+      ],
+      "faq": [
+        {
+          "q": "Was playing card money the first paper money in North America?",
+          "a": "It's usually counted among the earliest paper currencies in the Americas. The 1685 issue was a true circulating money backed by a government promise of redemption, decades before most colonial paper notes."
+        },
+        {
+          "q": "How much was a playing card worth in New France?",
+          "a": "A full card was 24 livres. Cards with the corners cut off were worth half, and a half card was worth six livres."
+        },
+        {
+          "q": "Why did the king dislike card money?",
+          "a": "Louis XIV hadn't approved it and worried about a colony issuing its own currency. Once the French treasury was drained by war, the crown ordered the cards withdrawn in 1717 at half their face value."
+        }
+      ],
+      "sourceNote": "Based on the Canadian History Ehx episode 'A Unique Currency: New France's Playing Card Money,' released September 11, 2026. Credit to host Craig Baird and Canadian History Ehx."
+    }
+  ]
+}
