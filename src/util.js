@@ -88,6 +88,11 @@ const CATEGORIES = {
     blurb: 'Study skills, languages, school and admissions.',
     intro: 'Teachers, tutors and researchers on what makes learning stick, and what to do when it is not sticking.',
   },
+  engineering: {
+    name: 'Engineering', h1: 'Engineering questions, answered by working engineers',
+    blurb: 'Building, software, manufacturing and design.',
+    intro: 'Engineering answers are worth most when they come with the constraints attached. These come from engineers on their own shows explaining how a system was built, what broke, and what they would specify next time.',
+  },
   creative: {
     name: 'Art & Creative', h1: 'Creative work, answered',
     blurb: 'Writing, photography, music, video and podcasting.',
