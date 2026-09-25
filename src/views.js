@@ -532,7 +532,7 @@ function accountPage({ user, podcast, subscription, articles, jobs, totals, plan
           <button class="btn ${key === 'growth' ? 'btn-primary' : 'btn-ghost'}" type="submit" ${!stripeReady || !podcast || !podcast.feed_url ? 'disabled' : ''}>Start ${esc(cfg.name)}</button>
           <p class="muted small">By starting a plan you agree to the <a href="/terms">Terms of Service</a> and <a href="/refunds">Refund Policy</a>.</p>
         </form>
-        ${!podcast || !podcast.feed_url ? '<p class="muted small">Add your podcast name and feed above first.</p>' : ''}
+        ${!podcast || !podcast.feed_url || !podcast.category_confirmed_at ? '<p class="muted small">Add your podcast, choose what it teaches, and save above first.</p>' : ''}
       </div>`).join('')}
     </div>`}
 
