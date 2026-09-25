@@ -266,7 +266,11 @@ app.get('/account', auth.requireUser, wrap(async (req, res) => {
 
 app.post('/account/podcast', auth.requireUser, wrap(async (req, res) => {
   const b = req.body || {};
-  const pod = await billing.ensurePodcastForUser(req.user, { title: b.title, feedUrl: b.feed_url, category: CATEGORIES[b.category] ? b.category : 'business' });
+  // The subject must be chosen on purpose and the owner must confirm the show teaches or explains
+  // something people search for. Comedy, fiction and similar shows would pay for nothing they can use.
+  if (!CATEGORIES[b.category] || !b.eligible) return res.redirect('/account?error=eligibility');
+  const pod = await billing.ensurePodcastForUser(req.user, { title: b.title, feedUrl: b.feed_url, category: b.category });
+  if (pod && pod.id) await q(`UPDATE podcasts SET category_confirmed_at=now() WHERE id=` + Number(pod.id));
   const yt = String(b.youtube_url || '').trim();
   if (yt && /^https:\/\/(www\.|m\.)?youtube\.com\//.test(yt)) {
     await q(`UPDATE podcasts SET youtube_url=$2, updated_at=now() WHERE id=$1`, [pod && pod.id ? pod.id : 0, yt.slice(0, 300)]).catch(() => {});
