@@ -503,9 +503,10 @@ function accountPage({ user, podcast, subscription, articles, jobs, totals, plan
     <label>Podcast name<input name="title" required maxlength="200" value="${esc(podcast ? podcast.title : '')}"></label>
     <label>RSS feed URL<input name="feed_url" type="url" maxlength="500" value="${esc(podcast ? podcast.feed_url : '')}" placeholder="https://feeds.example.com/yourshow"></label>
     <label>YouTube channel <span class="muted small">(optional, lets us pull transcripts)</span><input name="youtube_url" type="url" maxlength="300" value="${esc(podcast && podcast.youtube_url ? podcast.youtube_url : '')}" placeholder="https://www.youtube.com/@yourshow"></label>
-    <label>Topic
-      <select name="category">
-        ${Object.entries(CATEGORIES).map(([k, v]) => `<option value="${k}" ${podcast && podcast.category === k ? 'selected' : ''}>${esc(v.name)}</option>`).join('')}
+    <label>What your show teaches
+      <select name="category" required>
+        <option value="" ${podcast && podcast.category_confirmed_at ? '' : 'selected'} disabled>Choose a subject</option>
+        ${Object.entries(CATEGORIES).sort((a, b) => a[1].name.localeCompare(b[1].name)).map(([k, v]) => `<option value="${k}" ${podcast && podcast.category_confirmed_at && podcast.category === k ? 'selected' : ''}>${esc(v.name)}</option>`).join('')}
       </select>
     </label>
     <label class="check"><input type="checkbox" name="eligible" value="1" required ${podcast && podcast.category_confirmed_at ? 'checked' : ''}> My show teaches or explains things people search for answers to.</label>
