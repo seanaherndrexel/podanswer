@@ -89,7 +89,7 @@ const CATEGORIES = {
     intro: 'Teachers, tutors and researchers on what makes learning stick, and what to do when it is not sticking.',
   },
   creative: {
-    name: 'Creative', h1: 'Creative work, answered',
+    name: 'Art & Creative', h1: 'Creative work, answered',
     blurb: 'Writing, photography, music, video and podcasting.',
     intro: 'Working creatives explaining craft and the business around it, including the parts that are unglamorous.',
   },
