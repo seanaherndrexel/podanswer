@@ -279,6 +279,7 @@ app.post('/account/checkout', auth.requireUser, wrap(async (req, res) => {
   if (!billing.enabled()) return res.redirect('/account');
   const { podcast } = await accountData(req.user);
   if (!podcast || !podcast.feed_url) return res.redirect('/account');
+  if (!podcast.category_confirmed_at) return res.redirect('/account?error=eligibility');
   await q(`UPDATE users SET terms_accepted_at=COALESCE(terms_accepted_at, now()), terms_version=$2, terms_ip=$3, checkout_terms_at=now() WHERE id=$1`, [req.user.id, TERMS_VERSION, String(req.ip || '')]);
   const session = await billing.createCheckout({ user: req.user, plan: req.body.plan, podcast, siteUrl: V.SITE.url });
   res.redirect(303, session.url);
