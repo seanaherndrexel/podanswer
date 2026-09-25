@@ -122,4 +122,7 @@ function fmtDuration(sec) {
   return m >= 60 ? `${Math.floor(m / 60)}h ${m % 60}m` : `${m} min`;
 }
 
-module.exports = { CATEGORIES, slugify, token, esc, fmtDate, fmtDuration };
+// Shows that don't answer searchable questions get nothing from the service, so they can't buy it.
+const NOT_ELIGIBLE = ['comedy', 'fiction and audio drama', 'true crime storytelling', 'sports talk', 'celebrity and pop culture', 'news commentary', 'music'];
+
+module.exports = { NOT_ELIGIBLE, CATEGORIES, slugify, token, esc, fmtDate, fmtDuration };
