@@ -14,7 +14,7 @@ const CATEGORIES = {
     intro: 'Marketing advice ages fast and most of what ranks is written to rank rather than to help. These answers come from practitioners describing what they ran, what it cost, and what happened.',
   },
   money: {
-    name: 'Money', h1: 'Personal finance, answered',
+    name: 'Money & Finance', h1: 'Personal finance, answered',
     blurb: 'Saving, investing, taxes and retirement.',
     intro: 'Money questions get vague answers because the honest one is usually specific. These are taken from advisors and planners working through real situations out loud, with the numbers left in. None of it is personalised advice, and a decision this size deserves a conversation with someone licensed.',
   },
