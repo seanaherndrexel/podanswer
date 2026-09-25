@@ -213,6 +213,8 @@ async function migrate() {
     `CREATE INDEX IF NOT EXISTS suggestions_ep ON suggestions(episode_id, status)`,
     `ALTER TABLE article_orders ADD COLUMN IF NOT EXISTS suggestion_id INTEGER`,
     `ALTER TABLE episodes ADD COLUMN IF NOT EXISTS transcript_source TEXT`,
+    `ALTER TABLE podcasts ADD COLUMN IF NOT EXISTS category_confirmed_at TIMESTAMPTZ`,
+    `UPDATE podcasts SET category_confirmed_at=now() WHERE category_confirmed_at IS NULL AND tier IN ('member','studio')`,
     `ALTER TABLE users ADD COLUMN IF NOT EXISTS terms_accepted_at TIMESTAMPTZ`,
     `ALTER TABLE users ADD COLUMN IF NOT EXISTS terms_version TEXT`,
     `ALTER TABLE users ADD COLUMN IF NOT EXISTS terms_ip TEXT`,
