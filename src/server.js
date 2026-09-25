@@ -260,7 +260,7 @@ app.get('/account', auth.requireUser, wrap(async (req, res) => {
   res.set('Cache-Control', 'no-store');
   res.send(V.accountPage({
     user: req.user, ...data, plans: billing.PLANS, stripeReady: billing.enabled(),
-    notice: req.query.welcome ? 'Payment received. Your first batch of answers is being researched and written now, and lands within a day.' : (req.query.saved ? 'Saved.' : (req.query.canceled ? 'Checkout canceled, nothing was charged.' : null)),
+    notice: req.query.welcome ? 'Payment received. Your episodes are loading now. Open your dashboard in a few minutes to choose which ones get articles.' : (req.query.saved ? 'Saved.' : (req.query.canceled ? 'Checkout canceled, nothing was charged.' : (req.query.error === 'eligibility' ? 'Choose the subject your show covers and confirm it teaches or explains something, then save. Plans unlock after that.' : null))),
   }));
 }));
 
