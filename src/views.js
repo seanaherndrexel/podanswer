@@ -1,5 +1,5 @@
 const { marked } = require('marked');
-const { CATEGORIES, esc, fmtDate, fmtDuration } = require('./util');
+const { CATEGORIES, NOT_ELIGIBLE, esc, fmtDate, fmtDuration } = require('./util');
 
 const SITE = {
   name: 'PodAnswer',
