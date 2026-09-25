@@ -1,0 +1,148 @@
+{
+  "slug": "being-freelance",
+  "title": "Being Freelance",
+  "author": "Steve Folland",
+  "description": "Tips, advice, and strategies for freelancers and solopreneurs. Freelancing can be tough and isolating, but also rewarding. Hosted by fellow freelancer Steve Folland since 2015, the show shares the stories and lessons of self-employed creatives around the world.",
+  "category": "careers",
+  "website": "http://www.beingfreelance.com",
+  "feedUrl": "https://rss.buzzsprout.com/2621564.rss",
+  "imageUrl": "https://storage.buzzsprout.com/4m1u2g1b6x88c5malxdl7nqmlueh?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/being-freelance/id959401077",
+  "spotifyUrl": "https://open.spotify.com/show/661q9X8ZFI0UC8PvgVZ7Dy",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19681493",
+      "title": "5 Ways AI Could Be Tripping Up Your Freelance Business - Bonus - with lawyer Ingrid Fernandez",
+      "publishedAt": "2026-08-23",
+      "summary": "Lawyer Ingrid Fernandez walks through five ways AI use can create legal trouble for freelancers: client personal data, AI-generated source material from clients, disclosure of AI in service delivery, IP in derivative works, and confidentiality clauses that now restrict AI.",
+      "audioUrl": "https://www.buzzsprout.com/2621564/episodes/19681493-5-ways-ai-could-be-tripping-up-your-freelance-business-bonus-with-lawyer-ingrid-fernandez.mp3",
+      "durationSec": 1956,
+      "episodeUrl": "https://www.buzzsprout.com/2621564/19681493",
+      "transcriptUrl": "https://www.buzzsprout.com/2621564/19681493/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19512261",
+      "title": "The Blogs Became Books... Became Clients - David Airey",
+      "publishedAt": "2026-07-19",
+      "summary": "Graphic designer David Airey explains how blogging about design led to bestselling books and long-term clients, through consistent, honest content and a tight niche in logo design.",
+      "audioUrl": "https://www.buzzsprout.com/2621564/episodes/19512261-the-blogs-became-books-became-clients-david-airey.mp3",
+      "durationSec": 2942,
+      "episodeUrl": "https://www.buzzsprout.com/2621564/19512261",
+      "transcriptUrl": "https://www.buzzsprout.com/2621564/19512261/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19481264",
+      "title": "Freelancer BTS - Not rushing on",
+      "publishedAt": "2026-07-12",
+      "summary": "A short behind-the-scenes reflection from Steve on not rushing from one project to the next, and why taking time to promote finished work and build case studies pays off.",
+      "audioUrl": "https://www.buzzsprout.com/2621564/episodes/19481264-freelancer-bts-not-rushing-on.mp3",
+      "durationSec": 184,
+      "episodeUrl": "https://www.buzzsprout.com/2621564/19481264",
+      "transcriptUrl": "https://www.buzzsprout.com/2621564/19481264/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19445012",
+      "title": "Freelancing Through Every Tech Shift Since the 90s - Lisa Emmington",
+      "publishedAt": "2026-07-05",
+      "summary": "Instructional designer Lisa Emmington describes reinventing her business through every technology shift from face-to-face training to e-learning to mentoring, and how she handles ageism and plans to keep freelancing past retirement age.",
+      "audioUrl": "https://www.buzzsprout.com/2621564/episodes/19445012-freelancing-through-every-tech-shift-since-the-90s-lisa-emmington.mp3",
+      "durationSec": 2777,
+      "episodeUrl": "https://www.buzzsprout.com/2621564/19445012",
+      "transcriptUrl": "https://www.buzzsprout.com/2621564/19445012/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19411498",
+      "title": "Chase the Happiness: Meaningful Freelancing - Filmmaker Zoe East",
+      "publishedAt": "2026-06-28",
+      "summary": "Documentary filmmaker Zoe East explains how choosing meaningful charity and heritage work, plus deliberate networking and financial planning, built a sustainable freelance career over a decade.",
+      "audioUrl": "https://www.buzzsprout.com/2621564/episodes/19411498-chase-the-happiness-meaningful-freelancing-filmmaker-zoe-east.mp3",
+      "durationSec": 2802,
+      "episodeUrl": "https://www.buzzsprout.com/2621564/19411498",
+      "transcriptUrl": "https://www.buzzsprout.com/2621564/19411498/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19366033",
+      "title": "The Recipe Is Always the Same: Reach Out, Follow Up - Émilie Chen",
+      "publishedAt": "2026-06-21",
+      "summary": "Theatre poster designer Émilie Chen shows how consistent outreach, community involvement, and persistence through lockdown built her niche in independent theatre design.",
+      "audioUrl": "https://www.buzzsprout.com/2621564/episodes/19366033-the-recipe-is-always-the-same-reach-out-follow-up-emilie-chen.mp3",
+      "durationSec": 3039,
+      "episodeUrl": "https://www.buzzsprout.com/2621564/19366033",
+      "transcriptUrl": "https://www.buzzsprout.com/2621564/19366033/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "do-freelancers-have-to-tell-clients-they-use-ai",
+      "question": "Do freelancers have to tell clients they use AI?",
+      "metaDescription": "Lawyer Ingrid Fernandez on Being Freelance explains when freelancers must disclose AI use, how client data and confidentiality clauses are affected, and what to put in your contract.",
+      "episodeGuid": "Buzzsprout-19681493",
+      "intro": "In many cases, yes, and where it isn't strictly required it's still the safer move. On a bonus episode of Being Freelance, host Steve Folland talks with lawyer Ingrid Fernandez about five ways AI use can quietly put a freelance business at legal risk. Her advice comes down to transparency: tell clients which tools touch their information, check your confidentiality clauses before pasting anything into an AI, and let your contract do the heavy lifting.",
+      "sections": [
+        {
+          "heading": "Client personal data and your privacy policy",
+          "body": "The first trap is the most common. A freelancer drops a client's email thread, a customer list, or meeting notes into an AI tool to summarise or draft something. That's personal information being processed by a third party, and Ingrid says your privacy policy is supposed to cover exactly this.\n\nHer position is that clients should be told about every tool that handles their personal information, and AI tools belong on that list alongside your email provider and your project management app. She's candid that nobody fully knows what happens inside large language models, which is why she also recommends turning on whatever controls the tool offers to stop your inputs being used for training. If you're using AI for note-taking on client calls, say so up front rather than leaving it to be discovered.",
+          "quote": {
+            "text": "We should be disclosing to people all the tools that touch their personal information.",
+            "speaker": "Ingrid Fernandez",
+            "timestamp": "1:15"
+          }
+        },
+        {
+          "heading": "Material clients send you might be AI-generated too",
+          "body": "The second risk runs the other way. Clients are increasingly handing freelancers briefs, copy, images, and reference material that they generated with AI, sometimes without saying so. If you build on that material and it turns out to infringe someone's rights or can't be protected as IP, you can end up in the middle of the problem.\n\nIngrid suggests simply asking clients whether the source material was created with AI, and adding a clause to your contract that requires them to tell you. It's a small question that shifts responsibility back to where it belongs.",
+          "quote": null
+        },
+        {
+          "heading": "Using AI in your own service delivery",
+          "body": "The third and most searched-for issue is disclosure of your own AI use. Ingrid's framing is practical rather than absolute: figure out where you're using AI and what you're using it for, then be transparent about it in relation to the services and products you deliver. A copywriter using AI to draft first passes is a different situation from a designer using it for a background texture, but in both cases the client should be able to find out.\n\nHer argument is that transparency protects you. If a client later objects to AI being involved, the fact that you disclosed it in your terms or proposal is your defence. If you hid it, you have none.",
+          "quote": {
+            "text": "It's really about recognising where you're using it and what you're using it for.",
+            "speaker": "Ingrid Fernandez",
+            "timestamp": "7:15"
+          }
+        },
+        {
+          "heading": "Who owns what the client does with your work",
+          "body": "The fourth risk is newer. Once you deliver work, clients may feed it into AI tools to generate variations, extensions, or entirely new derivative pieces. Ingrid says your contract needs to define what rights the client gets over the deliverable and whether creating AI derivatives is included.\n\nThis matters more for illustrators, photographers, writers, and designers whose style is the product. If you don't want your work used to train a model or to spin out endless variations, the contract is the only place that restriction has any force.",
+          "quote": {
+            "text": "Your contract is where it sits. If something goes wrong, we wanna have a mechanism.",
+            "speaker": "Ingrid Fernandez",
+            "timestamp": "10:48"
+          }
+        },
+        {
+          "heading": "Confidentiality clauses now name AI specifically",
+          "body": "The fifth risk is the one that can get you fired. Ingrid says she's seeing a clear trend in client contracts: confidentiality clauses that explicitly prohibit putting the client's information into AI tools. If you signed one of those and then used an AI assistant to summarise their strategy doc, you've breached the contract, regardless of how harmless it felt.\n\nHer advice is to go back and read the confidentiality sections of every active client agreement, and to treat client information with the same care you'd want for your own. She closes on a reassuring point: a well-drafted contract should make all of this simpler, not harder, because the rules are settled once and you stop second-guessing every task.",
+          "quote": {
+            "text": "We are really seeing now a lot more confidentiality clauses are being strict about AI specifically.",
+            "speaker": "Ingrid Fernandez",
+            "timestamp": "12:55"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "List AI tools in your privacy policy alongside every other tool that touches client personal data, and turn off training on your inputs where possible.",
+        "Ask clients whether the material they send you was AI-generated, and put that obligation in your contract.",
+        "Be transparent about where and how you use AI in delivering your services; disclosure is your protection.",
+        "Define in your contract whether clients can create AI derivatives of your work.",
+        "Re-read confidentiality clauses in existing agreements; many now ban AI use explicitly."
+      ],
+      "faq": [
+        {
+          "q": "Is it illegal to use AI on client work without telling them?",
+          "a": "It depends on your contract and privacy obligations. If a confidentiality clause bans AI or their personal data is involved, undisclosed use can be a breach. Ingrid's advice is to disclose regardless."
+        },
+        {
+          "q": "How do I disclose AI use to clients?",
+          "a": "Update your privacy policy to list AI tools, mention AI use in your proposal or terms, and tell clients proactively if you use AI for call notes or drafting."
+        },
+        {
+          "q": "Can a client use my work to train AI or make variations?",
+          "a": "Only if your contract allows it. Ingrid recommends spelling out the client's rights over deliverables and whether AI-generated derivatives are included."
+        }
+      ],
+      "sourceNote": "Based on the bonus episode \"5 Ways AI Could Be Tripping Up Your Freelance Business\" with lawyer Ingrid Fernandez, released August 23, 2026 on Being Freelance, hosted by Steve Folland."
+    }
+  ]
+}

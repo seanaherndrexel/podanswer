@@ -1,0 +1,140 @@
+{
+  "slug": "brand-of-brothers",
+  "title": "Brand of Brothers",
+  "author": "REMIXED: the branding agency",
+  "description": "A podcast about the world of branding. From tone to typography, hosts Doug Berger and Johnny Diggz explore how logos happen, what makes advertising successful, and why this all matters.",
+  "category": "marketing",
+  "website": "https://brandshowlive.com",
+  "feedUrl": "https://rss.buzzsprout.com/859981.rss",
+  "imageUrl": "https://storage.buzzsprout.com/b62i4b12erf6mpxnl5kfp14a5oln?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/brand-of-brothers/id1522808692",
+  "spotifyUrl": "https://open.spotify.com/show/4UsNsc44Cyp3edk0NSYlfr",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19571677",
+      "title": "AI Ethics: Data Usage & Privacy",
+      "publishedAt": "2026-08-12",
+      "summary": "The hosts continue their Higgins-Berger Scale of Generative AI Ethics series, this time on data sourcing, training model transparency, and privacy concerns in AI-generated creative and marketing work.",
+      "audioUrl": "https://www.buzzsprout.com/859981/episodes/19571677-ai-ethics-data-usage-privacy.mp3",
+      "durationSec": 1957,
+      "episodeUrl": "https://brandshowlive.com/episodes/ai-ethics-data-usage-privacy/",
+      "transcriptUrl": "https://www.buzzsprout.com/859981/19571677/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19470505",
+      "title": "AI Ethics: Potential for Harm",
+      "publishedAt": "2026-07-09",
+      "summary": "Doug and Johnny look at how AI can work as designed and still cause harm, covering low-risk versus high-risk uses, deepfakes, misinformation, intellectual property, and why human oversight belongs in professional creative workflows.",
+      "audioUrl": "https://www.buzzsprout.com/859981/episodes/19470505-ai-ethics-potential-for-harm.mp3",
+      "durationSec": 1982,
+      "episodeUrl": "https://brandshowlive.com/episodes/ai-ethics-potential-for-harm/",
+      "transcriptUrl": "https://www.buzzsprout.com/859981/19470505/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19254729",
+      "title": "AI Ethics: Transparency",
+      "publishedAt": "2026-06-02",
+      "summary": "An episode on disclosure obligations around AI-assisted creative work: when transparency matters, how platforms detect AI content, and why trust signals still matter when talking to clients and audiences.",
+      "audioUrl": "https://www.buzzsprout.com/859981/episodes/19254729-ai-ethics-transparency.mp3",
+      "durationSec": 1891,
+      "episodeUrl": "https://brandshowlive.com/episodes/ai-ethics-transparency/",
+      "transcriptUrl": "https://www.buzzsprout.com/859981/19254729/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19141596",
+      "title": "Introducing HBS: The Higgins-Berger Scale of Generative AI Ethics",
+      "publishedAt": "2026-05-07",
+      "summary": "The hosts introduce their framework for evaluating generative AI ethics across five categories, arguing that ethics should be measured on a spectrum rather than treated as a yes-or-no question.",
+      "audioUrl": "https://www.buzzsprout.com/859981/episodes/19141596-introducing-hbs-the-higgins-berger-scale-of-generative-ai-ethics.mp3",
+      "durationSec": 1611,
+      "episodeUrl": "https://brandshowlive.com/episodes/introducing-hbs-the-higgins-berger-scale-of-generative-ai-ethics/",
+      "transcriptUrl": "https://www.buzzsprout.com/859981/19141596/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19021777",
+      "title": "Ethics of Generative AI",
+      "publishedAt": "2026-04-15",
+      "summary": "A foundational conversation about generative AI in creative work: training data, copyright, historical parallels to earlier technology shifts, and the beginnings of a framework for responsible adoption.",
+      "audioUrl": "https://www.buzzsprout.com/859981/episodes/19021777-ethics-of-generative-ai.mp3",
+      "durationSec": 1594,
+      "episodeUrl": "https://brandshowlive.com/ethics-of-generative-ai/",
+      "transcriptUrl": "https://www.buzzsprout.com/859981/19021777/transcript"
+    },
+    {
+      "guid": "Buzzsprout-18470690",
+      "title": "What is Advertising?",
+      "publishedAt": "2026-02-11",
+      "summary": "Doug and Johnny define advertising as the paid tactic that sits underneath marketing and branding. They cover awareness campaigns versus PPC, how to think about return on ad spend, and why cutting ad budgets in a downturn hurts the funnel for months.",
+      "audioUrl": "https://www.buzzsprout.com/859981/episodes/18470690-what-is-advertising.mp3",
+      "durationSec": 1705,
+      "episodeUrl": "https://brandshowlive.com/what-is-advertising/",
+      "transcriptUrl": "https://www.buzzsprout.com/859981/18470690/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-is-the-difference-between-advertising-marketing-and-branding",
+      "question": "What is the difference between advertising, marketing and branding?",
+      "metaDescription": "Agency founders Doug Berger and Johnny Diggz explain how branding, marketing and advertising differ, and when to use PPC versus awareness ads.",
+      "episodeGuid": "Buzzsprout-18470690",
+      "intro": "Branding builds meaning, marketing drives demand, and advertising buys attention. That's the one-line answer from Doug Berger and Johnny Diggz, the agency founders behind the Brand of Brothers podcast, in their episode \"What is Advertising?\" The three terms get used interchangeably, but they sit in a clear hierarchy, and knowing which one you're actually doing changes where your money should go.",
+      "sections": [
+        {
+          "heading": "A hierarchy, not three synonyms",
+          "body": "Doug lays out the structure early in the episode. Branding is the all-encompassing layer. Marketing is a subset of branding. Advertising is a subset of marketing. Each one lives inside the one above it.\n\nThat ordering matters in practice. Your brand is who you are and what you mean to people. Marketing is the strategy for connecting that brand to the people who need it. Advertising is one tactic inside that strategy, the paid part where you hand someone money to put your message in front of an audience.\n\nDoug's shorthand is that advertising is the megaphone. It doesn't decide what you say. It just makes it louder.",
+          "quote": {
+            "text": "Advertising is paying for someone to broadcast who you are. It's the megaphone.",
+            "speaker": "Doug Berger",
+            "timestamp": "1:34"
+          }
+        },
+        {
+          "heading": "Where the strategy actually lives",
+          "body": "A common mistake the hosts see is businesses treating their ad campaign as their strategy. Doug's point is that the strategy is baked into the marketing side. Advertising is how you broadcast the messaging that marketing already decided on.\n\nJohnny describes advertising as an amplification of your brand. If the brand underneath is unclear, amplifying it just makes the confusion louder and more expensive. That's why the hosts push clients to settle positioning and messaging before spending on placement.\n\nJohnny sums the whole thing up in three short sentences that are worth writing on a sticky note.",
+          "quote": {
+            "text": "Branding builds meaning. Marketing drives demand. Advertising buys attention.",
+            "speaker": "Johnny Diggz",
+            "timestamp": "4:52"
+          }
+        },
+        {
+          "heading": "Awareness ads and search ads do different jobs",
+          "body": "Once you know advertising is a tactic, the next question is which kind. The hosts split it into two buckets.\n\nAwareness campaigns exist to attract eyeballs. Doug says Google Ads isn't the best fit here. You want visual placements, things like display ads and billboards, where the goal is being seen by people who don't know you yet.\n\nPay-per-click search advertising is the opposite. Someone is already typing in what they need, and you're paying to show up at that moment. Doug calls PPC the most cost-effective advertising you're likely to run, and the one where you'll see positive return on investment time and again.\n\nFor a small business, the hosts describe a minimum viable setup as search ads for conversion, display and retargeting to stay in front of people who've visited, and top-of-funnel efforts like email and direct mail feeding the whole thing.",
+          "quote": null
+        },
+        {
+          "heading": "Cutting the ad budget when sales dip",
+          "body": "The part of the episode most relevant to owners in a tight year is what happens when you pause advertising. Doug explains that the funnel doesn't stop instantly. It slows down, and the negative effects show up for months afterward, long after you've stopped noticing the savings.\n\nHis analogy is taking the battery out of your watch. Time keeps ticking either way. Your competitors keep buying attention, and the pipeline you starved today shows up as missing revenue next quarter.\n\nThe hosts' related advice is to judge return on ad spend over quarters or a year, not month to month. A single slow month tells you very little about whether the machine is working.",
+          "quote": null
+        },
+        {
+          "heading": "Content marketing plays a longer game",
+          "body": "The episode closes by placing content marketing in the same map. Doug describes it as passive and long-tail. It shouldn't be measured on immediate conversions. Its job is building industry credibility over time, which feeds branding, which eventually makes every ad you run work harder.\n\nOne more warning from the hosts: AI-generated ads tend to lack the human connection that makes advertising land. Real personality and genuine content still outperform generic output, so the megaphone is only as good as the voice you put through it.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Branding contains marketing, and marketing contains advertising. They're layers, not synonyms.",
+        "Strategy lives in marketing. Advertising only broadcasts the message that strategy already set.",
+        "Use visual placements for awareness and pay-per-click search ads for conversions. PPC is the most reliably profitable option.",
+        "Pausing ads slows the funnel for months afterward. Judge ad performance by the quarter or year, not the month.",
+        "Content marketing is a long-tail credibility play and shouldn't be measured on immediate conversions."
+      ],
+      "faq": [
+        {
+          "q": "Is advertising the same as marketing?",
+          "a": "No. According to the hosts, advertising is one paid tactic inside marketing. Marketing is the broader strategy for connecting your brand to customers, and it includes unpaid work like content, email and referrals."
+        },
+        {
+          "q": "Should a small business start with Google Ads or brand awareness ads?",
+          "a": "Doug's view is that PPC search ads are the most cost-effective place to start because they reach people already looking for what you sell. Awareness ads work better on visual platforms once you have a clear brand to amplify."
+        },
+        {
+          "q": "What happens if I stop advertising for a few months?",
+          "a": "The hosts explain that the funnel slows down gradually and the damage shows up for months after you stop. They compare it to taking the battery out of a watch while time keeps moving."
+        }
+      ],
+      "sourceNote": "Based on the Brand of Brothers episode \"What is Advertising?\", released February 11, 2026, hosted by Doug Berger and Johnny Diggz of REMIXED."
+    }
+  ]
+}

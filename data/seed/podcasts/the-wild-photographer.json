@@ -1,0 +1,152 @@
+{
+  "slug": "the-wild-photographer",
+  "title": "The Wild Photographer",
+  "author": "Court Whelan",
+  "description": "The Wild Photographer is a podcast for wildlife, nature, landscape, and travel photographers who want to make better photos and get more out of photography. Hosted by Court Whelan, PhD, a professional photographer, biologist and expedition leader.",
+  "category": "creative",
+  "website": "http://www.courtwhelan.com",
+  "feedUrl": "https://feeds.buzzsprout.com/948082.rss",
+  "imageUrl": "https://storage.buzzsprout.com/2iuez6sgcbgmet6w3mlnrouqoqsu?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-wild-photographer/id1503931590",
+  "spotifyUrl": "https://open.spotify.com/show/3kzULqOOnQ6h1Jc8xKYBrm",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19798214",
+      "title": "Making Photography Fun (Again?)",
+      "publishedAt": "2026-09-14",
+      "summary": "Court shares ways to rekindle the joy of photography: simplify your gear, give yourself specific assignments, limit focal lengths, make photos you never plan to share, and occasionally leave the camera at home.",
+      "audioUrl": "https://www.buzzsprout.com/948082/episodes/19798214-making-photography-fun-again.mp3",
+      "durationSec": 1652,
+      "episodeUrl": "https://www.buzzsprout.com/948082/19798214",
+      "transcriptUrl": "https://www.buzzsprout.com/948082/19798214/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19718789",
+      "title": "Talking with Pete Ramsden - Techniques for Photographing in Challenging Conditions, Advice on Light Painting, Capturing the Northern Lights and More",
+      "publishedAt": "2026-09-01",
+      "summary": "Court interviews photographer and expedition leader Pete Ramsden about shooting in extreme environments from Borneo's rainforests to the Arctic, including moisture management, low-light handheld work and northern lights composition.",
+      "audioUrl": "https://www.buzzsprout.com/948082/episodes/19718789-talking-with-pete-ramsden-techniques-for-photographing-in-challenging-conditions-advice-on-light-painting-capturing-the-northern-lights-and-more.mp3",
+      "durationSec": 5292,
+      "episodeUrl": "https://www.buzzsprout.com/948082/19718789",
+      "transcriptUrl": "https://www.buzzsprout.com/948082/19718789/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19636518",
+      "title": "A Deep Dive into Memory Cards: Speed, Maintenance, Formatting and More",
+      "publishedAt": "2026-08-18",
+      "summary": "A full breakdown of memory card technology: SD versus CFexpress, read and write speeds, V ratings for video, how much capacity you actually need, and a field care and formatting workflow that keeps your photos safe.",
+      "audioUrl": "https://www.buzzsprout.com/948082/episodes/19636518-a-deep-dive-into-memory-cards-speed-maintenance-formatting-and-more.mp3",
+      "durationSec": 3121,
+      "episodeUrl": "https://www.buzzsprout.com/948082/19636518",
+      "transcriptUrl": "https://www.buzzsprout.com/948082/19636518/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19594467",
+      "title": "Talking with Shem Compion: Making Memorable Wildlife Photographs on Safari and Beyond",
+      "publishedAt": "2026-08-04",
+      "summary": "Award-winning African wildlife photographer Shem Compion talks about combining emotion with narrative, the value of professional guides, and underground hides that put the camera at eye level with animals.",
+      "audioUrl": "https://www.buzzsprout.com/948082/episodes/19594467-talking-with-shem-compion-making-memorable-wildlife-photographs-on-safari-and-beyond.mp3",
+      "durationSec": 4237,
+      "episodeUrl": "https://www.buzzsprout.com/948082/19594467",
+      "transcriptUrl": "https://www.buzzsprout.com/948082/19594467/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19544113",
+      "title": "Snapshot Episode: A Quick Guide to Ultra-Wide Angle Lenses",
+      "publishedAt": "2026-07-28",
+      "summary": "A short episode on ultra-wide lenses for astrophotography, travel and immersive compositions, including crop-sensor conversions and why Court favors about 20mm for night photography.",
+      "audioUrl": "https://www.buzzsprout.com/948082/episodes/19544113-snapshot-episode-a-quick-guide-to-ultra-wide-angle-lenses.mp3",
+      "durationSec": 1041,
+      "episodeUrl": "https://www.buzzsprout.com/948082/19544113",
+      "transcriptUrl": "https://www.buzzsprout.com/948082/19544113/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19510334",
+      "title": "All About Camera Sensors: Understand them and Improve your Photography",
+      "publishedAt": "2026-07-20",
+      "summary": "Court explains digital sensors with a light bucket analogy, covering exposure, ISO, dynamic range, RAW files, megapixels, rolling shutter and sensor dust.",
+      "audioUrl": "https://www.buzzsprout.com/948082/episodes/19510334-all-about-camera-sensors-understand-them-and-improve-your-photography.mp3",
+      "durationSec": 2919,
+      "episodeUrl": "https://www.buzzsprout.com/948082/19510334",
+      "transcriptUrl": "https://www.buzzsprout.com/948082/19510334/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-memory-card-do-i-need-for-my-camera",
+      "question": "What memory card do I need for my camera?",
+      "metaDescription": "Court Whelan of The Wild Photographer explains SD vs CFexpress, which speed ratings matter, how big a card to buy, and the formatting habit that saves photos.",
+      "episodeGuid": "Buzzsprout-19636518",
+      "intro": "For most still photographers, a 128 or 256 GB card from a reputable brand, with a write speed that matches your camera, is all you need. That's the short answer from Court Whelan, wildlife photographer and host of The Wild Photographer podcast. In a full episode on memory cards, he breaks down SD versus CFexpress, which speed numbers matter, and the boring workflow that keeps you from ever losing a shoot.",
+      "sections": [
+        {
+          "heading": "SD or CFexpress: let your camera and your shooting decide",
+          "body": "Court's first rule is to check the camera manual. Cameras support specific card types, and buying the wrong format is the most expensive mistake you can make.\n\nIf you have a choice, the split comes down to speed. CFexpress, especially Type B, is built on PCIe and NVMe technology, the same approach used for fast storage in computers. That's what you want for long high-speed bursts, 8K video or RAW video, where the camera buffer fills and the card has to clear it fast.\n\nStandard SD cards are fine for casual shooting and for landscape work where you're taking one careful frame at a time. Within SD, Court points out that UHS-II cards have a second row of contacts that allows much faster communication, but only if your camera actually supports UHS-II. Otherwise you're paying for speed you can't use.",
+          "quote": {
+            "text": "UHS-II cards have a second row of contacts. The second row allows really quite faster communication, but only if the camera supports UHS-II.",
+            "speaker": "Court Whelan",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Which speed number actually matters",
+          "body": "Cards advertise a lot of numbers. Court simplifies it: write speed is how fast data goes onto the card, and that's what matters while you're shooting. Read speed mostly affects how fast files copy to your computer later.\n\nFor video, look at the V rating, which is the minimum sustained write speed. V30 means at least 30 megabytes per second sustained, V60 means 60, V90 means 90. Sustained is the key word, because video writes continuously and a card that's fast in bursts but slow over minutes will drop frames.\n\nFor stills, a faster write speed means a bigger effective buffer during action sequences, which wildlife shooters will appreciate. But if you rarely hold the shutter down, a mid-tier card is plenty.",
+          "quote": {
+            "text": "V30 means the card is rated for at least 30 megabytes per second sustained write speed. V60 means 60, V90 means 90.",
+            "speaker": "Court Whelan",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "How big a card to buy",
+          "body": "Court's sweet spot for most still photographers is 128 or 256 GB. That's enough to avoid constant swapping on a long day, but not so much that one card failure wipes out a whole trip.\n\nIf you shoot a lot of video or have a very high-megapixel body, 512 GB and up starts to make sense. The tradeoff is always the same: convenience of fewer cards versus how much you lose if a single card dies. Several medium cards spread that risk.",
+          "quote": {
+            "text": "For most still photographers out there, I think 128 or 256 gigabyte cards are a really a nice sweet spot.",
+            "speaker": "Court Whelan",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Format in camera, and only after you've checked the backup",
+          "body": "This is the part of the episode that saves photos. Court says to format the card in the camera you'll use it in, rather than deleting images one at a time or formatting on a computer. In-camera formatting sets up the file system the way that camera expects and clears out leftover fragments.\n\nBut never format until your files are backed up somewhere else, and don't take the import dialog's word for it. Open the folder. Confirm the files are there.\n\nHis workflow is deliberately dull: shoot, import, back up, verify, then format. One more habit: after you turn the camera off, wait a few seconds before pulling the card. The camera may still be finishing a write, and yanking the card mid-write is a good way to corrupt it.",
+          "quote": {
+            "text": "You shoot, you import, you back up, you verify, and then you format. Boring workflows save photos and it saves you stress.",
+            "speaker": "Court Whelan",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Card care, brands and when to retire one",
+          "body": "Cards live in a protective case, not loose in a bag pocket. Keep fingers, oil and grit away from the metal contacts, and keep them dry. Never remove a card while the camera is writing or while files are transferring.\n\nOn brands, Court names SanDisk, Sony, Lexar, ProGrade and Kingston as reputable, and stresses buying from real retailers like B&H, Adorama or authorized Amazon sellers. Memory cards are heavily counterfeited, and a card that's suspiciously cheap probably is.\n\nFinally, retire cards early. If one ever throws an error, fails to mount or behaves oddly, Court pulls it from serious work immediately. A card is cheap. A missed once-in-a-lifetime frame isn't.",
+          "quote": {
+            "text": "If a card ever makes me suspicious, like if I have any doubt, it is done for serious work.",
+            "speaker": "Court Whelan",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Check your camera manual first. CFexpress Type B is for high-speed bursts and heavy video; SD is fine for most stills.",
+        "Write speed matters while shooting. For video, use the V rating (V30, V60, V90) as your minimum sustained speed.",
+        "128 to 256 GB is the sweet spot for most photographers. Go bigger only for video or very high megapixel bodies.",
+        "Format in camera, never by deleting files, and only after you've opened the backup folder and confirmed the files are there.",
+        "Buy known brands from real retailers, store cards in a case, and retire any card that has ever acted up."
+      ],
+      "faq": [
+        {
+          "q": "Should I format my memory card in the camera or on the computer?",
+          "a": "In the camera, according to Court. It sets up the file system the way that camera expects. Formatting on a computer or deleting photos one by one can leave the card in a less reliable state."
+        },
+        {
+          "q": "How often should you format a memory card?",
+          "a": "Every time you've imported, backed up and verified your files. Formatting after each confirmed backup is part of Court's standard workflow, not an occasional maintenance task."
+        },
+        {
+          "q": "Do I need a UHS-II SD card?",
+          "a": "Only if your camera supports UHS-II. The extra row of contacts allows much faster transfers, but in a UHS-I camera you get UHS-I speeds regardless of what card you buy."
+        }
+      ],
+      "sourceNote": "Based on The Wild Photographer episode \"A Deep Dive into Memory Cards: Speed, Maintenance, Formatting and More,\" released August 18, 2026, with credit to host Court Whelan."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "buyers-box-podcast",
+  "title": "Buyers Box Podcast",
+  "author": "Ally and Andrew Burnett",
+  "description": "A weekly real estate podcast from Ally and Andrew Burnett of the Secure Home Finder Team at Realty One Group Dockside, sharing tools, strategies and stories that help agents and buyers shift their business, mindset and life.",
+  "category": "real-estate",
+  "website": "https://buyersboxpodcast.buzzsprout.com",
+  "feedUrl": "https://rss.buzzsprout.com/2549657.rss",
+  "imageUrl": "https://storage.buzzsprout.com/x942qu690hk5r7al1xh6wftnwkn9?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/buyers-box-podcast/id1848116598",
+  "spotifyUrl": "https://open.spotify.com/show/2bZCZO7lT9RUTGcokMPzxd",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19788124",
+      "title": "EP 35: THE EARN FRAMEWORK: How Top-Producing Agents Turn Every Transaction Into Reviews, Referrals & Repeat Business",
+      "publishedAt": "2026-09-11",
+      "summary": "Ally Burnett and guest Brooke Riecke of the Reside Platform break down the EARN framework (Engage, Anticipate, Retain, Network) for turning one closing into a stream of reviews, referrals and repeat clients. They cover response speed, proactive timelines, post-close touches and when to ask for referrals.",
+      "audioUrl": "https://www.buzzsprout.com/2549657/episodes/19788124-ep-35-the-earn-framework-how-top-producing-agents-turn-every-transaction-into-reviews-referrals-repeat-business.mp3",
+      "durationSec": 1795,
+      "episodeUrl": "https://www.buzzsprout.com/2549657/19788124",
+      "transcriptUrl": "https://www.buzzsprout.com/2549657/19788124/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19754449",
+      "title": "EP 34: The Solo Agent CRM Playbook: Organize, Automate & Reactivate Your Leads",
+      "publishedAt": "2026-09-04",
+      "summary": "Elena Kee shares CRM strategies for solo agents, including database organization, smart lists, lead nurturing and how to reactivate contacts already sitting in your system.",
+      "audioUrl": "https://www.buzzsprout.com/2549657/episodes/19754449-ep-34-the-solo-agent-crm-playbook-organize-automate-reactivate-your-leads.mp3",
+      "durationSec": 1366,
+      "episodeUrl": "https://www.buzzsprout.com/2549657/19754449",
+      "transcriptUrl": "https://www.buzzsprout.com/2549657/19754449/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19543776",
+      "title": "EP 33: THE REALTOR KPI SCORECARD: Know What to Fix Before You Lose More Closings",
+      "publishedAt": "2026-07-24",
+      "summary": "Elizabeth Ferraro explains how tracking the right metrics separates top producers from average agents, covering KPIs, systems, accountability and data-driven decisions.",
+      "audioUrl": "https://www.buzzsprout.com/2549657/episodes/19543776-ep-33-the-realtor-kpi-scorecard-know-what-to-fix-before-you-lose-more-closings.mp3",
+      "durationSec": 1407,
+      "episodeUrl": "https://www.buzzsprout.com/2549657/19543776",
+      "transcriptUrl": "https://www.buzzsprout.com/2549657/19543776/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19508930",
+      "title": "EP 32: The Realtor Operating System: The Daily Framework Behind Predictable Closings",
+      "publishedAt": "2026-07-17",
+      "summary": "Chad Leonberg reveals the daily habits, accountability systems and conversation frameworks that produce consistent closings regardless of motivation or market conditions.",
+      "audioUrl": "https://www.buzzsprout.com/2549657/episodes/19508930-ep-32-the-realtor-operating-system-the-daily-framework-behind-predictable-closings.mp3",
+      "durationSec": 2183,
+      "episodeUrl": "https://www.buzzsprout.com/2549657/19508930",
+      "transcriptUrl": "https://www.buzzsprout.com/2549657/19508930/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19442771",
+      "title": "EP 31: The Buyer Lead Conversion Playbook: How to Convert Online Leads into Appointments, Clients & Closings",
+      "publishedAt": "2026-07-10",
+      "summary": "Karlton Utter covers converting online buyer leads through speed to lead, trust building and follow-up systems that create a predictable pipeline.",
+      "audioUrl": "https://www.buzzsprout.com/2549657/episodes/19442771-ep-31-the-buyer-lead-conversion-playbook-how-to-convert-online-leads-into-appointments-clients-closings.mp3",
+      "durationSec": 2032,
+      "episodeUrl": "https://www.buzzsprout.com/2549657/19442771",
+      "transcriptUrl": "https://www.buzzsprout.com/2549657/19442771/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19440997",
+      "title": "EP 30: The Go-To Realtor Blueprint: How Top Realtors Become the Most Trusted Experts in Their Community",
+      "publishedAt": "2026-07-03",
+      "summary": "Randy Carroll explains how to work an existing CRM database through nurturing and long-term relationship marketing instead of constantly buying new leads.",
+      "audioUrl": "https://www.buzzsprout.com/2549657/episodes/19440997-ep-30-the-go-to-realtor-blueprint-how-top-realtors-become-the-most-trusted-experts-in-their-community-with-randy-caroll.mp3",
+      "durationSec": 2195,
+      "episodeUrl": "https://www.buzzsprout.com/2549657/19440997",
+      "transcriptUrl": "https://www.buzzsprout.com/2549657/19440997/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-real-estate-agents-get-more-referrals-and-reviews",
+      "question": "How do real estate agents get more referrals and reviews?",
+      "metaDescription": "Ally Burnett and guest Brooke Riecke share the EARN framework for agents: fast replies, proactive timelines, post-close touches and when to ask.",
+      "episodeGuid": "Buzzsprout-19788124",
+      "intro": "Agents get more referrals and reviews by treating the transaction as the start of a relationship instead of the end of one. On the Buyers Box Podcast, host Ally Burnett and guest Brooke Riecke of the Reside Platform walk through a four-part system they call EARN: Engage, Anticipate, Retain, Network. Most of it costs nothing. All of it depends on doing small things at the right moment, starting with how fast you answer the phone.",
+      "sections": [
+        {
+          "heading": "Engage: the first few minutes decide the relationship",
+          "body": "The first letter in EARN is about the very beginning. Ally describes her team's standard as responding to a new inquiry within about two minutes. Brooke's version is that you win the client in the first five minutes after they reach out, and the thing you win them with is speed.\n\nSpeed alone isn't the whole job, though. Once you've made a good first impression, the hosts explain that engagement means keeping it. That looks like a proper initial consultation where you set expectations for the entire process and timeline, so the buyer knows what working with you will feel like before the first showing.\n\nBrooke's bigger point is about memory. Buyers don't remember the listings you sent. They remember how the experience felt.",
+          "quote": {
+            "text": "They don't remember like the MLS listings. They remember how you made them feel.",
+            "speaker": "Brooke Riecke",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Anticipate: tell them every deadline before they ask",
+          "body": "The second part is proactive communication during escrow, and it comes with the most quotable line in the episode. Frustration, Brooke says, doesn't come from things going wrong. It comes from not knowing what's happening.\n\nHer fix is a timeline handed over the day the offer is accepted. Every deadline goes on it up front: inspection period, appraisal, financing contingency, closing. You explain what each one means and what could happen at each step, so when the appraisal comes in low or an inspection turns up a problem, the buyer already knew that was possible.\n\nThe hosts explain that referrals are earned in exactly these stressful moments, offers, inspections and contingencies, not during smooth closings. An agent who kept a buyer calm through a scary week is the agent that buyer talks about at dinner parties.",
+          "quote": {
+            "text": "Buyers don't get frustrated because something went wrong. They get frustrated because they didn't know what was happening.",
+            "speaker": "Brooke Riecke",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Retain: two to four touches a year, and real notes",
+          "body": "Retain is where most agents drop the ball. The closing happens, the file gets archived, and the client never hears from them again.\n\nBrooke's standard is two to four touches per year per past client. Her rule is that it doesn't need to be expensive, just thoughtful and repeatable. Birthday messages, home anniversary notes, seasonal check-ins, and adding past clients to seller alerts so they see what's happening in their neighborhood all count.\n\nThe other half of retention is knowing your database. Brooke's test is blunt: there shouldn't be a name in your CRM you couldn't tell her everything about. Kids' names, job changes, plans to move in three years. Those notes are what turn a generic touch into a personal one, and they're what make the client call you instead of the agent who mailed a calendar.",
+          "quote": null
+        },
+        {
+          "heading": "Network: plant the referral seed at offer acceptance",
+          "body": "The last piece is asking, and the timing is what most agents get wrong. Brooke's advice is to start the referral conversation the day the offer is accepted, not at closing. You plant the seed early, before the client mentally moves on to boxes and paint colors, so by closing the ask feels normal rather than sudden.\n\nReviews work the same way. The hosts stress that what matters is a steady flow of current five-star reviews, not a big batch from two years ago. Ask consistently, consider a small referral incentive or a bit of gamification, and don't forget the agent on the other side of the deal, who can leave a review too.\n\nBrooke also points out a difference between client referrals and business referrals from other professionals. Business referrals tend not to expect a discount. They treat you like a professional, which makes them some of the best free business you can get.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Respond to new inquiries within a couple of minutes. The first five minutes set the tone for the whole relationship.",
+        "Hand buyers a full timeline with every deadline the day the offer is accepted, so nothing in escrow feels like a surprise.",
+        "Touch past clients two to four times a year with cheap, personal, repeatable contact, and keep detailed notes on every name in your CRM.",
+        "Start the referral conversation at offer acceptance, not closing.",
+        "Keep reviews current by asking consistently, including the agent on the other side of the transaction."
+      ],
+      "faq": [
+        {
+          "q": "When is the best time to ask a client for a referral?",
+          "a": "Brooke recommends planting the seed the day the offer is accepted and normalizing the ask before closing, rather than springing it on the client after the keys are handed over."
+        },
+        {
+          "q": "How often should agents follow up with past clients?",
+          "a": "Two to four touches a year is the standard Brooke gives. Birthdays, home anniversaries, seasonal check-ins and neighborhood seller alerts all count, and none of them need to be expensive."
+        },
+        {
+          "q": "Do referrals come from smooth transactions?",
+          "a": "Not usually. The hosts explain that referrals come from how you handled the stressful moments, like offers, inspections and contingencies, because that's what clients remember and talk about."
+        }
+      ],
+      "sourceNote": "Based on Buyers Box Podcast episode 35, \"The EARN Framework: How Top-Producing Agents Turn Every Transaction Into Reviews, Referrals & Repeat Business,\" released September 11, 2026, hosted by Ally Burnett with guest Brooke Riecke."
+    }
+  ]
+}

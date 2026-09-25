@@ -1,0 +1,135 @@
+{
+  "slug": "talk-copy-to-me",
+  "title": "Talk Copy to Me | Content + Copywriting Podcast",
+  "author": "Erin Ollila",
+  "description": "Content strategist and copywriter Erin Ollila helps business owners turn their messaging into meaningful connections and measurable results, covering SEO, website copywriting and brand storytelling.",
+  "category": "marketing",
+  "website": "https://erinollila.com/podcast",
+  "feedUrl": "https://rss.buzzsprout.com/2279941.rss",
+  "imageUrl": "https://storage.buzzsprout.com/a29hzs9r6z4npya2mzpgqlfh3f8i?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/talk-copy-to-me-content-copywriting-podcast/id1599390274",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19651087",
+      "title": "10 Takeaways From 10 Years of Running My Business Full Time",
+      "publishedAt": "2026-08-15",
+      "summary": "Erin marks a decade of full-time self-employment with ten lessons on pricing, consistency, redefining success and letting go of perfectionism.",
+      "audioUrl": "https://www.buzzsprout.com/2279941/episodes/19651087-10-takeaways-from-10-years-of-running-my-business-full-time.mp3",
+      "durationSec": 1392,
+      "episodeUrl": "https://www.buzzsprout.com/2279941/episodes/19651087",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19535405",
+      "title": "How to Prepare for a Website Update Before Hiring a Web Designer (or Copywriter!)",
+      "publishedAt": "2026-07-28",
+      "summary": "Guest Carolyn Leasure walks through five things a business should have settled before hiring a designer or copywriter, so the project has a clear scope and a strategy behind it.",
+      "audioUrl": "https://www.buzzsprout.com/2279941/episodes/19535405-how-to-prepare-for-a-website-update-before-hiring-a-web-designer-or-copywriter.mp3",
+      "durationSec": 2920,
+      "episodeUrl": "https://www.buzzsprout.com/2279941/episodes/19535405",
+      "transcriptUrl": "https://www.buzzsprout.com/2279941/19535405/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19527931",
+      "title": "What Happened After I Rethought My Business",
+      "publishedAt": "2026-07-21",
+      "summary": "A follow-up to Erin's offer audit, covering the service changes she made, how she's integrating AI, and why the value clients get goes beyond the words on the page.",
+      "audioUrl": "https://www.buzzsprout.com/2279941/episodes/19527931-what-happened-after-i-rethought-my-business.mp3",
+      "durationSec": 1008,
+      "episodeUrl": "https://www.buzzsprout.com/2279941/episodes/19527931",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19420664",
+      "title": "When Rewriting Your Website Turns Into Rethinking Your Whole Business",
+      "publishedAt": "2026-06-30",
+      "summary": "Erin shares how a website rewrite turned into a review of nearly ten years of offers and a decision about where the business goes next.",
+      "audioUrl": "https://www.buzzsprout.com/2279941/episodes/19420664-when-rewriting-your-website-turns-into-rethinking-your-whole-business.mp3",
+      "durationSec": 1649,
+      "episodeUrl": "https://www.buzzsprout.com/2279941/episodes/19420664",
+      "transcriptUrl": "https://www.buzzsprout.com/2279941/19420664/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19027861",
+      "title": "Can AI Write My Website?",
+      "publishedAt": "2026-04-16",
+      "summary": "Erin makes the case for specificity over generic AI-generated copy. She explains what AI can't do no matter how good the prompt is, and where it genuinely helps once you've written the draft yourself.",
+      "audioUrl": "https://www.buzzsprout.com/2279941/episodes/19027861-can-ai-write-my-website.mp3",
+      "durationSec": 1257,
+      "episodeUrl": "https://www.buzzsprout.com/2279941/episodes/19027861",
+      "transcriptUrl": "https://www.buzzsprout.com/2279941/19027861/transcript"
+    },
+    {
+      "guid": "Buzzsprout-18958075",
+      "title": "Before You Decide: Here's Exactly What Happens In Rewrite Your Site",
+      "publishedAt": "2026-04-03",
+      "summary": "An inside look at Erin's group copywriting program, including the pre-work, weekly curriculum, support, and the results people get beyond a finished website.",
+      "audioUrl": "https://www.buzzsprout.com/2279941/episodes/18958075-before-you-decide-here-s-exactly-what-happens-in-rewrite-your-site.mp3",
+      "durationSec": 1706,
+      "episodeUrl": "https://www.buzzsprout.com/2279941/episodes/18958075",
+      "transcriptUrl": "https://www.buzzsprout.com/2279941/18958075/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "can-ai-write-my-website-copy",
+      "question": "Can AI write my website copy?",
+      "metaDescription": "Copywriter Erin Ollila explains what AI gets wrong on websites, what it does well, and the order to use it in so your copy still sounds like you.",
+      "episodeGuid": "Buzzsprout-19027861",
+      "intro": "AI can help with your website copy, but it shouldn't write it for you. That's the answer from copywriter Erin Ollila on her podcast Talk Copy to Me, in an episode titled \"Can AI Write My Website?\" Her reasoning comes down to one word: specificity. AI is good at sounding like a website. It's bad at sounding like you, and sounding like you is the whole job.",
+      "sections": [
+        {
+          "heading": "The problem with copy that sounds \"right\"",
+          "body": "Erin's core observation is that websites are starting to sound the same. AI is trained on patterns, so it's very good at recognizing what website copy is supposed to sound like. Ask it for a services page and you'll get something clean, confident and completely interchangeable with the next business in your industry.\n\nThat's the trap. The copy reads fine. Nothing is wrong with it. And nobody remembers it, because it doesn't say anything a competitor couldn't say too.\n\nErin explains that AI doesn't know your voice, and it doesn't know the specific way your clients describe their problems. Those two things are what make a reader feel understood, and no amount of prompting hands them over.",
+          "quote": null
+        },
+        {
+          "heading": "Specificity is the part a prompt can't fake",
+          "body": "The word Erin keeps coming back to is specificity. It's what makes someone read your about page and think this person actually gets it. It's the exact phrase a client used on a discovery call, the real objection you hear every week, the small detail about how you work that nobody else does.\n\nAI can generate a plausible version of all that. What it can't do is know which version is true for your business. Erin's point is that you could write the best prompt in the world and still get copy that's specific in a generic way, because the model is guessing at details you already have.\n\nThis is why she tells people not to skip the thinking. The research into client language, pain points and what genuinely sets you apart has to happen before any writing, human or AI.",
+          "quote": {
+            "text": "Specificity is the one thing that AI cannot manufacture no matter how good the prompt is.",
+            "speaker": "Erin Ollila",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Where AI actually earns its place",
+          "body": "Erin isn't anti-AI. She's specific about where it helps, and all of it comes after you've written a draft.\n\nEditing is the big one. You write the draft, then bring in AI to cut, sharpen or clean it up. It's good at spotting a sentence that runs too long or a paragraph that says the same thing twice.\n\nHeadline options are another. Give it a section you've already written and ask for ten headline variations. You'll throw away eight, but two might be better than what you had.\n\nBrainstorming angles helps when you're stuck. Erin says AI is useful for surfacing approaches you hadn't considered, especially when you've stared at a section long enough to lose perspective.\n\nClarity checks and repurposing round out the list. Ask it whether a paragraph is clear to someone outside your industry, or have it adapt finished web copy into a social post or email.",
+          "quote": null
+        },
+        {
+          "heading": "The order that keeps your voice intact",
+          "body": "Erin's rule for sequencing is simple: you first, AI second, and always with editing at the end that hands control back to you.\n\nThe reason for the order is that whoever writes the first draft sets the voice. If AI writes it and you edit, you're polishing something generic. If you write it and AI edits, you're tightening something that already sounds like you. The second version is faster to get right and holds up better once it's live.\n\nShe frames it as an asset and a tool. Your voice and your understanding of your clients are the asset. AI is a tool for working on that asset. The moment the tool starts producing the asset, you've lost the thing that made the website worth reading.",
+          "quote": {
+            "text": "Your voice is the asset, and AI is the tool. Do not let the tool replace the asset.",
+            "speaker": "Erin Ollila",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "AI writes copy that sounds like a website, which is exactly why it blends in with every competitor's site.",
+        "Specificity, meaning your real client language and real differences, is what converts, and AI can't manufacture it.",
+        "Do the research and write the first draft yourself before touching AI.",
+        "Use AI for editing, headline options, brainstorming angles, clarity checks and repurposing finished copy.",
+        "Sequence is everything: you first, AI second, then a final human edit."
+      ],
+      "faq": [
+        {
+          "q": "Can I use AI to write my about page?",
+          "a": "Erin's advice is to write it yourself first. The about page is where specificity matters most, and a reader can tell when the details are generic. Use AI afterward to tighten it."
+        },
+        {
+          "q": "What should I give AI so it writes in my voice?",
+          "a": "Erin's view is that no prompt fully solves this. Even with samples and instructions, the model guesses at the details that make your copy yours. A draft you wrote is the better input."
+        },
+        {
+          "q": "Is it a waste of time to use AI for copywriting at all?",
+          "a": "No. Erin uses it for editing, headline variations, brainstorming and repurposing. The problem is only when it replaces the thinking and drafting, not when it supports them."
+        }
+      ],
+      "sourceNote": "Based on the Talk Copy to Me episode \"Can AI Write My Website?\", released April 16, 2026, hosted by Erin Ollila."
+    }
+  ]
+}

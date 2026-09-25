@@ -1,0 +1,118 @@
+{
+  "slug": "employee-survival-guide",
+  "title": "Employee Survival Guide",
+  "author": "Mark Carey | Employment Lawyer & Employee Advocate",
+  "description": "A no-nonsense employment law podcast for employees, covering workplace issues including discrimination, harassment, severance, and wrongful termination. Hosted by Mark Carey, a veteran employment lawyer with 29 years of experience.",
+  "category": "law",
+  "website": "https://capclaw.com/employee-survival-guide-podcast/",
+  "feedUrl": "https://feeds.buzzsprout.com/1030624.rss",
+  "imageUrl": "https://storage.buzzsprout.com/r6buch2uir6r68pjbdozmqgoz1tk?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19717671",
+      "title": "Know Your Rights: Retaliation At Work",
+      "publishedAt": "2026-08-28",
+      "summary": "Mark Carey explains what workplace retaliation is, from obvious actions like termination to subtle ones like exclusion from meetings, what counts as protected activity, and how to document and complain in writing to protect yourself.",
+      "audioUrl": "https://www.buzzsprout.com/1030624/episodes/19717671-know-your-rights-retaliation-at-work.mp3",
+      "durationSec": 1254,
+      "episodeUrl": "https://www.buzzsprout.com/1030624/19717671",
+      "transcriptUrl": "https://www.buzzsprout.com/1030624/19717671/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19677241",
+      "title": "The Employee Survival Guide Podcast is a Tool- Use the Podcast as a Workplace Weapon",
+      "publishedAt": "2026-08-20",
+      "summary": "Mark explains how to use the podcast as a strategic resource, distinguishing case story episodes from expert discussion episodes, and encourages listeners to take notes and build a personal file to gain leverage at work.",
+      "audioUrl": "https://www.buzzsprout.com/1030624/episodes/19677241-the-employee-survival-guide-podcast-is-a-tool-use-the-podcast-as-a-workplace-weapon.mp3",
+      "durationSec": 791,
+      "episodeUrl": "https://www.buzzsprout.com/1030624/19677241",
+      "transcriptUrl": "https://www.buzzsprout.com/1030624/19677241/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19648530",
+      "title": "Retirement Talk That Gets You Fired: Castelluccio v. IBM",
+      "publishedAt": "2026-08-14",
+      "summary": "A case study of age discrimination at IBM, where a 40-year employee was undermined after a manager asked about retirement. The episode shows how documentation proved but-for causation under the ADEA and led to a substantial jury award.",
+      "audioUrl": "https://www.buzzsprout.com/1030624/episodes/19648530-retirement-talk-that-gets-you-fired-castelluccio-v-ibm.mp3",
+      "durationSec": 2626,
+      "episodeUrl": "https://www.buzzsprout.com/1030624/19648530",
+      "transcriptUrl": "https://www.buzzsprout.com/1030624/19648530/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-counts-as-retaliation-in-the-workplace",
+      "question": "What counts as retaliation in the workplace?",
+      "metaDescription": "Employment lawyer Mark Carey explains what legally counts as workplace retaliation, which activities are protected, and how to document and report it.",
+      "episodeGuid": "Buzzsprout-19717671",
+      "intro": "Workplace retaliation is any adverse action your employer takes against you because you engaged in a protected activity, such as complaining about discrimination, requesting an accommodation or reporting a safety problem. It doesn't have to be a firing. On the Employee Survival Guide podcast, employment lawyer Mark Carey explains that a bad review, a sudden performance plan or being cut out of meetings can all qualify, and he lays out exactly how to document it and complain in a way that protects you.",
+      "sections": [
+        {
+          "heading": "The two-part test: protected activity plus adverse action",
+          "body": "Mark breaks retaliation into two pieces. First, you did something the law protects. Second, your employer did something to you because of it.\n\nProtected activity is broader than most people think. It includes complaining about discrimination or harassment (to HR, a supervisor, or an agency), filing an EEOC charge, asking for a disability accommodation or medical or family leave, reporting unsafe conditions, blowing the whistle on illegal conduct, refusing to carry out a discriminatory order, and taking part in a workplace investigation. The law protects both opposition (raising the complaint) and participation (being a witness in someone else's).\n\nOne point he stresses: you don't have to be right. If you complained in good faith about something you reasonably believed was illegal, you're protected even if it turns out the conduct wasn't unlawful.",
+          "quote": {
+            "text": "The employee need not be correct about their belief, but they do need to have a reasonable good faith belief.",
+            "speaker": "Mark Carey",
+            "timestamp": "5:38"
+          }
+        },
+        {
+          "heading": "Adverse actions that aren't firings",
+          "body": "Employers rarely retaliate by firing someone the day after a complaint. It's usually quieter. Mark lists the covert forms he sees constantly: unfair criticism or public embarrassment, a performance improvement plan out of nowhere, a negative review right after a string of positive ones, reduced hours or a changed schedule, loss of duties, impossible goals, denied training or travel, and being left off meeting invites and email threads.\n\nThe legal standard is whether the action would dissuade a reasonable employee from raising a concern. That's a lower bar than losing your job. He does note that mere inconvenience doesn't clear it, so a petty annoyance won't make a case by itself. But a pattern of small things that together make your work life worse after a complaint is exactly what the law is designed to catch.",
+          "quote": {
+            "text": "An adverse action would dissuade a reasonable employee from raising a concern about a possible violation.",
+            "speaker": "Mark Carey",
+            "timestamp": "1:46"
+          }
+        },
+        {
+          "heading": "Timing is your best evidence",
+          "body": "Proving why your employer did something is hard, because nobody writes \"retaliation\" in the termination letter. Mark's answer is timing, context and patterns. If you asked for leave on Monday and got put on a performance plan Friday, the sequence itself is evidence. If a manager who praised you for years suddenly finds fault the month after you complained, that shift is evidence.\n\nHe encourages listeners to build a personal timeline: the date of the protected activity, then every adverse thing that happened afterward, with dates and names. Laid out chronologically, retaliation tends to reveal itself in a way that individual incidents never do.",
+          "quote": {
+            "text": "Timing, context, and patterns often expose retaliation for what it is.",
+            "speaker": "Mark Carey",
+            "timestamp": "8:55"
+          }
+        },
+        {
+          "heading": "How to document without getting caught out",
+          "body": "Mark's advice on evidence is blunt. Save every email and text that touches the situation. Take screenshots. Write down verbal conversations right after they happen, with the date and who was there. And keep all of it off company equipment, because you should assume your employer monitors its devices and can cut off your access the moment you're terminated.\n\nThere's a flip side. When you complain, use company email on purpose. It creates a timestamp the employer can't dispute and proves they were on notice.",
+          "quote": {
+            "text": "Document the shit out of the case. Every email, text message should be saved, recorded.",
+            "speaker": "Mark Carey",
+            "timestamp": "12:24"
+          }
+        },
+        {
+          "heading": "Say the words, and watch the deadlines",
+          "body": "The written complaint is where people go wrong by being polite. Mark says to state plainly that you believe you are being retaliated against for a protected activity, or discriminated against, and name the activity. Vague language like \"I feel treated unfairly\" gives the employer room to claim they never knew it was a legal complaint. File internally with HR or your supervisor before going to an outside agency where you can.\n\nDeadlines are short and vary by location. He gives examples from his practice: an EEOC charge generally must be filed within 300 days of the retaliatory act in Connecticut and New York, the Connecticut Commission on Human Rights also runs 300 days, while the New York State Division of Human Rights and New York City Commission allow three years. Check the rules where you work.\n\nAnd talk to an employment attorney early: as soon as you notice a pattern, before you file anything, before you record a conversation, and definitely before you sign a severance or release. The facts you've preserved are what give you negotiating leverage.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Retaliation requires a protected activity (complaining about discrimination, requesting accommodations or leave, reporting safety issues, whistleblowing) followed by an adverse action taken because of it.",
+        "Adverse actions include performance plans, sudden bad reviews, reduced hours, lost duties and exclusion from meetings, not just termination.",
+        "You're protected if you complained in reasonable good faith, even if you turn out to be wrong.",
+        "Build a dated timeline, save every email and text off company devices, and complain in writing using the words 'retaliation' or 'discrimination.'",
+        "Deadlines can be as short as 300 days for an EEOC charge; contact an employment lawyer before filing, recording or signing anything."
+      ],
+      "faq": [
+        {
+          "q": "Can my employer put me on a performance improvement plan after I complained to HR?",
+          "a": "They can, but if the plan appears shortly after a protected complaint and isn't supported by your prior record, Mark Carey explains that it can qualify as an adverse action and strong evidence of retaliation."
+        },
+        {
+          "q": "How long do I have to file a retaliation claim?",
+          "a": "It depends on the agency and state. Mark cites 300 days for an EEOC charge in Connecticut and New York, and three years for the New York State and New York City human rights agencies. Check your own jurisdiction quickly."
+        },
+        {
+          "q": "Should I record conversations with my manager?",
+          "a": "Talk to an employment attorney first. Recording laws differ by state, and Mark recommends getting advice before recording anyone or filing a formal complaint."
+        }
+      ],
+      "sourceNote": "Based on \"Know Your Rights: Retaliation At Work,\" released August 28, 2026 on the Employee Survival Guide podcast, hosted by employment lawyer Mark Carey of Carey & Associates, P.C."
+    }
+  ]
+}

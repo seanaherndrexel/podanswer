@@ -1,0 +1,131 @@
+{
+  "slug": "the-learning-culture-podcast",
+  "title": "The Learning Culture Podcast",
+  "author": "Andrew Barry",
+  "description": "Join your host Andrew Barry, the Founder and CEO of Curious Lion, as he interviews learning leaders practicing the cultivation of Learning Culture, experts who tease out critical theoretical components of this idea, and shares learning nuggets from real-world experiences and Curious Lion's own research and writing.",
+  "category": "education",
+  "website": "https://thelearningculturepodcast.buzzsprout.com",
+  "feedUrl": "https://feeds.buzzsprout.com/1945812.rss",
+  "imageUrl": "https://storage.buzzsprout.com/8nrzdshwkub3jhhw2mvh7fzgrk8e?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19754911",
+      "title": "#128 - How to Get AI Transformation Right with Victoria Pelletier",
+      "publishedAt": "2026-09-14",
+      "summary": "CEO coach and author Victoria Pelletier explains why companies that measure AI success by usage rather than outcomes stall. She argues the people side can't be an afterthought and that reimagining processes matters more than automating existing ones.",
+      "audioUrl": "https://www.buzzsprout.com/1945812/episodes/19754911-128-how-to-get-ai-transformation-right-with-victoria-pelletier.mp3",
+      "durationSec": 1994,
+      "episodeUrl": "https://www.buzzsprout.com/1945812/episodes/19754911-128-how-to-get-ai-transformation-right-with-victoria-pelletier",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19754562",
+      "title": "#127 - How to Protect Your Judgment When AI Does More of the Work with Harry Laplanche",
+      "publishedAt": "2026-09-08",
+      "summary": "Harry Laplanche, Head of AI Strategy and Transformation at Panasonic, argues that judgment is the one thing you can't outsource to AI. He describes a decision workflow where AI gathers evidence but withholds its recommendation until he has made his own call.",
+      "audioUrl": "https://www.buzzsprout.com/1945812/episodes/19754562-127-how-to-protect-your-judgment-when-ai-does-more-of-the-work-with-harry-laplanche.mp3",
+      "durationSec": 2626,
+      "episodeUrl": "https://www.buzzsprout.com/1945812/episodes/19754562-127-how-to-protect-your-judgment-when-ai-does-more-of-the-work-with-harry-laplanche",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19541478",
+      "title": "#126 - Holding the Pen: Scott Landers on Fear, Agency, and Leadership",
+      "publishedAt": "2026-08-10",
+      "summary": "CEO Scott Landers shares how a defining moment of failure in college baseball shaped his approach to agency and leadership, and connects it to why AI adoption fails when it happens to people rather than with them.",
+      "audioUrl": "https://www.buzzsprout.com/1945812/episodes/19541478-126-holding-the-pen-scott-landers-on-fear-agency-and-leadership.mp3",
+      "durationSec": 2771,
+      "episodeUrl": "https://www.buzzsprout.com/1945812/episodes/19541478-126-holding-the-pen-scott-landers-on-fear-agency-and-leadership",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19541445",
+      "title": "#125 - How to Reconcile AI's Speed with Your Team's Capacity to Learn",
+      "publishedAt": "2026-08-05",
+      "summary": "A conversation on balancing rapid technological disruption with the time it takes to build human capability, including why vulnerability is an essential leadership behaviour and how company-wide experimentation builds AI skill without cognitive overload.",
+      "audioUrl": "https://www.buzzsprout.com/1945812/episodes/19541445-125-how-to-reconcile-ai-s-speed-with-your-team-s-capacity-to-learn.mp3",
+      "durationSec": 2606,
+      "episodeUrl": "https://www.buzzsprout.com/1945812/episodes/19541445-125-how-to-reconcile-ai-s-speed-with-your-team-s-capacity-to-learn",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19541453",
+      "title": "#124 - Satu Salminen on Building AI Workflows: Lessons from an Early Pioneer",
+      "publishedAt": "2026-07-29",
+      "summary": "Satu Salminen describes scaling from experimental chatbots to full HR workflows, why documentation and workflow design matter more than the technology, and how she reached near-total daily adoption at ZoomInfo.",
+      "audioUrl": "https://www.buzzsprout.com/1945812/episodes/19541453-124-satu-salminen-on-building-ai-workflows-lessons-from-an-early-pioneer.mp3",
+      "durationSec": 2504,
+      "episodeUrl": "https://www.buzzsprout.com/1945812/episodes/19541453-124-satu-salminen-on-building-ai-workflows-lessons-from-an-early-pioneer",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19221284",
+      "title": "Good to Great ICs with Scott Sylvia",
+      "publishedAt": "2026-06-22",
+      "summary": "Scott Sylvia on moving from a good to a great individual contributor: realising you don't need to know everything to be valued, treating careers as relationship marathons, and shifting from execution to strategic thinking.",
+      "audioUrl": "https://www.buzzsprout.com/1945812/episodes/19221284-good-to-great-ics-with-scott-sylvia.mp3",
+      "durationSec": 696,
+      "episodeUrl": "https://www.buzzsprout.com/1945812/episodes/19221284-good-to-great-ics-with-scott-sylvia",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-you-keep-your-judgment-sharp-when-using-ai-at-work",
+      "question": "How do you keep your judgment sharp when using AI at work?",
+      "metaDescription": "Panasonic AI strategy head Harry Laplanche, on The Learning Culture Podcast, explains how to use AI without letting your own judgment atrophy: decide first, then compare.",
+      "episodeGuid": "Buzzsprout-19754562",
+      "intro": "Make your own call before you look at the AI's. That's the core practice Harry Laplanche, Head of AI Strategy and Transformation at Panasonic, describes to host Andrew Barry on The Learning Culture Podcast. His argument is that when AI can gather the evidence, run the analysis, and produce a recommendation, judgment is the one thing left that you can't afford to outsource, and the only way to keep it is to keep exercising it.",
+      "sections": [
+        {
+          "heading": "What's left when the machine does the analysis",
+          "body": "The episode starts from an uncomfortable question. If an AI system can pull together the evidence, analyse it, and tell you what to do, what exactly is your contribution? Harry's answer is judgment: the capacity to weigh a recommendation against context the model doesn't have, to notice when the framing is wrong, and to own the decision.\n\nHe's clear that this isn't a sentimental defence of human involvement. It's practical. A recommendation without judgment behind it is a liability, because nobody has actually thought about whether it fits the situation. And judgment, he argues, is a skill that decays if you stop using it, which is exactly what happens when people start accepting AI output by default.",
+          "quote": null
+        },
+        {
+          "heading": "Decide first, then let the AI show its hand",
+          "body": "Harry's most concrete practice is a workflow he uses himself. His AI setup gathers all the evidence on a question and lays it out, but it withholds its recommendation until he has written down his own call. Only then does it reveal what it would have suggested, so he can compare the two.\n\nThe host describes this as building judgment like a muscle. Every decision becomes a rep: you commit to a view, you see where the model agreed or disagreed, and you learn something about your own blind spots or the model's. Over time you get a calibrated sense of when to trust the AI and when to override it. Skip the first step, and you get none of that. You just get faster at agreeing.",
+          "quote": null
+        },
+        {
+          "heading": "Why access to tools doesn't produce adoption",
+          "body": "A second thread in the conversation is why so many corporate AI rollouts stall. Harry's background is in consumer insights, psychology, and behavioural science, and he sees the problem as behavioural rather than technical. Handing people a licence and a training video changes almost nothing.\n\nWhat changes behaviour is connecting the tool to the work people are actually measured and rewarded on. If using AI well helps someone hit the number their bonus depends on, adoption follows. If it's a side project nobody's evaluated against, it dies quietly. That framing also protects judgment: when AI is tied to real outcomes, people care whether the recommendation is right, not just whether they used the tool.",
+          "quote": {
+            "text": "Giving people access to tools is nowhere near enough. Adoption depends on connecting AI to the real work people are measured and rewarded on.",
+            "speaker": "Harry Laplanche",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The missing middle between vision and daily decisions",
+          "body": "Harry also talks about what he calls the missing middle. Leadership sets a transformation vision at the top. Individual employees make hundreds of small decisions at the bottom. The gap in between, where the vision would have to translate into concrete changes in how people decide things day to day, is where most transformations go missing.\n\nHis view is that change has to run top-down and bottom-up at the same time. Leaders set direction and remove obstacles, while teams experiment with real tasks and feed back what works. The judgment-first decision workflow is an example of a bottom-up practice that any individual can adopt tomorrow without waiting for a company-wide programme.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Judgment is the one contribution AI can't replace, and it atrophies if you stop exercising it.",
+        "Write down your own decision before looking at the AI's recommendation, then compare the two.",
+        "Treat every comparison as a rep that calibrates when to trust the model and when to override it.",
+        "Adoption comes from tying AI to the work people are measured and rewarded on, not from access alone.",
+        "Bridge the gap between transformation vision and daily decisions with simultaneous top-down and bottom-up change."
+      ],
+      "faq": [
+        {
+          "q": "Does using AI make people worse at decision-making?",
+          "a": "It can, if they accept recommendations by default. Harry's point is that judgment is a muscle, and the fix is to keep making your own call before you see the AI's."
+        },
+        {
+          "q": "How do you set up an AI workflow that protects judgment?",
+          "a": "Configure it to present the evidence but hold back its recommendation until you've recorded your own decision, then reveal and compare. That's the workflow Harry uses himself."
+        },
+        {
+          "q": "Why do AI rollouts fail even when everyone has the tools?",
+          "a": "Because access isn't adoption. Harry says people adopt AI when it's connected to the real work they're evaluated and paid on."
+        }
+      ],
+      "sourceNote": "Based on Episode 127, \"How to Protect Your Judgment When AI Does More of the Work,\" with Harry Laplanche, released September 8, 2026 on The Learning Culture Podcast, hosted by Andrew Barry. The quote is taken from the episode's show notes."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "fiction-writing-made-easy",
+  "title": "Fiction Writing Made Easy with Savannah Gilbo",
+  "author": "Savannah Gilbo",
+  "description": "A creative writing podcast offering practical tips on writing, editing and publishing novels, hosted by developmental editor and book coach Savannah Gilbo. The show covers story structure, character development, world-building, revision and publishing options.",
+  "category": "creative",
+  "website": "https://www.savannahgilbo.com",
+  "feedUrl": "https://feeds.buzzsprout.com/791087.rss",
+  "imageUrl": "https://storage.buzzsprout.com/sev1d8kj880757lotvg6n2vqf4rb?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/fiction-writing-made-easy-with-savannah-gilbo-how-to/id1502307717",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19606238",
+      "title": "#260: Student Spotlight: From Stuck at 25k Words to a Finished Draft With Lindsay Sfara",
+      "publishedAt": "2026-08-11",
+      "summary": "Superhero fantasy author Lindsay Sfara explains how an outline that looked complete still left her stuck at 25,000 words, and the story development work that turned the stalled manuscript into a published debut.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/791087/episodes/19606238-260-student-spotlight-from-stuck-at-25k-words-to-a-finished-draft-with-lindsay-sfara.mp3",
+      "durationSec": 2462,
+      "episodeUrl": "https://www.savannahgilbo.com/blog/success-story-lindsay-sfara",
+      "transcriptUrl": "https://www.buzzsprout.com/791087/19606238/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19550243",
+      "title": "#259: How to Finish a Novel With Kids at Home & Limited Writing Time",
+      "publishedAt": "2026-08-04",
+      "summary": "Practical strategies for finishing a novel when you're a busy parent with household distractions and very little writing time.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/791087/episodes/19550243-259-how-to-finish-a-novel-with-kids-at-home-limited-writing-time.mp3",
+      "durationSec": 1553,
+      "episodeUrl": "https://www.buzzsprout.com/791087/19550243",
+      "transcriptUrl": "https://www.buzzsprout.com/791087/19550243/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19522625",
+      "title": "#258: 5 Myths Keeping You From Finishing Your First Draft",
+      "publishedAt": "2026-07-28",
+      "summary": "Savannah names five common beliefs that stop writers from finishing a first draft, from thinking more discipline will fix it to believing that getting stuck means you failed, and explains why most stalls are process problems rather than talent problems.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/791087/episodes/19522625-258-5-myths-keeping-you-from-finishing-your-first-draft.mp3",
+      "durationSec": 1382,
+      "episodeUrl": "https://www.savannahgilbo.com/blog/novel-writing-myths",
+      "transcriptUrl": "https://www.buzzsprout.com/791087/19522625/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19521922",
+      "title": "#257: Stuck in Chapter One or the Messy Middle? What Your Stuck Point Reveals",
+      "publishedAt": "2026-07-21",
+      "summary": "Where you stall, whether chapter one, 20,000 words or the messy middle, reveals which piece of story foundation is missing. Savannah explains what each stuck point means and how to fix it.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/791087/episodes/19521922-257-stuck-in-chapter-one-or-the-messy-middle-what-your-stuck-point-reveals.mp3",
+      "durationSec": 1063,
+      "episodeUrl": "https://www.savannahgilbo.com/blog/stuck-writing-a-novel",
+      "transcriptUrl": "https://www.buzzsprout.com/791087/19521922/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19456599",
+      "title": "#256: Why \"Just Start Writing\" Can Be Terrible Advice for New Writers",
+      "publishedAt": "2026-07-14",
+      "summary": "When does 'just start writing' help and when does it hurt? Savannah separates productive preparation from fear-based avoidance and lists what to nail down before drafting.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/791087/episodes/19456599-256-why-just-start-writing-can-be-terrible-advice-for-new-writers.mp3",
+      "durationSec": 988,
+      "episodeUrl": "https://www.buzzsprout.com/791087/19456599",
+      "transcriptUrl": "https://www.buzzsprout.com/791087/19456599/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19449405",
+      "title": "#255: Student Spotlight: How Grace Draven Learned to Write Faster Without Sacrificing Quality",
+      "publishedAt": "2026-07-07",
+      "summary": "Bestselling author Grace Draven, with more than 20 published books, describes the structured outlining approach that let her draft 62,000 words in three weeks without losing quality.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/791087/episodes/19449405-255-student-spotlight-how-grace-draven-learned-to-write-faster-without-sacrificing-quality.mp3",
+      "durationSec": 2481,
+      "episodeUrl": "https://www.savannahgilbo.com/blog/success-story-grace-draven",
+      "transcriptUrl": "https://www.buzzsprout.com/791087/19449405/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-cant-i-finish-writing-my-novel",
+      "question": "Why can't I finish writing my novel?",
+      "metaDescription": "Book coach Savannah Gilbo of Fiction Writing Made Easy names the 5 myths that stall first drafts, and why the fix is story decisions, not more discipline.",
+      "episodeGuid": "Buzzsprout-19522625",
+      "intro": "If you can't finish your novel, the problem is almost never willpower or talent. It's usually a process problem, most often a story foundation that isn't solid enough to build on. That's the argument developmental editor and book coach Savannah Gilbo makes on her podcast Fiction Writing Made Easy, where she walks through five myths that keep writers stuck in a first draft and what to do about each one.",
+      "sections": [
+        {
+          "heading": "Myth one: more time or more discipline will fix it",
+          "body": "Most writers who stall assume the answer is a stricter schedule or a bigger word count goal. Savannah pushes back. If you sit down with a clear block of time and still don't know what happens next, the extra hours won't help. You'll spend them staring, rewriting chapter one, or reorganizing your notes.\n\nHer suggestion is to check the foundation before you push harder. Do you know what your protagonist wants, what's in the way, and what's at stake? Do you know roughly how the story ends? If any of those are fuzzy, that's the work to do, and it's faster than grinding out pages you'll throw away.",
+          "quote": {
+            "text": "Before pushing yourself harder, just make sure that you've built enough of your story's foundation.",
+            "speaker": "Savannah Gilbo",
+            "timestamp": "04:37"
+          }
+        },
+        {
+          "heading": "Myth two: one more course will get you unstuck",
+          "body": "Learning craft feels productive, and it's easy to hide there. Savannah's test is whether you're applying what you learn to the book you're actually writing, or collecting concepts you plan to use someday.\n\nShe reframes the question. Instead of asking what else you need to learn, ask how the thing you just learned changes a decision in your current manuscript. If a lesson on stakes doesn't lead you to raise the stakes in your chapter twelve, it hasn't helped you finish anything yet.",
+          "quote": {
+            "text": "Instead of asking, what else do I need to learn? Start asking, how can I apply what I'm learning to the novel that I'm actually writing?",
+            "speaker": "Savannah Gilbo",
+            "timestamp": "07:52"
+          }
+        },
+        {
+          "heading": "Myth three: beautiful sentences make the story",
+          "body": "Polishing prose is satisfying, and it's the most common way writers avoid the harder job of deciding what happens. Savannah is clear that a first draft's job is to get the story down, not to make every line sing.\n\nThe practical rule is to get to the end before you start polishing. A gorgeous first act attached to nothing is not a book. A rough, complete draft is something you can actually revise, and you'll often find that the sentences you agonized over get cut anyway once the story settles.",
+          "quote": {
+            "text": "Your main job in a first draft is not to make every sentence beautiful. It's to get the story down.",
+            "speaker": "Savannah Gilbo",
+            "timestamp": "11:08"
+          }
+        },
+        {
+          "heading": "Myth four: you have to get it right the first time",
+          "body": "Writers stall when they try to make plot, character arc, theme, subplots and world-building all work at once in the same pass. Savannah says you don't have to, and in a first draft you especially don't have to.\n\nHer approach is to pick the most important job of the pass you're on. In a first draft that's usually the main plot and the protagonist's through-line. Subplots can be thin. Secondary characters can be sketches. You can deepen and refine all of it later, once the spine of the story exists.",
+          "quote": {
+            "text": "You do not have to make every part of your novel work at once and especially not in your first draft.",
+            "speaker": "Savannah Gilbo",
+            "timestamp": "15:08"
+          }
+        },
+        {
+          "heading": "Myth five: getting stuck means you failed",
+          "body": "This is the myth that ends the most manuscripts. A writer hits a wall, decides the idea is broken or that they don't have what it takes, and quietly quits.\n\nSavannah treats stuckness as information. Stuck in chapter one usually means you don't know your protagonist's starting point or the story's central question. Stuck around 20,000 words often means the inciting problem isn't big enough to sustain a book. Stuck in the messy middle usually means you haven't decided what the climax is, so there's nothing to escalate toward. Follow the clue back to the missing decision, make it, and the draft moves again.\n\nHer closing point is the one to remember. Finishing isn't a mysterious ability some writers are born with. It's a series of story decisions, and you only need enough clarity to take the next one.",
+          "quote": {
+            "text": "Finishing stops feeling like a mysterious ability that other writers possess when you approach it as a series of story decisions.",
+            "speaker": "Savannah Gilbo",
+            "timestamp": "20:47"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "More time and discipline only help once you know what your story is. Check the foundation before you push harder.",
+        "Apply every craft lesson to the manuscript in front of you, or it's just procrastination with a syllabus.",
+        "Get to the end before you polish. A rough complete draft beats a beautiful partial one.",
+        "Give each pass one main job. In draft one, that's the main plot and the protagonist's arc.",
+        "Being stuck is a clue about a missing story decision, not a verdict on your talent."
+      ],
+      "faq": [
+        {
+          "q": "How do I get unstuck in the middle of my novel?",
+          "a": "Savannah says a stalled middle usually means you haven't decided on the climax, so there's nothing to escalate toward. Decide how the story ends and what the final confrontation is, then work backward to the scenes that build to it."
+        },
+        {
+          "q": "Should I outline before writing a first draft?",
+          "a": "You don't need a full outline, but you do need enough foundation to make decisions: who the protagonist is, what they want, what's in the way, and roughly how it ends. That clarity is what keeps the draft moving."
+        },
+        {
+          "q": "Is it normal to rewrite chapter one over and over?",
+          "a": "Common, yes, but Savannah treats it as a symptom. Endless chapter one rewrites usually mean you're polishing to avoid deciding what happens next. Move forward and fix the opening once the whole story exists."
+        }
+      ],
+      "sourceNote": "Based on Fiction Writing Made Easy episode #258, \"5 Myths Keeping You From Finishing Your First Draft,\" released July 28, 2026, with credit to host Savannah Gilbo."
+    }
+  ]
+}

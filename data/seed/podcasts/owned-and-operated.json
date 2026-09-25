@@ -1,0 +1,148 @@
+{
+  "slug": "owned-and-operated",
+  "title": "Owned and Operated - A Plumbing, Electrical, and HVAC Business Growth Podcast",
+  "author": "John Wilson",
+  "description": "A podcast for home service entrepreneurs focused on building larger, more profitable businesses. Hosted by John Wilson and Jack Carr, featuring candid conversations with founders, operators, and investors about acquisitions, marketing, sales, leadership, hiring, and finance.",
+  "category": "business",
+  "website": "https://www.ownedandoperated.com",
+  "feedUrl": "https://feeds.buzzsprout.com/1679509.rss",
+  "imageUrl": "https://storage.buzzsprout.com/xtzavh6g3eax9o0x1wmk3ec65h3r?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/owned-and-operated-a-plumbing-electrical-and/id1560999545",
+  "spotifyUrl": "https://open.spotify.com/show/10mwKIq35xzVz5qHcju3Kb",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19804131",
+      "title": "What Is EBITDA? How to Value, Grow & Sell Your Home Service Business",
+      "publishedAt": "2026-09-15",
+      "summary": "John Wilson and Jack Carr explain EBITDA for home service operators and why it drives valuation, financing, and acquisitions. They compare it with net income and SDE and discuss what margin benchmarks buyers look for.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/1679509/episodes/19804131-what-is-ebitda-how-to-value-grow-sell-your-home-service-business.mp3",
+      "durationSec": 1533,
+      "episodeUrl": "https://www.buzzsprout.com/1679509/episodes/19804131",
+      "transcriptUrl": "https://www.buzzsprout.com/1679509/19804131/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19780475",
+      "title": "Why Roofing Is a Beautiful Business: Marketing, Sales & $20K Jobs",
+      "publishedAt": "2026-09-10",
+      "summary": "Nicholas Riley bought Driftwood Builders Roofing in Austin after looking at roughly 2,000 businesses. He explains roofing economics, marketing, and how to compete in a market with more than 1,000 local competitors.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/1679509/episodes/19780475-why-roofing-is-a-beautiful-business-marketing-sales-20k-jobs.mp3",
+      "durationSec": 3048,
+      "episodeUrl": "https://www.buzzsprout.com/1679509/episodes/19780475",
+      "transcriptUrl": "https://www.buzzsprout.com/1679509/19780475/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19769020",
+      "title": "Ismael Valdez: How I Built a $108M Home Service Company & What I'm Building Next",
+      "publishedAt": "2026-09-08",
+      "summary": "Ismael Valdez shares how he scaled NexGen to $108 million in six and a half years and what he's building next: an AI-driven HVAC and plumbing company aiming for 40%+ EBITDA margins with a minimal back office.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/1679509/episodes/19769020-ismael-valdez-how-i-built-a-108m-home-service-company-what-i-m-building-next.mp3",
+      "durationSec": 3441,
+      "episodeUrl": "https://www.buzzsprout.com/1679509/episodes/19769020",
+      "transcriptUrl": "https://www.buzzsprout.com/1679509/19769020/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19742450",
+      "title": "How We'd Turn $5M Into $10M in 12 Months",
+      "publishedAt": "2026-09-03",
+      "summary": "John and Jack lay out how they'd double a $5 million home service company in a year with $1 million of capital, covering marketing channels, sales hires, and adding capacity.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/1679509/episodes/19742450-how-we-d-turn-5m-into-10m-in-12-months.mp3",
+      "durationSec": 2494,
+      "episodeUrl": "https://www.buzzsprout.com/1679509/episodes/19742450",
+      "transcriptUrl": "https://www.buzzsprout.com/1679509/19742450/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19730989",
+      "title": "How We'd Start a Plumbing Company From $0 in 2026",
+      "publishedAt": "2026-09-01",
+      "summary": "The hosts walk through launching a plumbing company with almost no capital: a $30 LLC, a free Google Business Profile, subcontracting the first jobs, then adding a truck and a tech once leads are steady. They map the path to four trucks and $1 million in revenue.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/1679509/episodes/19730989-how-we-d-start-a-plumbing-company-from-0-in-2026.mp3",
+      "durationSec": 2844,
+      "episodeUrl": "https://www.buzzsprout.com/1679509/episodes/19730989",
+      "transcriptUrl": "https://www.buzzsprout.com/1679509/19730989/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19707140",
+      "title": "There Are Millions Hiding in Your Customer Database",
+      "publishedAt": "2026-08-27",
+      "summary": "John Wilson talks with Faraday founder Alex Coleman about mining an existing customer list for replacement opportunities, tracking installed equipment, and automating back-office work like permits and rebates.",
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/1679509/episodes/19707140-there-are-millions-hiding-in-your-customer-database.mp3",
+      "durationSec": 3574,
+      "episodeUrl": "https://www.buzzsprout.com/1679509/episodes/19707140",
+      "transcriptUrl": "https://www.buzzsprout.com/1679509/19707140/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-you-start-a-plumbing-business-with-no-money",
+      "question": "How do you start a plumbing business with no money?",
+      "metaDescription": "John Wilson and Jack Carr of Owned and Operated map out starting a plumbing company from $0: a $30 LLC, a free Google profile, subcontracted jobs, then a truck.",
+      "episodeGuid": "Buzzsprout-19730989",
+      "intro": "You can start a plumbing company with almost nothing if you get the first customers before you spend on a truck, tools, or ads. On Owned and Operated, hosts John Wilson and Jack Carr game out exactly how they'd do it in 2026: a $30 LLC, a free Google Business Profile with reviews, jobs sourced through referral partners and neighborhood posts, and subcontracting the actual work until there's enough demand to hire and finance a truck.",
+      "sections": [
+        {
+          "heading": "Spend $30 on the LLC and nothing on the truck",
+          "body": "The whole plan rests on one rule: don't put money to work until a customer has. The hosts start with the cheapest possible setup. Form an LLC (they peg it at about $30 in filing fees), get a VOIP phone number for around $50 to $100 a month, and set up a Google Business Profile, which costs nothing.\n\nThe truck comes later. Their view is that a shiny wrapped van on day one is how people burn through savings before the phone rings. When it's time, a cheap financed truck with a sticker on the side does the job just as well.\n\nThey do assume you have some plumbing background or access to plumbers who'll do the work. What you're building first is a source of jobs, not a workshop.",
+          "quote": {
+            "text": "Can you get the first job before you put a dollar to work?",
+            "speaker": "Owned and Operated (John Wilson and Jack Carr)",
+            "timestamp": "14:36"
+          }
+        },
+        {
+          "heading": "Google Business Profile plus 20 reviews before anything else",
+          "body": "The first real task is the Google Business Profile. It's free, it's how most homeowners find a plumber, and a brand-new profile with no reviews is invisible. The hosts' move is to ask everyone you've ever done work for, friends, family, past clients, to leave a review. Their target is 20 before you do anything else.\n\nThey're skeptical of buying leads from aggregators at this stage. The math doesn't work when you have no margin to spare. Instead they lean on free channels: posting in local Facebook groups and on Nextdoor, and being the person who answers the phone immediately.\n\nThe volume you need is smaller than people think. For a service plumber, one lead a day is enough to keep the business alive and moving.",
+          "quote": {
+            "text": "You just need a lead a day, especially if you're doing service.",
+            "speaker": "Owned and Operated (John Wilson and Jack Carr)",
+            "timestamp": "20:31"
+          }
+        },
+        {
+          "heading": "Partner with landscapers and garage door companies for referrals",
+          "body": "The most creative part of the plan is the referral network. The hosts suggest going to trades that are already in people's homes but don't do plumbing: landscapers, garage door companies, cleaners. You offer them a revenue share or a small fee for every plumbing job they send you. They estimate spending maybe $1,000 to $2,000 total on these relationships early on.\n\nThat gets you a steady drip of jobs without paid ads. And because those partners already have trust with the homeowner, the close rate is high.\n\nThe goal for the first two to three months is one or two jobs a day and roughly 100 customers. That's the base you'll market to forever.",
+          "quote": null
+        },
+        {
+          "heading": "Sub out the work and keep 20 percent",
+          "body": "In the first stretch you don't need your own techs. The hosts would subcontract every job to an existing plumber and keep a slice. Their rough math is that 80 percent of the revenue goes to the sub and you keep the rest. In months one to three that might mean $2,000 to $3,000 a month in revenue, which isn't much, but it's proof that the lead engine works.\n\nThe trigger to change the model is lead flow. Once you're consistently seeing five to ten leads a week, it's time to hire a technician and stop giving away 80 percent. That's also when the truck makes sense: a used vehicle for about $1,500 or a financed one at around $500 a month.\n\nThey also float a side path: watching Facebook Marketplace daily for retiring plumbers selling out, which can be a cheap way to pick up a customer list and equipment.",
+          "quote": {
+            "text": "If I'm hitting like five to ten leads a week consistently, I'd probably go hire.",
+            "speaker": "Owned and Operated (John Wilson and Jack Carr)",
+            "timestamp": "25:30"
+          }
+        },
+        {
+          "heading": "The benchmarks from one truck to a million dollars",
+          "body": "The back half of the episode lays out the growth math. A well-run service truck should do about $250,000 to $300,000 a year. When the first truck is near that number, add the second. Keep going, and the hosts estimate 16 to 18 months to reach four trucks and about $1 million in revenue.\n\nThey're honest that year one is not about profit. It's about survival and getting the systems, reviews, and referral partners in place. The money shows up in year two once trucks are full and you're no longer subbing out the work.",
+          "quote": {
+            "text": "Year one is just getting it alive, keeping the baby alive.",
+            "speaker": "Owned and Operated (John Wilson and Jack Carr)",
+            "timestamp": "47:15"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Start with a $30 LLC, a VOIP number, and a free Google Business Profile. Skip the truck until customers are paying.",
+        "Collect about 20 Google reviews from anyone you've worked for before spending on marketing.",
+        "Get early jobs through Facebook, Nextdoor, and revenue-share deals with landscapers and garage door companies.",
+        "Subcontract the first jobs and keep roughly 20 percent; hire your first tech once you see five to ten leads a week.",
+        "A service truck should do $250,000 to $300,000 a year; four trucks gets you near $1 million in 16 to 18 months."
+      ],
+      "faq": [
+        {
+          "q": "How much does it cost to start a plumbing business?",
+          "a": "Following the Owned and Operated plan, the hard costs are tiny: about $30 for the LLC, $50 to $100 a month for a phone line, and $1,000 to $2,000 for referral partnerships. They frame the plan around having up to $10,000 available, but most of it stays in reserve."
+        },
+        {
+          "q": "Do I need my own truck to start?",
+          "a": "Not at first. The hosts would subcontract jobs to existing plumbers and only add a used truck (around $1,500) or a financed one (about $500 a month) once leads are steady."
+        },
+        {
+          "q": "How long does it take to reach $1 million in revenue?",
+          "a": "Their estimate is 16 to 18 months, adding a truck each time the previous one approaches $250,000 to $300,000 in annual revenue."
+        }
+      ],
+      "sourceNote": "Based on the September 1, 2026 episode of Owned and Operated, \"How We'd Start a Plumbing Company From $0 in 2026,\" hosted by John Wilson and Jack Carr."
+    }
+  ]
+}

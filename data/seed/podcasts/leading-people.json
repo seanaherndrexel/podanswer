@@ -1,0 +1,152 @@
+{
+  "slug": "leading-people",
+  "title": "Leading People",
+  "author": "Gerry Murray",
+  "description": "Gerry Murray talks to leading people about leading people. Get insights and tips from thought leaders about how to bring out the best in yourself and others.",
+  "category": "careers",
+  "website": "http://www.gerrymurray.com",
+  "feedUrl": "https://feeds.buzzsprout.com/1496338.rss",
+  "imageUrl": "https://storage.buzzsprout.com/6t8xifw8ksdh6qbwmrno126f4xxz?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19755030",
+      "title": "Can AI Solve the Problems That Really Matter?",
+      "publishedAt": "2026-09-04",
+      "summary": "Chris Soderquist joins Gerry to ask whether AI is being pointed at the right problems. Through a systems-thinking lens, they look at how organisational challenges sit inside webs of relationships and feedback loops that technology alone can't fix.",
+      "audioUrl": "https://www.buzzsprout.com/1496338/episodes/19755030-can-ai-solve-the-problems-that-really-matter.mp3",
+      "durationSec": 3436,
+      "episodeUrl": "https://www.buzzsprout.com/1496338/19755030",
+      "transcriptUrl": "https://www.buzzsprout.com/1496338/19755030/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19681028",
+      "title": "Why Presence Matters Before Words",
+      "publishedAt": "2026-08-21",
+      "summary": "How leadership presence works before a word is spoken. Guests with theatre training discuss voice, body, breath, and intention as the foundations of communication and influence.",
+      "audioUrl": "https://www.buzzsprout.com/1496338/episodes/19681028-why-presence-matters-before-words.mp3",
+      "durationSec": 859,
+      "episodeUrl": "https://www.buzzsprout.com/1496338/19681028",
+      "transcriptUrl": "https://www.buzzsprout.com/1496338/19681028/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19606397",
+      "title": "What Happens When You Walk into a Room?",
+      "publishedAt": "2026-08-07",
+      "summary": "A look at how your internal beliefs and emotional state shape how others perceive you before you say anything, and why self-awareness is relational rather than private.",
+      "audioUrl": "https://www.buzzsprout.com/1496338/episodes/19606397-what-happens-when-you-walk-into-a-room.mp3",
+      "durationSec": 895,
+      "episodeUrl": "https://www.buzzsprout.com/1496338/19606397",
+      "transcriptUrl": "https://www.buzzsprout.com/1496338/19606397/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19468082",
+      "title": "Why Better Tools Still Need Better Thinking",
+      "publishedAt": "2026-07-24",
+      "summary": "Gerry reflects on why organisations that adopt faster processes and smarter tools keep running into the same problems, and why leadership judgment still matters more than the technology.",
+      "audioUrl": "https://www.buzzsprout.com/1496338/episodes/19468082-why-better-tools-still-need-better-thinking.mp3",
+      "durationSec": 694,
+      "episodeUrl": "https://www.buzzsprout.com/1496338/19468082",
+      "transcriptUrl": "https://www.buzzsprout.com/1496338/19468082/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19467963",
+      "title": "Could AI Be Screening Out the Talent You Need?",
+      "publishedAt": "2026-07-10",
+      "summary": "Investigative journalist Hilke Schellmann explains the risks of black-box AI in hiring, and how algorithmic screening can filter out qualified candidates before a human ever sees them.",
+      "audioUrl": "https://www.buzzsprout.com/1496338/episodes/19467963-could-ai-be-screening-out-the-talent-you-need.mp3",
+      "durationSec": 3819,
+      "episodeUrl": "https://www.buzzsprout.com/1496338/19467963",
+      "transcriptUrl": "https://www.buzzsprout.com/1496338/19467963/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19406690",
+      "title": "Why Most Training Fails Before It Even Begins",
+      "publishedAt": "2026-06-26",
+      "summary": "Learning expert Fergal Connolly tackles the gap between training and behaviour change. He argues the environment people return to, especially their manager, matters far more than the quality of the content.",
+      "audioUrl": "https://www.buzzsprout.com/1496338/episodes/19406690-why-most-training-fails-before-it-even-begins.mp3",
+      "durationSec": 3009,
+      "episodeUrl": "https://www.buzzsprout.com/1496338/19406690",
+      "transcriptUrl": "https://www.buzzsprout.com/1496338/19406690/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-does-employee-training-not-work",
+      "question": "Why does employee training not work?",
+      "metaDescription": "Learning expert Fergal Connolly on the Leading People podcast explains why training rarely changes behaviour, and the manager conversations before and after that fix it.",
+      "episodeGuid": "Buzzsprout-19406690",
+      "intro": "Because the training was never the problem. On the Leading People podcast, host Gerry Murray talks with learning and development specialist Fergal Connolly, who argues that most training fails for reasons that exist before anyone walks into the room: an undiagnosed environment, a manager who hasn't signalled it matters, and no plan for what happens afterwards. Fix those and even average content works. Ignore them and the best course in the world changes nothing.",
+      "sections": [
+        {
+          "heading": "The friction starts the moment people go back to work",
+          "body": "Fergal opens with an uncomfortable admission from inside his own profession: learning and development has very little hard evidence that what it delivers actually helps. Attendance and satisfaction scores get measured. Behaviour change mostly doesn't.\n\nHis explanation is simple. A session happens, people nod along, and then they return to a job that hasn't changed. The processes are the same, the tools are the same, the pressures are the same, and the new behaviour has to fight all of that. Most of the time it loses. That's the training transfer gap, and he says it's an environment problem, not a content problem.",
+          "quote": {
+            "text": "We deliver a session, but then people go back to their jobs and there's friction.",
+            "speaker": "Fergal Connolly",
+            "timestamp": "4:52"
+          }
+        },
+        {
+          "heading": "Diagnose before you prescribe",
+          "body": "The first thing Fergal wants leaders to do is ask whether training is even the right response. A lot of requests for training are really symptoms of something else: a broken process, unclear priorities, a tool that doesn't work, a team that doesn't feel safe raising problems. Sending people on a course to fix a systemic issue just burns time and credibility.\n\nHe suggests doing an environmental assessment before commissioning anything. What's actually stopping people from doing the desired behaviour today? If the answer is a skill gap, train. If the answer is anything else, training will bounce off. He's blunt that you can throw courses at an undiagnosed problem all day and never get anywhere.",
+          "quote": {
+            "text": "If the environment hasn't been diagnosed, hasn't been understood, we can throw training at that problem all day long and never get anywhere.",
+            "speaker": "Fergal Connolly",
+            "timestamp": "28:13"
+          }
+        },
+        {
+          "heading": "The five-minute conversation before training",
+          "body": "The single highest-leverage action Fergal describes costs a manager about five minutes. Before someone attends training, their manager sits down with them and explains how it connects to the business, what outcome they're hoping for, and what they'd like to see the person do differently afterwards.\n\nHis reasoning is that the manager is the gateway to almost everything an employee experiences at work. If the manager says this is important, the employee shows up present and engaged. If the manager says nothing, or worse, treats the training as a day off, the employee treats it the same way. He also recommends tying the training to something the team already cares about, like a quarterly target or a specific KPI, rather than presenting it as a standalone event.",
+          "quote": {
+            "text": "If your manager says that this is important, then you know that it's important.",
+            "speaker": "Fergal Connolly",
+            "timestamp": "19:45"
+          }
+        },
+        {
+          "heading": "What happens after the course decides everything",
+          "body": "After training, Fergal's prescription is equally practical. The employee leaves with a visible action plan: two or three specific things they'll do differently, agreed with the manager. The manager then checks in, using coaching questions about what's been tried, what got in the way, and what support would help.\n\nHe pushes back on the idea that this is extra work. Meeting your team and checking in on what they're applying is just ordinary good management. What's unusual is deliberately connecting that habit to training so the new behaviour gets reinforced while it's still fragile. Without that follow-up, whatever was learned decays within weeks.",
+          "quote": {
+            "text": "The environment around the employee holds so much more influence on what people do differently than the training alone.",
+            "speaker": "Fergal Connolly",
+            "timestamp": "20:57"
+          }
+        },
+        {
+          "heading": "Stop measuring attendance, start measuring behaviour",
+          "body": "Fergal's closing argument is about what organisations choose to count. As long as training success means bums on seats and a happy-sheet score, nobody has to confront whether behaviour changed. He wants L&D and leaders to track what people do differently and link it to business outcomes.\n\nHe also warns against the temptation to solve the problem with faster, slicker content. Better videos and shorter modules don't address why the last course didn't stick. His image is a seed: you can keep buying better seeds, but if you never look at the soil, the water, and the light around it, nothing grows.",
+          "quote": {
+            "text": "Your manager really is the gateway between you and a lot of different things happening.",
+            "speaker": "Fergal Connolly",
+            "timestamp": "18:23"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Training fails because of the environment people return to, not the quality of the content.",
+        "Diagnose whether the problem is a skill gap or a systemic issue before commissioning any training.",
+        "Managers should hold a five-minute pre-training conversation explaining the business reason and what should change.",
+        "After training, agree a visible action plan and follow up with coaching questions while the behaviour is still new.",
+        "Measure behaviour change tied to business outcomes, not attendance and satisfaction scores."
+      ],
+      "faq": [
+        {
+          "q": "What should a manager say to an employee before training?",
+          "a": "Fergal suggests a short conversation covering why the training matters to the business, the outcome you're hoping for, and what you'd like them to do differently afterwards."
+        },
+        {
+          "q": "How do you make training stick?",
+          "a": "Set a specific action plan at the end, have the manager check in on what's been applied, and make sure processes and tools at work don't fight the new behaviour."
+        },
+        {
+          "q": "Is shorter, better-designed training the answer?",
+          "a": "Not by itself. Fergal says faster content doesn't fix an environment problem, and the environment is what determines whether people change what they do."
+        }
+      ],
+      "sourceNote": "Based on the episode \"Why Most Training Fails Before It Even Begins\" with Fergal Connolly, released June 26, 2026 on Leading People, hosted by Gerry Murray."
+    }
+  ]
+}

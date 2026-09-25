@@ -1,0 +1,140 @@
+{
+  "slug": "divorce-at-altitude",
+  "title": "Divorce at Altitude: A Podcast on Colorado Family Law",
+  "author": "Ryan Kalamaya & Amy Goscha",
+  "description": "Award-winning Colorado family law attorneys provide an approachable, insider view to divorce, parenting, relationships, and breakups with expert guests and practical guidance.",
+  "category": "law",
+  "website": "https://divorceataltitude.buzzsprout.com",
+  "feedUrl": "https://feeds.buzzsprout.com/1670362.rss",
+  "imageUrl": "https://storage.buzzsprout.com/5hko3u9z0as4k22k15w5qyg9drhs?.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19735947",
+      "title": "How Colorado's LLP Program Is Creating a New Path to Affordable Legal Support | Episode 245",
+      "publishedAt": "2026-09-03",
+      "summary": "Licensed Legal Paraprofessional Megan Flanagan explains how LLPs fill the gap for family law clients who can't afford a traditional attorney, what LLPs can now do in court, and how the program is evolving.",
+      "audioUrl": "https://www.buzzsprout.com/1670362/episodes/19735947-how-colorado-s-llp-program-is-creating-a-new-path-to-affordable-legal-support-episode-245.mp3",
+      "durationSec": 1687,
+      "episodeUrl": "https://www.buzzsprout.com/1670362/19735947",
+      "transcriptUrl": "https://www.buzzsprout.com/1670362/19735947/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19318699",
+      "title": "What Social Science Reveals About Relocation Outcomes | Episode 244",
+      "publishedAt": "2026-06-12",
+      "summary": "Psychologist Dr. Kate McNamara walks through Colorado's parental relocation law and what the research says about how children adjust, including social capital, age-specific risks and gatekeeping behavior.",
+      "audioUrl": "https://www.buzzsprout.com/1670362/episodes/19318699-what-social-science-reveals-about-relocation-outcomes-episode-244.mp3",
+      "durationSec": 4361,
+      "episodeUrl": "https://www.buzzsprout.com/1670362/19318699",
+      "transcriptUrl": "https://www.buzzsprout.com/1670362/19318699/transcript"
+    },
+    {
+      "guid": "Buzzsprout-19215740",
+      "title": "Divorce, But Smarter: There's Onward.life for That | Episode 243",
+      "publishedAt": "2026-05-28",
+      "summary": "The founders of Onward.life describe a platform that combines financial, legal and emotional support for people going through divorce.",
+      "audioUrl": "https://www.buzzsprout.com/1670362/episodes/19215740-divorce-but-smarter-there-s-onward-life-for-that-episode-243.mp3",
+      "durationSec": 2763,
+      "episodeUrl": "https://www.buzzsprout.com/1670362/19215740",
+      "transcriptUrl": "https://www.buzzsprout.com/1670362/19215740/transcript"
+    },
+    {
+      "guid": "Buzzsprout-18583032",
+      "title": "Cold Wallets & Hot Secrets: Crypto, Privacy, and Asset Hiding in Divorce | Episode 242",
+      "publishedAt": "2026-02-20",
+      "summary": "Attorney Jonathan Steele explains how cryptocurrency shows up in divorce, why blockchain isn't as anonymous as people think, and how hidden digital assets get uncovered.",
+      "audioUrl": "https://www.buzzsprout.com/1670362/episodes/18583032-cold-wallets-hot-secrets-crypto-privacy-and-asset-hiding-in-divorce-episode-242.mp3",
+      "durationSec": 1745,
+      "episodeUrl": "https://www.buzzsprout.com/1670362/18583032",
+      "transcriptUrl": "https://www.buzzsprout.com/1670362/18583032/transcript"
+    },
+    {
+      "guid": "Buzzsprout-18551440",
+      "title": "Forensic Accounting in Colorado Divorce: Finding Hidden Income and Assets with Doug Cash | Episode 241",
+      "publishedAt": "2026-02-12",
+      "summary": "Forensic accountant Doug Cash of Eide Bailly explains how source documents uncover hidden income and assets in divorce, how forensic accounting differs from business valuation, and why getting an expert involved early matters.",
+      "audioUrl": "https://www.buzzsprout.com/1670362/episodes/18551440-forensic-accounting-in-colorado-divorce-finding-hidden-income-and-assets-with-doug-chambers-episode-241.mp3",
+      "durationSec": 2264,
+      "episodeUrl": "https://www.buzzsprout.com/1670362/18551440",
+      "transcriptUrl": "https://www.buzzsprout.com/1670362/18551440/transcript"
+    },
+    {
+      "guid": "Buzzsprout-18551339",
+      "title": "Discretionary Trusts in a Divorce with Mackenzie Ralstin | Episode 240",
+      "publishedAt": "2026-02-02",
+      "summary": "Attorney Mackenzie Ralstin clarifies which trusts are protected in a Colorado divorce, covering revocable versus irrevocable structures and the cases that decide when a trust interest becomes divisible property.",
+      "audioUrl": "https://www.buzzsprout.com/1670362/episodes/18551339-discretionary-trusts-in-a-divorce-with-mackenzie-ralstin-episode-240.mp3",
+      "durationSec": 1981,
+      "episodeUrl": "https://www.buzzsprout.com/1670362/18551339",
+      "transcriptUrl": "https://www.buzzsprout.com/1670362/18551339/transcript"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-you-find-hidden-assets-in-a-divorce",
+      "question": "How do you find hidden assets in a divorce?",
+      "metaDescription": "Forensic accountant Doug Cash tells Divorce at Altitude how bank statements, credit reports and loan applications expose hidden income and assets in divorce.",
+      "episodeGuid": "Buzzsprout-18551440",
+      "intro": "You find hidden assets in a divorce by going to the source documents: full bank and credit card statements, credit reports, loan applications and business records, not the tax return your spouse hands you. On Divorce at Altitude, Colorado family law attorney Amy Goscha talks with forensic accountant Doug Cash of Eide Bailly, a former fraud detective, about how the money actually gets traced. His core message is that people lie and documents don't, and that the earlier you bring in a forensic accountant, the more leverage you have.",
+      "sections": [
+        {
+          "heading": "Why the tax return is the wrong place to start",
+          "body": "Most people going through a divorce assume the tax return tells the story. Doug's point is that a tax return is built to show the lowest defensible income, because that's what a tax accountant is paid to do. Taxable income and actual income are two different numbers, especially for anyone who owns a business or gets paid in cash.\n\nInstead, he wants the raw material underneath: every bank statement, every credit card statement, the accountant's working papers, business invoices and accounts payable. Those are what he calls source documents. A tax return is a summary someone prepared. A bank statement is a record the bank prepared. Only one of those can be shaped to fit a narrative.",
+          "quote": {
+            "text": "People lie, documents don't. Source documents are always best because they can't be altered.",
+            "speaker": "Doug Cash",
+            "timestamp": "15:19"
+          }
+        },
+        {
+          "heading": "The $35 charge that exposed a storage unit",
+          "body": "Hidden assets rarely announce themselves. Doug describes a case where a single $35 credit card transaction to a storage company in California turned out to be a climate-controlled unit where the husband had been stashing expensive collectible memorabilia, all bought with cash so it never appeared in any account.\n\nThat's the pattern he looks for: small, boring charges to unfamiliar vendors. A storage fee. An insurance premium for something you don't own. A one-time payment to a dealership. Wealthy people also get creative with how they pay, sometimes putting property or vehicles on a credit card specifically so there's no loan or title trail to follow.\n\nThe practical method is unglamorous. His team categorizes and summarizes every bank statement line by line, showing how much came in, where it went, and which vendors don't fit the family's normal spending. Suspicious names pop out of the summary in a way they never would from flipping through statements.",
+          "quote": {
+            "text": "A single credit inquiry on a credit report might reveal a car dealership or property purchase paid in cash.",
+            "speaker": "Doug Cash",
+            "timestamp": "17:27"
+          }
+        },
+        {
+          "heading": "Credit reports and loan applications tell on people",
+          "body": "Two documents Doug says people forget to request are credit reports from all three bureaus and any loan applications the other spouse has filed.\n\nA credit report shows inquiries. If your spouse applied for financing at a car dealership or a mortgage lender and there's no matching loan on the books, that's a strong signal a purchase happened another way. Loan applications are even better. When someone wants a bank to say yes, they list every asset they have and inflate their income. That's the opposite incentive from a divorce financial disclosure, where the goal is to look as poor as possible. Comparing the two often does the work for you.\n\nFor business owners, he goes further: verifying actual distributions and cash withdrawals by reconciling bank statements against invoices and accounts payable, rather than trusting the profit and loss statement.",
+          "quote": null
+        },
+        {
+          "heading": "Forensic accountant or business valuation expert?",
+          "body": "People confuse the two, and they do very different jobs. A business valuation expert takes the financial statements more or less at face value and produces an opinion about what the business is worth. Different valuators regularly disagree with each other. A forensic accountant rebuilds the finances from the bottom up using source documents and produces facts: this much cash came in, this much went to that vendor, this account exists.\n\nIn Doug's experience, forensic findings tend to hold up on their own in court because they're not opinions. If you suspect the numbers feeding the valuation are wrong, the forensic work has to come first.",
+          "quote": null
+        },
+        {
+          "heading": "What it costs and when to call one",
+          "body": "A full forensic engagement is expensive, and Doug is upfront about that. But it's not all or nothing. The lower-cost entry point is statement categorization, where technology lets his team process roughly a thousand transactions in five minutes instead of a hundred an hour by hand. Scopes can be narrowed too, for example to the last 18 months rather than a full seven years. Initial consultations are typically free.\n\nThe timing advice is the part most people get wrong. Call a forensic accountant early, before sworn financial statements are prepared, especially if your spouse controls a business or you genuinely don't know where the money goes. Early involvement lets the accountant help shape discovery requests so the right documents get demanded from the start, instead of trying to fix a bad disclosure months later.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Request source documents: full bank and credit card statements, tax working papers, business invoices and accounts payable, not just the tax return.",
+        "Pull credit reports from all three bureaus and any loan applications; unexplained inquiries and inflated loan-application assets expose hidden purchases.",
+        "Scan for small, odd charges to unfamiliar vendors like storage units, insurance premiums or dealerships.",
+        "A forensic accountant produces facts from source documents; a business valuation expert produces an opinion from financial statements.",
+        "Get the forensic accountant involved before sworn financial disclosures so they can help shape discovery, and ask about a narrowed, lower-cost scope."
+      ],
+      "faq": [
+        {
+          "q": "How much does a forensic accountant cost in a divorce?",
+          "a": "A full engagement can be expensive, but Doug Cash explains that categorizing and summarizing statements is a much cheaper starting point, scopes can be limited to recent years, and initial consultations are usually free."
+        },
+        {
+          "q": "What are the biggest red flags that a spouse is hiding money?",
+          "a": "A lifestyle that doesn't match reported income, cash deposits followed by quick withdrawals, credit inquiries with no matching loan, and one-off payments to vendors you don't recognize."
+        },
+        {
+          "q": "Can a forensic accountant find hidden cash?",
+          "a": "Often yes, indirectly. Cash purchases still leave traces like storage fees, insurance policies, credit inquiries or vendor payments, and comparing bank inflows against reported income shows where cash is disappearing."
+        }
+      ],
+      "sourceNote": "Based on Episode 241, \"Forensic Accounting in Colorado Divorce: Finding Hidden Income and Assets,\" released February 12, 2026 on Divorce at Altitude, hosted by Colorado attorneys Ryan Kalamaya and Amy Goscha."
+    }
+  ]
+}

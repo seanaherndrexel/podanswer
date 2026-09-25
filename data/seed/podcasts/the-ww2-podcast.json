@@ -1,0 +1,135 @@
+{
+  "slug": "the-ww2-podcast",
+  "title": "The WW2 Podcast",
+  "author": "Angus Wallace",
+  "description": "A military history podcast that looks at all aspects of WWII. With WW2 slipping from living memory, Angus Wallace aims to look at different historical aspects of the Second World War.",
+  "category": "history",
+  "website": "https://ww2podcast.com/",
+  "feedUrl": "https://ww2podcast.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/4/b/3/6/4b36af20684363b1/WW2_LOGO-2019.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-ww2-podcast/id982003188",
+  "spotifyUrl": "https://open.spotify.com/show/0mResZkn1AW1rPYgWgH7th",
+  "episodes": [
+    {
+      "guid": "34212885-f87c-400f-8ee6-e70fedbcd3ba",
+      "title": "320 - Patton Reconsidered",
+      "publishedAt": "2026-09-15",
+      "summary": "Angus asks whether George S. Patton's reputation as a battlefield genius is deserved or whether the legend has outgrown the record. Guest James Ellman, author of Patton Reconsidered, weighs the evidence.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/ww2podcast/320a_-_Paton_Reconsidered.mp3?dest-id=260446",
+      "durationSec": 4461,
+      "episodeUrl": "https://ww2podcast.com/ww2-podcast/320-patton-reconsidered/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "cc093dd4-f492-4af9-be82-04255be14713",
+      "title": "319 - The Alexandra Hospital Massacre: The Fall of Singapore",
+      "publishedAt": "2026-09-07",
+      "summary": "In February 1942, Japanese troops entered Alexandra Hospital in Singapore and killed patients and medical staff despite the Red Cross markings. Stuart Lloyd, author of A Bleeding Slaughterhouse, explains what happened and how investigators later tried to establish responsibility.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/ww2podcast/319a_-_The_Alexandra_Hospital_Massacre.mp3?dest-id=260446",
+      "durationSec": 3920,
+      "episodeUrl": "https://ww2podcast.com/ww2-podcast/319-the-alexandra-hospital-massacre-the-fall-of-singapore/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "5795a2b4-f76a-40e5-9f45-270ab15cc8d6",
+      "title": "318 - Transport Pilots of WWII",
+      "publishedAt": "2026-09-01",
+      "summary": "The C-47 Dakota carried paratroopers, towed gliders and flew supplies to surrounded troops, but its crews are often overshadowed by fighter aces and bomber crews. Scott McGaugh, author of Into the Firestorm, tells the story of the transport pilots who flew unarmed, low and in formation under fire.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/ww2podcast/318a_-_Transport_Pilots.mp3?dest-id=260446",
+      "durationSec": 2222,
+      "episodeUrl": "https://ww2podcast.com/ww2-podcast/318-transport-pilots/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ee8d79fd-e012-46c4-a245-e16ba5ed65bf",
+      "title": "317 - Generalship on the Eastern Front",
+      "publishedAt": "2026-08-24",
+      "summary": "Robert Forczyk looks beyond Zhukov and Manstein to ask what made an effective commander on the Eastern Front, comparing German and Soviet approaches to leadership across the campaign.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/ww2podcast/317a_-_Generalship_on_the_Eastern_Front.mp3?dest-id=260446",
+      "durationSec": 3091,
+      "episodeUrl": "https://ww2podcast.libsyn.com/317-generalship-on-the-eastern-front",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "46522f8e-17be-4be9-9bd2-f48868572210",
+      "title": "316 - The Tank",
+      "publishedAt": "2026-08-15",
+      "summary": "Former tank commander Hamish de Bretton Gordon traces the tank from its First World War debut to its role as the defining weapon of WWII, and how those lessons shaped post-war designs like the Chieftain.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/ww2podcast/316a_-_The_Tank.mp3?dest-id=260446",
+      "durationSec": 2193,
+      "episodeUrl": "https://ww2podcast.libsyn.com/316-the-tank",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "8261f59e-c025-4ebf-8052-fc8139932503",
+      "title": "315 - The Thin Khaki Line",
+      "publishedAt": "2026-08-01",
+      "summary": "Brian Walter challenges the picture of the British Army as overstretched and ineffective, arguing it grew from a small post-1918 force into a formidable global army fighting across multiple theatres.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/ww2podcast/315a_-_The_Thin_Khaki_Line.mp3?dest-id=260446",
+      "durationSec": 4343,
+      "episodeUrl": "https://ww2podcast.libsyn.com/315-the-thin-khaki-line",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-was-the-c-47-so-important-in-ww2",
+      "question": "Why was the C-47 so important in WW2?",
+      "metaDescription": "The C-47 Dakota dropped paratroopers, towed gliders and supplied trapped troops. Angus Wallace and author Scott McGaugh explain on The WW2 Podcast.",
+      "episodeGuid": "5795a2b4-f76a-40e5-9f45-270ab15cc8d6",
+      "intro": "Because almost every major Allied operation depended on it. The C-47 Dakota, called the Skytrain in American service, carried paratroopers into battle, towed gliders full of men and equipment, and flew supplies to troops who were cut off. On The WW2 Podcast, host Angus Wallace talks with Scott McGaugh, author of Into the Firestorm, about the transport crews who flew these missions and why their kind of courage gets overlooked.",
+      "sections": [
+        {
+          "heading": "A converted airliner that did everything",
+          "body": "The C-47 started life as the Douglas DC-3, a civilian airliner from the 1930s. The military version was rugged, simple to maintain and could operate from rough airstrips, which made it useful almost anywhere. Angus opens the episode by calling it one of the most important aircraft of the Second World War, and the list of jobs it did backs that up.\n\nAccording to the episode, C-47s carried paratroopers into battle, towed gliders packed with men and equipment, flew vital supplies to surrounded troops, and crossed some of the most inhospitable terrain on Earth. That last point refers to the Hump route over the Himalayas, where transport crews kept China supplied after the Burma Road was cut. The same basic aircraft was over Normandy on D-Day, over Arnhem during Market Garden, and over Bastogne during the Battle of the Bulge.",
+          "quote": {
+            "text": "It carried paratroopers into battle, towed gliders packed with men and equipment, flew vital supplies to surrounded troops, and crossed some of the most inhospitable terrain on Earth.",
+            "speaker": "Angus Wallace (episode notes)",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Unarmed, low and told not to dodge",
+          "body": "Fighter pilots and bomber crews get most of the attention, and Angus makes the point that transport crews needed a different kind of courage. A C-47 carried no guns. On a drop mission it flew low, slowly and in tight formation, because the paratroopers or glider troops behind it needed to land together in the right place.\n\nThat meant the one thing a pilot instinctively wants to do under fire, jink and climb away, was exactly what he was told not to do. The episode notes spell it out: crews were expected to stay on course, arrive on time and hold formation even when flak and small arms fire were coming up through the floor. A pilot who broke formation to save his own aircraft could scatter a whole stick of paratroopers across the wrong fields.",
+          "quote": {
+            "text": "Flying unarmed, often at low level and in tight formation, they were expected to stay on course, arrive on time and, even under heavy fire, resist the instinct to take evasive action.",
+            "speaker": "Angus Wallace (episode notes)",
+            "timestamp": null
+          }
+        },
+        {
+          "heading": "Normandy, Arnhem, Bastogne and the Himalayas",
+          "body": "The episode ranges across the theatres where transport crews made the difference. On the night before D-Day, C-47s dropped the American airborne divisions behind Utah Beach. At Arnhem in September 1944, they flew resupply runs into a shrinking perimeter. At Bastogne in December 1944, they dropped ammunition and medical supplies to the surrounded 101st Airborne. And over the Himalayas, they flew the cargo route that kept Allied forces in China in the war.\n\nEach of those jobs had its own risks. A night drop meant navigating by dead reckoning through cloud and flak. A daylight resupply run meant flying straight and level over enemy guns at a few hundred feet. A Hump flight meant weather, ice and mountains higher than the aircraft's comfortable ceiling, with no enemy required to bring a plane down.\n\nAngus and McGaugh treat these as a single story of crews doing unglamorous, essential work. As the episode notes put it, whether over Normandy, Arnhem, Bastogne or the Himalayas, they played a vital role in Allied victory.",
+          "quote": null
+        },
+        {
+          "heading": "Where the crews' story has been kept",
+          "body": "McGaugh's book, Into the Firestorm: The Allied Heroes Who Flew World War II's Most Daring Missions, is built around the people who flew these aircraft rather than the machines themselves. The conversation with Angus follows that approach, using individual crews and missions to explain what transport flying actually involved and what it cost.\n\nIf you've ever wondered why a twin engine cargo plane appears in nearly every account of the war in Europe and Asia, this episode is a good place to start. It's a 37 minute conversation, and it makes a clear case that the C-47 and its crews belong in the same sentence as the Spitfire and the B-17 when people talk about the aircraft that won the war.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "The C-47 Dakota (Skytrain in US service) carried paratroopers, towed gliders and delivered supplies to surrounded troops.",
+        "Transport crews flew unarmed, low and in tight formation, and were ordered not to take evasive action under fire.",
+        "The same aircraft served over Normandy, Arnhem, Bastogne and the Himalayan Hump route.",
+        "Fighter aces and bomber crews get the attention, but transport pilots' work was essential to every airborne operation.",
+        "Scott McGaugh's book Into the Firestorm tells the crews' stories, and the episode follows the same approach."
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between a C-47 and a DC-3?",
+          "a": "The DC-3 was the civilian airliner; the C-47 was the military cargo version with a reinforced floor, large cargo door and other changes. The British and Commonwealth air forces called it the Dakota, while the US Army Air Forces called it the Skytrain."
+        },
+        {
+          "q": "Did C-47s have any guns?",
+          "a": "No. As the episode explains, transport crews flew unarmed, which is one reason their job demanded a different kind of courage from fighter or bomber crews."
+        },
+        {
+          "q": "What was the Hump?",
+          "a": "The Hump was the air supply route over the Himalayas from India into China, flown after Japanese forces cut the Burma Road. It was one of the most dangerous regular flying routes of the war and is the terrain the episode refers to as some of the most inhospitable on Earth."
+        }
+      ],
+      "sourceNote": "Based on The WW2 Podcast episode 318, 'Transport Pilots of WWII,' with guest Scott McGaugh, released September 1, 2026. Credit to host Angus Wallace and The WW2 Podcast."
+    }
+  ]
+}

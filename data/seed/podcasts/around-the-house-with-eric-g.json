@@ -1,0 +1,143 @@
+{
+  "slug": "around-the-house-with-eric-g",
+  "title": "Around the House with Eric G: Upgrade Your Home Like a Pro",
+  "author": "Eric Goranson",
+  "description": "Home improvement podcast hosted by certified kitchen designer Eric Goranson, drawing on more than 35 years in the industry. Covers renovations, DIY repairs, contractor hiring, smart home technology and building materials with practical, actionable advice.",
+  "category": "home",
+  "website": "http://www.aroundthehouseonline.com",
+  "feedUrl": "https://feeds.captivate.fm/around-the-house-with-e/",
+  "imageUrl": "https://artwork.captivate.fm/c3db8e98-ed79-4226-8933-afd1cd5f6e47/Small-Podcast-Cover-art.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/around-the-house-with-eric-g-upgrade-your-home-like-a-pro/id869377733",
+  "spotifyUrl": "https://open.spotify.com/show/04DA818CYTA6rUsx5usxNW",
+  "episodes": [
+    {
+      "guid": "b3afbde1-2aad-4ff1-834a-4038b39a12bc",
+      "title": "I renamed our midweek show The Punch List — here's why the housing market isn't 2008 (but sellers, brace yourselves)",
+      "publishedAt": "2026-09-16",
+      "summary": "Eric runs through the housing market numbers: 1.62 million homes in inventory, 30-year rates near 6.76 percent and 59.5 percent of homes selling below list. Plus product recalls and event news.",
+      "audioUrl": "https://episodes.captivate.fm/episode/b3afbde1-2aad-4ff1-834a-4038b39a12bc.mp3",
+      "durationSec": 752,
+      "episodeUrl": "https://aroundthehouseonline.com/media/i-renamed-our-midweek-show-the-punch-list-heres-why-the-housing-market-isnt-2008-but-sellers-brace-yourselves",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "00ea2587-8f73-411f-8e23-d9b5b1d9d10b",
+      "title": "Stop recording crimes — we want people to show up: the simple missing link in home security",
+      "publishedAt": "2026-09-10",
+      "summary": "Eric talks with Aura's Brandon Smith about why cameras alone don't stop crime and how verified guard response closes the gap between an alert and someone actually showing up.",
+      "audioUrl": "https://episodes.captivate.fm/episode/00ea2587-8f73-411f-8e23-d9b5b1d9d10b.mp3",
+      "durationSec": 2520,
+      "episodeUrl": "https://aroundthehouseonline.com/media/stop-recording-crimes-we-want-people-to-show-up-the-simple-missing-link-in-home-security",
+      "transcriptUrl": "https://transcripts.captivate.fm/transcript/d64ae07b-b484-4042-8a82-f58c9cfaf173/index.html"
+    },
+    {
+      "guid": "87681647-447a-4fe6-aed2-434b2348b694",
+      "title": "The Science of Building: Insights from Emily Mottram",
+      "publishedAt": "2026-09-10",
+      "summary": "Building science with Emily Mottram: the four control layers (air, water, vapor, thermal), why sequencing and flashing matter, and climate-specific resilience including wildfire preparation.",
+      "audioUrl": "https://episodes.captivate.fm/episode/87681647-447a-4fe6-aed2-434b2348b694.mp3",
+      "durationSec": 3223,
+      "episodeUrl": "https://aroundthehouseonline.com/media/the-science-of-building-insights-from-emily-mottram",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "7d4d7ced-66b9-4d0c-89ad-28334e3c582b",
+      "title": "Catchin' Fish and Droppin' Prices: Eric G's Real Estate Rundown",
+      "publishedAt": "2026-09-08",
+      "summary": "A market update on $50K-plus price drops, builder incentives like rate buy-downs, and how buyers can take advantage of a softer market.",
+      "audioUrl": "https://episodes.captivate.fm/episode/7d4d7ced-66b9-4d0c-89ad-28334e3c582b.mp3",
+      "durationSec": 773,
+      "episodeUrl": "https://aroundthehouseonline.com/media/catchin-fish-and-droppin-prices-eric-gs-real-estate-rundown",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "897bd906-4926-4452-8c35-641541e5234d",
+      "title": "Labor Day Highlights: Celebrating American Craftsmanship!",
+      "publishedAt": "2026-09-03",
+      "summary": "Profiles of American manufacturers Ardex and Evolve Stone, covering tile installation systems, moisture management, lightweight artificial stone and why contractor training matters.",
+      "audioUrl": "https://episodes.captivate.fm/episode/897bd906-4926-4452-8c35-641541e5234d.mp3",
+      "durationSec": 2386,
+      "episodeUrl": "https://aroundthehouseonline.com/media/labor-day-highlights-celebrating-american-craftsmanship",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "f612a96a-4f14-45bb-8fa4-cfee686872d8",
+      "title": "From Timber to Triumph: Treadline's Secrets to Perfect Hardwood Floors!",
+      "publishedAt": "2026-09-03",
+      "summary": "Eric sits down with Titus and Kelly of Treadline Hardwood to talk refinishing: why sanding goes wrong for DIYers, how Swedish, water-based and penetrating oil finishes compare, and how wood species react to sunlight.",
+      "audioUrl": "https://episodes.captivate.fm/episode/f612a96a-4f14-45bb-8fa4-cfee686872d8.mp3",
+      "durationSec": 2386,
+      "episodeUrl": "https://aroundthehouseonline.com/media/from-timber-to-triumph-treadlines-secrets-to-perfect-hardwood-floors",
+      "transcriptUrl": "https://transcripts.captivate.fm/transcript/0a7e7f38-e609-4e18-ad04-903592fb6bf5/index.html"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "can-you-refinish-hardwood-floors-yourself",
+      "question": "Can you refinish hardwood floors yourself?",
+      "metaDescription": "Eric Goranson and Treadline Hardwood on Around the House: why DIY floor sanding goes wrong and how to choose Swedish, water-based or oil finishes.",
+      "episodeGuid": "f612a96a-4f14-45bb-8fa4-cfee686872d8",
+      "intro": "You can rent the sander, but the pros say that's the easy part. On Around the House with Eric G, host Eric Goranson and his guests Titus and Kelly from Treadline Hardwood explain that the edges, the handwork and the choice of finish are where DIY floor jobs go wrong. Their advice: hire it out for a full refinish, and if you do it yourself, understand the finish you're choosing before you start.",
+      "sections": [
+        {
+          "heading": "The rental sander isn't the hard part",
+          "body": "Eric opens the episode with his own DIY horror stories, and the Treadline crew back him up. Anyone can pick up a drum sander at the home center and drag it across a living room. The trouble starts at the edges, in the corners and around cabinets, where the big machine can't reach and the handwork begins.\n\nThat detail work is what separates a professional job from a floor with visible waves and dips. Sanding is more technical than it looks, and once you've cut too deep in one spot, you can't put the wood back.\n\nThe existing finish can also fight you. Old wax floors need chemicals to strip and will clog your sandpaper. Factory finishes with aluminum oxide are literally made of abrasive, so as the pros put it, you end up sanding sandpaper with sandpaper. Knowing what's on the floor before you touch it is step one.",
+          "quote": {
+            "text": "People don't realize how much technicality is required to sand a floor properly. And it can get out of hand very quickly.",
+            "speaker": "Treadline Hardwood guest",
+            "timestamp": "2:37"
+          }
+        },
+        {
+          "heading": "Swedish, water-based or penetrating oil",
+          "body": "The finish decides how the floor looks and how long it lasts, and the episode gives concrete numbers for each.\n\n- **Water-based finish.** Dries fast with low odor and a lighter, more neutral look, though the pros describe it as a bit plasticky. Expect a typical refinish cycle of five to seven years.\n- **Swedish finish (acid-cured).** The most durable film finish, with a richer, deeper, oil-type look. Expect 10 to 20 years before a refinish. The trade-off is strong fumes, so plan on being out of the house for about two nights while it cures.\n- **Penetrating oil.** Instead of a film on top, the oil seeps into the pores of the wood and hardens there. It gives a natural look, hides scratches better, and is the most DIY-friendly of the three to touch up.\n\nIf you have dogs and kids, the Treadline pros steer most people toward Swedish finish because durability wins.",
+          "quote": {
+            "text": "Water based finish, a typical refinish is going to be somewhere in the five to seven year mark. A Swedish finish you're typically going to get somewhere between 10 and 20 years.",
+            "speaker": "Treadline Hardwood guest",
+            "timestamp": "25:32"
+          }
+        },
+        {
+          "heading": "Sunlight changes the color of your floor",
+          "body": "One thing homeowners rarely plan for is UV. Every wood species is photosensitive to some degree. Brazilian cherry is the extreme case, shifting from pale red to deep blood red within about six months. Black walnut and maple also take a beating in rooms with big windows.\n\nThe practical fixes discussed on the show are UV-filtering window film to slow the change and choosing a stain color, which acts a bit like sunscreen for the wood. If you're set on a species that shifts a lot, at least know it going in so the rug outline doesn't surprise you in a year.\n\nThe guests also flag one safety point: if you pull up old flooring and find black tar mastic underneath, get it tested for asbestos before anyone sands or scrapes it. That's professional abatement territory, not a weekend project.",
+          "quote": {
+            "text": "UV filters slow down that process. You can utilize a stain color, which will also act as like a sunscreen for your wood.",
+            "speaker": "Treadline Hardwood guest",
+            "timestamp": "14:43"
+          }
+        },
+        {
+          "heading": "When to schedule the job",
+          "body": "Timing is the other piece of advice that saves money and headaches. If you're buying a house and think you'll want the floors done, do it before you move in. An empty house means no furniture to shuffle, no dust on your belongings, and no nights sleeping somewhere else while the finish cures.\n\nFor Swedish finish specifically, the pros say people usually need to be out for two nights. That's manageable before move-in and a real disruption afterward.\n\nThe host explains that the intimidation homeowners feel about flooring choices mostly comes from not knowing these variables. Once you know the finish types, the durability numbers and the species quirks, the conversation with a contractor gets a lot easier, and you'll know whether the job is one to hand off or one you can handle.",
+          "quote": {
+            "text": "If you're purchasing a new home and you're thinking about doing the hardwood, it's much better to bite the bullet and do it now before you move in.",
+            "speaker": "Treadline Hardwood guest",
+            "timestamp": "36:01"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Renting the sander is easy; the edge work and handwork are where DIY refinishing goes wrong.",
+        "Water-based finish lasts about five to seven years; Swedish finish lasts 10 to 20 but needs two nights out of the house.",
+        "Penetrating oil hides scratches and is the easiest finish for homeowners to touch up.",
+        "Every wood species shifts color in sunlight; UV film and stain slow it down.",
+        "If you're buying a home, refinish the floors before you move in."
+      ],
+      "faq": [
+        {
+          "q": "How long does a hardwood floor finish last?",
+          "a": "On the show, the Treadline pros put water-based finish at roughly five to seven years between refinishes and Swedish finish at 10 to 20 years."
+        },
+        {
+          "q": "What's the most durable finish for floors with dogs and kids?",
+          "a": "Swedish finish. The guests say they push families with pets and children toward it because durability is the priority."
+        },
+        {
+          "q": "How long do you have to stay out of the house after refinishing?",
+          "a": "For Swedish finish, usually about two nights while it cures. Water-based finishes are lower odor and quicker to re-occupy."
+        }
+      ],
+      "sourceNote": "Based on the Around the House with Eric G episode \"From Timber to Triumph: Treadline's Secrets to Perfect Hardwood Floors!\", released September 3, 2026, hosted by Eric Goranson with guests from Treadline Hardwood."
+    }
+  ]
+}

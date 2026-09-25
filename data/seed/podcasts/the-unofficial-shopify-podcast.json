@@ -1,0 +1,127 @@
+{
+  "slug": "the-unofficial-shopify-podcast",
+  "title": "The Unofficial Shopify Podcast",
+  "author": "Kurt Elster, Paul Reda",
+  "description": "Every Tuesday since 2014, host Kurt Elster shares the Shopify success stories that nobody tells you about, straight from the entrepreneurs living it. A raw look at what it really takes to succeed on Shopify.",
+  "category": "business",
+  "website": "https://unofficialshopifypodcast.com",
+  "feedUrl": "https://feeds.simplecast.com/Ewol_LzH",
+  "imageUrl": "https://image.simplecastcdn.com/images/f4815144-b38e-446b-a84a-9a0b83ba5f93/2aef805c-07b6-4c72-994d-d3e50f697138/3000x3000/showart_original.jpg?aid=rss_feed",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-unofficial-shopify-podcast/id918602360",
+  "spotifyUrl": "https://open.spotify.com/show/2fZyUfHLOnZathTk0bfz2Y",
+  "episodes": [
+    {
+      "guid": "8e2bffe0-97c7-4bb8-a5a3-7bd65879d0f4",
+      "title": "How a Nicotine-Free Vape Brand Grows Without Ads",
+      "publishedAt": "2026-09-15",
+      "summary": "Conrad Kurth built Cyclone Pods into a nicotine-free vape brand with 60% repeat customers even though major ad platforms won't take his money. He explains the growth channels that work when paid ads are off the table.",
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/6558d7f2-4176-41e0-9c26-360a16906a43/03dd57ad-343e-4c39-8917-f75004eb4bf4/episodes/audio/group/ddd0f43b-180d-4370-a166-7fac5102e5c3/group-item/acec635f-eda5-4b8a-98e6-313786edf1ed/128_default_tc.mp3?aid=rss_feed&feed=Ewol_LzH",
+      "durationSec": 2749,
+      "episodeUrl": "https://unofficialshopifypodcast.com/episodes/conrad-kurth-cyclone-pods-XuLgL2NB",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "46f84e0e-01e4-46f1-a5b6-7cac94f6e4b0",
+      "title": "ShipBob CMO on Peak Season 2026",
+      "publishedAt": "2026-09-08",
+      "summary": "ShipBob CMO Casey Armstrong walks through peak season prep for 2026, why the decisions made in September matter most, and how warehouse operations and AI have changed fulfillment.",
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/6558d7f2-4176-41e0-9c26-360a16906a43/03dd57ad-343e-4c39-8917-f75004eb4bf4/episodes/audio/group/8b3c86c7-b100-4d0e-8029-8ee6ecc3eb77/group-item/31cadd47-04c2-4d3b-bb43-3b3be0d8bc1c/128_default_tc.mp3?aid=rss_feed&feed=Ewol_LzH",
+      "durationSec": 2564,
+      "episodeUrl": "https://unofficialshopifypodcast.com/episodes/casey-armstrong-shipbob-peak-2026-Fsn_8cEU",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "2c3e3c5f-9d63-44ae-8371-227961a41e3f",
+      "title": "Shopify's New Rev Share, Catalog, and the Next Big Bets Explained",
+      "publishedAt": "2026-09-01",
+      "summary": "Shopify executives explain the revamped partner revenue share, the new Catalog product, and Sidekick extensions, plus what GMV-based compensation means for developers.",
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/6558d7f2-4176-41e0-9c26-360a16906a43/03dd57ad-343e-4c39-8917-f75004eb4bf4/episodes/audio/group/a8ee03ec-d746-4c81-b43c-5fc51eb2f7e3/group-item/cec70d23-ad34-49ee-af2c-c0389180ab21/128_default_tc.mp3?aid=rss_feed&feed=Ewol_LzH",
+      "durationSec": 2880,
+      "episodeUrl": "https://unofficialshopifypodcast.com/episodes/shopify-rev-share-agentic-commerce-owaVdqOv",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "efd04822-9e07-4422-9f05-70a5cefef7e2",
+      "title": "Shopify's Head of Growth: How to Get Recommended by AI",
+      "publishedAt": "2026-08-25",
+      "summary": "Shopify's head of growth Archie Abrams explains how AI agents already send traffic that converts at about twice the rate of typical referrals, and how the Shop Product Network and clean product data get a store recommended.",
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/6558d7f2-4176-41e0-9c26-360a16906a43/03dd57ad-343e-4c39-8917-f75004eb4bf4/episodes/audio/group/a9eded19-63d0-4b09-90af-62d38f8ce539/group-item/15e38249-de65-4cd8-b98c-f7ef36d88e87/128_default_tc.mp3?aid=rss_feed&feed=Ewol_LzH",
+      "durationSec": 2532,
+      "episodeUrl": "https://unofficialshopifypodcast.com/episodes/agentic-commerce-shopify-2026-4b_J2d0d",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "63c51909-93f6-4454-95da-878bd3df618b",
+      "title": "Why Your Subscription Program Stopped Growing (Matt Holman)",
+      "publishedAt": "2026-08-18",
+      "summary": "Matt Holman, The Subscription Doc, explains how churn creates a hidden ceiling where new subscribers only replace the ones leaving. He and Kurt cover why a better offer often beats retention tactics, gifts versus discounts, product switching, billing emails, and when to migrate platforms.",
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/6558d7f2-4176-41e0-9c26-360a16906a43/03dd57ad-343e-4c39-8917-f75004eb4bf4/episodes/audio/group/f74d254b-9d63-46bd-aeb1-16a4eda30947/group-item/c354fdc5-b591-4572-984c-15c900d8c798/128_default_tc.mp3?aid=rss_feed&feed=Ewol_LzH",
+      "durationSec": 2720,
+      "episodeUrl": "https://unofficialshopifypodcast.com/episodes/subscription-program-autopsy-v_KIClLX",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "b9fdccd5-6310-4208-9c1b-b31ad2551774",
+      "title": "REPORT: AI is 0.1% of $274M in sales analyzed",
+      "publishedAt": "2026-08-11",
+      "summary": "Kurt shares an analysis of 24 months of data from 10 Shopify stores. AI traffic is only 0.1% of revenue but converts better than other channels, and the data also exposes wasteful discounting habits.",
+      "audioUrl": "https://cdn.simplecast.com/media/audio/transcoded/6558d7f2-4176-41e0-9c26-360a16906a43/03dd57ad-343e-4c39-8917-f75004eb4bf4/episodes/audio/group/74e2f694-078a-4b36-abbe-75b8718acfb0/group-item/812d7886-a2d7-469d-8512-b6b32abc2e50/128_default_tc.mp3?aid=rss_feed&feed=Ewol_LzH",
+      "durationSec": 2664,
+      "episodeUrl": "https://unofficialshopifypodcast.com/episodes/ai-traffic-discount-data-tM2amf4a",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-has-my-subscription-business-stopped-growing",
+      "question": "Why has my subscription business stopped growing?",
+      "metaDescription": "Subscription consultant Matt Holman tells Kurt Elster why churn caps growth and why a better offer, gifts, and product switching beat retention hacks.",
+      "episodeGuid": "63c51909-93f6-4454-95da-878bd3df618b",
+      "intro": "If you're adding subscribers every month but the total never moves, you've hit the churn ceiling: new signups are only replacing the people who cancel. On The Unofficial Shopify Podcast, host Kurt Elster talks with Matt Holman, founder of Subscription Prescription and known as The Subscription Doc, about why this happens and why fixing the offer usually pays off faster than piling on retention tactics.",
+      "sections": [
+        {
+          "heading": "The math behind a subscription program that flatlines",
+          "body": "Holman's diagnosis is simple arithmetic. Say you lose 8 percent of subscribers a month. Once your base is big enough that 8 percent equals your monthly signups, growth stops, no matter how well acquisition is going. Every new customer is filling a seat somebody just left.\n\nThe host explains that most brands respond by pushing harder on the top of the funnel, which just raises the ceiling a little and costs more each month. The lever that actually moves the number is the churn rate itself, and Holman argues the biggest driver of churn isn't the cancel flow. It's whether the offer was right in the first place.\n\nThat reframing matters for where you spend time. A better offer improves opt-in and reduces churn at the same time. A better cancel page only touches the last step.",
+          "quote": null
+        },
+        {
+          "heading": "A 40 percent opt-in rate is realistic, and gifts beat discounts",
+          "body": "One number in the episode stands out: Holman considers a 40 percent subscription opt-in rate achievable for the right product. Most stores sit far below that because the subscription option is buried, the terms are confusing, or the only incentive is a small percentage off.\n\nHis advice on incentives runs against the usual playbook. Instead of a deeper discount, which trains customers to value the product less and eats margin forever, he suggests gifts. A free item with the first shipment or at a milestone can outperform a bigger percentage off, and it doesn't reset the customer's sense of what the product is worth.\n\nHe also recommends simplifying the initial offer. Fewer frequencies and fewer bundle choices at the start convert better. You can still let existing subscribers customize once they're in, so simplifying the front door doesn't limit the people already inside.",
+          "quote": null
+        },
+        {
+          "heading": "Customers who switch flavors are worth six times more",
+          "body": "The most surprising stat in the conversation: subscribers who switch products or flavors can be worth around six times more than those who never change anything. The reason is boredom. A customer receiving the same item every month eventually gets tired of it and cancels. A customer who swaps stays engaged and keeps discovering things they like.\n\nThe practical move is to make swapping obvious and easy. Put it in the subscriber portal, put it in the billing reminder, and mention it in post-purchase emails. If your platform makes swapping painful, that's a real cost, not a minor annoyance.\n\nHolman also notes that some products just shouldn't be sold on subscription. If usage is irregular or the customer can't predict when they'll need more, forcing a schedule creates churn you can't fix with any tactic.",
+          "quote": null
+        },
+        {
+          "heading": "Fix the billing email before you fix anything else",
+          "body": "The cheapest improvement most brands skip is the upcoming-billing email. Holman calls it the overlooked fix. Most stores send a bare notification that a charge is coming, which reads like a warning and prompts people to cancel. A better version reminds them what they're getting, makes it easy to swap or skip instead of cancel, and reinforces the value.\n\nThe cost is an hour of copywriting. The payoff is fewer panic cancellations right before a charge, which is where a lot of churn happens.\n\nOn platforms, Kurt and Matt compare Recharge, Skio, and Loop. Migrating is disruptive and can lose subscribers, so it's only worth it when the current platform is blocking something specific, like flexible swapping or a better checkout. They also touch on how AI may reshape subscription management, though that's still early.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Growth stalls when monthly cancellations equal monthly signups. Lower churn, not more acquisition, breaks the ceiling.",
+        "Holman says a 40 percent subscription opt-in rate is achievable when the offer is clear and simple.",
+        "Gifts can outperform deeper discounts as a subscription incentive and protect your margin.",
+        "Subscribers who switch products or flavors can be worth about six times more, so make swapping easy.",
+        "Rewrite the upcoming-billing email so it sells the value and offers swap or skip before cancel."
+      ],
+      "faq": [
+        {
+          "q": "What is a good subscription opt-in rate on Shopify?",
+          "a": "Matt Holman considers 40 percent achievable for products that suit a subscription. Most stores are well below that because the option is hidden or the incentive is weak."
+        },
+        {
+          "q": "Should I offer a bigger discount to get more subscribers?",
+          "a": "Holman argues gifts often work better than deeper discounts. A free item costs less than a permanent percentage off and doesn't lower the perceived value of the product."
+        },
+        {
+          "q": "Is it worth switching subscription apps like Recharge, Skio, or Loop?",
+          "a": "Only when the current platform blocks something important, such as easy product swapping. Migrations carry real risk of losing subscribers, so the upside has to be specific."
+        }
+      ],
+      "sourceNote": "Based on the August 18, 2026 episode of The Unofficial Shopify Podcast, \"Why Your Subscription Program Stopped Growing,\" hosted by Kurt Elster with guest Matt Holman."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "fascat-cycling-training-tips-podcast",
+  "title": "FasCat Cycling Training Tips Podcast",
+  "author": "Frank Overton",
+  "description": "The official podcast of FasCat Coaching, based in Boulder, CO. Coach Frank \"Big Cat\" Overton shares his extensive cycling coaching experience to help you ride faster through training and racing tips, nutrition, and beyond.",
+  "category": "fitness",
+  "website": "https://fascatcoaching.com/blogs/training-tips/tagged/podcasts",
+  "feedUrl": "https://fascatcoaching.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/7/5/e/3/75e302857374e5c75f2e77a3093c12a1/fascatpodcastart.png",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "0715692e-a5b3-4494-92c0-2994225e2599",
+      "title": "Lifting Weights Around Life: How to Fit the Gym Into Your Riding",
+      "publishedAt": "2026-09-12",
+      "summary": "Coach Frank covers how to actually run a 10-week lifting program alongside your riding when life gets in the way. He addresses busy schedules, gym access and how to balance rides with strength sessions.",
+      "audioUrl": "https://traffic.libsyn.com/secure/fascatcoaching/Lift_Around_Life.mp3?dest-id=2832416",
+      "durationSec": 3980,
+      "episodeUrl": "https://fascatcoaching.libsyn.com/lifting-weights-around-life-how-to-fit-the-gym-into-your-riding",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "7f3469e2-633b-411e-9713-b34db8fe05f4",
+      "title": "Learn How to Lift Weights For Cycling and Increase FTP",
+      "publishedAt": "2026-09-07",
+      "summary": "Frank walks through FasCat's cycling-specific strength program: four phases (Adaptation, Hypertrophy, Strength, Power) over ten weeks. He explains the typical FTP gain of 10 or more watts and how to carry it into spring racing.",
+      "audioUrl": "https://traffic.libsyn.com/secure/fascatcoaching/Learn_to_Lift_Weights_For_Cycling.mp3?dest-id=2832416",
+      "durationSec": 3072,
+      "episodeUrl": "https://fascatcoaching.libsyn.com/learn-how-to-lift-weights-for-cycling-and-increase-ftp",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6964db9b-86be-4039-ae26-5955df3c1adf",
+      "title": "How to Take a 'Proper' Post-Season Break + Demo of the new CoachCat FuelTrix Nutrition Feature",
+      "publishedAt": "2026-08-30",
+      "summary": "Guidance on taking a proper two-week post-season break versus dragging it out, plus a demo of the FuelTrix nutrition feature that calculates carbohydrate needs by workout intensity and duration.",
+      "audioUrl": "https://traffic.libsyn.com/secure/fascatcoaching/Post_Season_Break_.mp3?dest-id=2832416",
+      "durationSec": 2253,
+      "episodeUrl": "https://fascatcoaching.libsyn.com/how-to-take-a-proper-post-season-break-demo-of-the-new-coachcat-fueltrix-nutrition-feature-in-app-release-v649",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "02c04a07-8207-46ec-bfa9-d10fc7dbac21",
+      "title": "Learn How to Review Your Season with your Power Data",
+      "publishedAt": "2026-08-22",
+      "summary": "Frank shares six prompts for reviewing a season of power data, looking at trends at multiple levels and translating fitness metrics into real weekly training hours.",
+      "audioUrl": "https://traffic.libsyn.com/secure/fascatcoaching/CoachCat_Power_Data_Review.mp3?dest-id=2832416",
+      "durationSec": 2561,
+      "episodeUrl": "https://fascatcoaching.libsyn.com/learn-how-to-review-your-season-with-your-power-data",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "d306e40f-1253-4f26-8e11-5835f13d5bc2",
+      "title": "How to Build Your Annual Training Plan for 2027 + Who Will Win the Leadville MTB",
+      "publishedAt": "2026-08-15",
+      "summary": "How to lay out an annual training plan: two-week recovery periods, three anchor dates, structured training for 46 of 52 weeks, and a 10-week weight block for a breakthrough season.",
+      "audioUrl": "https://traffic.libsyn.com/secure/fascatcoaching/atp_final_.mp3?dest-id=2832416",
+      "durationSec": 3284,
+      "episodeUrl": "https://fascatcoaching.libsyn.com/how-to-build-your-annual-training-plan-for-2027-who-will-win-the-leadville-mtb",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "3117fcad-7919-47d4-929d-08e190cf1e91",
+      "title": "CoachCat 4.0 + Tour de Femmes Ventoux Power + LIVE Q&A",
+      "publishedAt": "2026-08-07",
+      "summary": "A walkthrough of CoachCat app updates including new Recovery and Progress tabs, followed by analysis of Tour de France Femmes Ventoux power data and a live listener Q&A.",
+      "audioUrl": "https://traffic.libsyn.com/secure/fascatcoaching/FasCat_4.0_and_TdFFemmes_01.mp3?dest-id=2832416",
+      "durationSec": 1707,
+      "episodeUrl": "https://fascatcoaching.libsyn.com/coachcat-40-kasias-tdfemmes-ventoux-power-to-weight-live-qa",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "should-cyclists-lift-weights-in-the-off-season",
+      "question": "Should cyclists lift weights in the off-season?",
+      "metaDescription": "Coach Frank Overton of the FasCat Cycling Training Tips Podcast explains his 10-week, 4-phase lifting program and the FTP gains cyclists can expect.",
+      "episodeGuid": "7f3469e2-633b-411e-9713-b34db8fe05f4",
+      "intro": "Yes, and the off-season is the best time to do it. On the FasCat Cycling Training Tips Podcast, coach Frank Overton lays out a 10-week, four-phase lifting program built specifically for cyclists. His typical result is an FTP gain of 10 watts or more, with riders showing up 15 to 50 watts stronger by spring once base training is done.",
+      "sections": [
+        {
+          "heading": "Ten weeks, four phases, one goal",
+          "body": "Frank's program runs ten weeks and moves through four phases in order: Adaptation, Hypertrophy, Strength and Power. Each phase has its own sets, reps and percentages of your one-rep max, and the phases build on each other, so skipping ahead defeats the purpose.\n\n- **Adaptation** gets your body used to lifting again with lighter loads and higher reps. This is where you learn the movements and let tendons and connective tissue catch up.\n- **Hypertrophy** adds muscle with moderate loads and more volume.\n- **Strength** pushes the load up and the reps down so the new muscle learns to produce force.\n- **Power** turns that force into something you can use on the bike with faster, more explosive work.\n\nThe host explains that this structure has been refined over more than 20 years of coaching, and the reason it works is the order. You can't safely lift heavy in week one, and you can't build power on top of muscle you haven't built yet.",
+          "quote": {
+            "text": "Ten weeks for 10 watts or more",
+            "speaker": "Frank Overton",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The only lifts a cyclist really needs",
+          "body": "This isn't a bodybuilding routine. Frank keeps the exercise list short on purpose: the squat, the leg press and the hamstring curl, with the hip thrust as an optional add. That's it.\n\nThe logic is simple. Cycling is a leg-driven sport, and those movements train the muscles that push the pedals. A short list also means you spend less time in the gym and recover faster, which matters when you're still riding during the program.\n\nFrank also points listeners to supplemental resources on squat form and on lifting at home for riders who don't have a gym membership. The point is to remove excuses. A squat rack and a way to load your hamstrings will get you most of the way there.",
+          "quote": {
+            "text": "The only lifts you need: the squat, the leg press, and the hamstring curl",
+            "speaker": "Frank Overton",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Where lifting fits in the annual plan",
+          "body": "Timing is the part most riders get wrong. Frank places the 10-week block in the off-season, right after a proper post-season break and before base training begins. In his annual planning episode he calls this weight block one of the keys to a breakthrough season.\n\nThat placement matters for two reasons. First, your riding volume is naturally lower in the off-season, so you have the recovery capacity to lift hard. Second, finishing the block before base means the strength gains are in place when you start building aerobic fitness, and the two stack.\n\nThe program is meant for road racers, time trialists, mountain bikers, cyclocrossers, triathletes and masters athletes alike. The host explains that older riders in particular tend to see big benefits, since strength declines with age and lifting pushes back on that.",
+          "quote": null
+        },
+        {
+          "heading": "Turning gym strength into watts on the bike",
+          "body": "Getting stronger in the squat rack doesn't automatically make you faster. Frank bridges the gap with on-bike work: neuromuscular sprints and standing starts during and after the lifting block. These teach your nervous system to use the new strength at cycling cadences.\n\nOnce the ten weeks are done, you don't have to keep grinding. Frank says the gains can be maintained with one session a week through the season. That's a small time cost for holding onto 10 or more watts.\n\nFor riders using the CoachCat app, there's a resistance training calculator that sets the loads for each phase. If you're doing it on your own, the principle still holds: test or estimate your one-rep max, follow the phase percentages, and keep the sprints in the plan.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Frank Overton's cycling-specific lifting program runs 10 weeks through Adaptation, Hypertrophy, Strength and Power phases.",
+        "The typical FTP gain is 10 or more watts, and riders often arrive at spring racing 15 to 50 watts stronger after base training.",
+        "You only need the squat, leg press and hamstring curl, with the hip thrust as an optional extra.",
+        "Do the block in the off-season, after a post-season break and before base training.",
+        "Add neuromuscular sprints and standing starts to convert strength into on-bike power, then maintain with one lifting session a week."
+      ],
+      "faq": [
+        {
+          "q": "How much will lifting weights increase my FTP?",
+          "a": "Frank's typical result is 10 or more watts from the 10-week block, with riders 15 to 50 watts stronger by spring racing once base training is complete."
+        },
+        {
+          "q": "How many times a week should a cyclist lift?",
+          "a": "The program structures sessions per phase over ten weeks. Once the block is complete, Frank says a single weekly session is enough to maintain the gains during the riding season."
+        },
+        {
+          "q": "Can I lift weights for cycling without a gym?",
+          "a": "Yes. Frank points listeners to at-home lifting guidance, and the core movements (squat, hamstring curl, hip thrust) can be loaded with basic equipment."
+        }
+      ],
+      "sourceNote": "Based on the FasCat Cycling Training Tips Podcast episode \"Learn How to Lift Weights For Cycling and Increase FTP\", released September 7, 2026, hosted by Frank Overton."
+    }
+  ]
+}

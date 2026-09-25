@@ -1,0 +1,143 @@
+{
+  "slug": "easy-prey",
+  "title": "Easy Prey",
+  "author": "Chris Parker",
+  "description": "Chris Parker interviews guests and shares real-life stories about the dangers and traps in the modern world, from online scams and fraud to everyday situations where people try to take advantage of you, so listeners can spot the warning signs.",
+  "category": "technology",
+  "website": "https://www.easyprey.com",
+  "feedUrl": "https://rss.libsyn.com/shows/225614/destinations/1655398.xml",
+  "imageUrl": "https://static.libsyn.com/p/assets/d/a/7/b/da7b4263e01762f1d959afa2a1bf1c87/EASY_PREY_-_PODCAST_COVER-20250929-rgdpfg4wki.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/easy-prey/id1488678905",
+  "spotifyUrl": "https://open.spotify.com/show/45IRgx8rZbWw1zYFNxYuDQ",
+  "episodes": [
+    {
+      "guid": "179397b3-d47a-4c5d-8417-4c1536c2ac65",
+      "title": "Ransomware Evolution",
+      "publishedAt": "2026-09-16",
+      "summary": "Ransomware researcher Allan Liska on how ransomware moved from single computers to whole networks and data theft, AI's role in criminal operations, and the mistakes operators make.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/easyprey/EP341.mp3?dest-id=1655398",
+      "durationSec": 2432,
+      "episodeUrl": "https://www.easyprey.com/341",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "687d3686-82cf-43f6-83eb-fc0cafd79c2f",
+      "title": "The Counterfeit Economy",
+      "publishedAt": "2026-09-09",
+      "summary": "Kari Kammel of Michigan State's Center for Anti-Counterfeiting explains how fakes get into the marketplace, why they're harder to spot, the health and crime risks behind them, and practical checks for shopping online.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/easyprey/EP340.mp3?dest-id=1655398",
+      "durationSec": 2595,
+      "episodeUrl": "https://www.easyprey.com/the-counterfeit-economy/",
+      "transcriptUrl": "https://www.easyprey.com/the-counterfeit-economy/"
+    },
+    {
+      "guid": "958537a6-3699-4d04-952f-b69a525c3d1e",
+      "title": "The Internet is Playing You",
+      "publishedAt": "2026-09-02",
+      "summary": "Disinformation expert Nina Jankowicz on how misleading content spreads, why a strong emotional reaction is a manipulation signal, and topics from doxxing to AI impersonation.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/easyprey/EP339.mp3?dest-id=1655398",
+      "durationSec": 2657,
+      "episodeUrl": "https://www.easyprey.com/339",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "84d5b419-72ea-4387-b37b-14ecc9b01c35",
+      "title": "The Psychology of Yes",
+      "publishedAt": "2026-08-26",
+      "summary": "Cornell's Vanessa Bohns on why people struggle to say no to requests, with research examples of participants defacing library books or handing over unlocked phones under social pressure.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/easyprey/EP338.mp3?dest-id=1655398",
+      "durationSec": 2994,
+      "episodeUrl": "https://www.easyprey.com/338",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "981a4696-3d67-4624-82c8-4857d11850c7",
+      "title": "Drink Spiking",
+      "publishedAt": "2026-08-19",
+      "summary": "Dawn Dines, founder of Stamp Out Spiking, on how drinks get tampered with, warning signs, hospitality training, and how communities reduce the risk.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/easyprey/EP337.mp3?dest-id=1655398",
+      "durationSec": 2130,
+      "episodeUrl": "https://www.easyprey.com/337",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "38a6ac71-b833-4234-bab2-3ec8d4a46cc8",
+      "title": "Love, Lies and Locked Up",
+      "publishedAt": "2026-08-12",
+      "summary": "Sharon Armstrong shares how a romance scam led to her unknowingly trafficking drugs and spending over two years in prison, and why victims are targeted rather than foolish.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/easyprey/EP336.mp3?dest-id=1655398",
+      "durationSec": 3151,
+      "episodeUrl": "https://www.easyprey.com/336",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-can-you-tell-if-a-product-is-counterfeit-when-shopping-online",
+      "question": "How can you tell if a product is counterfeit when shopping online?",
+      "metaDescription": "Easy Prey host Chris Parker and expert Kari Kammel share checks for spotting fakes online: seller address, pricing tricks, photos, shipping origin.",
+      "episodeGuid": "687d3686-82cf-43f6-83eb-fc0cafd79c2f",
+      "intro": "You can usually tell a product is counterfeit by checking the seller before you buy and the package after it arrives. On the Easy Prey podcast, host Chris Parker talks with Kari Kammel of Michigan State University's Center for Anti-Counterfeiting, who lays out specific checks: verify the seller's address, be suspicious of a hard-to-find item that's suddenly in stock, look closely at product photos, and question shipments that come from a different country than the seller claims.",
+      "sections": [
+        {
+          "heading": "Start with the seller, not the product",
+          "body": "Kammel's first advice has nothing to do with the item itself. Look at who's selling it. Most marketplaces show a seller name and often an address. Her suggestion is to take that address and drop it into Google Maps. Does it resolve to a real business, or to an empty lot, a residential street, or nothing at all?\n\nThe same goes for standalone websites. Go to the About Us page. Is there a physical address? A phone number that works? Counterfeit operations tend to be thin on these details because they don't expect to be around long.\n\nIf you want the only truly reliable option, she says, buy directly from the manufacturer. It's not always the cheapest route, but it's the one path where you know exactly what you're getting.",
+          "quote": {
+            "text": "Look at the seller, look at their address, grab their address, throw it into Google Maps, and see, does that actually give you the real business address?",
+            "speaker": "Kari Kammel",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "The shortage trap and the one-cent price trick",
+          "body": "Two pricing patterns come up in the conversation. The first is the shortage trap. If a product is sold out everywhere and you suddenly find it in stock on an unfamiliar site, that's a red flag rather than a lucky break. Counterfeiters follow demand, and a shortage is the easiest demand to spot.\n\nThe second is more subtle. Kammel explains that counterfeiters often don't undercut the price by much. They'll match the legitimate price or come in one or two cents lower, so nothing looks suspicious. Then they flood the listings, so when you sort by price, their postings dominate the top of the page.\n\nThe lesson is that \"too good to be true\" pricing is only one signal. A normal-looking price on a listing from a seller you've never heard of deserves the same scrutiny.",
+          "quote": {
+            "text": "If there's a shortage of a certain product out there and all of a sudden you magically find it online, probably not the legitimate product.",
+            "speaker": "Kari Kammel",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Grainy photos and missing logos",
+          "body": "Product images give away more than people expect. Kammel points out that counterfeit listings often use photos that look grainy, slightly off, or inconsistent with the brand's official imagery. Sometimes the trademark or brand name is missing from the product in the photo entirely, because showing it would create legal exposure or because the photo was taken of the fake itself.\n\nChris and Kammel both note that we shop differently online than we do in a store. In person you'd pick the item up, turn it over, and notice if something felt cheap. Online, we scroll, we click, and we buy on impulse. Slowing down to actually zoom in on the images is a small habit that catches a lot.",
+          "quote": {
+            "text": "We all act very differently online than we would in a regular store. We're not as careful and we tend to make more impulsive decisions.",
+            "speaker": "Kari Kammel",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "After it arrives: shipping origin, packaging, and comparison",
+          "body": "Some checks can only happen once the box shows up. The first is shipping origin. If the seller claimed to be in California and the package arrives three weeks later from Vietnam, Kammel says to question that. Mismatched origin is one of the most common tells.\n\nNext, look at the packaging, both the shipping box and the product's own packaging. Does the product even have packaging? Legitimate goods almost always come in branded, printed boxes with consistent fonts and materials. Fakes often arrive loose, in generic plastic, or in packaging with small printing errors.\n\nFinally, if you own an authentic version of the same product, put them side by side. Weight, stitching, color, texture, and labels are hard to match perfectly. If it looks different, it probably is. And the episode is clear that counterfeit isn't just a luxury handbag problem. Fake pharmaceuticals, car parts, and electronics carry real safety risks, which is why these checks matter even for boring purchases.",
+          "quote": {
+            "text": "If you're buying from a company that says it's based in California, but your product comes three weeks later from Vietnam, question that.",
+            "speaker": "Kari Kammel",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Verify the seller first: drop their address into Google Maps and check for a real phone number and About page.",
+        "Buying directly from the manufacturer is the only truly guaranteed way to avoid fakes.",
+        "A sold-out item that's suddenly in stock on an unfamiliar site is a red flag, not a find.",
+        "Counterfeiters often price at or a cent below retail and flood listings, so price alone won't warn you.",
+        "After delivery, check shipping origin, packaging quality, and compare against an authentic version if you have one."
+      ],
+      "faq": [
+        {
+          "q": "Are counterfeit products only a problem for luxury brands?",
+          "a": "No. The episode covers fake pharmaceuticals, automotive parts, and electronics, which can carry real health and safety risks beyond losing money."
+        },
+        {
+          "q": "Is a low price the main sign of a counterfeit?",
+          "a": "Not reliably. Kammel explains that counterfeiters often match the legitimate price or undercut by pennies, then flood the listings so they show up first when you sort by price."
+        },
+        {
+          "q": "What should I do if a product arrives and looks fake?",
+          "a": "Compare it to an authentic version if possible, check the shipping origin against what the seller claimed, and examine the packaging. Mismatches on any of those are strong signs it isn't genuine."
+        }
+      ],
+      "sourceNote": "Based on the Easy Prey episode \"The Counterfeit Economy\" with guest Kari Kammel, released September 9, 2026, hosted by Chris Parker."
+    }
+  ]
+}

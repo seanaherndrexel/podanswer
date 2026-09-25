@@ -1,0 +1,144 @@
+{
+  "slug": "stay-wealthy-retirement-podcast",
+  "title": "Stay Wealthy Retirement Podcast",
+  "author": "Taylor Schulte, CFP",
+  "description": "Retirement is too important to leave to guesswork, headlines, or conflicting advice. Taylor Schulte helps listeners make smarter financial decisions, reduce taxes, invest wisely, and create a retirement income plan they can trust.",
+  "category": "money",
+  "website": "https://www.youstaywealthy.com/podcast",
+  "feedUrl": "https://rss.libsyn.com/shows/98538/destinations/513717.xml",
+  "imageUrl": "https://static.libsyn.com/p/assets/c/3/f/9/c3f997f69702bee388c4a68c3ddbc4f2/Stay_Wealthy_Retirement_Podcast_Cover.jpeg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/stay-wealthy-retirement-podcast/id1260181429",
+  "spotifyUrl": "https://open.spotify.com/show/1qZymBONrPtcHddFqjIg5Z",
+  "episodes": [
+    {
+      "guid": "38541f10-91b1-46d9-a94c-26b2f7aa1e15",
+      "title": "Are You Really Behind on Retirement? 2 Studies Disagree (46% vs. Under 20%)",
+      "publishedAt": "2026-09-10",
+      "summary": "Taylor compares two conflicting studies on retirement readiness, one suggesting nearly half of households may fall short and another finding fewer than 20 percent behind. He explains the weaknesses in how retirement progress is usually measured and why your 50s and 60s can be the most important savings window.",
+      "audioUrl": "https://traffic.libsyn.com/secure/staywealthysandiego/sw-301-final.mp3?dest-id=513717",
+      "durationSec": 1175,
+      "episodeUrl": "https://www.youstaywealthy.com/301",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "edf07332-f7c6-46b4-92b0-ac98426ac87e",
+      "title": "Your Plan Says Spend, Your Gut Says No (5 Questions to Ask Instead)",
+      "publishedAt": "2026-09-03",
+      "summary": "Why do retirees with well-funded plans still struggle to spend? Taylor walks through three transitions in retirement and offers five better questions to ask than \"Can I afford it?\"",
+      "audioUrl": "https://traffic.libsyn.com/secure/staywealthysandiego/sw-300-final.mp3?dest-id=513717",
+      "durationSec": 1105,
+      "episodeUrl": "https://www.youstaywealthy.com/300",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "955b5979-ca6f-4eea-8325-17e3d351572c",
+      "title": "8 Investing Numbers That Shape Whether Your Nest Egg Outlives You",
+      "publishedAt": "2026-08-27",
+      "summary": "Taylor distills a century of market history into eight numbers that affect how long a portfolio lasts. He covers inflation's impact, the risk of investing too conservatively, and how to think about bonds in retirement.",
+      "audioUrl": "https://traffic.libsyn.com/secure/staywealthysandiego/sw-299-final.mp3?dest-id=513717",
+      "durationSec": 1339,
+      "episodeUrl": "https://www.youstaywealthy.com/299",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ea4bc2d6-d787-4856-ac7a-2605374df381",
+      "title": "The 4 Retirement Income Styles (And How to Find Yours)",
+      "publishedAt": "2026-08-20",
+      "summary": "A framework that sorts retirement income strategies into four styles based on how much certainty you want and how much flexibility you can accept. Taylor helps listeners identify their priorities and tradeoffs.",
+      "audioUrl": "https://traffic.libsyn.com/secure/staywealthysandiego/sw-298-final.mp3?dest-id=513717",
+      "durationSec": 1104,
+      "episodeUrl": "https://www.youstaywealthy.com/298",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "afda74b0-7225-42f1-915c-1270a1c4d8aa",
+      "title": "Do You Really Need $1.5 Million to Retire?",
+      "publishedAt": "2026-08-13",
+      "summary": "Taylor challenges the widely cited $1.5 million retirement benchmark using recent Vanguard research on Social Security timing. He shows how disciplined savers may be able to retire earlier than they think by focusing on spending, flexibility, and stress-testing the plan.",
+      "audioUrl": "https://traffic.libsyn.com/secure/staywealthysandiego/sw-297-final.mp3?dest-id=513717",
+      "durationSec": 905,
+      "episodeUrl": "https://www.youstaywealthy.com/297",
+      "transcriptUrl": "https://www.youstaywealthy.com/297"
+    },
+    {
+      "guid": "235f4ef7-14e2-4e10-aa4b-a113bb74a56b",
+      "title": "3 Spending Surprises From J.P. Morgan's Study of 5 Million Retirees",
+      "publishedAt": "2026-08-06",
+      "summary": "Using real bank transaction data from millions of households, Taylor reveals how retirees actually spend. He identifies three spending behaviors traditional plans overlook and what they mean for withdrawal planning.",
+      "audioUrl": "https://traffic.libsyn.com/secure/staywealthysandiego/sw-296-final.mp3?dest-id=513717",
+      "durationSec": 1218,
+      "episodeUrl": "https://www.youstaywealthy.com/296",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "do-you-really-need-1-5-million-to-retire",
+      "question": "Do you really need $1.5 million to retire?",
+      "metaDescription": "CFP Taylor Schulte explains why the $1.5 million retirement number misleads and how to find your real gap using expenses, Social Security, and flexibility.",
+      "episodeGuid": "afda74b0-7225-42f1-915c-1270a1c4d8aa",
+      "intro": "Probably not, and fixating on that number may be keeping you at work longer than necessary. On the Stay Wealthy Retirement Podcast, CERTIFIED FINANCIAL PLANNER Taylor Schulte breaks down where the $1.5 million figure comes from and why it's the wrong question. His approach starts with what you actually spend, subtracts guaranteed income like Social Security, and only then looks at what your portfolio needs to cover.",
+      "sections": [
+        {
+          "heading": "Where the $1.5 million figure comes from",
+          "body": "The number traces back to a survey in which Americans said they'd need about $1.5 million to retire comfortably. Taylor points out that this is nearly 60 percent higher than the \"magic number\" people reported roughly five years earlier. That jump helps explain why so many savers feel behind even when they've done everything right.\n\nThe problem is that a survey average tells you nothing about your life. It doesn't know your mortgage is paid off, that you live in a cheap state, or that you'll have a pension. Taylor's argument is that savers should stop obsessing over building a bigger nest egg and start maximizing what they already have.\n\nHe puts the reframe simply.",
+          "quote": {
+            "text": "Instead of asking, 'How much do I need to retire' or 'How much more do I need to save?' ask, 'How much do I actually need to spend to fund my lifestyle?'",
+            "speaker": "Taylor Schulte",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Split your spending into must-haves and fun money",
+          "body": "The first practical step is documenting expenses in two buckets.\n\n**Essentials.** Housing, utilities, food, transportation, insurance. These are the bills that show up whether the market is up or down.\n\n**Discretionary.** Travel, entertainment, spoiling the grandkids, the golf membership. Taylor calls this your fun money, and the key point is that it's adjustable.\n\nThis split matters because essentials are what you need to cover with reliable income. Discretionary spending is where you have room to flex in a bad year. Most people lump everything into one number and then panic when that number looks big.\n\nTaylor also notes that retiree spending tends to fall over time. He cites research showing the average retired household cuts spending by roughly 1.5 percent every year throughout retirement, which means a plan built on flat, inflation-adjusted spending forever is likely overestimating what you'll need.",
+          "quote": null
+        },
+        {
+          "heading": "Why claiming Social Security at 62 can shrink your gap",
+          "body": "Conventional advice says delay Social Security as long as possible. Taylor highlights Vanguard research suggesting that for some retirees, claiming early is the better move. Taking benefits at 62 reduces how much you have to pull from your portfolio in the early, most vulnerable years of retirement, which lowers the risk that a bad market early on derails the whole plan.\n\nHe's careful to say you don't have to claim early. But knowing you can, and understanding what it does to your numbers, changes how you look at your savings.\n\nThe math is where it clicks.",
+          "quote": {
+            "text": "If your essentials are $75,000 and Social Security at 62 gives you $30,000, your true annual gap that you need to fill from your investment portfolio is $45,000.",
+            "speaker": "Taylor Schulte",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Find your flexibility levers and stress-test the plan",
+          "body": "Once you know your true gap, Taylor suggests listing the levers you could pull if markets underperform. The idea is to decide now, while you're calm, what you'd trim or add in a rough year so you're not making that call in a panic.\n\nA plan with real levers is more resilient than a plan with a bigger balance and no flexibility. It also means you don't have to fund the worst case entirely from savings before you feel safe leaving work. Taylor gives concrete examples of what those levers look like.",
+          "quote": {
+            "text": "Could you work 10 hours a week doing something you enjoy? Or downsize housing if needed? Or opt for a more affordable staycation instead?",
+            "speaker": "Taylor Schulte",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "What this looked like for one couple",
+          "body": "Taylor shares an example of a couple with about $1.8 million who assumed they weren't ready. Once they documented expenses, factored in Social Security at 62, and identified their flexibility levers, retirement turned out to be achievable much sooner than they'd thought.\n\nThe last piece is taxes. Taylor recommends a flexible, tax-efficient withdrawal strategy, such as drawing from pre-tax IRAs or doing Roth conversions in years when you can fill low tax brackets. That stretches the same portfolio further without saving another dollar.\n\nHis closing point is that for disciplined savers, the biggest retirement risk usually isn't running out of money. It's running out of time.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "The $1.5 million figure is a survey average, not your number. Start with what you actually spend.",
+        "Separate essentials (housing, food, insurance) from discretionary spending so you know what must be covered and what can flex.",
+        "Subtract guaranteed income like Social Security from essentials to find your true annual portfolio gap.",
+        "Claiming Social Security at 62 can reduce early portfolio withdrawals and protect the plan in a bad market.",
+        "List your flexibility levers, such as part-time work or downsizing, and use tax-efficient withdrawals to stretch what you have."
+      ],
+      "faq": [
+        {
+          "q": "How do I figure out how much I need to retire?",
+          "a": "Document your essential and discretionary expenses, subtract guaranteed income like Social Security, and the remainder is what your portfolio has to produce each year. That gap, not a survey average, is your real number."
+        },
+        {
+          "q": "Is it a mistake to take Social Security at 62?",
+          "a": "Not always. Taylor cites Vanguard research showing early claiming can be better for some retirees because it reduces portfolio withdrawals in the risky early years. Run your own numbers before defaulting to delay."
+        },
+        {
+          "q": "Does retirement spending really go down over time?",
+          "a": "According to research Taylor references, the average retired household cuts spending by about 1.5 percent a year. Plans that assume flat inflation-adjusted spending for 30 years tend to overestimate what you'll need."
+        }
+      ],
+      "sourceNote": "Based on the Stay Wealthy Retirement Podcast episode \"Do You Really Need $1.5 Million to Retire?\" with Taylor Schulte, CFP, released August 13, 2026."
+    }
+  ]
+}

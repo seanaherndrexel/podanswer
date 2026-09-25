@@ -1,0 +1,139 @@
+{
+  "slug": "web-design-business-with-josh-hall",
+  "title": "Web Design Business with Josh Hall",
+  "author": "Josh Hall",
+  "description": "A weekly podcast helping web designers build profitable businesses with freedom and a lifestyle they love, featuring interviews, coaching episodes, and case studies on pricing, tools, and running a web design business.",
+  "category": "technology",
+  "website": "https://joshhall.co/",
+  "feedUrl": "https://rss.buzzsprout.com/636862.rss",
+  "imageUrl": "https://storage.buzzsprout.com/y9ru04ie3b11u51evaa1bdj0bmj3?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/web-design-business-with-josh-hall/id1484689808",
+  "spotifyUrl": "https://open.spotify.com/show/54Lw9cfbfIPLQvc7ANmMmL",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19794709",
+      "title": "441 - Web Designer Pro® 3.0",
+      "publishedAt": "2026-09-14",
+      "summary": "A behind-the-scenes keynote on the evolution of Josh's Web Designer Pro community, including platform changes, new roles, course roadmap updates, and tier restructuring through 2026.",
+      "audioUrl": "https://www.buzzsprout.com/636862/episodes/19794709-441-web-designer-pro-3-0.mp3",
+      "durationSec": 4398,
+      "episodeUrl": "https://joshhall.co/441",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19750129",
+      "title": "440 - From Freelancer Stuck at 70k to Multi-6-Figure Agency Owner with Marc Hyde",
+      "publishedAt": "2026-09-07",
+      "summary": "Case study with Marc Hyde on moving from a stuck freelancer to a multi-six-figure agency through recurring revenue, support plans, and building a team.",
+      "audioUrl": "https://www.buzzsprout.com/636862/episodes/19750129-440-from-freelancer-stuck-at-70k-to-multi-6-figure-agency-owner-marc-hyde.mp3",
+      "durationSec": 4427,
+      "episodeUrl": "https://joshhall.co/440",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19717410",
+      "title": "439 - Why We're Sticking with Divi 5 with Ania Romańska",
+      "publishedAt": "2026-08-31",
+      "summary": "Ania Romańska on the Divi 5 transition, implementing design systems, and the new features that speed up her workflow.",
+      "audioUrl": "https://www.buzzsprout.com/636862/episodes/19717410-439-why-we-re-sticking-with-divi-5-with-ania-romanska.mp3",
+      "durationSec": 3752,
+      "episodeUrl": "https://joshhall.co/439",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19677815",
+      "title": "438 - Why I Moved from ManageWP to WPUmbrella",
+      "publishedAt": "2026-08-24",
+      "summary": "A solo episode on switching WordPress maintenance tools, covering GoDaddy acquisition concerns, security, backup scalability, and automated client reporting.",
+      "audioUrl": "https://www.buzzsprout.com/636862/episodes/19677815-438-why-i-moved-from-managewp-to-wpumbrella.mp3",
+      "durationSec": 1028,
+      "episodeUrl": "https://joshhall.co/438",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19643904",
+      "title": "437 - Creating an AI Policy for Your Web Design Biz",
+      "publishedAt": "2026-08-17",
+      "summary": "Josh shares a free AI policy starter template that addresses client concerns about AI-generated design, discloses which AI tools you use, sets confidentiality safeguards, and draws boundaries around AI-generated work from clients.",
+      "audioUrl": "https://www.buzzsprout.com/636862/episodes/19643904-437-creating-an-ai-policy-for-your-web-design-biz.mp3",
+      "durationSec": 1852,
+      "episodeUrl": "https://joshhall.co/437",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19610627",
+      "title": "436 - Will Courses Survive with AI? with Chris Badgett of Lifter LMS",
+      "publishedAt": "2026-08-10",
+      "summary": "Chris Badgett, CEO of LifterLMS, on the future of online courses amid AI, authentic teaching, the value of community, and designing courses that last.",
+      "audioUrl": "https://www.buzzsprout.com/636862/episodes/19610627-436-will-courses-survive-with-ai-with-chris-badgett-of-lifter-lms.mp3",
+      "durationSec": 4303,
+      "episodeUrl": "https://joshhall.co/436",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-should-an-ai-policy-for-a-small-business-include",
+      "question": "What should an AI policy for a small business include?",
+      "metaDescription": "Josh Hall of the Web Design Business podcast shares his AI policy template: human-first mission, disclosed tools, confidentiality, boundaries.",
+      "episodeGuid": "Buzzsprout-19643904",
+      "intro": "An AI policy for a small business should include a short mission statement, a plain disclosure of which AI tools you use and how, a confidentiality section explaining what happens to client data, and clear boundaries on AI-generated work coming from clients. Josh Hall lays out exactly that on the Web Design Business podcast, using the policy he wrote for his own business as a template. His advice is to get a draft published this week rather than waiting for a perfect version.",
+      "sections": [
+        {
+          "heading": "Lead with what you are, not what you're avoiding",
+          "body": "Josh's policy opens with a mission statement, and it's worth copying the approach even if your wording differs. His is short: a human-first design experience that helps clients stand out. The point is to frame AI in terms of what your business stands for, so the rest of the policy reads as a set of principles rather than a list of restrictions.\n\nFrom there he clarifies where AI actually sits in his business. Design, strategy, and customer experience are human-first. AI is used mostly internally to help with standardized workflows. That one sentence answers the question most clients are quietly asking, which is whether the thing they're paying for was generated by a machine.\n\nIf you run any kind of service business, this framing translates directly. Say what stays human, then say where AI helps behind the scenes.",
+          "quote": {
+            "text": "We are human-first in design, strategy and customer experience, using AI primarily internally to help with standardized workflows.",
+            "speaker": "Josh Hall",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Name the tools you use",
+          "body": "The second section is a tool stack disclosure. Josh lists the main AI tools his business currently uses, and he suggests you do the same. In his case that means things like Claude, ChatGPT, AI features inside page builders, Zoom AI, Figma AI, and Canva AI.\n\nThis feels exposing at first, but it does two useful things. It shows clients you've thought about this and aren't hiding anything. And it makes the next section, confidentiality, concrete, because now the client knows exactly which tools their information might pass through.\n\nKeep the list current. Josh frames it as the tools you're using today, not a permanent commitment, so updating it every few months is expected.",
+          "quote": null
+        },
+        {
+          "heading": "Confidentiality: the section clients care about most",
+          "body": "This is the part Josh treats as non-negotiable. Clients want to know whether their data, their content, and their business details are being fed into a model that learns from them or could surface them elsewhere.\n\nHis policy states that client data is not used to train any AI model and is not knowingly shared publicly through AI tools. Backing that up, he describes a practical step: in every AI tool the business uses, the setting that allows the provider to train on your inputs is turned off.\n\nThat's a good example of the whole document. It's not legal boilerplate. It's a plain description of a real setting you can actually go and change, and then tell clients you've changed.",
+          "quote": {
+            "text": "Your data is NOT being used to train any AI LLM model or intentionally or knowingly shared publicly via AI tools.",
+            "speaker": "Josh Hall",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Boundaries on AI work coming the other way",
+          "body": "Most AI policies only cover what the business does with AI. Josh's also covers what clients bring in. His policy says the business will not accept AI-generated content and designs and then revise, refine, or code them up to its standards. If a client shows up with a site that an AI tool spat out, that's a different engagement, and he has a separate, limited AI service for redesigning sites or design systems that were previously built with AI.\n\nHe also protects his own work in the other direction. Clients may not take his human-first designs, strategy, and copy and rework them in an AI tool without permission. His word for what happens to good work fed through a generator is \"slopified.\"\n\nThe closing section confirms the team follows the same mission, tool stack, and principles, so the policy applies to everyone, not just the owner. Josh's last piece of advice is the most practical: get it up this week, even as a rough draft. It's a disclosure, and a rough disclosure beats none.",
+          "quote": {
+            "text": "Get this up this week, even just as an initial draft. This is more of a disclosure for you and your business.",
+            "speaker": "Josh Hall",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Open with a mission statement that says what stays human in your business.",
+        "Disclose the specific AI tools you use and keep the list current.",
+        "State plainly that client data isn't used to train models, and disable training settings in every tool.",
+        "Set boundaries on AI-generated work from clients and on clients reworking your work with AI.",
+        "Publish a draft this week; the policy is a disclosure, not a legal masterpiece."
+      ],
+      "faq": [
+        {
+          "q": "Do I need to tell clients I use ChatGPT or Claude?",
+          "a": "Josh's policy does exactly that, listing the main AI tools the business uses. His view is that disclosure builds trust and makes your confidentiality promises meaningful."
+        },
+        {
+          "q": "How do I keep client data out of AI training?",
+          "a": "The episode describes turning off the setting in each AI tool that allows the provider to train on your inputs, then stating in the policy that client data isn't used for training or shared publicly."
+        },
+        {
+          "q": "Should I accept AI-generated designs from clients and fix them?",
+          "a": "Josh's policy says no as part of standard work. He treats reworking AI-built sites as a separate, limited service rather than folding it into normal projects."
+        }
+      ],
+      "sourceNote": "Based on the Web Design Business with Josh Hall episode \"437 - Creating an AI Policy for Your Web Design Biz,\" released August 17, 2026, hosted by Josh Hall."
+    }
+  ]
+}

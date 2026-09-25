@@ -1,0 +1,139 @@
+{
+  "slug": "the-last-theory",
+  "title": "The Last Theory",
+  "author": "Mark Jeffery",
+  "description": "An easy-to-follow exploration of what might be the last theory of physics: Stephen Wolfram's Physics Project and what it implies about the universe.",
+  "category": "science",
+  "website": "https://lasttheory.com/",
+  "feedUrl": "https://feeds.transistor.fm/the-last-theory",
+  "imageUrl": "https://img.transistorcdn.com/VqJNGOWRlxnf7denl-TjmcL1Tw4xOVgTtV4m_bZYINI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzI2OTAwLzE2Mzk4/NjM1ODAtYXJ0d29y/ay5qcGc.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-last-theory/id1602174138",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "095a1418-2225-43af-9711-51a843a90575",
+      "title": "There are no rules in science",
+      "publishedAt": "2026-08-21",
+      "summary": "Mark argues that if we rejected every theory that broke the accepted rules of science, we'd have thrown out every major breakthrough in the history of physics. He offers a simple seven-word test that has picked out valid theories throughout that history.",
+      "audioUrl": "https://media.transistor.fm/412ebd57/46d67d8e.mp3",
+      "durationSec": 1212,
+      "episodeUrl": "https://lasttheory.com/podcast/084-there-are-no-rules-in-science",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "39f52f7f-ffdc-49c3-85de-55bcf6753762",
+      "title": "Stephen Wolfram's 10 ways to have big ideas",
+      "publishedAt": "2026-05-28",
+      "summary": "Stephen Wolfram describes ten habits behind his biggest ideas, from going back to foundations to running experiments and visualizing results.",
+      "audioUrl": "https://media.transistor.fm/2ef9c3eb/ff602539.mp3",
+      "durationSec": 722,
+      "episodeUrl": "https://lasttheory.com/podcast/083-10-ways-to-have-big-ideas",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "1f67f409-e0ed-49f3-b651-2fe523080b31",
+      "title": "Why are we in the universe we're in?",
+      "publishedAt": "2026-04-30",
+      "summary": "Mark looks at what a computational universe implies for the anthropic question, comparing three frameworks for why we find ourselves in this universe rather than another.",
+      "audioUrl": "https://media.transistor.fm/40f64d28/968389d4.mp3",
+      "durationSec": 1038,
+      "episodeUrl": "https://lasttheory.com/podcast/082-why-are-we-in-the-universe-we-are-in",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "b8849ae7-45db-459a-bd2f-98443b0806e4",
+      "title": "Wolfram on philosophy",
+      "publishedAt": "2026-03-22",
+      "summary": "Stephen Wolfram explains his discomfort with philosophical argument and his preference for concrete computer experiments.",
+      "audioUrl": "https://media.transistor.fm/63e8e95f/e3d187a5.mp3",
+      "durationSec": 439,
+      "episodeUrl": "https://lasttheory.com/podcast/081-wolfram-on-philosophy",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "8a160bc3-e0af-4a13-9485-c7f21eadc7df",
+      "title": "How different observers think differently with Stephen Wolfram",
+      "publishedAt": "2026-03-05",
+      "summary": "How an observer's scale and structure change what it perceives, from planet-sized minds to molecular ones, and why different observers would experience space, time and causality differently.",
+      "audioUrl": "https://media.transistor.fm/7ec40973/5d4b0fc5.mp3",
+      "durationSec": 593,
+      "episodeUrl": "https://lasttheory.com/podcast/080-how-different-observers-think-differently",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "ccb2c7e0-4904-4dac-bb1b-a46cabd3ed51",
+      "title": "What is time in Wolfram Physics?",
+      "publishedAt": "2026-02-05",
+      "summary": "Newton and Einstein both had to assume an axis of time. Mark explains how, in Wolfram Physics, time isn't assumed at all. It emerges from the repeated application of rules to a hypergraph, and the evolution of that hypergraph is time.",
+      "audioUrl": "https://media.transistor.fm/526403af/8e43e58c.mp3",
+      "durationSec": 1103,
+      "episodeUrl": "https://lasttheory.com/podcast/079-what-is-time-in-wolfram-physics",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-is-time-in-physics",
+      "question": "What is time in physics?",
+      "metaDescription": "Newton and Einstein assumed time. Wolfram Physics derives it. Mark Jeffery of The Last Theory explains how time can emerge from simple rules applied to a hypergraph.",
+      "episodeGuid": "ccb2c7e0-4904-4dac-bb1b-a46cabd3ed51",
+      "intro": "In most of physics, time is something you assume: an axis you lay down before you start, so you can say what happens when. In episode 79 of The Last Theory, host Mark Jeffery explains a different answer from Stephen Wolfram's Physics Project. There, time isn't assumed at all. It's what you get when simple rules are applied, over and over, to a structure called a hypergraph. The evolution of that structure is time.",
+      "sections": [
+        {
+          "heading": "Newton and Einstein both started by assuming time",
+          "body": "Mark opens by pointing out something we rarely notice. Every conventional theory of physics begins by taking time for granted. Newton assumed an absolute time, ticking the same everywhere in the universe. Einstein replaced that with a relative time that stretches and bends depending on your motion and the gravity around you. Those are very different pictures, but they share a foundation: both need an axis of time before they can describe anything.\n\nThat's not a flaw in Newton or Einstein. It's how physics has always worked. You set up space and time as the stage, then write equations for how things move on that stage. But it leaves a question hanging. Where does the stage come from? If time is just an assumption, we haven't explained it. We've only used it.",
+          "quote": {
+            "text": "Physics requires us to make assumptions about time.",
+            "speaker": "Mark Jeffery",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "A universe built from nodes, edges and one rule",
+          "body": "To see how Wolfram Physics does things differently, you need the basic picture, and Mark keeps it simple. Imagine the universe as a hypergraph: a huge collection of nodes joined by edges. Nothing else. No coordinates, no clock, no background space.\n\nNow add a rule. The rule says: wherever you find this little pattern of nodes and edges, replace it with that other pattern. Apply the rule everywhere it fits. Then apply it again to the result. And again.\n\nThat's the whole setup. Space, in this picture, is the pattern of connections in the hypergraph. Matter and energy are features of that pattern. And the thing Mark wants you to notice is that we haven't said a word about time yet, and we didn't need to.",
+          "quote": {
+            "text": "Wolfram Physics doesn't require us to make any assumptions about time.",
+            "speaker": "Mark Jeffery",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Time is what the rule does",
+          "body": "Here's the central move of the episode. Once you have a hypergraph and a rule, something happens automatically: the hypergraph changes. One state gives way to the next. That sequence of updates, one after another, is the thing we call time.\n\nMark's phrasing is blunt: the evolution of the hypergraph is time. Not something that happens in time, but time itself. There's no separate clock keeping track. The passage of time just is the successive application of the rule.\n\nThis flips the usual order of explanation. In Newton's and Einstein's physics, time comes first and events happen along it. In Wolfram's, events come first, in the form of rule applications, and time is what we call their ordering. The host stresses that this isn't a trick of language. It means a theory of physics can be written down without a time axiom, and the familiar experience of time falls out at the end rather than being fed in at the start.",
+          "quote": {
+            "text": "We need only posit the application of rules to the nodes and edges of the hypergraph, and time emerges.",
+            "speaker": "Mark Jeffery",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Why this changes more than our idea of clocks",
+          "body": "If time is emergent, a few things follow, and Mark sketches them. First, time becomes fundamentally computational. The universe isn't solving equations that were true for all time. It's doing something, step by step, and the steps can't be skipped. You can't know the future without running the rule, which Wolfram calls computational irreducibility.\n\nSecond, it opens a door to Einstein rather than closing one. In the hypergraph, rule applications in different regions don't have a fixed order, and different observers can slice that sequence differently. That's where the relativity of time can come from, not as an assumption but as a consequence of how updates can be ordered.\n\nMark is careful to call the Wolfram Physics Project a candidate, not an established theory. But he thinks the way it handles time is one of the strongest reasons to take it seriously. A theory that has to assume time can never explain it. One that derives time has at least a chance.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Conventional physics, from Newton to Einstein, begins by assuming an axis of time.",
+        "In Wolfram Physics the universe is a hypergraph of nodes and edges, updated by a simple rewriting rule.",
+        "Time isn't added to that picture. It emerges as the sequence of rule applications. The evolution of the hypergraph is time.",
+        "This makes time computational: the future can't be read off in advance, it has to be computed step by step.",
+        "Because updates can be ordered differently by different observers, relativity's flexible time can arise rather than being assumed."
+      ],
+      "faq": [
+        {
+          "q": "Is time real in Wolfram Physics, or an illusion?",
+          "a": "It's real, but derived. Time is the actual sequence of updates the universe goes through. It just isn't a separate ingredient that has to be assumed before anything else."
+        },
+        {
+          "q": "How does this fit with Einstein's relativity?",
+          "a": "Rule applications in different parts of the hypergraph have no fixed order, so different observers can sequence them differently. That freedom is where relativity's observer-dependent time is expected to come from."
+        },
+        {
+          "q": "Is the Wolfram Physics Project accepted by physicists?",
+          "a": "No, it's a proposed framework still under development and debate. The Last Theory presents it as a promising candidate worth understanding, not as settled science."
+        }
+      ],
+      "sourceNote": "Based on The Last Theory episode 79, \"What is time in Wolfram Physics?\", released February 5, 2026. Credit to host Mark Jeffery and The Last Theory podcast."
+    }
+  ]
+}

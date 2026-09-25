@@ -1,0 +1,127 @@
+{
+  "slug": "cosmic-coffee-time-with-andrew-prestage",
+  "title": "Cosmic Coffee Time with Andrew Prestage",
+  "author": "Andrew Prestage",
+  "description": "Bite sized podcasts making sense of space, astronomy, life, and the universe, best enjoyed with a coffee.",
+  "category": "science",
+  "website": "http://cosmiccoffeetime.buzzsprout.com",
+  "feedUrl": "https://feeds.buzzsprout.com/322577.rss",
+  "imageUrl": "https://storage.buzzsprout.com/6lmxly3l40on9g93at1s7efu530d?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/cosmic-coffee-time-with-andrew-prestage/id1475426054",
+  "spotifyUrl": "https://open.spotify.com/show/4IC9yZ18hYtEm7hd4B7w88",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19727836",
+      "title": "#96 The James Webb Space Telescope",
+      "publishedAt": "2026-09-01",
+      "summary": "A look at the most powerful space telescope ever built, its 6.5 metre mirror and infrared instruments, and what its discoveries about ancient galaxies and exoplanet atmospheres mean for our view of the universe.",
+      "audioUrl": "https://www.buzzsprout.com/322577/episodes/19727836-96-the-james-webb-space-telescope-the-world-s-most-powerful-space-telescope-with-a-6-5-metre-mirror-and-infrared-instruments-in-a-distant-orbit-discover-how-this-remarkable-observatory-could-transform-our-view-.mp3",
+      "durationSec": 670,
+      "episodeUrl": "https://www.buzzsprout.com/322577/episodes/19727836",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19562617",
+      "title": "#95 Cosmic Coincidences",
+      "publishedAt": "2026-08-01",
+      "summary": "Andrew looks at some of the strangest coincidences in space, including why the Sun and Moon appear the same size from Earth. These oddities carry no special meaning but show how improbable the universe can be.",
+      "audioUrl": "https://www.buzzsprout.com/322577/episodes/19562617-95-of-the-enormous-number-of-things-that-happen-in-the-universe-a-few-of-them-throw-up-some-really-interesting-coincidences-let-s-take-a-look-at-some-of-these.mp3",
+      "durationSec": 532,
+      "episodeUrl": "https://www.buzzsprout.com/322577/episodes/19562617",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19423116",
+      "title": "#94 Artemis III Crew Selection",
+      "publishedAt": "2026-07-01",
+      "summary": "Profiles of the four astronauts chosen for Artemis III, which will test lunar landing hardware in Earth orbit through rendezvous and docking operations.",
+      "audioUrl": "https://www.buzzsprout.com/322577/episodes/19423116-94-the-artemis-iii-crew-has-been-selected-who-are-they-what-are-their-skills-and-what-will-they-do-on-the-next-artemis-flight.mp3",
+      "durationSec": 488,
+      "episodeUrl": "https://www.buzzsprout.com/322577/episodes/19423116",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19264046",
+      "title": "#93 Asteroid Deflection",
+      "publishedAt": "2026-06-01",
+      "summary": "What would we do if another extinction level asteroid was heading for Earth? Andrew covers how we monitor the skies to find dangerous objects early, the strategies for managing high risk objects, and the dramatic 2022 test that proved deflection works.",
+      "audioUrl": "https://www.buzzsprout.com/322577/episodes/19264046-93-what-can-we-do-to-stop-another-dinosaur-extinction-asteroid-smashing-into-earth.mp3",
+      "durationSec": 628,
+      "episodeUrl": "https://www.buzzsprout.com/322577/episodes/19264046",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19201009",
+      "title": "#92 A Brief History of the Universe with Dr. Sarah Alam Malik",
+      "publishedAt": "2026-05-19",
+      "summary": "Particle physicist and author Dr. Sarah Alam Malik joins Andrew to trace the history of astronomy from ancient observers to modern physics, and to talk about how confronting the scale of the universe changes how we see ourselves.",
+      "audioUrl": "https://www.buzzsprout.com/322577/episodes/19201009-92-particle-physicist-and-author-dr-sarah-alam-malik-joins-us-to-explore-the-history-of-astronomy-and-the-universe-her-new-book-a-brief-history-of-the-universe-takes-us-from-ancient-astronomers-to-modern-physic.mp3",
+      "durationSec": 1733,
+      "episodeUrl": "https://www.buzzsprout.com/322577/episodes/19201009",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19089220",
+      "title": "#91 Future Artemis Missions",
+      "publishedAt": "2026-05-01",
+      "summary": "After the success of Artemis 2, Andrew looks ahead to what Artemis 3 and 4 will achieve, including the first human return to the lunar surface since 1972.",
+      "audioUrl": "https://www.buzzsprout.com/322577/episodes/19089220-91-what-s-next-for-the-artemis-program-artemis-2-was-incredible-but-let-s-take-a-look-at-what-artemis-3-4-will-achieve-in-the-next-couple-of-years-it-s-amazing.mp3",
+      "durationSec": 436,
+      "episodeUrl": "https://www.buzzsprout.com/322577/episodes/19089220",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "could-we-stop-an-asteroid-from-hitting-earth",
+      "question": "Could we stop an asteroid from hitting Earth?",
+      "metaDescription": "Yes, if we find it early. Andrew Prestage of Cosmic Coffee Time explains how we track dangerous asteroids and how the 2022 DART test proved deflection works.",
+      "episodeGuid": "Buzzsprout-19264046",
+      "intro": "Yes, and we've already proved it once. In episode 93 of Cosmic Coffee Time, host Andrew Prestage walks through what would happen if another dinosaur-killing asteroid was found on a collision course with Earth. The short version: we watch the skies to catch these objects early, we have real strategies for nudging them off course, and a dramatic 2022 test showed that a spacecraft can measurably change an asteroid's path.",
+      "sections": [
+        {
+          "heading": "What the dinosaurs didn't have: a warning",
+          "body": "Andrew opens with the event everyone knows. About 66 million years ago an asteroid slammed into Earth and wiped out nearly all of the dinosaurs, along with most other life on the planet. The dinosaurs had no telescopes, no tracking programs and no idea it was coming.\n\nThat's the first big difference between then and now. The host explains that the whole game of planetary defense starts with detection. An asteroid you've spotted decades in advance is a manageable problem. One you spot a week out is not. So the most important work isn't a rocket or a bomb. It's a survey.\n\nSurvey telescopes scan the sky night after night, looking for faint points of light that move against the background stars. Once an object is found, follow-up observations pin down its orbit, and that orbit can be projected forward for a century or more. That's how we know which near-Earth objects are worth worrying about and which ones will miss us by a comfortable margin.",
+          "quote": null
+        },
+        {
+          "heading": "How you actually move a mountain-sized rock",
+          "body": "Once you know an asteroid is a threat, what do you do about it? The host runs through the main strategies for managing high risk objects, and the surprising thing is how gentle most of them are.\n\nThe key insight is that you don't need to destroy the asteroid. You need to change its speed by a tiny amount, years before the predicted impact. Even a change of a few millimetres per second adds up over a long enough time, turning a direct hit into a clean miss.\n\nThe most tested approach is the kinetic impactor: you fly a spacecraft into the asteroid at high speed and let momentum do the work. The impact itself gives one push, and the debris blasted off the surface gives an extra push in the same direction. Other options that get discussed in planetary defense circles include the gravity tractor, where a spacecraft hovers near the asteroid for years and lets its own gravity slowly tug the rock off course, and, as a last resort for something very large or found very late, a nuclear device detonated nearby to vaporize part of the surface and shove the rest.\n\nAndrew's point is that the earlier you act, the less force you need. Time is the cheapest ingredient in the whole plan.",
+          "quote": null
+        },
+        {
+          "heading": "The 2022 test that turned theory into fact",
+          "body": "The centerpiece of the episode is what Andrew calls a dramatic test from 2022. That's NASA's DART mission, the Double Asteroid Redirection Test.\n\nDART targeted Dimorphos, a small moonlet orbiting a larger asteroid called Didymos. Neither posed any danger to Earth, which is exactly why it made a good target. Because Dimorphos orbits Didymos, astronomers could measure its orbital period from the ground before and after the impact and see whether anything changed.\n\nIn September 2022 the DART spacecraft hit Dimorphos head-on. The moonlet's orbit around Didymos shortened by roughly half an hour, far more than the minimum the mission needed to count as a success. The debris thrown off by the impact gave a bigger extra push than expected, which is good news for anyone planning a future deflection.\n\nThe host explains that this was the moment the idea stopped being a science fiction plot and became an engineering result. We now have real numbers on how much a kinetic impactor can move a rock of a given size.",
+          "quote": null
+        },
+        {
+          "heading": "So how worried should you be?",
+          "body": "Not very, at least not tonight. The large asteroids capable of causing a global catastrophe are the easiest to find because they're the brightest, and the overwhelming majority of them have already been catalogued. None of the known ones are on a collision course in the foreseeable future.\n\nThe honest gap, as the episode makes clear, is in the mid-sized objects: rocks big enough to flatten a city but small enough to hide from surveys until they're close. That's where new survey telescopes and space-based infrared observatories come in, and it's why detection budgets matter as much as deflection hardware.\n\nAndrew's takeaway is optimistic. For the first time in the history of life on Earth, a species has both the ability to see an extinction-level asteroid coming and a tested method for doing something about it. The dinosaurs would have loved that.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Planetary defense starts with detection. Survey telescopes find asteroids years or decades before any possible impact.",
+        "You don't blow up the asteroid. You nudge it. A tiny change in speed, applied early, turns a hit into a miss.",
+        "NASA's 2022 DART mission hit the moonlet Dimorphos and shortened its orbit by about half an hour, proving kinetic impactors work.",
+        "Nearly all of the largest, most dangerous near-Earth asteroids are already catalogued and none threaten us in the foreseeable future.",
+        "The remaining risk is mid-sized objects, which is why continued sky surveys matter as much as deflection technology."
+      ],
+      "faq": [
+        {
+          "q": "How much warning would we need to deflect an asteroid?",
+          "a": "The more the better. With a decade or more of warning, a small kinetic push is enough. With only months, options shrink to evacuation or a much more forceful intervention."
+        },
+        {
+          "q": "Did the DART mission actually change the asteroid's orbit?",
+          "a": "Yes. DART struck Dimorphos in September 2022 and shortened its orbit around Didymos by roughly 30 minutes, well beyond the mission's success threshold."
+        },
+        {
+          "q": "Are there any known asteroids that will hit Earth?",
+          "a": "No known asteroid is on a collision course with Earth in the foreseeable future. Tracking programs continue to monitor thousands of near-Earth objects and refine their orbits."
+        }
+      ],
+      "sourceNote": "Based on episode #93 of Cosmic Coffee Time with Andrew Prestage, released June 1, 2026. Credit to Andrew Prestage and the Cosmic Coffee Time podcast."
+    }
+  ]
+}

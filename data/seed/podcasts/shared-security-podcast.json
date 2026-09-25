@@ -1,0 +1,139 @@
+{
+  "slug": "shared-security-podcast",
+  "title": "Shared Security Podcast",
+  "author": "Tom Eston, Scott Wright, Kevin Tackett",
+  "description": "Shared Security is the longest-running cybersecurity and privacy podcast, where industry veterans break down the week's security WTF moments, privacy fails, human mistakes and 'why is this still a problem?' stories with humor, honesty and real-world experience.",
+  "category": "technology",
+  "website": "https://sharedsecurity.net/",
+  "feedUrl": "https://feeds.transistor.fm/shared-security-podcast",
+  "imageUrl": "https://img.transistorcdn.com/0QNRM12e_p4LUUwjb5MlEUQHBtnuVuScVqz1ZTKmegg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYWI5/YjhhNTU1NjFkZmJh/ZWNhZjM3ZTdlNTIy/ODJhMC5qcGc.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/shared-security-podcast/id329032812",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "b8435df5-196b-4dbb-9dae-2030935407b5",
+      "title": "153 Million Driver's Licenses for Sale: Why Identity Verification Is Broken",
+      "publishedAt": "2026-09-14",
+      "summary": "A dark web service selling millions of driver's license scans exposes how broken identity verification has become. The hosts look at ID scanners, vendors and data sharing as a supply chain risk, and what privacy-preserving verification should look like.",
+      "audioUrl": "https://media.transistor.fm/b7b65fe1/3639addc.mp3",
+      "durationSec": 1213,
+      "episodeUrl": "https://sharedsecurity.net/2026/09/14/153-million-drivers-licenses-for-sale-why-identity-verification-is-broken/",
+      "transcriptUrl": "https://share.transistor.fm/s/b7b65fe1/transcript.srt"
+    },
+    {
+      "guid": "a4fe04ce-553d-4bb7-b4d1-651df7461fe3",
+      "title": "Is Hotel WiFi Safe?",
+      "publishedAt": "2026-09-07",
+      "summary": "Tom and Scott break down Microsoft's CaptiveCrunch research on manipulated hotel captive portals used for credential phishing and malware delivery. They cover what HTTPS and VPNs actually protect, why a lock icon doesn't prove a page is legitimate, warning signs that should make you disconnect, and when a cellular hotspot is the better choice.",
+      "audioUrl": "https://media.transistor.fm/ca1622e9/ec6d04b9.mp3",
+      "durationSec": 873,
+      "episodeUrl": "https://sharedsecurity.net/2026/09/07/is-hotel-wifi-safe/",
+      "transcriptUrl": "https://share.transistor.fm/s/ca1622e9/transcript.srt"
+    },
+    {
+      "guid": "a4218dac-a7a0-4bd6-9e86-a2029dd5aaa4",
+      "title": "Could a Pattern on Your Clothing Fool Facial Recognition? Interview with Bill Swearingen",
+      "publishedAt": "2026-08-31",
+      "summary": "Tom interviews researcher Bill Swearingen about adversarial clothing that confuses AI vision systems, the difference between person detection and facial recognition, and what it means for biometric surveillance.",
+      "audioUrl": "https://media.transistor.fm/247c50ba/c6e95998.mp3",
+      "durationSec": 1662,
+      "episodeUrl": "https://sharedsecurity.net/2026/08/30/could-a-pattern-on-your-clothing-fool-facial-recognition/",
+      "transcriptUrl": "https://share.transistor.fm/s/247c50ba/transcript.srt"
+    },
+    {
+      "guid": "a2f519c4-192d-4b98-9ac3-2a5f0cf6d4ff",
+      "title": "What Happens to Your Digital Life When You Die?",
+      "publishedAt": "2026-08-24",
+      "summary": "Scott Wright walks through his Digital Legacy Tree framework for organizing account access, passwords and digital assets so loved ones can manage them after death or incapacity.",
+      "audioUrl": "https://media.transistor.fm/7e29f3a8/192d40c1.mp3",
+      "durationSec": 1281,
+      "episodeUrl": "https://sharedsecurity.net/2026/08/24/what-happens-to-your-digital-life-when-you-die/",
+      "transcriptUrl": "https://share.transistor.fm/s/7e29f3a8/transcript.srt"
+    },
+    {
+      "guid": "165c111c-ae0d-4a61-87c2-5ec110d19c5d",
+      "title": "Flock Cameras Exposed: Traffic Tickets, ALPRs, and Vehicle Surveillance",
+      "publishedAt": "2026-08-17",
+      "summary": "The hosts discuss how license plate reader networks built for serious crimes are drifting into routine traffic enforcement, plus data retention and emerging phone-tracking technology.",
+      "audioUrl": "https://media.transistor.fm/a880f103/12d8120d.mp3",
+      "durationSec": 1513,
+      "episodeUrl": "https://sharedsecurity.net/2026/08/17/flock-cameras-exposed-traffic-tickets-alprs-and-vehicle-surveillance/",
+      "transcriptUrl": "https://share.transistor.fm/s/a880f103/transcript.srt"
+    },
+    {
+      "guid": "9e7a5548-7f4f-491e-ad23-1169cf953e36",
+      "title": "GrapheneOS Phone Wipe Case: When Privacy Tools Become Evidence",
+      "publishedAt": "2026-08-10",
+      "summary": "A federal case involving a phone wiped at an airport raises the question of whether privacy tools themselves get treated as suspicious during device searches, with a discussion of duress codes and travel threat modeling.",
+      "audioUrl": "https://media.transistor.fm/d690d1b5/5ffa685f.mp3",
+      "durationSec": 985,
+      "episodeUrl": "https://sharedsecurity.net/2026/08/10/grapheneos-phone-wipe-case-when-privacy-tools-become-evidence/",
+      "transcriptUrl": "https://share.transistor.fm/s/d690d1b5/transcript.srt"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "is-hotel-wifi-safe-to-use",
+      "question": "Is hotel WiFi safe to use?",
+      "metaDescription": "Hotel WiFi isn't automatically dangerous, but you should never blindly trust it. Tom Eston and Scott Wright of Shared Security explain the red flags and when to use your phone instead.",
+      "episodeGuid": "a4fe04ce-553d-4bb7-b4d1-651df7461fe3",
+      "intro": "Hotel WiFi is not automatically unsafe, but it's never a network you should blindly trust. That's the verdict from Tom Eston and Scott Wright on episode 577 of the Shared Security Podcast, recorded after Microsoft published research on a campaign called CaptiveCrunch that used fake hotel login pages to steal passwords and push malware. The practical answer: use it for low-stakes browsing if the login process looks normal, disconnect the moment anything looks off, and use your phone's hotspot for anything that matters.",
+      "sections": [
+        {
+          "heading": "The login page is where attacks happen",
+          "body": "Almost every hotel network starts with a captive portal, the page that pops up asking for your room number and last name or an email address. Tom explains that this page is the weak point, because you're already expecting to type something into it. Microsoft's CaptiveCrunch reporting described attackers manipulating those portals so that instead of a normal hotel form, guests saw prompts for their Microsoft account, a device code login, or a download claiming to be a required security scan.\n\nThe hosts' advice is to treat the captive portal as the moment to slow down rather than the moment to click through. A real hotel portal asks for room details or an email and nothing else. It does not ask for your Microsoft, Google or Apple password. It does not ask you to enter a code on another device. It does not ask you to install anything.",
+          "quote": {
+            "text": "the moment your phone or laptop throws up a hotel login page is exactly when you should slow down and pay attention",
+            "speaker": "Tom Eston",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "What the lock icon does and doesn't prove",
+          "body": "A lot of people have been taught that HTTPS and the padlock mean a page is safe. Tom pushes back on that. The padlock means your connection to that page is encrypted. It says nothing about who owns the page. Attackers get valid certificates for their fake portals all the time, so a phishing page can show a perfectly normal lock.\n\nWhat HTTPS does protect is the content of your traffic to legitimate sites. If you're on your bank's real website over HTTPS, someone on the same hotel network can't read what you're sending. The risk on a hostile network isn't usually eavesdropping on encrypted traffic. It's being tricked into handing over credentials on a page that looks right.\n\nSo the check isn't \"is there a lock.\" It's \"is this the page I expect, asking for the thing a hotel would reasonably ask for.\"",
+          "quote": {
+            "text": "that doesn't mean you're on the legitimate page. It only means that you've got SSL or TLS turned on",
+            "speaker": "Tom Eston",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "A VPN helps, but not with the thing people assume",
+          "body": "Scott addresses the other common belief, that a VPN makes any network safe. A VPN encrypts your traffic between your device and the VPN provider, which hides what you're doing from the hotel network and anyone sniffing it. That's genuinely useful, especially on a network you don't control.\n\nBut the hosts point out what it doesn't do. A VPN can't connect until you've gotten through the captive portal, so it offers no protection during the exact step where CaptiveCrunch attacks happen. And if you're tricked into downloading a fake security tool, a VPN does nothing to stop that malware from running. Scott's summary is that a VPN is for hiding web traffic, not for stopping a malware-style attack.\n\nUse one on hotel WiFi, by all means. Just don't let it make you careless at the login screen.",
+          "quote": null
+        },
+        {
+          "heading": "Red flags that mean disconnect now",
+          "body": "The episode gives a short list of signs that a hotel network isn't what it claims to be, and the advice for each is the same: disconnect and use something else.\n\nMultiple similar network names is the first. Scott describes walking into a hotel and seeing four or five networks, one of which is a lookalike like \"Hilton Free WiFi.\" Ask the front desk for the exact network name and ignore the rest.\n\nSecond, any prompt that doesn't fit. If you connect and instead of a hotel login you get a Microsoft sign-in, an antivirus warning, a request to install a certificate or a download, that's not normal. Tom's rule is simple: if you're not seeing a hotel login page, that's your first warning sign.\n\nThird, certificate warnings and unexpected popups once you're connected. And fourth, Scott adds, weird email after you've entered your address into a portal. That's a hint the portal was harvesting.\n\nFor anything sensitive, both hosts default to the same alternative. Tom says he uses his phone's built-in personal hotspot, and the speed and quality are often better than the hotel's network anyway. Cellular data isn't perfect, but it takes the hotel, and whoever is lurking on its network, out of the picture entirely. As Tom puts it, the right answer depends on your threat model, on who you are and what you're doing online. For most travelers, though, a hotspot for email and banking and hotel WiFi for streaming is a sensible split.",
+          "quote": {
+            "text": "you're not seeing a hotel login page. That should be your first warning sign that something else is going on",
+            "speaker": "Tom Eston",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Hotel WiFi isn't inherently dangerous, but the captive portal login page is where real attacks like CaptiveCrunch happen.",
+        "A legitimate hotel portal asks for a room number or email. It never asks for your Microsoft or Google password, a device code, or a download.",
+        "The HTTPS padlock proves encryption, not legitimacy. Phishing pages have valid certificates too.",
+        "A VPN hides your traffic but can't protect you during the portal login and won't stop malware you install yourself.",
+        "Confirm the exact network name at the front desk, disconnect at the first odd prompt, and use your phone's hotspot for anything sensitive."
+      ],
+      "faq": [
+        {
+          "q": "Should I use a VPN on hotel WiFi?",
+          "a": "Yes, it's a good idea for hiding your traffic from the network. Just remember it can't connect until after the captive portal, so it won't protect you from a fake login page."
+        },
+        {
+          "q": "Is it safe to log into my bank on hotel WiFi?",
+          "a": "The hosts recommend using your phone's cellular hotspot for banking and email instead. If you must use hotel WiFi, make sure you got through a normal portal, type the bank's address yourself, and never follow links from popups."
+        },
+        {
+          "q": "What should I do if I already entered my password on a suspicious hotel login page?",
+          "a": "Change that password immediately from a trusted connection, turn on two-factor authentication if you haven't, and check the account's recent sign-in activity for anything you don't recognize."
+        }
+      ],
+      "sourceNote": "Based on Shared Security Podcast episode 577, \"Is Hotel WiFi Safe?\", released September 7, 2026. Credit to hosts Tom Eston and Scott Wright and the Shared Security Podcast."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "small-business-tax-savings-podcast",
+  "title": "Small Business Tax Savings Podcast",
+  "author": "Mike Jesowshek, CPA",
+  "description": "The Small Business Tax Savings Podcast is designed specifically for small business owners, focused on tax savings and ways to have a financially sound backbone to your small business.",
+  "category": "money",
+  "website": "https://www.taxsavingspodcast.com",
+  "feedUrl": "https://rss.buzzsprout.com/1837660.rss",
+  "imageUrl": "https://storage.buzzsprout.com/8d65x4tfi60fy1272mlj7vj79ghp?.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/small-business-tax-savings-podcast/id1377376636",
+  "spotifyUrl": "https://open.spotify.com/show/7fgb35H7hdfDq336TGwfd1",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-19741412",
+      "title": "Can Bitcoin Mining Lower Your Tax Bill?",
+      "publishedAt": "2026-09-02",
+      "summary": "Mike explores whether buying Bitcoin mining equipment can let business owners earn crypto while claiming tax deductions. He walks through upfront costs, participation requirements, and why a write-off alone shouldn't drive an investment decision.",
+      "audioUrl": "https://op3.dev/e/www.buzzsprout.com/1837660/episodes/19741412-can-bitcoin-mining-lower-your-tax-bill.mp3",
+      "durationSec": 2143,
+      "episodeUrl": "https://www.buzzsprout.com/1837660/episodes/19741412",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19712252",
+      "title": "MASTERCLASS: How to Cut Your Tax Bill by $15,000 or More",
+      "publishedAt": "2026-08-28",
+      "summary": "A short announcement for Mike's free 90-minute masterclass covering his three-step Tax Shift System, proactive planning, and tactics like S Corp elections.",
+      "audioUrl": "https://op3.dev/e/www.buzzsprout.com/1837660/episodes/19712252-masterclass-how-to-cut-your-tax-bill-by-15-000-or-more.mp3",
+      "durationSec": 148,
+      "episodeUrl": "https://www.buzzsprout.com/1837660/episodes/19712252",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19704877",
+      "title": "Opportunity Zones in 2026 vs. 2027: What Investors Need to Know",
+      "publishedAt": "2026-08-26",
+      "summary": "Mike explains how Qualified Opportunity Zones work for investors with capital gains, including the timing differences between 2026 rules and new 2027 provisions, deferral periods, and basis increases.",
+      "audioUrl": "https://op3.dev/e/www.buzzsprout.com/1837660/episodes/19704877-opportunity-zones-in-2026-vs-2027-what-investors-need-to-know.mp3",
+      "durationSec": 1395,
+      "episodeUrl": "https://www.buzzsprout.com/1837660/episodes/19704877",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19670093",
+      "title": "Tax Q&A: Can I Deduct My Dog, Claim My Kitchen as a Home Office, and Ignore Venmo Income?",
+      "publishedAt": "2026-08-19",
+      "summary": "A listener Q&A covering pet deductions, hiring your children, home office requirements, mileage tracking, and why unreported Venmo income creates compliance risk.",
+      "audioUrl": "https://op3.dev/e/www.buzzsprout.com/1837660/episodes/19670093-tax-q-a-can-i-deduct-my-dog-claim-my-kitchen-as-a-home-office-and-ignore-venmo-income.mp3",
+      "durationSec": 1358,
+      "episodeUrl": "https://www.buzzsprout.com/1837660/episodes/19670093",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19631921",
+      "title": "How Business Owners Use Life Insurance to Build Wealth",
+      "publishedAt": "2026-08-12",
+      "summary": "A look at cash value life insurance as a wealth-building tool for high-income owners, covering tax-deferred growth, policy loans, and how a properly structured policy adds financial flexibility.",
+      "audioUrl": "https://op3.dev/e/www.buzzsprout.com/1837660/episodes/19631921-how-business-owners-use-life-insurance-to-build-wealth.mp3",
+      "durationSec": 2152,
+      "episodeUrl": "https://www.buzzsprout.com/1837660/episodes/19631921",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "Buzzsprout-19602925",
+      "title": "How Much Should You Pay Yourself as an S Corp Owner?",
+      "publishedAt": "2026-08-05",
+      "summary": "Mike explains how to determine a reasonable S Corp salary based on your role, hours, local market wages, business profit, and cash flow. He covers payroll timing, salary adjustments, and the documentation that protects your S Corp tax savings.",
+      "audioUrl": "https://op3.dev/e/www.buzzsprout.com/1837660/episodes/19602925-how-much-should-you-pay-yourself-as-an-s-corp-owner.mp3",
+      "durationSec": 1109,
+      "episodeUrl": "https://www.buzzsprout.com/1837660/episodes/19602925",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-much-should-you-pay-yourself-as-an-s-corp-owner",
+      "question": "How much should you pay yourself as an S Corp owner?",
+      "metaDescription": "CPA Mike Jesowshek explains how to set a reasonable S Corp salary using market wages, profit, and hours, plus how to document it so the IRS can't undo it.",
+      "episodeGuid": "Buzzsprout-19602925",
+      "intro": "Enough that you could defend it to the IRS, and not a dollar more than you need to. On the Small Business Tax Savings Podcast, CPA Mike Jesowshek explains that a reasonable S Corp salary is based on what your business would pay someone else to do your job, adjusted for profit and cash flow. A common starting point is 40 to 50 percent of profit, but the real answer comes from a documented analysis of your actual role.",
+      "sections": [
+        {
+          "heading": "What the IRS means by reasonable compensation",
+          "body": "The whole reason an S Corp saves money is that only your W-2 salary is subject to payroll taxes. Profit that comes out as a distribution avoids them. So the temptation is obvious: set the salary as low as possible and take everything else as distributions.\n\nMike's warning is that the lowest possible salary might save taxes today but can create a much bigger bill later. If you actively work in the business, the IRS expects you to take a reasonable W-2 salary based on what the company would pay an outside person to do the same work. Pay yourself $12,000 on $300,000 of profit and you're inviting a reclassification of those distributions as wages, with back payroll taxes, penalties, and interest.\n\nThe goal he sets out isn't a high salary or a low one. It's a defensible, documented salary that's supported by a clear process and adjusted as the business changes.",
+          "quote": null
+        },
+        {
+          "heading": "The factors that actually move the number",
+          "body": "Mike lists what determines reasonable compensation. Your responsibilities. Your hours. Your industry and location. How directly you generate revenue. The company's profit and available cash flow. The stage of growth the business is in.\n\nTwo owners with identical profits can land on very different salaries. The host walks through an example of exactly that: same profit, but one owner works full time doing the core technical work while the other has a team doing most of it and mostly oversees. The first owner's reasonable salary is much higher because the replacement cost of that labor is much higher.\n\nThis is also why your salary shouldn't be frozen. If you step back from day-to-day work, or profit doubles, the analysis should be revisited.",
+          "quote": null
+        },
+        {
+          "heading": "Two ways to calculate it: the percentage shortcut and the replacement-cost method",
+          "body": "**The percentage method.** A lot of owners use a rule of thumb that salary should be 40 to 50 percent of business profit, sometimes called the 40/60 split. Mike says it can be a reasonable starting point, but a percentage alone doesn't replace a full reasonable compensation analysis. It's a sanity check, not a defense.\n\n**The market wage or replacement-cost method.** This is the approach the host prefers. Break your work into the roles you actually fill: technical work, sales, marketing, administration. Estimate the hours you spend in each. Then look up local market wages for each role and add it up. If you spend 20 hours a week doing $60-an-hour technical work and 10 hours doing $25-an-hour admin, that math produces a number you can point to.\n\nAfter you have that figure, compare it to profit. Mike notes reasonable compensation must still make sense relative to what the company earns, how involved you are, whether cash is available, and whether money is being distributed or reinvested. A $150,000 market wage doesn't work if the business only nets $90,000.",
+          "quote": null
+        },
+        {
+          "heading": "Payroll timing and the paperwork that protects you",
+          "body": "Mike recommends running payroll monthly or biweekly rather than one lump sum in December. He suggests a review later in the year to adjust the salary up or down and make any catch-up payments before year end.\n\nFor documentation, keep a written salary analysis in your files. Include a description of your duties, estimated hours, the market-wage data you used, payroll records, profit information, and notes from your year-end review. If the IRS ever asks how you arrived at the number, that folder is your answer.\n\nThe host's closing point is that the strongest S Corp strategy isn't chasing the smallest salary. It's a salary that's reasonable, defensible, and documented, so the tax savings you're getting from the S Corp actually hold up.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "A reasonable S Corp salary is what your business would pay someone else to do your job, not the lowest number you can get away with.",
+        "The 40 to 50 percent of profit rule is a starting point, not a defense. Back it up with a real analysis.",
+        "Use the replacement-cost method: split your work into roles, estimate hours, and apply local market wages for each.",
+        "Check the result against profit and cash flow. Salary has to make sense relative to what the business earns.",
+        "Run payroll monthly or biweekly, review it late in the year, and keep a written file documenting how you set the number."
+      ],
+      "faq": [
+        {
+          "q": "Is 40 percent of profit a safe S Corp salary?",
+          "a": "Mike describes 40 to 50 percent of profit as a common starting point, but says a percentage alone doesn't replace a full reasonable compensation analysis. Use it as a sanity check and document the real reasoning."
+        },
+        {
+          "q": "How often should an S Corp owner run payroll?",
+          "a": "Monthly or biweekly is the general recommendation, with a review later in the year to adjust the salary and make catch-up payments if needed."
+        },
+        {
+          "q": "What happens if my S Corp salary is too low?",
+          "a": "The IRS can reclassify distributions as wages, which means back payroll taxes plus penalties and interest. Mike's point is that an aggressively low salary can turn today's savings into a bigger bill later."
+        }
+      ],
+      "sourceNote": "Based on the Small Business Tax Savings Podcast episode \"How Much Should You Pay Yourself as an S Corp Owner?\" with Mike Jesowshek, CPA, released August 5, 2026."
+    }
+  ]
+}

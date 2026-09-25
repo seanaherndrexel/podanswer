@@ -1,0 +1,144 @@
+{
+  "slug": "money-for-the-rest-of-us",
+  "title": "Money For the Rest of Us",
+  "author": "J. David Stein",
+  "description": "A personal finance and investing podcast on money, how it works, how to invest it and how to live without worrying about it.",
+  "category": "money",
+  "website": "https://moneyfortherestofus.com",
+  "feedUrl": "https://rss.art19.com/money-for-the-rest-of-us",
+  "imageUrl": "https://content.production.cdn.art19.com/images/6d/66/15/b5/6d6615b5-750e-417d-a1f7-cc27ac51b109/ad0c338525a157f6ea99aafa1c16b332cbdae5815ea4cf4dd2aa237f87a011165ecf79a6de4bbfd6d63d3136f09442bbead56e4c84c2fd3bda617cd86c9c5627.jpeg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/money-for-the-rest-of-us/id883011006",
+  "spotifyUrl": "https://open.spotify.com/show/6OkOdWqyvKXFjZ1eFHeJxb",
+  "episodes": [
+    {
+      "guid": "gid://art19-episode-locator/V0/1WiyhGKS4Rnb23KrfteA0iv8kbIugaHsJ3uwvTxvO40",
+      "title": "The Financial System Will Be Hacked and How to Prepare For It",
+      "publishedAt": "2026-09-09",
+      "summary": "David explores how bad actors could use AI to disrupt financial systems, transportation networks, and utilities. He lays out how to prepare for a cyberattack on the financial system and why he holds some gold outside it.",
+      "audioUrl": "https://rss.art19.com/episodes/048c2ba8-88ec-4ee7-9f04-b790170a120e.mp3",
+      "durationSec": 1538,
+      "episodeUrl": "https://moneyfortherestofus.com/564-the-financial-system-will-be-hacked/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/csFfQFuYErKM_7BBm-fK5xhdf4U0xXvpolpNNZFJp7s",
+      "title": "Bond Market Chaos: Why Interest Rates Keep Rising and What to Do About It",
+      "publishedAt": "2026-08-26",
+      "summary": "With national debt above $40 trillion and Treasury yields at 19-year highs, David analyzes market interventions and shows how to position a portfolio to protect against falling bond prices while locking in higher yields.",
+      "audioUrl": "https://rss.art19.com/episodes/c202b911-1ead-45de-8cb5-43d93fc38f62.mp3",
+      "durationSec": 1658,
+      "episodeUrl": "https://moneyfortherestofus.com/563-why-interest-rates-keep-rising-and-what-to-do-about-it/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/WomJVcLx0HqdrUL4KgED20fNB1fvgwMY-5uinnzrCGs",
+      "title": "5 Steps to Simplify Your Investment Portfolio",
+      "publishedAt": "2026-08-12",
+      "summary": "Aimed at retirees juggling many accounts, David walks through a five-step process to consolidate and simplify a portfolio while accounting for withdrawals, Roth conversions, and required minimum distributions. He also points to the stock and bond market segments he finds attractive for rebalancing.",
+      "audioUrl": "https://rss.art19.com/episodes/37df4971-0342-4874-8770-d87b78f5cf0c.mp3",
+      "durationSec": 1619,
+      "episodeUrl": "https://moneyfortherestofus.com/562-how-to-simplify-your-portfolio/",
+      "transcriptUrl": "https://moneyfortherestofus.com/562-how-to-simplify-your-portfolio/"
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/beagGjssz8CU4kdNcx6puEHYE8kEIqNVgjy52y8GZL4",
+      "title": "How to Navigate the AI Debt Bubble",
+      "publishedAt": "2026-07-29",
+      "summary": "David examines how large AI-related debt could become, which fixed-income vehicles hold it, how the risk gets transferred, and what infrastructure buildout failures could trigger losses.",
+      "audioUrl": "https://rss.art19.com/episodes/07bfc20b-1144-4c80-8c6c-a6502bab1cfc.mp3",
+      "durationSec": 1598,
+      "episodeUrl": "https://moneyfortherestofus.com/561-ai-debt-bubble/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/TC8g6BLfpEMh3fDdxX03tHnpYOdKzsGdUeuM0LvqlaA",
+      "title": "Is Inflation Manipulated? If So, What to Do About It",
+      "publishedAt": "2026-07-15",
+      "summary": "David looks at how inflation calculations get modified to appear lower and what to do about it, covering currency debasement, skill development, and figuring out your personal inflation rate for retirement planning.",
+      "audioUrl": "https://rss.art19.com/episodes/a60dd457-8480-4a44-82ea-6316336ccd78.mp3",
+      "durationSec": 1553,
+      "episodeUrl": "https://moneyfortherestofus.com/560-is-inflation-manipulated/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/9-tSjKcV-wUz_Z1jkXs7NPvl9UfcQY3jr9CTjAXDtHs",
+      "title": "A Listener's Path from Zero to Millionaire in 10 Years - Nine Lessons to Get You There",
+      "publishedAt": "2026-06-24",
+      "summary": "Nine lessons from a listener who went from zero to a million dollars in a decade, including underspending on housing, the savings rate and returns required, and a correction to misleading historical S&P 500 return studies.",
+      "audioUrl": "https://rss.art19.com/episodes/00c7e7ae-f317-456f-9a3b-c7dcdc7e4b95.mp3",
+      "durationSec": 1788,
+      "episodeUrl": "https://moneyfortherestofus.com/559-zero-to-millionaire-in-ten-years/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-i-simplify-my-investment-portfolio-in-retirement",
+      "question": "How do I simplify my investment portfolio in retirement?",
+      "metaDescription": "David Stein's five-step process for consolidating a messy retirement portfolio: map every account, measure risk, plan taxes, rebalance slowly.",
+      "episodeGuid": "gid://art19-episode-locator/V0/WomJVcLx0HqdrUL4KgED20fNB1fvgwMY-5uinnzrCGs",
+      "intro": "Start by looking at everything in one place, then simplify in stages rather than all at once. That's the approach J. David Stein, a former chief investment strategist and host of Money For the Rest of Us, uses with newly retired listeners who've accumulated a pile of accounts over a career. His five-step process handles the messy parts, taxes, withdrawals, Roth conversions, and required minimum distributions, without forcing a fire sale.",
+      "sections": [
+        {
+          "heading": "How a portfolio turns into a pile of accounts",
+          "body": "Almost nobody designs a complicated portfolio on purpose. It accumulates. A 401(k) from one job, a rollover IRA from another, a Roth opened in a good year, a taxable brokerage account, a spouse's versions of all of the above. Each one was reasonable at the time. Together they're a mess nobody has looked at as a whole.\n\nDavid's first point is that this is normal and you don't have to fix it in a weekend.",
+          "quote": {
+            "text": "We have to realize that the portfolios that we have evolved over time.",
+            "speaker": "J. David Stein",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Step one: see the whole thing on a single page",
+          "body": "The first step is a comprehensive asset allocation across every account you own. Not account by account, but the total: how much is in US stocks, international stocks, bonds, cash, real estate, and anything else, added up across the Roth, the traditional IRAs, and the taxable account.\n\nDavid says most people have never done this. They know roughly what's in each account but have no idea what the combined picture looks like. Two accounts that each look balanced can add up to something badly lopsided.",
+          "quote": {
+            "text": "At the end of the day, all we're trying to get is an understanding of what are the total investable assets.",
+            "speaker": "J. David Stein",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Steps two and three: categorize, then measure the downside",
+          "body": "Once everything is on one page, the host sorts holdings into asset categories and attaches a return and volatility assumption to each one. That sounds technical, but the purpose is simple. It lets you compute an expected return for the whole portfolio and, more importantly, its standard deviation, which is a way of estimating how far it could fall in a bad stretch.\n\nDavid is explicit that the point of measuring is to understand the bad outcomes. A portfolio with a higher standard deviation can lose more money than one with a lower standard deviation. For someone who has just stopped earning a paycheck, that number matters more than the expected return, because a big early drop is the thing most likely to derail a retirement.\n\nThis is also where redundant funds show up. If you're holding four different large-cap US stock funds across three accounts, categorizing them makes it obvious they're doing the same job.",
+          "quote": null
+        },
+        {
+          "heading": "Step four: plan the changes around taxes, not just tidiness",
+          "body": "Simplifying isn't free if it triggers taxes. So before selling anything, David plans the strategic changes together with three retirement-specific questions.\n\n**Withdrawal order.** Which accounts you draw from first affects your tax bill for years. The plan should say where next year's spending comes from.\n\n**Roth conversions.** The early retirement years before Social Security and required distributions kick in often have low taxable income. That's the window to convert some traditional IRA money to Roth and shrink future required withdrawals.\n\n**Required minimum distributions.** Once RMDs start, they force taxable income whether you need it or not. Consolidating traditional IRAs and thinking about their size ahead of time makes RMDs easier to manage.\n\nThe host also uses this step to identify which parts of the stock and bond markets look attractive for putting money to work as the portfolio gets rebalanced.",
+          "quote": null
+        },
+        {
+          "heading": "Step five: rebalance a little at a time",
+          "body": "The last step is to make the changes incrementally. David compares it to cleaning out a house. You don't throw everything away at once, and you don't need to. Sell the redundant holdings gradually, use new withdrawals and rebalancing to move toward the target allocation, and let taxable gains be realized over several years instead of one.\n\nThe result is a portfolio with fewer accounts, fewer overlapping funds, a known level of risk, and a written plan for where money comes from each year. That's what \"simple\" means for a retiree. Not the fewest possible holdings, but a structure you can actually understand and manage.",
+          "quote": {
+            "text": "Our investment portfolios are the same way. We don't have to get rid of everything, all at once.",
+            "speaker": "J. David Stein",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Build a single asset allocation across every account before changing anything. Most people have never seen their total picture.",
+        "Categorize holdings and estimate the portfolio's volatility, because the downside is what matters most once the paychecks stop.",
+        "Plan withdrawals, Roth conversions, and required minimum distributions together with the simplification so you don't create an avoidable tax bill.",
+        "Use the low-income years before Social Security and RMDs as the window for Roth conversions.",
+        "Rebalance incrementally over several years rather than selling everything at once."
+      ],
+      "faq": [
+        {
+          "q": "How many investment accounts should a retiree have?",
+          "a": "David doesn't set a fixed number. The goal is to consolidate to the point where you can see the whole allocation easily, usually one traditional IRA, one Roth, and one taxable account per person, while avoiding unnecessary taxes in the process."
+        },
+        {
+          "q": "Should I sell overlapping funds all at once?",
+          "a": "No. The fifth step is incremental rebalancing. Sell redundant holdings gradually, especially in taxable accounts, so gains are spread across multiple tax years."
+        },
+        {
+          "q": "Why calculate standard deviation for a retirement portfolio?",
+          "a": "It's an estimate of how far the portfolio could drop in a bad period. David explains that a higher standard deviation means a bigger potential loss, and for a new retiree that downside is the most important number to understand."
+        }
+      ],
+      "sourceNote": "Based on Money For the Rest of Us episode 562, \"5 Steps to Simplify Your Investment Portfolio,\" hosted by J. David Stein and released August 12, 2026."
+    }
+  ]
+}

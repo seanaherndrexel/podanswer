@@ -1,0 +1,152 @@
+{
+  "slug": "where-parents-talk",
+  "title": "Where Parents Talk: Evidence-based Expert Advice on Raising Kids Today",
+  "author": "Lianne Castelino",
+  "description": "Where Parents Talk empowers parents to navigate raising kids, teens and young adults using science-backed insights, evidence, and the lived experiences of parenting thought leaders.",
+  "category": "parenting",
+  "website": "http://whereparentstalk.com",
+  "feedUrl": "https://feeds.captivate.fm/where-parents-talk-podcast/",
+  "imageUrl": "https://artwork.captivate.fm/6d36c99f-8da7-4b9d-9ffc-f99337081ea9/zguyzi5qcgc.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/where-parents-talk-evidence-based-expert-advice-on/id1546881644",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "0cf0a948-5111-423c-a097-b4c4b66676bb",
+      "title": "Why Parent-School Communication Is Broken, And How to Fix It",
+      "publishedAt": "2026-09-12",
+      "summary": "Lianne Castelino talks with Shani Dowell about bridging the gap between parents and schools, including how to have productive parent-teacher conversations and advocate without escalating conflict.",
+      "audioUrl": "https://episodes.captivate.fm/episode/0cf0a948-5111-423c-a097-b4c4b66676bb.mp3",
+      "durationSec": 1983,
+      "episodeUrl": "https://whereparentstalk.stagingserver.cloud/podcasts/dowell",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "3675c469-1aac-446a-9821-28de8b2e7dec",
+      "title": "Real-World Learning: How to Build Academic Success and Essential Life Skills at Home",
+      "publishedAt": "2026-09-05",
+      "summary": "Amelie Drouet explains why life skills and academics belong together, how cooking and chores become learning opportunities, and why boredom is essential for creativity.",
+      "audioUrl": "https://episodes.captivate.fm/episode/3675c469-1aac-446a-9821-28de8b2e7dec.mp3",
+      "durationSec": 2171,
+      "episodeUrl": "https://whereparentstalk.stagingserver.cloud/podcasts/real-world-learning-how-to-build-academic-success-and-essential-life-skills-at-home",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "93912620-cf27-4b71-a642-cfb72d763689",
+      "title": "The Freedom Factor: Why Childhood Independence Matters with Lenore Skenazy",
+      "publishedAt": "2026-08-29",
+      "summary": "Free-Range Kids founder Lenore Skenazy makes the case that manageable risk is essential for healthy development and that age-appropriate independence reduces anxiety for kids and parents.",
+      "audioUrl": "https://episodes.captivate.fm/episode/93912620-cf27-4b71-a642-cfb72d763689.mp3",
+      "durationSec": 1973,
+      "episodeUrl": "https://whereparentstalk.stagingserver.cloud/podcasts/the-freedom-factor-why-childhood-independence-matters",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "09d96d40-b6e8-4a59-94d3-9715a0cc8780",
+      "title": "Video Game Addiction: The Real Reason Kids Can't Log Off",
+      "publishedAt": "2026-08-22",
+      "summary": "Nathan Graham, author of Why Won't He Just Log Off?, spent nearly seven years as a self-described gaming addict. He explains the four needs games fulfill, how to tell a kid who loves gaming from one who's using it to cope, why timers and confiscation backfire, and how to set boundaries that hold.",
+      "audioUrl": "https://episodes.captivate.fm/episode/09d96d40-b6e8-4a59-94d3-9715a0cc8780.mp3",
+      "durationSec": 2090,
+      "episodeUrl": "https://whereparentstalk.stagingserver.cloud/podcasts/breaking-the-cycle-how-to-turn-gaming-from-addiction-to-mastery",
+      "transcriptUrl": "https://transcripts.captivate.fm/transcript/af3c52d8-b466-40a5-ba10-787634f6d2c8/index.html"
+    },
+    {
+      "guid": "2897a5f3-803d-4ad3-8c07-c38dc1d956b6",
+      "title": "Navigating Sports Culture: Key Insights for Modern Parents",
+      "publishedAt": "2026-08-15",
+      "summary": "Sports journalists Donovan Bennett and Kate McKenna discuss how youth sports shape values, healthy competition, emotional resilience and inclusion.",
+      "audioUrl": "https://episodes.captivate.fm/episode/2897a5f3-803d-4ad3-8c07-c38dc1d956b6.mp3",
+      "durationSec": 2085,
+      "episodeUrl": "https://whereparentstalk.stagingserver.cloud/podcasts/raising-boys-in-a-sports-culture-with-donovan-bennett-kate-mckenna",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "6d63baa5-2727-4d24-ba16-137e61daf945",
+      "title": "The Hidden Impact of Parental Stress: Functional Medicine Strategies to Boost Energy, Hormones & Resilience",
+      "publishedAt": "2026-08-08",
+      "summary": "Dr. Alicia Newsome addresses parental burnout and how a parent's nervous system affects a child's sense of safety, with daily routines to protect energy.",
+      "audioUrl": "https://episodes.captivate.fm/episode/6d63baa5-2727-4d24-ba16-137e61daf945.mp3",
+      "durationSec": 2268,
+      "episodeUrl": "https://whereparentstalk.stagingserver.cloud/podcasts/navigating-tween-turbulence-hormonal-changes-and-parental-guidance",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-i-get-my-kid-to-stop-playing-video-games",
+      "question": "How do I get my kid to stop playing video games?",
+      "metaDescription": "Timers and confiscated consoles usually backfire. Former gaming addict Nathan Graham tells Where Parents Talk what works: find the need the game is meeting.",
+      "episodeGuid": "09d96d40-b6e8-4a59-94d3-9715a0cc8780",
+      "intro": "You don't get a kid off video games by unplugging the console. You do it by figuring out which need the game is meeting and setting limits together. That's the advice from Nathan Graham, author of Why Won't He Just Log Off?, speaking with host Lianne Castelino on the Where Parents Talk podcast. Graham spent nearly seven years as a self-described gaming addict, lost a job to World of Warcraft, and now helps parents understand what's really going on behind the screen.",
+      "sections": [
+        {
+          "heading": "The four needs a game is meeting",
+          "body": "Graham's framework starts with four core human needs: certainty, adventure, significance and connection. He argues that every decision we make comes down to those four, and a well-designed game satisfies all of them at once. Rules that are consistent (certainty). New quests and worlds (adventure). Rankings, levels and a guild that counts on you (significance). Teammates on voice chat every night (connection).\n\nWhen a kid can't log off, Graham says the game itself is rarely the problem. It's that the game is the most reliable place in their life to feel important and to belong. If you take the game away without replacing what it provides, you've removed the solution without touching the problem.",
+          "quote": {
+            "text": "There's four essential needs that we all strive for in life and all of our decision making comes down to these four needs.",
+            "speaker": "Nathan Graham",
+            "timestamp": "08:29"
+          }
+        },
+        {
+          "heading": "Loves gaming or using it to cope? Here's the tell",
+          "body": "Plenty of kids play a lot and are fine. Graham's signal for real trouble is withdrawal from things they used to care about. If a kid who always joined family dinner or hung out in the living room suddenly stops, that's an indicator. If they disengage from school they used to enjoy, or from friends, sports or hobbies, something bigger is usually going on.\n\nA passionate gamer keeps a balanced life around the game. A kid who's coping lets the rest of life shrink until the game is the only thing left that feels good.",
+          "quote": {
+            "text": "If they just stop engaging in school, which they love, that's usually a sign that there's something bigger going on.",
+            "speaker": "Nathan Graham",
+            "timestamp": "13:40"
+          }
+        },
+        {
+          "heading": "Why pulling the plug makes it worse",
+          "body": "Graham is direct about timers, confiscated consoles and lectures: they tend to destroy trust and fix nothing. Part of the reason is practical. Many games are team-based and goal-based. When you unplug the machine mid-session, your kid may be minutes from finishing something they've worked toward for weeks, and they may be letting down a team of real people. To them it doesn't feel like discipline. It feels like sabotage.\n\nThe other cost is emotional. Sudden shutdowns tell a kid you don't see them as capable or reliable, which feeds the very feelings of failure that make the game so appealing in the first place.",
+          "quote": {
+            "text": "If you unplug the machine, they might be trying to accomplish a goal they've been working on for a long time.",
+            "speaker": "Nathan Graham",
+            "timestamp": "15:05"
+          }
+        },
+        {
+          "heading": "Set the rules together, then give a warning",
+          "body": "Graham's alternative is a collaborative agreement. Sit down with your kid and set the times, the limits and the reasons together. When teens help write the rules, they own them, and rule-breaking drops because it means breaking their own commitment.\n\nThen make shutdowns predictable. A half-hour warning before the agreed cutoff means the end of the session is a pre-agreement, not a surprise. Graham also recommends some grace for small overages. Ten minutes to finish a match isn't defiance; it's respecting the commitment they made to their teammates.\n\nHe frames the parent's job as mentorship rather than enforcement. You're not the source of your kid's significance and belonging. You're the guide who helps them find those needs met elsewhere, whether that's a sport, a club, a job or a creative community.",
+          "quote": {
+            "text": "Have a conversation from curiosity. Set the rules together, set the times together, the limits together, understand the why together.",
+            "speaker": "Nathan Graham",
+            "timestamp": "17:50"
+          }
+        },
+        {
+          "heading": "The first conversation: ask about the game",
+          "body": "Before any of that can work, Graham says you need trust, and the fastest way to build it is genuine curiosity. Sit down and ask what they're playing. Learn it. Let them show you what they've built or who they play with, without judgment.\n\nOnce they're talking, he uses a three-question technique. Ask what they love about the game. Whatever they say first, ask why that matters to them. Then ask why again. The first answer is almost never the real one. By the third answer you're usually hearing about purpose, mattering or belonging, and now you know which need to help them meet somewhere else.\n\nAnd if you've already tried the timer and the confiscation and it blew up? Graham's closing message is forgiveness. Neither you nor your kid is broken. Parenting is progress, not perfection, and small changes add up.",
+          "quote": {
+            "text": "The first answer is almost never the problem. Usually by the third answer, we're getting to fulfillment and purpose.",
+            "speaker": "Nathan Graham",
+            "timestamp": "21:51"
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Games satisfy four needs at once: certainty, adventure, significance and connection. Find which one your kid is starving for.",
+        "Withdrawal from family, school or friends they used to enjoy is the sign of coping, not just enthusiasm.",
+        "Unplugging mid-session and confiscating consoles destroy trust and often interrupt goals or teammates, so they backfire.",
+        "Write the rules together, give a 30-minute warning before cutoffs, and allow small grace periods.",
+        "Start with curiosity. Ask what they're playing, then ask why three times to reach the real need."
+      ],
+      "faq": [
+        {
+          "q": "How many hours of video games is too much for a kid?",
+          "a": "Graham focuses less on hours and more on what's disappearing. If school, friends, family time and other interests are shrinking while gaming grows, that's the concern regardless of the exact number."
+        },
+        {
+          "q": "Should I take away the console as punishment?",
+          "a": "Graham says confiscation usually backfires. It breaks trust, can cut off a kid from a team that's counting on them, and doesn't address the need the game was meeting. Collaborative limits with warnings hold up better."
+        },
+        {
+          "q": "Are video games ever good for kids?",
+          "a": "Yes. Graham points out gaming can build teamwork, resilience and problem-solving. The goal is balance, not elimination."
+        }
+      ],
+      "sourceNote": "Based on the Where Parents Talk episode \"Video Game Addiction: The Real Reason Kids Can't Log Off,\" released August 22, 2026, with credit to host Lianne Castelino and guest Nathan Graham."
+    }
+  ]
+}

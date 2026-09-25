@@ -1,0 +1,118 @@
+{
+  "slug": "home-in-progress",
+  "title": "Home In Progress",
+  "author": "Dan Hansen/RepcoLite Paints",
+  "description": "Welcome to Home in Progress, the weekly show from RepcoLite Paints where we dig into the projects and little fixes that make home life better.",
+  "category": "home",
+  "website": "https://www.repcolite.com",
+  "feedUrl": "https://feeds.captivate.fm/repcolite-home-improvem/",
+  "imageUrl": "https://artwork.captivate.fm/becd7169-570c-41bf-bcf0-7456ce85d1bb/Copy-of-Home-in-Progress-WOOD-4.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/the-repcolite-home-improvement-show/id1328403535",
+  "spotifyUrl": "https://open.spotify.com/show/1O3PVA1r9qg4gvicssYE2n",
+  "episodes": [
+    {
+      "guid": "9bd1fd62-59ff-4249-864e-111deacce8e8",
+      "title": "What Color Makes a Small Room Look Bigger?",
+      "publishedAt": "2026-09-10",
+      "summary": "Dan digs into the perception research behind the phrase \"dark colors recede\" and explains why it so often fails in real rooms. He then works through seven common room situations, from low ceilings to long narrow rooms to color drenching a tiny powder room. The episode opens with how to test old furniture for lead before refinishing.",
+      "audioUrl": "https://episodes.captivate.fm/episode/9bd1fd62-59ff-4249-864e-111deacce8e8.mp3",
+      "durationSec": 2409,
+      "episodeUrl": "http://www.repcolite.com/home-improvement-show-products/what-color-makes-a-small-room-look-bigger",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "2b5b133e-422c-4600-a9f8-65a3edad6794",
+      "title": "Furniture Flipping for Beginners: 6 Things to Check Before You Buy",
+      "publishedAt": "2026-09-03",
+      "summary": "The first part of a furniture refinishing series. Dan covers how to evaluate a thrift store or Marketplace piece before you buy it, including structural integrity, what the piece is made of, and what a paint job might be hiding.",
+      "audioUrl": "https://episodes.captivate.fm/episode/2b5b133e-422c-4600-a9f8-65a3edad6794.mp3",
+      "durationSec": 2409,
+      "episodeUrl": "http://www.repcolite.com/home-improvement-show-products/furniture-flipping-for-beginners-6-things-to-check-before-you-buy",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "020a1326-cc0f-4849-8fba-fee0f6e0c83e",
+      "title": "Hoosier Cabinets: The 1900s Kitchen Storage Genius That Still Works",
+      "publishedAt": "2026-08-27",
+      "summary": "A look at the freestanding Hoosier cabinets of the early 1900s, with their pull-out counters and built-in flour sifters. Dan explains why they faded, why they're back, and four storage design principles you can borrow from them today.",
+      "audioUrl": "https://episodes.captivate.fm/episode/020a1326-cc0f-4849-8fba-fee0f6e0c83e.mp3",
+      "durationSec": 2405,
+      "episodeUrl": "http://www.repcolite.com/home-improvement-show-products/hoosier-cabinets-the-1900s-kitchen-storage-genius-that-still-works",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-color-makes-a-small-room-look-bigger",
+      "question": "What color makes a small room look bigger?",
+      "metaDescription": "Lighter walls and ceilings make a small room read as bigger, and the old 'dark colors recede' rule often fails. Dan Hansen of Home In Progress explains why.",
+      "episodeGuid": "9bd1fd62-59ff-4249-864e-111deacce8e8",
+      "intro": "Lighter colors make a small room look bigger. That's what the room perception research actually shows, and it's the opposite of what a lot of blog posts claim. On the Home In Progress podcast from RepcoLite Paints, host Dan Hansen walks through why \"dark colors recede\" keeps failing in real rooms, and how to pick paint by starting with your room and your goal instead of a rule.",
+      "sections": [
+        {
+          "heading": "The rule everyone repeats, and where it came from",
+          "body": "You've heard it: dark colors recede, light colors advance. Dan says the idea isn't invented. Early perception studies looked at objects against backgrounds, and lighter shapes do come forward while darker backgrounds fall back. Picture a cream sofa against a navy wall. Your eye lands on the sofa, the art, the lamp, and the navy settles behind them.\n\nThe catch is that a wall or ceiling isn't an object sitting in front of a background. It's one of the surfaces that defines how big the room is. That's a different job, and the rule doesn't hold up once you ask it to do that job.\n\nDan admits the doubt started from his own experience. He's been in plenty of small rooms with dark walls and ceilings that felt small, not expansive, and others where a dark ceiling really did seem farther away. If it's a rule, it shouldn't be hit or miss.",
+          "quote": {
+            "text": "A wall or ceiling isn't an object against a background. It's one of the surfaces that defines the size of the room.",
+            "speaker": "Dan Hansen",
+            "timestamp": "04:07"
+          }
+        },
+        {
+          "heading": "What happened when researchers tested actual rooms",
+          "body": "Eventually researchers studied room surfaces directly. They built virtual rooms where the physical dimensions stayed fixed and changed only the lightness of individual surfaces.\n\nA 2010 study found lighter ceilings looked higher than darker ones. In 2018 the work expanded to every surface. Brighter side walls made a room look wider. A brighter far wall made it look deeper. Darker versions consistently shrank people's estimates of the room.\n\nSo when you measure where people think a room's boundaries are, brighter surfaces read as farther away. Dan's point is that the word \"recede\" has been doing double duty. A dark wall can take a back seat behind a light sofa, meaning it's no longer what you look at. That's real. But it doesn't mean your brain has decided the wall is five feet farther away. Separate those two meanings and the contradiction disappears.",
+          "quote": {
+            "text": "Receding and looking farther away are not the same thing. A dark color can drop into the background without making the room read as larger.",
+            "speaker": "Dan Hansen",
+            "timestamp": "37:11"
+          }
+        },
+        {
+          "heading": "Contrast and lighting decide more than the paint chip does",
+          "body": "Put that same navy on a single accent wall in a bright room with white trim and a white ceiling, and it stops being a background. Now it's a large dark rectangle in a light space, and your eye goes straight to it. Same color, opposite result.\n\nTwo things drive that. First, contrast. Whatever stands out from its surroundings gets attention. If the furniture and art stand out against the wall, the wall becomes backdrop. If the wall stands out against everything else, it becomes the focal point.\n\nSecond, lighting. Direct light on a dark wall keeps it present. You see the roller texture, the corners, any sheen. Move the light out in front of the wall, use a flatter finish, and let the furniture and art be the lit objects. Then the wall gets far less visually distinct and falls away. The same logic applies overhead: a brightly lit ceiling reads as close no matter the color, while softer light up there starts to feel cavernous.\n\nDan's takeaway is that one small rule is being asked to predict what an entire room creates: color, contrast, lighting, furniture, ceiling height, windows, even clutter. Dark rooms can feel spacious. The paint just isn't doing that work by itself.",
+          "quote": {
+            "text": "Dark rooms can absolutely feel spacious. The paint just isn't doing that work alone.",
+            "speaker": "Dan Hansen",
+            "timestamp": "14:07"
+          }
+        },
+        {
+          "heading": "Seven room situations and what to paint in each",
+          "body": "Dan's method is to ask two questions: what do I want color to do here, and what am I working with? Then he runs through the common cases.\n\n**Low ceiling you want to look higher.** Stay light overhead. This is where the research is strongest. Light walls plus a very light ceiling is the strongest combination. You can put color on the ceiling, just don't let it read as clearly darker than the walls. Green walls with a soft pale green ceiling is his example.\n\n**Long, narrow room.** Keep the two long side walls light so they feel farther apart and bounce more light into the shadowed edges. Want it longer? Keep the far wall light. Want it shorter? Put a deeper color on the far wall so that boundary feels closer. Dan flags that a lot of advice says a dark accent wall at the far end adds depth, but when researchers measured perceived depth, the lighter rear wall consistently looked farther away.\n\n**Room with little natural light.** Stay toward the lighter end, but skip the starkest white, which can look cold and dingy in a dim room. Warmer off-whites like Benjamin Moore's Swiss Coffee or Acadia White work better. Sample before you commit.\n\n**Walls as a backdrop.** This is where deeper colors earn their reputation. Hale Navy, Vintage Vogue and Soot all make strong backgrounds behind lighter furniture and art. If your furniture is dark too, you'll need contrast from somewhere else: light the furniture more than the wall, reframe art in lighter wood or metal, or drop the wall sheen.\n\n**Small room that feels boxed in.** If you want it as airy as possible, go lighter. If it's a tiny powder room that will be tiny regardless, try color drenching: paint the walls, trim, maybe doors and ceiling all the same color. Reducing contrast between surfaces turns wall, baseboard, door, casing into one continuous composition. The color doesn't have to be dark. Palladium Blue and Healing Aloe are his lighter picks; Vintage Vogue if you want something enveloping.\n\n**Ceiling as a feature.** If you have ten or twelve feet, a vault or good crown molding, go deeper up top with something like Chelsea Gray or Hale Navy to make the space feel more intimate.\n\n**Color capping.** A big, bright room with real height can carry walls that get deeper as they go up. An eight-foot ceiling in a small bedroom with one window is where Dan gets cautious. Soften the steps and keep the ceiling toward the lighter end.",
+          "quote": {
+            "text": "There's nothing sacred about the darkest color ending up overhead. Color capping is a design idea, not a law.",
+            "speaker": "Dan Hansen",
+            "timestamp": "35:58"
+          }
+        },
+        {
+          "heading": "Already painted dark and disappointed? Try this first",
+          "body": "Before you repaint that dark hallway wall, Dan suggests changing the lighting or adding contrasting furniture or artwork in front of it. The color may be fine. It may just need help standing behind something instead of competing with it.\n\nOne more practical note from the episode: if you're painting a ceiling any real color, use a dead flat ceiling paint. Ultra flat reduces glare, hides imperfections and minimizes lap marks, which matter more overhead than anywhere else.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Lighter ceilings look higher, lighter side walls look wider and lighter far walls look deeper. That's what the room research shows.",
+        "\"Dark colors recede\" mixes up two ideas: a wall taking a back seat versus a wall looking farther away. Only the first one is reliable.",
+        "Contrast and lighting decide whether a dark wall becomes a backdrop or a focal point. Light the furniture, not the wall.",
+        "In a room that's tiny regardless, color drenching walls, trim and ceiling in one color reduces visual chop. It works with light colors too.",
+        "Start with the room and your goal, not the rule. Ask what job you want the color to do."
+      ],
+      "faq": [
+        {
+          "q": "Should I paint a small room's ceiling white?",
+          "a": "Not necessarily stark white, but keep it light and not noticeably darker than the walls. A soft, pale version of the wall color gives you color overhead while still helping the ceiling read as higher."
+        },
+        {
+          "q": "Does a dark accent wall make a room look deeper?",
+          "a": "Measured directly, no. In the studies Dan cites, a lighter far wall looked farther away and a darker one looked closer. A dark wall can still feel like it falls back if it's softly lit with lighter furniture in front of it."
+        },
+        {
+          "q": "What is color drenching and does it make a room feel bigger?",
+          "a": "Color drenching means painting walls, trim, doors and sometimes the ceiling in the same color. It doesn't add square footage, but it removes the visual breaks between surfaces so a small room feels less chopped up. Use a lighter color if you also want it to feel open."
+        }
+      ],
+      "sourceNote": "Based on Home In Progress episode 476, \"What Color Makes a Small Room Look Bigger?\", released September 10, 2026, with credit to host Dan Hansen and RepcoLite Paints."
+    }
+  ]
+}

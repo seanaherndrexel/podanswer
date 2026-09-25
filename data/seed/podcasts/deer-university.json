@@ -1,0 +1,127 @@
+{
+  "slug": "deer-university",
+  "title": "Deer University",
+  "author": "Dr. Jacob Dykes & Dr. Eric Michel",
+  "description": "Deer biology and management from the co-directors of the Mississippi State University Deer Lab. As hunters, biologists and professors, Jacob and Eric bridge research and management, discussing the latest deer science and what it means for land stewards and hunters.",
+  "category": "science",
+  "website": "https://www.msudeer.msstate.edu",
+  "feedUrl": "https://deeruniversity.libsyn.com/rss",
+  "imageUrl": "https://static.libsyn.com/p/assets/7/c/4/4/7c44bfefc408041e/DeerULogo2020m1400x1400.jpg",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/deer-university/id1234304336",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "325d9871-f9cb-488c-ba5b-c1ae741c72d3",
+      "title": "Episode 105 – Adaptive Strategies to Manage CWD in Missouri",
+      "publishedAt": "2026-09-08",
+      "summary": "Jacob and Eric talk with Jason Sumners, Director of the Missouri Department of Conservation, about deer management, landowner collaboration and adaptive strategies for chronic wasting disease.",
+      "audioUrl": "https://traffic.libsyn.com/secure/deeruniversity/Deer_Univ_Ep105.mp3?dest-id=524423",
+      "durationSec": 4290,
+      "episodeUrl": "https://deeruniversity.libsyn.com/deeruniversity",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "bbde0cf8-b48f-4b9d-80ff-816083f6b4c3",
+      "title": "Episode 104 – Cool-Season Food Plots",
+      "publishedAt": "2026-08-26",
+      "summary": "PhD student Luke Resop covers the basics of cool-season food plots and what you can do to increase your chances of success.",
+      "audioUrl": "https://traffic.libsyn.com/secure/deeruniversity/Deer_Univ_Ep104.mp3?dest-id=524423",
+      "durationSec": 4360,
+      "episodeUrl": "https://deeruniversity.libsyn.com/deeruniversity",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "9346eb35-b02d-40b6-a22d-c03860fb08cb",
+      "title": "Episode 103 – Summer Recap",
+      "publishedAt": "2026-08-04",
+      "summary": "Jacob and Eric recap the Deer Lab's summer field season and talk about the less discussed side of academic research.",
+      "audioUrl": "https://traffic.libsyn.com/secure/deeruniversity/Deer_University_ep103.mp3?dest-id=524423",
+      "durationSec": 4623,
+      "episodeUrl": "https://deeruniversity.libsyn.com/deeruniversity",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "c30c60b4-0cfc-4f96-b8c3-a4916a73a516",
+      "title": "Episode 102 – How Fawns Avoid Predators",
+      "publishedAt": "2026-07-14",
+      "summary": "Jacob and Eric sit down with Sam Overfors, a recent Deer Lab graduate, to discuss his work evaluating antipredator behavior in fawns. Sam used thermal drones and GPS collars to investigate how fawns move across the landscape.",
+      "audioUrl": "https://traffic.libsyn.com/secure/deeruniversity/Deer_University_ep102.mp3?dest-id=524423",
+      "durationSec": 3910,
+      "episodeUrl": "https://deeruniversity.libsyn.com/deeruniversity",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "1c838fe4-c69a-49a1-9a91-21a766636798",
+      "title": "Episode 101 – The Impact of Hunters on Deer Movement",
+      "publishedAt": "2026-06-25",
+      "summary": "Dr. Andy Little of the University of Nebraska-Lincoln explains how deer change their behavior in response to hunting pressure.",
+      "audioUrl": "https://traffic.libsyn.com/secure/deeruniversity/Deer_University_ep101_Andy_Little.mp3?dest-id=524423",
+      "durationSec": 5046,
+      "episodeUrl": "https://deeruniversity.libsyn.com/deeruniversity",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "0dc60c23-b10c-422e-9bbd-1f6d757f000c",
+      "title": "Episode 100 – 100 Episodes: A Trip Down Memory Lane",
+      "publishedAt": "2026-06-08",
+      "summary": "Founding hosts Bronson Strickland and Steve Demarais return to look back on how the Deer University podcast started and what they're working on now.",
+      "audioUrl": "https://traffic.libsyn.com/secure/deeruniversity/Deer_University_ep100_Steve-Bronson.mp3?dest-id=524423",
+      "durationSec": 3715,
+      "episodeUrl": "https://deeruniversity.libsyn.com/deeruniversity",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-do-fawns-avoid-predators",
+      "question": "How do fawns avoid predators?",
+      "metaDescription": "Newborn fawns survive coyotes and bobcats by hiding, not running. Deer University's Jacob Dykes and Eric Michel discuss thermal drone research on fawn antipredator behavior.",
+      "episodeGuid": "c30c60b4-0cfc-4f96-b8c3-a4916a73a516",
+      "intro": "A newborn fawn can't outrun anything, so it doesn't try. It hides, stays still, gives off almost no scent, and relies on its mother to keep her distance. On episode 102 of Deer University, hosts Dr. Jacob Dykes and Dr. Eric Michel of the Mississippi State University Deer Lab talk with recent graduate Sam Overfors, who used thermal drones and GPS collars to study exactly how fawns move across the landscape during those dangerous first weeks and what that tells us about how they survive.",
+      "sections": [
+        {
+          "heading": "The hider strategy, explained",
+          "body": "White-tailed deer are what biologists call hiders, as opposed to followers like elk or bison calves that are up and moving with the herd within hours. A whitetail fawn spends most of its first two to three weeks bedded down alone in cover, and the hosts explain that nearly everything about a fawn's biology is built around making that hiding work.\n\nThe spotted coat breaks up its outline in dappled light. Newborn fawns produce very little body odor, which matters against predators that hunt by nose. And their instinct when something approaches is to freeze, flatten and hold still rather than bolt. That freeze response is so strong that people who find a fawn often assume it's injured or abandoned. It isn't. It's doing the one thing that keeps it alive.\n\nThe doe plays her part by staying away. She feeds at a distance and returns only a few times a day to nurse, so her scent and movement don't draw a coyote to the bed site. The episode stresses that a fawn alone in the grass is normal, and picking it up is the worst thing a well-meaning person can do.",
+          "quote": null
+        },
+        {
+          "heading": "What thermal drones revealed about bed sites",
+          "body": "Sam Overfors's research took advantage of a tool that has changed fawn studies in the last few years: thermal drones. Fawns are nearly impossible to spot from the ground, but from the air a warm body shows up clearly against cooler vegetation, especially early in the morning. That let the team locate fawns, fit them with GPS collars, and then track how they moved without walking in and disturbing the site repeatedly.\n\nThe hosts describe what that data shows. In the first days of life, fawns move very little. They shift between bed sites, but the distances are short and the sites tend to share features: dense vegetation at ground level, some overhead cover, and edges where a fawn can bed just inside thick cover. As the weeks pass, movements lengthen and the fawn spends more time with the doe, until by roughly a month old it's behaving much more like a follower.\n\nThat trajectory matters because it maps onto risk. The hosts explain that mortality is concentrated in the first couple of weeks, when the fawn is relying entirely on concealment. Once it's mobile enough to flee and keep up with its mother, survival odds climb sharply.",
+          "quote": null
+        },
+        {
+          "heading": "Do fawns actually choose safer spots?",
+          "body": "The interesting question in Sam's work is whether fawns, or their mothers, are actively selecting bed sites that reduce predation, or whether they're just using whatever cover is nearby. The episode walks through how GPS data and vegetation surveys were combined to test that.\n\nThe general finding, consistent with a growing body of fawn research, is that bed sites aren't random. Fawns bed in places with more concealment than the surrounding habitat offers on average, and they shift sites regularly, which limits the scent buildup that would give a coyote something to follow. Some of the movement also appears to respond to disturbance: a fawn that's been approached is more likely to relocate.\n\nJacob and Eric are careful, as they usually are, not to overstate the results. Predation is only one cause of fawn death, and habitat that hides fawns from coyotes doesn't hide them from everything. But the pattern is clear enough to be useful.",
+          "quote": null
+        },
+        {
+          "heading": "What this means if you manage land",
+          "body": "The practical takeaway the hosts draw is about cover. If you want more fawns to make it to fall, the biggest lever most landowners have isn't killing coyotes, which study after study shows is a temporary fix at best. It's providing the kind of ground-level cover that lets the hider strategy work.\n\nThat means letting some fields go to early successional growth instead of mowing everything, keeping brushy edges, timing haying and mowing to avoid peak fawning in late spring, and using prescribed fire or disturbance to keep vegetation thick at the height a fawn beds. Good fawning cover tends to be good habitat for a lot of other wildlife too.\n\nThe episode also makes a point about nutrition. A doe in good condition drops fawns earlier and heavier, and a heavier fawn hides and later flees more effectively. So the food plot and habitat work discussed elsewhere on Deer University feeds directly into fawn survival. Cover hides them, but condition gets them ready to run.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Whitetail fawns are hiders. For their first two to three weeks they survive by freezing in cover, not by running.",
+        "Spotted coats, very low scent and a doe that visits only briefly all reduce the chance a predator finds the bed site.",
+        "Thermal drones and GPS collars let researchers track fawn movement without repeatedly disturbing bed sites.",
+        "Fawns select bed sites with more ground-level concealment than the surrounding habitat and shift sites regularly.",
+        "For landowners, thick early successional cover and mowing timed around fawning season do more for fawn survival than predator removal."
+      ],
+      "faq": [
+        {
+          "q": "I found a fawn alone. Is it abandoned?",
+          "a": "Almost certainly not. Does leave fawns hidden for hours at a time and return to nurse. Leave it where it is and move away. If it's still there and clearly weak after a full day, contact a wildlife agency."
+        },
+        {
+          "q": "When can fawns outrun predators?",
+          "a": "By about three to four weeks old a fawn can flee and keep up with its mother, and survival rates rise sharply from that point. Before then, hiding is the only defense."
+        },
+        {
+          "q": "Does removing coyotes increase fawn survival?",
+          "a": "Sometimes briefly, but coyotes recolonize quickly and the effect rarely lasts. Improving fawning cover and doe nutrition produces more durable gains."
+        }
+      ],
+      "sourceNote": "Based on Deer University episode 102, \"How Fawns Avoid Predators,\" with Sam Overfors, released July 14, 2026. Credit to hosts Dr. Jacob Dykes and Dr. Eric Michel and the Deer University podcast."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "tim-wendelboe-podcast",
+  "title": "Tim Wendelboe Podcast",
+  "author": "Tim Wendelboe",
+  "description": "Award-winning roaster and 2004 World Barista Champion Tim Wendelboe talks with producers, baristas and business owners about coffee farming, quality and the realities of running a specialty coffee business.",
+  "category": "food",
+  "website": "https://timwendelboe.podbean.com",
+  "feedUrl": "https://feed.podbean.com/timwendelboe/feed.xml",
+  "imageUrl": "https://pbcdn1.podbean.com/imglogo/image-logo/5866763/tim_wendelboe_1_.jpg",
+  "appleUrl": "",
+  "spotifyUrl": "",
+  "episodes": [
+    {
+      "guid": "timwendelboe.podbean.com/2f2d70a4-db2b-3474-86d0-9a84a40b0c8e",
+      "title": "Episode 58: Ida's Coffee Journey: From Barista to Business Owner",
+      "publishedAt": "2026-09-11",
+      "summary": "Ida, founder of Tøllefsenhjørnet in Tromsø, talks about going from barista and wholesale manager at Tim Wendelboe to opening her own coffee and natural wine bar in a building her family once ran a shop in. She covers renovation on a tight budget, a hard first year, and the changes that turned things around.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/m6yy3a7wxun8vu2p/TW_-_Episode_587p1pk.mp3",
+      "durationSec": 5805,
+      "episodeUrl": "https://timwendelboe.podbean.com/e/episode-57-from-barista-to-business-owner/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "timwendelboe.podbean.com/7c9f576c-67b1-3f8b-98ad-97a966afa345",
+      "title": "Episode 57: Finca El Suelo: A Year Under the Biofilia Project",
+      "publishedAt": "2026-08-16",
+      "summary": "Farm manager Yurany describes a year of fully biological farming at Finca El Suelo in Colombia with no synthetic inputs, including drought and sun stress and cup results scoring 84 to 88 points.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/w97bh9d65w2fhnkw/TW_-_PODCAST_57MP37gdva.mp3",
+      "durationSec": 2160,
+      "episodeUrl": "https://timwendelboe.podbean.com/e/episode-57-finca-el-suelo-a-year-under-the-biophilia-project/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "timwendelboe.podbean.com/b3f2fc1d-278b-3fcb-9c23-6193396d4eaf",
+      "title": "Episode 56: Evolution, Genetics, and the Future of Coffee – Conversation with Professor Andreas Tribsch",
+      "publishedAt": "2026-06-05",
+      "summary": "Botany professor Andreas Tribsch on how Coffea arabica evolved in the Ethiopian highlands, why its genetic base is so narrow, and what climate change means for wild coffee and farm resilience.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/aqnrjqhr6dw3ifu8/TW_-_Episode_557c4ej.mp3",
+      "durationSec": 3605,
+      "episodeUrl": "https://timwendelboe.podbean.com/e/episode-56-evolution-genetics-and-the-future-of-coffee-%e2%80%93-a-conversation-with-professor-andreas-tribsch/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "timwendelboe.podbean.com/5e03313f-3bdf-39cd-a481-348fabda2e2f",
+      "title": "Episode 55: Ranked No. 2 in the World – Exceeding Guest Expectations with Stephanie Dawn Holm",
+      "publishedAt": "2026-05-21",
+      "summary": "Espresso bar manager Stephanie, 15 years at Tim Wendelboe, on being ranked second on the 2026 Best Coffee Shops list and a hospitality philosophy built around guest comfort in a 50-square-meter space.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/vur45rnvqsvm6upc/TWCP_-_Episode_55bqt6w.mp3",
+      "durationSec": 3257,
+      "episodeUrl": "https://timwendelboe.podbean.com/e/episode-55/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "timwendelboe.podbean.com/eb938ba1-1a4b-3729-9183-4c97558138b9",
+      "title": "Episode 54: The Future of Honduran Coffee: The Biofilia Transition – Conversation with Benjamin Paz",
+      "publishedAt": "2026-04-28",
+      "summary": "Producer Benjamin Paz on moving his Honduran farm off synthetic fertilizers and fungicides toward biological methods, and the resilience and cup quality improvements he saw in varieties like Parainema and Geisha.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/g7vu8xgtbzauq9yi/TW_-_PODCAST_54MP3_mixdown769va.mp3",
+      "durationSec": 902,
+      "episodeUrl": "https://timwendelboe.podbean.com/e/episode-54/",
+      "transcriptUrl": ""
+    },
+    {
+      "guid": "timwendelboe.podbean.com/3c418f58-7f46-30fe-a89b-9492b2291fe2",
+      "title": "Episode 53: Adapting Coffee Farms for the Future – Conversation with Moises Herrera from Finca el Puente",
+      "publishedAt": "2026-04-14",
+      "summary": "Producer Moises Herrera on the 2025 frost that damaged around half the coffee on some of his properties, the shift to biological farming, and planting around 10,000 shade trees a year.",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/tk9s2gdskqybzsb4/TW_-_PODCAST_53bdoer.mp3",
+      "durationSec": 2005,
+      "episodeUrl": "https://timwendelboe.podbean.com/e/episode-53/",
+      "transcriptUrl": ""
+    }
+  ],
+  "articles": [
+    {
+      "slug": "what-does-it-take-to-open-a-coffee-shop",
+      "question": "What does it take to open a coffee shop?",
+      "metaDescription": "On the Tim Wendelboe Podcast, cafe founder Ida shares what opening a specialty coffee shop really took: a tight budget, a hard first year and the fixes.",
+      "episodeGuid": "timwendelboe.podbean.com/2f2d70a4-db2b-3474-86d0-9a84a40b0c8e",
+      "intro": "Opening a coffee shop takes more than good coffee: it takes a building you can afford to fix up, enough cash to survive a rough first year, and the willingness to change the plan once real customers show up. On the Tim Wendelboe Podcast, Tim talks with Ida, who left her job as wholesale manager at his Oslo roastery to open Tøllefsenhjørnet, a coffee and natural wine bar in Tromsø. Her story is a practical map of what the first year actually looks like.",
+      "sections": [
+        {
+          "heading": "Learn the trade before you sign a lease",
+          "body": "Ida didn't go straight from a love of coffee to a business plan. She worked as a barista, then moved up to managing wholesale accounts at Tim Wendelboe. That job meant dealing with cafés as customers: their ordering habits, their cash flow problems, what made some of them succeed and others struggle.\n\nThe host and guest both make the point that this kind of experience is the cheapest education you can get. By the time Ida opened her own doors, she already knew how to dial in espresso, train staff, manage suppliers and talk to café owners about margins. None of that had to be learned on her own payroll.\n\nIf you're planning to open a shop, the takeaway is to spend time on the other side of the counter first, ideally in a role that lets you see the numbers, not just the machines.",
+          "quote": null
+        },
+        {
+          "heading": "The building will eat your budget",
+          "body": "Ida's shop sits in a historic building in Tromsø where her ancestors once ran a grocery, Tøllefsen Kolonial. Reviving a family building is a great story, and it's also expensive. The episode covers how renovation costs squeezed her budget before a single cup was sold.\n\nThe host explains that this is the pattern for most first-time café owners. The build-out, the plumbing, the electrical work for espresso machines and the fit-out of an old space tend to run over. Whatever you've set aside for opening, the renovation will try to take all of it.\n\nThe practical advice from the conversation is to keep the opening scope small, get the essentials right, and leave room in the budget for the months after opening rather than spending everything on the space itself.",
+          "quote": null
+        },
+        {
+          "heading": "The first year was hard, and the fixes were simple",
+          "body": "Ida is candid that year one was financially difficult. What's useful is how ordinary the solutions were. Three changes improved the business:\n\n- **Longer opening hours.** More hours meant more chances to sell, and it made the shop a reliable part of people's routines.\n- **Basic food.** Not a full kitchen, just simple offerings that raise the average ticket and give people a reason to stay.\n- **Seasonal drinks people actually want.** She started making her own pumpkin spice syrup. A specialty roaster's former wholesale manager selling pumpkin spice lattes might sound like a compromise, but customers asked for it, and it sold.\n\nThe host and guest discuss the tension between specialty coffee ideals and what a neighborhood shop needs to survive. Ida's answer was to keep the coffee quality high and stop being precious about the menu around it.",
+          "quote": null
+        },
+        {
+          "heading": "Labor costs decide whether the math works",
+          "body": "Running a café in Norway means some of the highest labor costs in the world, and the episode spends real time on it. Every hour the shop is open costs staff wages, so extended hours only help if the extra sales cover them. That's the arithmetic Ida had to get right.\n\nHer answer was partly the wine bar. Combining specialty coffee by day with natural wine in the evening lets the same space and the same lease generate revenue across more of the day, and evening wine sales carry higher margins than a flat white.\n\nThe bigger lesson from the episode is that a coffee shop is a community space first and a coffee showcase second. Ida built something people in Tromsø wanted to spend time in, and the coffee quality kept them coming back. If you're planning your own shop, plan the hours, the food and the second revenue stream at the same time you're planning the espresso machine.",
+          "quote": null
+        }
+      ],
+      "keyTakeaways": [
+        "Work in cafés and, if possible, on the wholesale side before opening your own; the industry knowledge is the cheapest part of the education.",
+        "Renovating a space, especially an old one, will consume most of an opening budget, so keep the scope tight and hold cash back for after opening.",
+        "Expect a hard first year and fix it with basics: longer hours, simple food and seasonal drinks people ask for.",
+        "In a high-wage market, every open hour has to pay for its staff, so a second revenue stream like evening wine matters.",
+        "Build a community space with great coffee rather than a coffee showcase that happens to have customers."
+      ],
+      "faq": [
+        {
+          "q": "How long does it take for a coffee shop to become profitable?",
+          "a": "Ida's first year was financially difficult, and the improvements came after she extended hours, added basic food and adjusted the menu. Plan for at least a year before the business finds its footing."
+        },
+        {
+          "q": "Should a specialty coffee shop sell flavored drinks?",
+          "a": "Ida did, making her own pumpkin spice syrup because customers wanted it. The episode's view is that you can keep the coffee quality high without being rigid about the menu around it."
+        },
+        {
+          "q": "Is it a good idea to combine a coffee shop with a wine bar?",
+          "a": "It worked for Tøllefsenhjørnet. Coffee by day and natural wine by evening spreads revenue across more hours of the same lease, which helps cover high labor costs."
+        }
+      ],
+      "sourceNote": "Based on the Tim Wendelboe Podcast episode 58, \"Ida's Coffee Journey: From Barista to Business Owner\", released September 11, 2026, hosted by Tim Wendelboe."
+    }
+  ]
+}

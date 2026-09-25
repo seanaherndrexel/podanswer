@@ -1,0 +1,143 @@
+{
+  "slug": "tech-for-non-techies",
+  "title": "Tech for Non-Techies",
+  "author": "Sophia Matveeva",
+  "description": "A podcast about product thinking and building technology ventures as a non-technical founder or leader, with frameworks tested at Oxford, London Business School, and Techstars.",
+  "category": "technology",
+  "website": "https://www.techfornontechies.co/",
+  "feedUrl": "https://rss.libsyn.com/shows/276953/destinations/2120279.xml",
+  "imageUrl": "https://static.libsyn.com/p/assets/c/3/c/e/c3ce90163b02e12d16c3140a3186d450/Podcast_Artwork-20260609-74ztfgtiee.png",
+  "appleUrl": "https://podcasts.apple.com/us/podcast/tech-for-non-techies/id1516475320",
+  "spotifyUrl": "https://open.spotify.com/show/1iOOABxhCdrFDmPfxCvMUz",
+  "episodes": [
+    {
+      "guid": "31083852-c388-4b6b-8dd3-4f4115b6aa88",
+      "title": "321. Why 80% of AI projects fail, and it's not the AI's fault",
+      "publishedAt": "2026-09-16",
+      "summary": "Sophia contrasts a failed $600K New York City chatbot with a successful Korean steel plant deployment to explain five reasons AI transformations fail, and why the cause is usually how the project was set up rather than the technology.",
+      "audioUrl": "https://traffic.libsyn.com/secure/techfornontechies/321._FINAL.mp3?dest-id=2120279",
+      "durationSec": 1011,
+      "episodeUrl": "https://www.techfornontechies.co/blog/321-why-80-of-ai-projects-fail-and-it-s-not-the-ai-s-fault-2",
+      "transcriptUrl": "https://www.techfornontechies.co/blog/321-why-80-of-ai-projects-fail-and-it-s-not-the-ai-s-fault-2"
+    },
+    {
+      "guid": "24aac783-945d-4afa-ae1a-315469cc3f73",
+      "title": "320. Calendly: the $3bn non-technical founder success story",
+      "publishedAt": "2026-09-09",
+      "summary": "How Tope Awotona built Calendly to a $3 billion valuation without a technical co-founder or coding skills, through sales-driven execution, outsourced development, and product-led growth.",
+      "audioUrl": "https://traffic.libsyn.com/secure/techfornontechies/320._FINAL.mp3?dest-id=2120279",
+      "durationSec": 1619,
+      "episodeUrl": "https://www.techfornontechies.co/blog/320-calendly-the-$3bn-non-technical-founder-success-story",
+      "transcriptUrl": "https://www.techfornontechies.co/blog/320-calendly-the-$3bn-non-technical-founder-success-story"
+    },
+    {
+      "guid": "837fbd80-0d09-4353-bc7a-3173f602646f",
+      "title": "319. Your judgment is your most valuable asset. Are you losing it to AI?",
+      "publishedAt": "2026-09-02",
+      "summary": "Guest Rana Gujral on how AI scoring systems can quietly suppress dissent and independent thinking, and the risk to junior talent and organizational decision-making.",
+      "audioUrl": "https://traffic.libsyn.com/secure/techfornontechies/319_Final.mp3?dest-id=2120279",
+      "durationSec": 1509,
+      "episodeUrl": "https://www.techfornontechies.co/blog/319-your-judgment-is-your-most-valuable-asset-are-you-losing-it-to-ai",
+      "transcriptUrl": "https://www.techfornontechies.co/blog/319-your-judgment-is-your-most-valuable-asset-are-you-losing-it-to-ai"
+    },
+    {
+      "guid": "6bc9540d-2118-4f6a-8760-55f0fc618d5d",
+      "title": "318. Why US startups beat Europeans, and lessons from Slack and Dropbox",
+      "publishedAt": "2026-08-26",
+      "summary": "Sophia debunks the viral growth myth by showing the deliberate marketing spend behind Slack and Dropbox, and why US startups exit at several times European valuations.",
+      "audioUrl": "https://traffic.libsyn.com/secure/techfornontechies/318._Final.mp3?dest-id=2120279",
+      "durationSec": 1389,
+      "episodeUrl": "https://www.techfornontechies.co/blog/318-why-us-startups-beat-europeans-and-lessons-from-slack-and-dropbox",
+      "transcriptUrl": "https://www.techfornontechies.co/blog/318-why-us-startups-beat-europeans-and-lessons-from-slack-and-dropbox"
+    },
+    {
+      "guid": "8c7d16bf-afea-40a5-9859-9cb8262729d7",
+      "title": "317. From Excel spreadsheet to AI company: the non-technical CEO's playbook",
+      "publishedAt": "2026-08-19",
+      "summary": "Peter Scott on turning Broker Insights from Excel-based operations into an AI platform while leading technical teams without coding, plus evaluating investors and using company data as an asset.",
+      "audioUrl": "https://traffic.libsyn.com/secure/techfornontechies/317_Final.mp3?dest-id=2120279",
+      "durationSec": 1885,
+      "episodeUrl": "https://www.techfornontechies.co/blog/317-from-excel-spreadsheet-to-ai-company-the-non-technical-ceo-s-playbook",
+      "transcriptUrl": "https://www.techfornontechies.co/blog/317-from-excel-spreadsheet-to-ai-company-the-non-technical-ceo-s-playbook"
+    },
+    {
+      "guid": "bad833d3-795c-44a3-8ab6-43d29484359f",
+      "title": "316. What makes a great tech product? Product thinking for non-techies",
+      "publishedAt": "2026-08-12",
+      "summary": "A foundation in product thinking: the difference between a product and a solution, and why focusing on the customer's problem rather than the technology stops founders from building the wrong thing.",
+      "audioUrl": "https://traffic.libsyn.com/secure/techfornontechies/316_final.mp3?dest-id=2120279",
+      "durationSec": 910,
+      "episodeUrl": "https://www.techfornontechies.co/blog/316-what-makes-a-great-tech-product-product-thinking-for-non-techies",
+      "transcriptUrl": "https://www.techfornontechies.co/blog/316-what-makes-a-great-tech-product-product-thinking-for-non-techies"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "why-do-most-ai-projects-fail",
+      "question": "Why do most AI projects fail?",
+      "metaDescription": "Sophia Matveeva of Tech for Non-Techies on the five reasons most AI projects fail and what a successful rollout did differently.",
+      "episodeGuid": "31083852-c388-4b6b-8dd3-4f4115b6aa88",
+      "intro": "Most AI projects fail because they were set up wrong, not because the AI didn't work. On Tech for Non-Techies, host Sophia Matveeva walks through five reasons the majority of enterprise AI initiatives stall: the wrong problem, messy data, chasing technology instead of need, missing infrastructure, and problems AI simply can't solve. She contrasts a failed $600K New York City chatbot with a Korean steel plant that got it right.",
+      "sections": [
+        {
+          "heading": "Reason one: nobody defined the problem or the metric",
+          "body": "Sophia's first failure mode is the most basic. Teams start with \"we should do something with AI\" and never pin down what they're trying to improve or how they'd know if it worked. There's no baseline, no target number, and no agreement on what a win looks like.\n\nThat sounds obvious, but she argues it's the most common reason projects quietly die. Without a clear problem and a way to measure it, the project can't be judged, so it drifts until the budget runs out.\n\nHer framing throughout the episode is that AI is execution and product thinking is judgment. If the judgment at the start is poor, the AI just executes that poor judgment faster.",
+          "quote": {
+            "text": "People aren't identifying the problem correctly and aren't measuring what they're trying to improve.",
+            "speaker": "Sophia Matveeva",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Reasons two and four: the data and infrastructure aren't ready",
+          "body": "The second and fourth reasons are related. Organizations want an AI transformation, but their data is scattered across systems, inconsistent, and would need months of cleaning before a model could use it. Leaders tend to underestimate this because the cleaning work is invisible and unglamorous.\n\nBeyond the data itself, Sophia points out that many organizations lack the underlying data infrastructure to make AI work at all. You need pipelines, storage, and access controls in place before the interesting part starts.\n\nFor a non-technical leader, the practical question is: before we talk about models, can we actually get the relevant data into one place in a usable form? If the honest answer is no, that's the project, not the AI.",
+          "quote": {
+            "text": "Organizations want to go through AI transformation, but their data is all over the place and needs lots of time to clean.",
+            "speaker": "Sophia Matveeva",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "Reasons three and five: chasing the tech, and picking impossible problems",
+          "body": "Reason three is chasing the technology rather than the need. A board hears about AI, a budget appears, and someone goes looking for a place to spend it. Sophia's advice is to invert that: focus on the problem, not the technology, and ask whether this problem is genuinely a priority worth solving. Sometimes the right answer is a spreadsheet.\n\nReason five is the one people don't want to hear. Some problems are just too difficult for AI to solve. The tools are impressive, but there are things they cannot do reliably, and a project built on one of those will fail no matter how well it's run.\n\nThe $600K New York City chatbot she describes is the cautionary tale here, an expensive deployment that didn't deliver because the setup was flawed from the beginning.",
+          "quote": {
+            "text": "Sometimes the problem is just too difficult for AI to solve. AI is great, really good, but there are just some things it cannot solve.",
+            "speaker": "Sophia Matveeva",
+            "timestamp": ""
+          }
+        },
+        {
+          "heading": "What the Korean steel plant did differently",
+          "body": "The success story in the episode is a Korean steel plant, and Sophia pulls three lessons from it. First, they got the technologists and the domain experts speaking the same language so they actually worked together on the problem, instead of one group building something and handing it to the other.\n\nSecond, the domain experts were treated with respect, as the people whose knowledge made the system work, not as staff about to be replaced by an algorithm. That changed how willing they were to contribute what they knew.\n\nThird, they tested in real production for five months before rolling it out fully. Not a one-time demo with five people. Five months of real use, real edge cases, and real feedback. Sophia's point for non-technical leaders is that none of these three moves require coding. They require judgment, which is exactly the part that can't be outsourced to the model.",
+          "quote": {
+            "text": "They tested it on real production for five months before rolling it out fully. Not just a one-time demo with five people.",
+            "speaker": "Sophia Matveeva",
+            "timestamp": ""
+          }
+        }
+      ],
+      "keyTakeaways": [
+        "Most AI failures come from project setup, not the technology.",
+        "Define the problem and the metric before anything else, or the project can't be judged.",
+        "Messy data and missing data infrastructure sink projects before the model matters.",
+        "Chase the need, not the technology, and accept that some problems aren't solvable with AI yet.",
+        "The successful rollout paired technologists with respected domain experts and tested in production for five months."
+      ],
+      "faq": [
+        {
+          "q": "Do I need to be technical to lead an AI project?",
+          "a": "No. Sophia's argument is that the decisive work is judgment: picking the right problem, setting the metric, and getting experts and engineers collaborating. AI handles execution."
+        },
+        {
+          "q": "How long should we test an AI system before rolling it out?",
+          "a": "The steel plant example in the episode ran in real production for five months before a full rollout. The point is sustained real-world testing rather than a single demo."
+        },
+        {
+          "q": "What should I check before starting an AI project?",
+          "a": "Whether the problem is clearly defined and measurable, whether the data is clean and accessible, whether the infrastructure exists, and whether the problem is one AI can actually solve."
+        }
+      ],
+      "sourceNote": "Based on the Tech for Non-Techies episode \"321. Why 80% of AI projects fail, and it's not the AI's fault,\" released September 16, 2026, hosted by Sophia Matveeva."
+    }
+  ]
+}
