@@ -529,7 +529,7 @@ function accountPage({ user, podcast, subscription, articles, jobs, totals, plan
         <p class="price">${esc(cfg.amount.split('/')[0])}<span>/month</span></p>
         <p class="muted">${cfg.quota} answers researched, written and published each month.</p>
         <form method="post" action="/account/checkout"><input type="hidden" name="plan" value="${key}">
-          <button class="btn ${key === 'growth' ? 'btn-primary' : 'btn-ghost'}" type="submit" ${!stripeReady || !podcast || !podcast.feed_url ? 'disabled' : ''}>Start ${esc(cfg.name)}</button>
+          <button class="btn ${key === 'growth' ? 'btn-primary' : 'btn-ghost'}" type="submit" ${!stripeReady || !podcast || !podcast.feed_url || !podcast.category_confirmed_at ? 'disabled' : ''}>Start ${esc(cfg.name)}</button>
           <p class="muted small">By starting a plan you agree to the <a href="/terms">Terms of Service</a> and <a href="/refunds">Refund Policy</a>.</p>
         </form>
         ${!podcast || !podcast.feed_url || !podcast.category_confirmed_at ? '<p class="muted small">Add your podcast, choose what it teaches, and save above first.</p>' : ''}
