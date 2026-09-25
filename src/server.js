@@ -260,13 +260,17 @@ app.get('/account', auth.requireUser, wrap(async (req, res) => {
   res.set('Cache-Control', 'no-store');
   res.send(V.accountPage({
     user: req.user, ...data, plans: billing.PLANS, stripeReady: billing.enabled(),
-    notice: req.query.welcome ? 'Payment received. Your first batch of answers is being researched and written now, and lands within a day.' : (req.query.saved ? 'Saved.' : (req.query.canceled ? 'Checkout canceled, nothing was charged.' : null)),
+    notice: req.query.welcome ? 'Payment received. Your episodes are loading now. Open your dashboard in a few minutes to choose which ones get articles.' : (req.query.saved ? 'Saved.' : (req.query.canceled ? 'Checkout canceled, nothing was charged.' : (req.query.error === 'eligibility' ? 'Choose the subject your show covers and confirm it teaches or explains something, then save. Plans unlock after that.' : null))),
   }));
 }));
 
 app.post('/account/podcast', auth.requireUser, wrap(async (req, res) => {
   const b = req.body || {};
-  const pod = await billing.ensurePodcastForUser(req.user, { title: b.title, feedUrl: b.feed_url, category: CATEGORIES[b.category] ? b.category : 'business' });
+  // The subject must be chosen on purpose and the owner must confirm the show teaches or explains
+  // something people search for. Comedy, fiction and similar shows would pay for nothing they can use.
+  if (!CATEGORIES[b.category] || !b.eligible) return res.redirect('/account?error=eligibility');
+  const pod = await billing.ensurePodcastForUser(req.user, { title: b.title, feedUrl: b.feed_url, category: b.category });
+  if (pod && pod.id) await q(`UPDATE podcasts SET category_confirmed_at=now() WHERE id=` + Number(pod.id));
   const yt = String(b.youtube_url || '').trim();
   if (yt && /^https:\/\/(www\.|m\.)?youtube\.com\//.test(yt)) {
     await q(`UPDATE podcasts SET youtube_url=$2, updated_at=now() WHERE id=$1`, [pod && pod.id ? pod.id : 0, yt.slice(0, 300)]).catch(() => {});
@@ -279,6 +283,7 @@ app.post('/account/checkout', auth.requireUser, wrap(async (req, res) => {
   if (!billing.enabled()) return res.redirect('/account');
   const { podcast } = await accountData(req.user);
   if (!podcast || !podcast.feed_url) return res.redirect('/account');
+  if (!podcast.category_confirmed_at) return res.redirect('/account?error=eligibility');
   await q(`UPDATE users SET terms_accepted_at=COALESCE(terms_accepted_at, now()), terms_version=$2, terms_ip=$3, checkout_terms_at=now() WHERE id=$1`, [req.user.id, TERMS_VERSION, String(req.ip || '')]);
   const session = await billing.createCheckout({ user: req.user, plan: req.body.plan, podcast, siteUrl: V.SITE.url });
   res.redirect(303, session.url);

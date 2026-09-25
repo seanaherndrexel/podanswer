@@ -14,7 +14,7 @@ const CATEGORIES = {
     intro: 'Marketing advice ages fast and most of what ranks is written to rank rather than to help. These answers come from practitioners describing what they ran, what it cost, and what happened.',
   },
   money: {
-    name: 'Money', h1: 'Personal finance, answered',
+    name: 'Money & Finance', h1: 'Personal finance, answered',
     blurb: 'Saving, investing, taxes and retirement.',
     intro: 'Money questions get vague answers because the honest one is usually specific. These are taken from advisors and planners working through real situations out loud, with the numbers left in. None of it is personalised advice, and a decision this size deserves a conversation with someone licensed.',
   },
@@ -88,8 +88,13 @@ const CATEGORIES = {
     blurb: 'Study skills, languages, school and admissions.',
     intro: 'Teachers, tutors and researchers on what makes learning stick, and what to do when it is not sticking.',
   },
+  engineering: {
+    name: 'Engineering', h1: 'Engineering questions, answered by working engineers',
+    blurb: 'Building, software, manufacturing and design.',
+    intro: 'Engineering answers are worth most when they come with the constraints attached. These come from engineers on their own shows explaining how a system was built, what broke, and what they would specify next time.',
+  },
   creative: {
-    name: 'Creative', h1: 'Creative work, answered',
+    name: 'Art & Creative', h1: 'Creative work, answered',
     blurb: 'Writing, photography, music, video and podcasting.',
     intro: 'Working creatives explaining craft and the business around it, including the parts that are unglamorous.',
   },
@@ -122,4 +127,7 @@ function fmtDuration(sec) {
   return m >= 60 ? `${Math.floor(m / 60)}h ${m % 60}m` : `${m} min`;
 }
 
-module.exports = { CATEGORIES, slugify, token, esc, fmtDate, fmtDuration };
+// Shows that don't answer searchable questions get nothing from the service, so they can't buy it.
+const NOT_ELIGIBLE = ['comedy', 'fiction and audio drama', 'true crime storytelling', 'sports talk', 'celebrity and pop culture', 'news commentary', 'music'];
+
+module.exports = { NOT_ELIGIBLE, CATEGORIES, slugify, token, esc, fmtDate, fmtDuration };
