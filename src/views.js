@@ -508,6 +508,8 @@ function accountPage({ user, podcast, subscription, articles, jobs, totals, plan
         ${Object.entries(CATEGORIES).map(([k, v]) => `<option value="${k}" ${podcast && podcast.category === k ? 'selected' : ''}>${esc(v.name)}</option>`).join('')}
       </select>
     </label>
+    <label class="check"><input type="checkbox" name="eligible" value="1" required ${podcast && podcast.category_confirmed_at ? 'checked' : ''}> My show teaches or explains things people search for answers to.</label>
+    <p class="muted small">PodAnswer turns what you teach on air into articles that answer real searches. Shows built on entertainment rather than information (${NOT_ELIGIBLE.join(', ')}) don't give search engines anything to rank, so they aren't a fit for a paid plan.</p>
     <button class="btn btn-ghost" type="submit">Save</button>
   </form>
   ${podcast && podcast.slug && podcast.tier !== 'listed' ? `
