@@ -221,7 +221,14 @@ async function migrate() {
     `ALTER TABLE articles ADD COLUMN IF NOT EXISTS removed_at TIMESTAMPTZ`,
     `ALTER TABLE articles ADD COLUMN IF NOT EXISTS rewrites INTEGER NOT NULL DEFAULT 0`,
     `ALTER TABLE articles ADD COLUMN IF NOT EXISTS order_id INTEGER`,
+    `ALTER TABLE podcasts ADD COLUMN IF NOT EXISTS hidden BOOLEAN NOT NULL DEFAULT false`,
   ]) { try { await pool.query(sql); } catch (e) { console.warn('migrate note:', e.message); } }
+  // HIDDEN_PODCASTS (comma-separated slugs) is the source of truth for private test shows.
+  // Hidden shows are left out of every listing, count, feed and the sitemap, and their own
+  // pages only load for OWNER_IPS (or the signed-in owner/admin). Remove a slug to unhide.
+  const hidden = (process.env.HIDDEN_PODCASTS || '').split(',').map((x) => x.trim()).filter(Boolean);
+  try { await pool.query(`UPDATE podcasts SET hidden = (slug = ANY($1::text[])) WHERE hidden IS DISTINCT FROM (slug = ANY($1::text[]))`, [hidden]); }
+  catch (e) { console.warn('hidden sync note:', e.message); }
 }
 
 const q = (text, params) => pool.query(text, params);
