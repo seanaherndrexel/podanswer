@@ -64,14 +64,36 @@ async function logView(req, { podcastId, articleId }) {
 const ARTICLE_SELECT = `SELECT a.id, a.slug, a.question, a.meta_description, a.published_at, a.updated_at, a.body, a.episode_id,
   p.slug AS podcast_slug, p.title AS podcast_title, p.image_url, p.category, p.author, p.tier
   FROM articles a JOIN podcasts p ON p.id = a.podcast_id WHERE a.status='published'`;
+// Public lists use ARTICLE_SELECT (hidden shows excluded). Pages that belong to one show use
+// ARTICLE_SELECT_ALL and gate the show itself with canSeeHidden().
+const ARTICLE_SELECT_ALL = ARTICLE_SELECT;
+const ARTICLE_SELECT_PUBLIC = `${ARTICLE_SELECT} AND NOT p.hidden`;
+
+const OWNER_IPS = (process.env.OWNER_IPS || '').split(',').map((x) => x.trim()).filter(Boolean);
+function clientIp(req) {
+  return String(req.get('cf-connecting-ip') || req.ip || '').replace(/^::ffff:/, '').trim();
+}
+function canSeeHidden(req, p) {
+  if (OWNER_IPS.includes(clientIp(req))) return true;
+  const u = req.user;
+  return !!(u && (u.is_admin || (p && p.user_id && u.id === p.user_id)));
+}
+// Returns true if the request was answered with a 404 (hidden show, visitor not allowed).
+function gateHidden(req, res, p) {
+  if (!p || !p.hidden) return false;
+  if (!canSeeHidden(req, p)) { res.status(404).send(V.notFound()); return true; }
+  res.set('X-Robots-Tag', 'noindex, nofollow');
+  res.set('Cache-Control', 'private, no-store');
+  return false;
+}
 
 /* ---------- home ---------- */
 app.get('/', wrap(async (req, res) => {
   const [stats, feat, pods, counts] = await Promise.all([
-    q(`SELECT (SELECT count(*) FROM articles WHERE status='published') AS articles, (SELECT count(*) FROM podcasts) AS podcasts, (SELECT count(*) FROM episodes) AS episodes`),
-    q(`${ARTICLE_SELECT} ORDER BY (p.tier <> 'listed') DESC, a.published_at DESC LIMIT 6`),
-    q(`SELECT p.* FROM podcasts p ORDER BY p.featured DESC, (p.tier <> 'listed') DESC, p.updated_at DESC LIMIT 8`),
-    q(`SELECT category, count(*)::int AS n FROM podcasts GROUP BY category`),
+    q(`SELECT (SELECT count(*) FROM articles a JOIN podcasts p ON p.id=a.podcast_id WHERE a.status='published' AND NOT p.hidden) AS articles, (SELECT count(*) FROM podcasts WHERE NOT hidden) AS podcasts, (SELECT count(*) FROM episodes e JOIN podcasts p ON p.id=e.podcast_id WHERE NOT p.hidden) AS episodes`),
+    q(`${ARTICLE_SELECT_PUBLIC} ORDER BY (p.tier <> 'listed') DESC, a.published_at DESC LIMIT 6`),
+    q(`SELECT p.* FROM podcasts p WHERE NOT p.hidden ORDER BY p.featured DESC, (p.tier <> 'listed') DESC, p.updated_at DESC LIMIT 8`),
+    q(`SELECT category, count(*)::int AS n FROM podcasts WHERE NOT hidden GROUP BY category`),
   ]);
   const s = stats.rows[0];
   res.send(V.home({
@@ -90,14 +112,14 @@ async function renderAnswers(req, res, category) {
   if (category) { params.push(category); where += ` AND p.category = $${params.length}`; }
   if (query) { params.push(`%${query}%`); where += ` AND (a.question ILIKE $${params.length} OR a.meta_description ILIKE $${params.length} OR p.title ILIKE $${params.length})`; }
   params.push(PAGE + 1, (page - 1) * PAGE);
-  const r = await q(`${ARTICLE_SELECT} ${where} ORDER BY a.published_at DESC LIMIT $${params.length - 1} OFFSET $${params.length}`, params);
+  const r = await q(`${ARTICLE_SELECT_PUBLIC} ${where} ORDER BY a.published_at DESC LIMIT $${params.length - 1} OFFSET $${params.length}`, params);
   const hasMore = r.rows.length > PAGE;
   res.send(V.answersIndex({ articles: r.rows.slice(0, PAGE), category, query, page, hasMore }));
 }
 app.get('/topics', wrap(async (req, res) => {
   const [counts, popular] = await Promise.all([
-    q(`SELECT category, count(*)::int AS n FROM podcasts GROUP BY category`),
-    q(`${ARTICLE_SELECT} ORDER BY a.published_at DESC LIMIT 6`),
+    q(`SELECT category, count(*)::int AS n FROM podcasts WHERE NOT hidden GROUP BY category`),
+    q(`${ARTICLE_SELECT_PUBLIC} ORDER BY a.published_at DESC LIMIT 6`),
   ]);
   res.send(V.topicsPage({ counts: Object.fromEntries(counts.rows.map((r) => [r.category, r.n])), popular: popular.rows }));
 }));
@@ -111,9 +133,9 @@ app.get('/topics/:topic', wrap(async (req, res) => {
   if (!cat) return res.status(404).send(V.notFound());
   const page = Math.max(1, parseInt(req.query.page, 10) || 1);
   const [arts, pods, count] = await Promise.all([
-    q(`${ARTICLE_SELECT} AND p.category=$1 ORDER BY a.published_at DESC LIMIT $2 OFFSET $3`, [topic, PAGE + 1, (page - 1) * PAGE]),
-    q(`SELECT * FROM podcasts WHERE category=$1 ORDER BY (tier <> 'listed') DESC, featured DESC, title LIMIT 8`, [topic]),
-    q(`SELECT count(*)::int AS n FROM articles a JOIN podcasts p ON p.id=a.podcast_id WHERE p.category=$1 AND a.status='published'`, [topic]),
+    q(`${ARTICLE_SELECT_PUBLIC} AND p.category=$1 ORDER BY a.published_at DESC LIMIT $2 OFFSET $3`, [topic, PAGE + 1, (page - 1) * PAGE]),
+    q(`SELECT * FROM podcasts WHERE category=$1 AND NOT hidden ORDER BY (tier <> 'listed') DESC, featured DESC, title LIMIT 8`, [topic]),
+    q(`SELECT count(*)::int AS n FROM articles a JOIN podcasts p ON p.id=a.podcast_id WHERE p.category=$1 AND a.status='published' AND NOT p.hidden`, [topic]),
   ]);
   res.set('Cache-Control', 'public, max-age=300');
   res.send(V.topicHub({
@@ -125,7 +147,7 @@ app.get('/topics/:topic', wrap(async (req, res) => {
 }));
 
 app.get('/answers/:slug', wrap(async (req, res) => {
-  const r = await q(`${ARTICLE_SELECT} AND a.slug = $1`, [req.params.slug]);
+  const r = await q(`${ARTICLE_SELECT_ALL} AND a.slug = $1`, [req.params.slug]);
   if (!r.rows.length) {
     // An article the podcaster took down is gone on purpose. 410 tells Google to
     // drop it rather than keep checking back the way it would on a 404.
@@ -141,11 +163,12 @@ app.get('/answers/:slug', wrap(async (req, res) => {
   const [p, e, related, more] = await Promise.all([
     q(`SELECT * FROM podcasts WHERE slug=$1`, [a.podcast_slug]).then((x) => x.rows[0]),
     a.episode_id ? q(`SELECT * FROM episodes WHERE id=$1`, [a.episode_id]).then((x) => x.rows[0]) : null,
-    q(`${ARTICLE_SELECT} AND p.category=$1 AND a.id<>$2 ORDER BY random() LIMIT 3`, [a.category, a.id]).then((x) => x.rows),
+    q(`${ARTICLE_SELECT_PUBLIC} AND p.category=$1 AND a.id<>$2 ORDER BY random() LIMIT 3`, [a.category, a.id]).then((x) => x.rows),
     q(`SELECT slug, question FROM articles WHERE podcast_id=(SELECT id FROM podcasts WHERE slug=$1) AND id<>$2 AND status='published' ORDER BY published_at DESC LIMIT 6`, [a.podcast_slug, a.id]).then((x) => x.rows),
   ]);
+  if (gateHidden(req, res, p)) return;
   logView(req, { podcastId: p.id, articleId: a.id });
-  res.set('Cache-Control', 'public, max-age=300');
+  if (!p.hidden) res.set('Cache-Control', 'public, max-age=300');
   res.send(V.articlePage({ a, p, e, related, moreFromShow: more }));
 }));
 
@@ -153,8 +176,8 @@ app.get('/answers/:slug', wrap(async (req, res) => {
 app.get('/podcasts', wrap(async (req, res) => {
   const category = CATEGORIES[req.query.category] ? req.query.category : null;
   const [pods, counts] = await Promise.all([
-    q(`SELECT * FROM podcasts ${category ? 'WHERE category=$1' : ''} ORDER BY (tier <> 'listed') DESC, featured DESC, title ASC`, category ? [category] : []),
-    q(`SELECT category, count(*)::int AS n FROM podcasts GROUP BY category`),
+    q(`SELECT * FROM podcasts WHERE NOT hidden ${category ? 'AND category=$1' : ''} ORDER BY (tier <> 'listed') DESC, featured DESC, title ASC`, category ? [category] : []),
+    q(`SELECT category, count(*)::int AS n FROM podcasts WHERE NOT hidden GROUP BY category`),
   ]);
   res.send(V.podcastsIndex({ podcasts: pods.rows, category, counts: Object.fromEntries(counts.rows.map((r) => [r.category, r.n])) }));
 }));
@@ -162,12 +185,13 @@ app.get('/podcasts', wrap(async (req, res) => {
 app.get('/podcasts/:slug', wrap(async (req, res) => {
   const p = (await q(`SELECT * FROM podcasts WHERE slug=$1`, [req.params.slug])).rows[0];
   if (!p) return res.status(404).send(V.notFound());
+  if (gateHidden(req, res, p)) return;
   const [eps, arts] = await Promise.all([
     q(`SELECT * FROM episodes WHERE podcast_id=$1 ORDER BY published_at DESC NULLS LAST LIMIT 30`, [p.id]),
-    q(`${ARTICLE_SELECT} AND p.id=$1 ORDER BY a.published_at DESC`, [p.id]),
+    q(`${ARTICLE_SELECT_ALL} AND p.id=$1 ORDER BY a.published_at DESC`, [p.id]),
   ]);
   logView(req, { podcastId: p.id });
-  res.set('Cache-Control', 'public, max-age=300');
+  if (!p.hidden) res.set('Cache-Control', 'public, max-age=300');
   res.send(V.podcastPage({ p, episodes: eps.rows, articles: arts.rows, stats: { articles: arts.rows.length, episodes: eps.rows.length } }));
 }));
 
@@ -176,11 +200,12 @@ app.get('/podcasts/:slug/episodes/:eslug', wrap(async (req, res) => {
   if (!p) return res.status(404).send(V.notFound());
   const e = (await q(`SELECT * FROM episodes WHERE podcast_id=$1 AND slug=$2`, [p.id, req.params.eslug])).rows[0];
   if (!e) return res.status(404).send(V.notFound());
+  if (gateHidden(req, res, p)) return;
   // full transcripts only for members; listed shows get summary + excerpts inside articles
   if (p.tier === 'listed') e.transcript = null;
-  const arts = await q(`${ARTICLE_SELECT} AND a.episode_id=$1`, [e.id]);
+  const arts = await q(`${ARTICLE_SELECT_ALL} AND a.episode_id=$1`, [e.id]);
   logView(req, { podcastId: p.id });
-  res.set('Cache-Control', 'public, max-age=600');
+  if (!p.hidden) res.set('Cache-Control', 'public, max-age=600');
   res.send(V.episodePage({ p, e, articles: arts.rows }));
 }));
 
@@ -188,6 +213,7 @@ app.get('/podcasts/:slug/episodes/:eslug', wrap(async (req, res) => {
 app.get('/go/:slug/:platform', wrap(async (req, res) => {
   const p = (await q(`SELECT * FROM podcasts WHERE slug=$1`, [req.params.slug])).rows[0];
   if (!p) return res.status(404).send(V.notFound());
+  if (gateHidden(req, res, p)) return;
   const map = { apple: p.apple_url, spotify: p.spotify_url, youtube: p.youtube_url, website: p.website, rss: p.feed_url };
   const target = map[req.params.platform];
   if (!target) return res.redirect(302, `/podcasts/${p.slug}`);
@@ -509,8 +535,9 @@ app.post('/api/content/update', jobAuth, wrap(async (req, res) => {
 // Full transcript for readers who want the whole conversation. Deliberately not indexed:
 // the article is the page Google should rank, this is the source for people who click through.
 app.get('/transcripts/:id', wrap(async (req, res) => {
-  const e = (await q(`SELECT e.*, p.slug AS pslug, p.title AS ptitle, p.tier, p.author FROM episodes e JOIN podcasts p ON p.id=e.podcast_id WHERE e.id=$1`, [parseInt(req.params.id, 10) || 0])).rows[0];
+  const e = (await q(`SELECT e.*, p.slug AS pslug, p.title AS ptitle, p.tier, p.author, p.hidden, p.user_id FROM episodes e JOIN podcasts p ON p.id=e.podcast_id WHERE e.id=$1`, [parseInt(req.params.id, 10) || 0])).rows[0];
   if (!e || !e.transcript || e.tier === 'listed') return res.status(404).send(V.notFound());
+  if (gateHidden(req, res, e)) return;
   const back = req.query.from ? `/answers/${encodeURIComponent(String(req.query.from))}` : `/podcasts/${e.pslug}/episodes/${e.slug}`;
   res.set('X-Robots-Tag', 'noindex, nofollow');
   res.send(V.transcriptPage({ e, back }));
@@ -857,9 +884,9 @@ app.get('/robots.txt', (req, res) => res.type('text/plain').send(`User-agent: *\
 
 app.get('/sitemap.xml', wrap(async (req, res) => {
   const [arts, pods, eps, posts] = await Promise.all([
-    q(`SELECT slug, updated_at FROM articles WHERE status='published' ORDER BY updated_at DESC`),
-    q(`SELECT slug, updated_at FROM podcasts`),
-    q(`SELECT e.slug, p.slug AS pslug, e.created_at FROM episodes e JOIN podcasts p ON p.id=e.podcast_id WHERE e.transcript IS NOT NULL OR EXISTS (SELECT 1 FROM articles a WHERE a.episode_id=e.id AND a.status='published')`),
+    q(`SELECT a.slug, a.updated_at FROM articles a JOIN podcasts p ON p.id=a.podcast_id WHERE a.status='published' AND NOT p.hidden ORDER BY a.updated_at DESC`),
+    q(`SELECT slug, updated_at FROM podcasts WHERE NOT hidden`),
+    q(`SELECT e.slug, p.slug AS pslug, e.created_at FROM episodes e JOIN podcasts p ON p.id=e.podcast_id WHERE NOT p.hidden AND (e.transcript IS NOT NULL OR EXISTS (SELECT 1 FROM articles a WHERE a.episode_id=e.id AND a.status='published'))`),
     q(`SELECT slug, updated_at FROM blog_posts`),
   ]);
   const u = (loc, lastmod, priority = '0.5', changefreq = 'weekly') => `<url><loc>${esc(V.SITE.url + loc)}</loc>${lastmod ? `<lastmod>${new Date(lastmod).toISOString().slice(0, 10)}</lastmod>` : ''}<changefreq>${changefreq}</changefreq><priority>${priority}</priority></url>`;
@@ -876,7 +903,7 @@ app.get('/sitemap.xml', wrap(async (req, res) => {
 }));
 
 app.get('/feed.xml', wrap(async (req, res) => {
-  const r = await q(`${ARTICLE_SELECT} ORDER BY a.published_at DESC LIMIT 30`);
+  const r = await q(`${ARTICLE_SELECT_PUBLIC} ORDER BY a.published_at DESC LIMIT 30`);
   const items = r.rows.map((a) => `<item><title>${esc(a.question)}</title><link>${V.SITE.url}/answers/${a.slug}</link><guid>${V.SITE.url}/answers/${a.slug}</guid><pubDate>${new Date(a.published_at).toUTCString()}</pubDate><description>${esc(a.meta_description || '')}</description></item>`).join('\n');
   res.type('application/rss+xml').send(`<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>PodAnswer: latest answers</title><link>${V.SITE.url}</link><description>${esc(V.SITE.tagline)}</description>${items}</channel></rss>`);
 }));
