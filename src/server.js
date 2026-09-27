@@ -852,6 +852,22 @@ app.post('/api/health/alert', jobAuth, wrap(async (req, res) => {
   }
   res.json(summary);
 }));
+// Puts a private test show (one listed in HIDDEN_PODCASTS) back at the article-picking step:
+// its articles, orders, views and clicks are deleted and its search ideas reopened.
+// Refuses any show that is not hidden, so a real member can never be wiped by this.
+app.post('/api/test/reset-picks/:slug', jobAuth, wrap(async (req, res) => {
+  const p = (await q(`SELECT * FROM podcasts WHERE slug=$1`, [req.params.slug])).rows[0];
+  if (!p) return res.status(404).json({ error: 'podcast not found' });
+  if (!p.hidden) return res.status(403).json({ error: 'only hidden test shows can be reset' });
+  const r = {};
+  r.orders = (await q(`DELETE FROM article_orders WHERE podcast_id=$1`, [p.id])).rowCount;
+  r.clicks = (await q(`DELETE FROM clicks WHERE podcast_id=$1`, [p.id])).rowCount;
+  r.pageviews = (await q(`DELETE FROM pageviews WHERE podcast_id=$1`, [p.id])).rowCount;
+  r.articles = (await q(`DELETE FROM articles WHERE podcast_id=$1`, [p.id])).rowCount;
+  r.suggestions_reopened = (await q(`UPDATE suggestions SET status='open' WHERE podcast_id=$1 AND status <> 'open'`, [p.id])).rowCount;
+  const open = (await q(`SELECT count(*)::int AS n FROM suggestions WHERE podcast_id=$1 AND status='open'`, [p.id])).rows[0].n;
+  res.json({ ok: true, podcast: p.slug, ...r, open_suggestions: open });
+}));
 app.get('/api/health/alert', jobAuth, (req, res) => res.json({ ok: true, note: 'POST for the full check' }));
 
 /* ---------- admin ---------- */
