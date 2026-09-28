@@ -107,15 +107,17 @@ async function run() {
     const slug = meta.slug || f.replace(/\.md$/, '');
     if (!meta.title) continue;
     await q(
-      `INSERT INTO blog_posts (slug, title, meta_description, body_md, published_at)
-       VALUES ($1,$2,$3,$4, COALESCE($5::timestamptz, now()))
-       ON CONFLICT (slug) DO UPDATE SET title=EXCLUDED.title, meta_description=EXCLUDED.meta_description, body_md=EXCLUDED.body_md, updated_at=now()`,
+      `INSERT INTO blog_posts (slug, title, meta_description, body_md, published_at, source)
+       VALUES ($1,$2,$3,$4, COALESCE($5::timestamptz, now()), 'seed')
+       ON CONFLICT (slug) DO UPDATE SET title=EXCLUDED.title, meta_description=EXCLUDED.meta_description, body_md=EXCLUDED.body_md, source='seed', updated_at=now()`,
       [slug, meta.title, meta.description || '', body, meta.date || null]
     );
     posts++;
   }
   // Retire blog posts whose markdown file no longer exists, so an old post
-  // never competes with the article that replaced it.
+  // never competes with the article that replaced it. Only posts that came from a
+  // markdown file are retired: posts published through /api/content/blog (source='api')
+  // have no file in the repo and must survive every deploy.
   const keep = bfiles.map((f) => f.replace(/\.md$/, ''));
   const metaSlugs = [];
   for (const f of bfiles) {
@@ -124,7 +126,7 @@ async function run() {
   }
   const live = [...new Set([...keep, ...metaSlugs])];
   if (live.length) {
-    const gone = await q(`DELETE FROM blog_posts WHERE slug <> ALL($1::text[]) RETURNING slug`, [live]);
+    const gone = await q(`DELETE FROM blog_posts WHERE source='seed' AND slug <> ALL($1::text[]) RETURNING slug`, [live]);
     if (gone.rows.length) console.log('retired blog posts:', gone.rows.map((r) => r.slug).join(', '));
   }
   console.log(`seeded ${pods} podcasts, ${eps} episodes, ${arts} articles, ${posts} blog posts`);

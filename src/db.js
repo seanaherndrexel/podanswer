@@ -222,6 +222,15 @@ async function migrate() {
     `ALTER TABLE articles ADD COLUMN IF NOT EXISTS rewrites INTEGER NOT NULL DEFAULT 0`,
     `ALTER TABLE articles ADD COLUMN IF NOT EXISTS order_id INTEGER`,
     `ALTER TABLE podcasts ADD COLUMN IF NOT EXISTS hidden BOOLEAN NOT NULL DEFAULT false`,
+    // Where a blog post came from: 'seed' (a markdown file in data/seed/blog) or 'api' (published
+    // through /api/content/blog). The seed step only retires 'seed' posts. Existing rows start as
+    // 'api' so nothing is deleted on the deploy that adds the column; seeding marks file posts 'seed'.
+    `ALTER TABLE blog_posts ADD COLUMN IF NOT EXISTS source TEXT NOT NULL DEFAULT 'api'`,
+    // Feeds that double-encode ampersands left "&amp;" in stored names and titles, which then
+    // showed on the page as "&amp;amp;". Decode what is already stored (ingest now decodes too).
+    `UPDATE podcasts SET author=replace(replace(author,'&amp;amp;','&'),'&amp;','&') WHERE author LIKE '%&amp;%'`,
+    `UPDATE podcasts SET title=replace(replace(title,'&amp;amp;','&'),'&amp;','&') WHERE title LIKE '%&amp;%'`,
+    `UPDATE episodes SET title=replace(replace(title,'&amp;amp;','&'),'&amp;','&') WHERE title LIKE '%&amp;%'`,
   ]) { try { await pool.query(sql); } catch (e) { console.warn('migrate note:', e.message); } }
   // HIDDEN_PODCASTS (comma-separated slugs) is the source of truth for private test shows.
   // Hidden shows are left out of every listing, count, feed and the sitemap, and their own

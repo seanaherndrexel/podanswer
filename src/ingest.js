@@ -5,7 +5,7 @@
 // ASSEMBLYAI_API_KEY is set. Free listings get metadata only.
 const Parser = require('rss-parser');
 const { q, pool } = require('./db');
-const { slugify } = require('./util');
+const { slugify, decodeEntities } = require('./util');
 
 const parser = new Parser({
   timeout: 20000,
@@ -15,7 +15,7 @@ const parser = new Parser({
   },
 });
 
-const stripHtml = (s) => String(s || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+const stripHtml = (s) => decodeEntities(String(s || '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
 
 function parseDuration(d) {
   if (!d) return null;
@@ -185,7 +185,7 @@ async function ingestPodcast(p, { limit = 25 } = {}) {
   if (feed.image && feed.image.url && !p.image_url) updates.image_url = feed.image.url;
   if (feed.itunesImage && feed.itunesImage.$ && feed.itunesImage.$.href && !p.image_url) updates.image_url = feed.itunesImage.$.href;
   if (feed.link && !p.website) updates.website = feed.link;
-  if (feed.itunesAuthor && !p.author) updates.author = feed.itunesAuthor;
+  if (feed.itunesAuthor && !p.author) updates.author = decodeEntities(feed.itunesAuthor).trim();
   if (Object.keys(updates).length) {
     const sets = Object.keys(updates).map((k, i) => `${k}=$${i + 2}`).join(', ');
     await q(`UPDATE podcasts SET ${sets}, updated_at=now() WHERE id=$1`, [p.id, ...Object.values(updates)]);
@@ -198,6 +198,7 @@ async function ingestPodcast(p, { limit = 25 } = {}) {
   for (const item of (feed.items || []).slice(0, limit)) {
     const guid = item.guid || item.id || item.link || item.title;
     if (!guid || !item.title) continue;
+    item.title = decodeEntities(item.title).trim();
     const exists = await q(`SELECT id, transcript FROM episodes WHERE podcast_id=$1 AND guid=$2`, [p.id, guid]);
     const summary = stripHtml(item.contentSnippet || item.itunesSummary || item.content || '').slice(0, 1200);
     const audioUrl = item.enclosure && item.enclosure.url;

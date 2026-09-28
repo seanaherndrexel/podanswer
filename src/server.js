@@ -253,7 +253,7 @@ app.post('/signup', wrap(async (req, res) => {
   if (await auth.findUserByEmail(email)) return res.send(V.authPage({ mode: 'signup', error: 'That email already has an account. Sign in instead.', email }));
   if (!b.agree_terms) return res.send(V.authPage({ mode: 'signup', error: 'Please tick the box to agree to the Terms of Service and Refund Policy.', email }));
   const user = await auth.createUser({ email, password: b.password, name: b.name });
-  await q(`UPDATE users SET terms_accepted_at=now(), terms_version=$2, terms_ip=$3 WHERE id=$1`, [user.id, TERMS_VERSION, String(req.ip || '')]);
+  await q(`UPDATE users SET terms_accepted_at=now(), terms_version=$2, terms_ip=$3 WHERE id=$1`, [user.id, TERMS_VERSION, clientIp(req)]);
   if (b.podcast_name) await billing.ensurePodcastForUser(user, { title: b.podcast_name, feedUrl: b.feed_url, category: 'business' });
   auth.setSession(res, user);
   res.redirect(b.next && b.next.startsWith('/') ? b.next : '/account');
@@ -305,7 +305,7 @@ app.post('/account/checkout', auth.requireUser, wrap(async (req, res) => {
   if (!billing.enabled()) return res.redirect('/account');
   const { podcast } = await accountData(req.user);
   if (!podcast || !podcast.feed_url) return res.redirect('/account');
-  await q(`UPDATE users SET terms_accepted_at=COALESCE(terms_accepted_at, now()), terms_version=$2, terms_ip=$3, checkout_terms_at=now() WHERE id=$1`, [req.user.id, TERMS_VERSION, String(req.ip || '')]);
+  await q(`UPDATE users SET terms_accepted_at=COALESCE(terms_accepted_at, now()), terms_version=$2, terms_ip=$3, checkout_terms_at=now() WHERE id=$1`, [req.user.id, TERMS_VERSION, clientIp(req)]);
   const session = await billing.createCheckout({ user: req.user, plan: req.body.plan, podcast, siteUrl: V.SITE.url });
   res.redirect(303, session.url);
 }));
@@ -345,7 +345,12 @@ app.get('/reports/off/:token', wrap(async (req, res) => {
 // Make holds the Google Search Console connection and posts the week's rows here.
 app.post('/api/reports/gsc', jobAuth, wrap(async (req, res) => {
   const b = req.body || {};
-  const week = b.start && b.end ? { start: b.start, end: b.end } : reports.lastWeek();
+  // Make posts Search Console's own response as the body ({rows:[...]}) and puts the window in the
+  // query string, so read start/end from either. Falling back to lastWeek() filed the rows under a
+  // different week from the one the weekly email then asked for, and members got "0 impressions".
+  const start = b.start || req.query.start;
+  const end = b.end || req.query.end;
+  const week = start && end ? { start: String(start), end: String(end) } : reports.lastWeek();
   const r = await reports.ingestGsc({ start: week.start, end: week.end, rows: b.rows || [] });
   console.log('gsc ingest', JSON.stringify(r));
   res.json({ ok: true, ...r });
@@ -832,7 +837,7 @@ app.post('/api/health/alert', jobAuth, wrap(async (req, res) => {
     q(`SELECT count(*)::int AS n FROM article_orders WHERE status='queued' AND created_at < now() - interval '2 days'`),
     q(`SELECT count(*)::int AS n FROM article_orders WHERE status='failed' AND created_at > now() - interval '7 days'`),
     q(`SELECT p.title, (SELECT count(*) FROM episodes e WHERE e.podcast_id=p.id) AS episodes FROM subscriptions s JOIN podcasts p ON p.id=s.podcast_id WHERE s.status='active'`),
-    q(`SELECT max(period_start) AS last FROM gsc_rows`).catch(() => ({ rows: [{ last: null }] })),
+    q(`SELECT max(period_end) AS last FROM gsc_rows`).catch(() => ({ rows: [{ last: null }] })),
     q(`SELECT 1`),
   ]);
   const problems = [];
@@ -840,9 +845,11 @@ app.post('/api/health/alert', jobAuth, wrap(async (req, res) => {
   if (failed.rows[0].n) problems.push(`${failed.rows[0].n} article order(s) failed in the last 7 days`);
   for (const m of members.rows) if (!Number(m.episodes)) problems.push(`paying member "${m.title}" has no episodes loaded`);
   const last = gsc.rows[0] && gsc.rows[0].last ? new Date(gsc.rows[0].last) : null;
-  if (members.rows.length && (!last || Date.now() - last.getTime() > 10 * 86400000)) problems.push('no Search Console data has arrived in 10 days, so weekly reports will be thin');
+  // The feed is weekly: each Wednesday run brings a week ending 3 days earlier, so the newest
+  // stored day is normally 3 to 10 days old. Only complain once a whole run has been missed.
+  if (members.rows.length && (!last || Date.now() - last.getTime() > 12 * 86400000)) problems.push('Search Console data has not arrived for more than a week past schedule, so weekly reports will be thin');
   if (!process.env.RESEND_API_KEY) problems.push('RESEND_API_KEY is not set, member emails cannot send');
-  const summary = { ok: dbok.rowCount === 1, problems, active_members: members.rows.length, stale_orders: stale.rows[0].n, failed_orders_7d: failed.rows[0].n, last_gsc_period: last };
+  const summary = { ok: dbok.rowCount === 1, problems, active_members: members.rows.length, stale_orders: stale.rows[0].n, failed_orders_7d: failed.rows[0].n, last_gsc_day: last };
   if (problems.length && process.env.RESEND_API_KEY) {
     const recent = await q(`SELECT 1 FROM emails WHERE kind='health-alert' AND created_at > now() - interval '24 hours' LIMIT 1`).catch(() => ({ rowCount: 0 }));
     if (!recent.rowCount) {

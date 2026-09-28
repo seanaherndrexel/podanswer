@@ -109,6 +109,22 @@ function esc(s) {
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
+// Some feeds double-encode entities ("&amp;amp;"), so after the XML parser has decoded once the
+// text still holds "&amp;". Decode the common entities until nothing changes, before storing.
+function decodeEntities(s) {
+  let out = String(s == null ? '' : s);
+  for (let i = 0; i < 3; i++) {
+    const next = out
+      .replace(/&#(\d+);/g, (m, n) => { const c = parseInt(n, 10); return c > 0 && c < 0x110000 ? String.fromCodePoint(c) : m; })
+      .replace(/&#x([0-9a-f]+);/gi, (m, n) => { const c = parseInt(n, 16); return c > 0 && c < 0x110000 ? String.fromCodePoint(c) : m; })
+      .replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&');
+    if (next === out) break;
+    out = next;
+  }
+  return out;
+}
+
 function fmtDate(d) {
   if (!d) return '';
   const dt = new Date(d);
@@ -122,4 +138,4 @@ function fmtDuration(sec) {
   return m >= 60 ? `${Math.floor(m / 60)}h ${m % 60}m` : `${m} min`;
 }
 
-module.exports = { CATEGORIES, slugify, token, esc, fmtDate, fmtDuration };
+module.exports = { CATEGORIES, slugify, token, esc, decodeEntities, fmtDate, fmtDuration };

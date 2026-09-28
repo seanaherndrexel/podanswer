@@ -161,6 +161,30 @@ async function notify(job, sub) {
   });
 }
 
+// Newer Stripe API versions (2025-03-31 onward, and this library pins 2026-08-26) moved
+// current_period_end from the subscription onto its items, and moved invoice.subscription to
+// invoice.parent.subscription_details.subscription. Read both shapes so billing dates and
+// renewals are recorded whichever version sent the object.
+function subPeriodEnd(sub) {
+  if (!sub) return null;
+  const t = sub.current_period_end
+    || (sub.items && sub.items.data && sub.items.data.reduce((m, it) => Math.max(m, it.current_period_end || 0), 0))
+    || null;
+  return t ? new Date(t * 1000) : null;
+}
+function invoiceSubId(inv) {
+  if (!inv) return null;
+  const s = inv.subscription
+    || (inv.parent && inv.parent.subscription_details && inv.parent.subscription_details.subscription)
+    || null;
+  return s && typeof s === 'object' ? s.id : s;
+}
+function invoicePeriodEnd(inv) {
+  const lines = (inv.lines && inv.lines.data) || [];
+  const t = lines.reduce((m, l) => Math.max(m, (l.period && l.period.end) || 0), 0) || inv.period_end || null;
+  return t ? new Date(t * 1000) : null;
+}
+
 async function handleWebhook(rawBody, signature) {
   const secret = process.env.STRIPE_WEBHOOK_SECRET;
   if (!stripe || !secret) throw new Error('stripe webhook not configured');
@@ -200,18 +224,19 @@ async function handleWebhook(rawBody, signature) {
       plan,
       subscriptionId: s.subscription,
       customerId: s.customer,
-      periodEnd: subscription && subscription.current_period_end ? new Date(subscription.current_period_end * 1000) : null,
+      periodEnd: subPeriodEnd(subscription),
     });
   }
 
   // Each monthly renewal buys another batch of articles.
   if (event.type === 'invoice.paid') {
     const inv = event.data.object;
-    if (inv.subscription && inv.billing_reason === 'subscription_cycle') {
-      const sub = (await q(`SELECT * FROM subscriptions WHERE stripe_subscription_id=$1`, [inv.subscription])).rows[0];
+    const subId = invoiceSubId(inv);
+    if (subId && inv.billing_reason === 'subscription_cycle') {
+      const sub = (await q(`SELECT * FROM subscriptions WHERE stripe_subscription_id=$1`, [subId])).rows[0];
       if (sub && sub.podcast_id) {
-        await q(`UPDATE subscriptions SET status='active', current_period_end=$2, updated_at=now() WHERE id=$1`,
-          [sub.id, inv.period_end ? new Date(inv.period_end * 1000) : null]);
+        await q(`UPDATE subscriptions SET status='active', current_period_end=COALESCE($2, current_period_end), updated_at=now() WHERE id=$1`,
+          [sub.id, invoicePeriodEnd(inv)]);
 
       }
     }
@@ -225,7 +250,8 @@ async function handleWebhook(rawBody, signature) {
 
   if (event.type === 'invoice.payment_failed') {
     const inv = event.data.object;
-    if (inv.subscription) await q(`UPDATE subscriptions SET status='past_due', updated_at=now() WHERE stripe_subscription_id=$1`, [inv.subscription]);
+    const subId = invoiceSubId(inv);
+    if (subId) await q(`UPDATE subscriptions SET status='past_due', updated_at=now() WHERE stripe_subscription_id=$1`, [subId]);
   }
 
   return event.type;
@@ -253,4 +279,4 @@ async function ensurePodcastForUser(user, { title, feedUrl, category }) {
   return r.rows[0];
 }
 
-module.exports = { stripe, enabled, PLANS, welcome, createRewriteCheckout, createCheckout, billingPortal, handleWebhook, activate, ensurePodcastForUser, billingPortalEnabled: enabled, notify };
+module.exports = { subPeriodEnd, invoiceSubId, invoicePeriodEnd, stripe, enabled, PLANS, welcome, createRewriteCheckout, createCheckout, billingPortal, handleWebhook, activate, ensurePodcastForUser, billingPortalEnabled: enabled, notify };
