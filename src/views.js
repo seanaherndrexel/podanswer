@@ -366,6 +366,7 @@ function podcastPage({ p, episodes, articles, stats }) {
     <p>${esc(p.description || '')}</p>
     ${listenButtons(p, null, { label: 'Listen and follow' })}
     <p class="muted small">${stats.articles} question${stats.articles === 1 ? '' : 's'} answered · ${stats.episodes} episode${stats.episodes === 1 ? '' : 's'} indexed</p>
+    ${p.tier === 'listed' ? `<p class="host-note">Do you host this show? <a href="/signup?podcast=${encodeURIComponent(p.title)}">Claim this page free</a> and choose which questions your episodes answer on Google.</p>` : ''}
   </div>
 </div></section>
 <section class="section"><div class="wrap">
