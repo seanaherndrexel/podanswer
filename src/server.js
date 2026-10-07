@@ -402,6 +402,27 @@ app.get('/api/reports/status', jobAuth, wrap(async (req, res) => {
 // Everything here is behind jobAuth. It lets an outside writer read the material it needs
 // (shows, episodes, transcripts, what is already answered) and publish finished pieces,
 // without any database access or any use of the site's own AI key.
+// Publishing guard. PodAnswer content never promotes the owner's other businesses and never
+// names the private test show in public. Returns a reason string, or null when the text is clean.
+const BLOCKED_IN_PUBLIC = [/aiagencysearch/i, /ai agency search/i, /buckscountyblog/i, /bucks county blog/i, /buckscountywoman/i, /mainstreetmakes\.com/i, /amazingaudioads/i, /amazing audio ads/i, /lingogroup/i, /faceyourfears/i, /ezcontractor/i, /siennaspends/i, /bestfemdomstories/i, /worst podcast ever/i, /worst-podcast-ever/i];
+function publicContentProblem(...parts) {
+  const text = parts.map((x) => (typeof x === 'string' ? x : JSON.stringify(x || ''))).join('\n');
+  const hit = BLOCKED_IN_PUBLIC.find((re) => re.test(text));
+  return hit ? `blocked: public PodAnswer content may not mention or link ${hit.source.replace(/\\/g, '')}` : null;
+}
+// Raw markdown of one blog post, so a refresh edits the real source rather than scraped HTML.
+app.get('/api/content/blog/:slug', jobAuth, wrap(async (req, res) => {
+  const b = (await q(`SELECT slug, title, meta_description, body_md, published_at, updated_at FROM blog_posts WHERE slug=$1`, [req.params.slug])).rows[0];
+  return b ? res.json(b) : res.status(404).json({ error: 'not found' });
+}));
+// One row per public show with its host contact and published answers, for the owner's outreach list.
+app.get('/api/content/outreach', jobAuth, wrap(async (req, res) => {
+  const r = await q(`SELECT p.slug, p.title, p.author, p.owner_email, p.website, p.feed_url, p.tier, p.user_id, p.category,
+      (SELECT json_agg(json_build_object('slug', a.slug, 'question', a.question, 'episode', e.title) ORDER BY a.published_at DESC)
+         FROM articles a LEFT JOIN episodes e ON e.id=a.episode_id WHERE a.podcast_id=p.id AND a.status='published') AS articles
+    FROM podcasts p WHERE NOT p.hidden ORDER BY p.title`);
+  res.json({ shows: r.rows });
+}));
 app.get('/api/content/overview', jobAuth, wrap(async (req, res) => {
   const pods = await q(`SELECT p.id, p.slug, p.title, p.author, p.category, p.user_id,
       (SELECT count(*) FROM episodes e WHERE e.podcast_id=p.id AND e.transcript IS NOT NULL) AS transcribed_episodes,
@@ -489,6 +510,10 @@ app.post('/api/content/article', jobAuth, wrap(async (req, res) => {
     const ok = await q(`SELECT 1 FROM episodes WHERE id=$1 AND podcast_id=$2`, [episodeId, p.id]);
     if (!ok.rowCount) return res.status(400).json({ error: 'episode does not belong to that podcast' });
   }
+  if (!p.hidden) {
+    const blocked = publicContentProblem(b.question, b.meta_description, body);
+    if (blocked) return res.status(400).json({ error: blocked });
+  }
   const slug = slugify(b.slug || b.question);
   const r = await q(
     `INSERT INTO articles (podcast_id, episode_id, slug, question, meta_description, body, status)
@@ -509,6 +534,8 @@ app.post('/api/content/article', jobAuth, wrap(async (req, res) => {
 app.post('/api/content/blog', jobAuth, wrap(async (req, res) => {
   const b = req.body || {};
   if (!b.title || !b.body_md) return res.status(400).json({ error: 'title and body_md are required' });
+  const blocked = publicContentProblem(b.title, b.meta_description, b.body_md, b.slug);
+  if (blocked) return res.status(400).json({ error: blocked });
   const slug = slugify(b.slug || b.title);
   const r = await q(`INSERT INTO blog_posts (slug, title, meta_description, body_md) VALUES ($1,$2,$3,$4) ON CONFLICT (slug) DO NOTHING RETURNING id`,
     [slug, String(b.title).slice(0, 300), String(b.meta_description || '').slice(0, 300), String(b.body_md)]);
@@ -520,10 +547,15 @@ app.post('/api/content/update', jobAuth, wrap(async (req, res) => {
   const b = req.body || {};
   if (!b.slug) return res.status(400).json({ error: 'slug required' });
   if (b.body_md !== undefined) {
+    const blocked = publicContentProblem(b.title, b.meta_description, b.body_md);
+    if (blocked) return res.status(400).json({ error: blocked });
     const r = await q(`UPDATE blog_posts SET body_md=$2, title=COALESCE($3,title), meta_description=COALESCE($4,meta_description), updated_at=now() WHERE slug=$1 RETURNING slug`, [b.slug, String(b.body_md), b.title || null, b.meta_description || null]);
     return r.rowCount ? res.json({ ok: true, url: `${V.SITE.url}/blog/${b.slug}` }) : res.status(404).json({ error: 'not found' });
   }
   if (b.body) {
+    const blocked = publicContentProblem(b.question, b.meta_description, b.body);
+    const hid = (await q(`SELECT p.hidden FROM articles a JOIN podcasts p ON p.id=a.podcast_id WHERE a.slug=$1`, [b.slug])).rows[0];
+    if (blocked && !(hid && hid.hidden)) return res.status(400).json({ error: blocked });
     const r = await q(`UPDATE articles SET body=$2, question=COALESCE($3,question), meta_description=COALESCE($4,meta_description), rewrites=rewrites+1, updated_at=now() WHERE slug=$1 RETURNING id`, [b.slug, JSON.stringify(b.body), b.question || null, b.meta_description || null]);
     if (!r.rowCount) return res.status(404).json({ error: 'not found' });
     await q(`DELETE FROM article_images WHERE article_id=$1`, [r.rows[0].id]).catch(() => {});
