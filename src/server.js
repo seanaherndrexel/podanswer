@@ -423,6 +423,33 @@ app.get('/api/content/outreach', jobAuth, wrap(async (req, res) => {
     FROM podcasts p WHERE NOT p.hidden ORDER BY p.title`);
   res.json({ shows: r.rows });
 }));
+// Owner outreach list: reads each public show's RSS feed and returns the contact email the feed
+// itself publishes (itunes:owner or managingEditor). Read-only: nothing is stored, so no site email
+// can ever go to these addresses. Paged with ?offset=&limit= (max 30) to keep each call short.
+const HOSTING_DOMAINS = /@(buzzsprout|libsyn|megaphone|anchor|spotify|podbean|captivate|simplecast|transistor|art19|acast|redcircle|omny|spreaker|soundcloud|iheart|audioboom)\./i;
+function feedEmails(xml) {
+  const found = [];
+  const add = (src, v) => { const m = String(v || '').match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i); if (m && !HOSTING_DOMAINS.test(m[0]) && !found.some((f) => f.email.toLowerCase() === m[0].toLowerCase())) found.push({ email: m[0], source: src }); };
+  const owner = xml.match(/<itunes:owner>([\s\S]*?)<\/itunes:owner>/i);
+  if (owner) add('itunes:owner', (owner[1].match(/<itunes:email>([\s\S]*?)<\/itunes:email>/i) || [])[1]);
+  add('managingEditor', (xml.match(/<managingEditor>([\s\S]*?)<\/managingEditor>/i) || [])[1]);
+  add('itunes:email', (xml.match(/<itunes:email>([\s\S]*?)<\/itunes:email>/i) || [])[1]);
+  return found;
+}
+app.get('/api/content/owner-emails', jobAuth, wrap(async (req, res) => {
+  const offset = Math.max(0, parseInt(req.query.offset, 10) || 0);
+  const limit = Math.min(30, Math.max(1, parseInt(req.query.limit, 10) || 25));
+  const shows = (await q(`SELECT slug, title, feed_url FROM podcasts WHERE NOT hidden ORDER BY title OFFSET $1 LIMIT $2`, [offset, limit])).rows;
+  const out = await Promise.all(shows.map(async (s) => {
+    try {
+      const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 12000);
+      const r = await fetch(s.feed_url, { signal: ctl.signal, headers: { 'user-agent': 'PodAnswerBot/1.0 (+https://podanswer.com)' } });
+      const xml = (await r.text()).slice(0, 400000); clearTimeout(t);
+      return { slug: s.slug, title: s.title, emails: feedEmails(xml), status: r.status };
+    } catch (e) { return { slug: s.slug, title: s.title, emails: [], error: e.name === 'AbortError' ? 'timeout' : e.message }; }
+  }));
+  res.json({ offset, limit, shows: out });
+}));
 app.get('/api/content/overview', jobAuth, wrap(async (req, res) => {
   const pods = await q(`SELECT p.id, p.slug, p.title, p.author, p.category, p.user_id,
       (SELECT count(*) FROM episodes e WHERE e.podcast_id=p.id AND e.transcript IS NOT NULL) AS transcribed_episodes,
