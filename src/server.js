@@ -934,6 +934,21 @@ app.post('/api/test/reset-picks/:slug', jobAuth, wrap(async (req, res) => {
   const open = (await q(`SELECT count(*)::int AS n FROM suggestions WHERE podcast_id=$1 AND status='open'`, [p.id])).rows[0].n;
   res.json({ ok: true, podcast: p.slug, ...r, open_suggestions: open });
 }));
+// Permanently removes a private test show (one listed in HIDDEN_PODCASTS) and everything tied to it:
+// episodes, articles, ideas, orders, views, clicks and Search Console rows go with the podcast row,
+// and any subscription on it is marked canceled. Refuses any show that is not hidden.
+app.post('/api/test/purge/:slug', jobAuth, wrap(async (req, res) => {
+  const p = (await q(`SELECT * FROM podcasts WHERE slug=$1`, [req.params.slug])).rows[0];
+  if (!p) return res.status(404).json({ error: 'podcast not found' });
+  if (!p.hidden) return res.status(403).json({ error: 'only hidden test shows can be purged' });
+  const subs = (await q(`UPDATE subscriptions SET status='canceled', updated_at=now() WHERE podcast_id=$1 RETURNING id, stripe_subscription_id, stripe_customer_id`, [p.id])).rows;
+  const r = {};
+  r.orders = (await q(`DELETE FROM article_orders WHERE podcast_id=$1`, [p.id])).rowCount;
+  r.articles = (await q(`DELETE FROM articles WHERE podcast_id=$1`, [p.id])).rowCount;
+  r.episodes = (await q(`DELETE FROM episodes WHERE podcast_id=$1`, [p.id])).rowCount;
+  r.podcast = (await q(`DELETE FROM podcasts WHERE id=$1`, [p.id])).rowCount;
+  res.json({ ok: true, purged: p.slug, ...r, subscriptions_canceled: subs });
+}));
 app.get('/api/health/alert', jobAuth, (req, res) => res.json({ ok: true, note: 'POST for the full check' }));
 
 /* ---------- admin ---------- */
