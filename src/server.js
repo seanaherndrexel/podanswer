@@ -868,7 +868,7 @@ app.post('/api/orders/run', jobAuth, wrap(async (req, res) => {
 app.post('/api/orders/auto-assign', jobAuth, wrap(async (req, res) => {
   const grace = Math.max(1, parseInt((req.body || {}).grace_days, 10) || 14);
   const subs = (await q(`SELECT s.*, p.slug, p.title FROM subscriptions s JOIN podcasts p ON p.id=s.podcast_id
-    WHERE s.status='active' AND s.current_period_end IS NOT NULL AND s.current_period_end <= now() + ($1 || ' days')::interval`, [String(grace)])).rows;
+    WHERE s.status='active' AND NOT p.hidden AND s.current_period_end IS NOT NULL AND s.current_period_end <= now() + ($1 || ' days')::interval`, [String(grace)])).rows;
   const out = [];
   for (const sub of subs) {
     const period = periodStart(sub);
