@@ -739,7 +739,7 @@ function joinPage({ plan, podcast, sent, error }) {
 }
 
 function websitePage({ bought, error, price }) {
-  const dollars = `${Math.round((price || 250000) / 100).toLocaleString('en-US')}`;
+  const dollars = `$${Math.round((price || 250000) / 100).toLocaleString('en-US')}`;
   const body = `
 <section class="page-head"><div class="wrap">
   <p class="eyebrow">For podcasters</p>
