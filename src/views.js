@@ -738,6 +738,45 @@ function joinPage({ plan, podcast, sent, error }) {
   return layout({ title: 'Add your podcast', description: 'List your podcast on PodAnswer free, or start a package that turns your episodes into answers that rank.', path: '/join', body, noindex: !!sent });
 }
 
+function websitePage({ bought, error, price }) {
+  const dollars = `${Math.round((price || 250000) / 100).toLocaleString('en-US')}`;
+  const body = `
+<section class="page-head"><div class="wrap">
+  <p class="eyebrow">For podcasters</p>
+  <h1>A home of your own for the show</h1>
+  <p class="lead">We build your podcast a custom website, host it, and publish your PodAnswer articles on it, so the answers people find point back to an address with your name on it.</p>
+</div></section>
+<section class="section"><div class="wrap">
+  ${bought ? `<div class="notice">Thank you. Your order is in, and we'll email you within one business day to get started on the site.</div>` : ''}
+  ${error ? `<div class="notice notice-err">${esc(error)}</div>` : ''}
+  <div class="plans">
+    <div class="plan plan-featured">
+      <h3>Show website</h3>
+      <p class="price">${dollars}<span> one time</span></p>
+      <p class="muted">Designed, built and kept running by our team.</p>
+      <ul>
+        <li>A custom website designed around your show's artwork and brand</li>
+        <li>Every episode pulled in from your feed and kept up to date</li>
+        <li>Your PodAnswer articles published on your own site</li>
+        <li>Follow buttons for Apple, Spotify and YouTube on every page</li>
+        <li>Set up on your own domain, or we help you pick one</li>
+        <li>Hosting and upkeep handled by us</li>
+      </ul>
+      <form method="post" action="/podcast-website/checkout"><button class="btn btn-primary btn-lg" type="submit">Get my show website</button></form>
+      <p class="muted small">Secure checkout through Stripe. By ordering you agree to our <a class="link" href="/terms">terms</a>.</p>
+    </div>
+  </div>
+  <div class="prose">
+    <h2>Common questions</h2>
+    <details class="faq"><summary>What do you need from me?</summary><p>Your podcast name and your RSS feed. If you already own a domain, tell us at checkout. We'll email you after you order to go over the look and anything you want on the site.</p></details>
+    <details class="faq"><summary>How long does it take?</summary><p>Most sites are ready within two weeks of the first conversation.</p></details>
+    <details class="faq"><summary>Do I need a PodAnswer plan?</summary><p>No. Any show can order a website. If you're on Growth or Network, your new articles get published on your site as they come out.</p></details>
+    <details class="faq"><summary>Can I make changes later?</summary><p>Yes. Email us what you want changed and we'll take care of it.</p></details>
+  </div>
+</div></section>`;
+  return layout({ title: 'A custom website for your podcast', description: `We design, build and host a custom website for your podcast, with every episode and your PodAnswer articles on it. ${dollars} one time.`, path: '/podcast-website', body, noindex: !!bought });
+}
+
 function blogIndex({ posts }) {
   const body = `
 <section class="page-head"><div class="wrap"><p class="eyebrow">For podcasters</p><h1>Podcast promotion and growth</h1><p class="lead">What we have learned running the network, written for people who publish a show.</p></div></section>
