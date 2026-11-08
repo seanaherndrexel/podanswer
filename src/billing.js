@@ -147,7 +147,7 @@ async function websiteSold(s) {
   const cf = customFields(s);
   const d = s.customer_details || {};
   const to = process.env.ORDER_ALERT_EMAIL || 'sean@mainstreetmakes.com';
-  const amount = `${((s.amount_total || WEBSITE_PRICE) / 100).toFixed(2)}`;
+  const amount = `$${((s.amount_total || WEBSITE_PRICE) / 100).toFixed(2)}`;
   const { esc } = require('./util');
   const rows = [
     ['Buyer', d.name || ''],
