@@ -612,6 +612,12 @@ app.get('/for-podcasters', (req, res) => res.send(V.forPodcasters()));
 app.get('/how-it-works', (req, res) => res.redirect(301, '/for-podcasters'));
 app.get('/pricing', (req, res) => res.send(V.pricing()));
 app.get('/for-studios', (req, res) => res.send(V.forStudios()));
+app.get('/podcast-website', (req, res) => res.send(V.websitePage({ bought: req.query.bought === '1', error: null, price: billing.WEBSITE_PRICE })));
+app.post('/podcast-website/checkout', wrap(async (req, res) => {
+  if (!billing.websiteEnabled()) return res.send(V.websitePage({ bought: false, price: billing.WEBSITE_PRICE, error: `Checkout is down for a moment. Email ${V.SITE.email} and we'll set your order up by hand.` }));
+  const session = await billing.createWebsiteCheckout({ user: req.user || null, siteUrl: V.SITE.url });
+  res.redirect(303, session.url);
+}));
 app.get('/about', (req, res) => res.send(V.about()));
 app.get('/privacy', (req, res) => res.send(V.simple('Privacy policy', 'PodAnswer privacy policy.', '/privacy', `
 <p>PodAnswer (operated by Mini Machine Creative LLC, doing business as Main Street Creative) collects the information you submit through our forms (name, email, podcast details) so we can respond and provide the service. We record anonymous page views and outbound link clicks to report performance to podcasters. We use Google Analytics and Google Search Console. We do not sell personal information.</p>
