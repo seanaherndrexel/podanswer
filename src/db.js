@@ -238,6 +238,14 @@ async function migrate() {
   const hidden = (process.env.HIDDEN_PODCASTS || '').split(',').map((x) => x.trim()).filter(Boolean);
   try { await pool.query(`UPDATE podcasts SET hidden = (slug = ANY($1::text[])) WHERE hidden IS DISTINCT FROM (slug = ANY($1::text[]))`, [hidden]); }
   catch (e) { console.warn('hidden sync note:', e.message); }
+  // The Worst Podcast Ever was a private test show. Testing is finished and it must not exist on
+  // the site. Its subscription is closed and the podcast row is deleted, which removes its episodes,
+  // articles, ideas, orders, views and clicks with it. Runs on every deploy; does nothing once gone.
+  try {
+    await pool.query(`UPDATE subscriptions SET status='canceled', updated_at=now() WHERE podcast_id IN (SELECT id FROM podcasts WHERE slug='the-worst-podcast-ever')`);
+    const gone = await pool.query(`DELETE FROM podcasts WHERE slug='the-worst-podcast-ever'`);
+    if (gone.rowCount) console.log('removed test show the-worst-podcast-ever');
+  } catch (e) { console.warn('test show removal note:', e.message); }
 }
 
 const q = (text, params) => pool.query(text, params);
