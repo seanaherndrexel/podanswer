@@ -106,6 +106,66 @@ async function createRewriteCheckout({ podcast, article, orderId, amount, siteUr
   });
 }
 
+// The show website is a one-off build. Sean builds it by hand after the sale, so the
+// purchase only has to collect the details and tell him.
+const WEBSITE_PRICE = parseInt(process.env.WEBSITE_PRICE_CENTS || '250000', 10);
+const websiteEnabled = () => !!stripe;
+
+async function createWebsiteCheckout({ user, siteUrl }) {
+  const customer = user ? await customerFor(user) : undefined;
+  return stripe.checkout.sessions.create({
+    mode: 'payment',
+    customer,
+    customer_creation: customer ? undefined : 'always',
+    line_items: [{
+      quantity: 1,
+      price_data: {
+        currency: 'usd',
+        unit_amount: WEBSITE_PRICE,
+        product_data: {
+          name: 'PodAnswer show website',
+          description: 'A custom website for your podcast, built and hosted by us, with your PodAnswer articles published on it.',
+        },
+      },
+    }],
+    custom_fields: [
+      { key: 'podcastname', label: { type: 'custom', custom: 'Podcast name' }, type: 'text' },
+      { key: 'feedurl', label: { type: 'custom', custom: 'RSS feed URL' }, type: 'text', optional: true },
+      { key: 'domain', label: { type: 'custom', custom: 'Domain you own or want' }, type: 'text', optional: true },
+    ],
+    phone_number_collection: { enabled: true },
+    success_url: `${siteUrl}/podcast-website?bought=1`,
+    cancel_url: `${siteUrl}/podcast-website`,
+    metadata: { kind: 'website', user_id: user ? String(user.id) : '' },
+    payment_intent_data: { metadata: { kind: 'website' } },
+  });
+}
+
+// One email to Sean per paid website order. That email is the trigger to build it.
+async function websiteSold(s) {
+  const mail = require('./mail');
+  const cf = customFields(s);
+  const d = s.customer_details || {};
+  const to = process.env.ORDER_ALERT_EMAIL || 'sean@mainstreetmakes.com';
+  const amount = `${((s.amount_total || WEBSITE_PRICE) / 100).toFixed(2)}`;
+  const { esc } = require('./util');
+  const rows = [
+    ['Buyer', d.name || ''],
+    ['Email', d.email || s.customer_email || ''],
+    ['Phone', d.phone || ''],
+    ['Podcast', cf.podcastname || ''],
+    ['RSS feed', cf.feedurl || ''],
+    ['Domain', cf.domain || ''],
+    ['Paid', amount],
+    ['Stripe session', s.id],
+  ];
+  const html = `<div style="font-family:Verdana,Arial,sans-serif;font-size:14px;color:#333;">
+<p><strong>New show website sold on PodAnswer.</strong> Time to build it.</p>
+<table cellpadding="6" style="border-collapse:collapse;">${rows.map(([k, v]) => `<tr><td style="color:#777;">${esc(k)}</td><td>${esc(v)}</td></tr>`).join('')}</table>
+</div>`;
+  return mail.send({ to, subject: `Website order: ${cf.podcastname || d.email || 'new buyer'} (${amount})`, html, kind: 'website_order' });
+}
+
 async function billingPortal({ user, siteUrl }) {
   const customer = await customerFor(user);
   return stripe.billingPortal.sessions.create({ customer, return_url: `${siteUrl}/account` });
