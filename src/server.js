@@ -882,7 +882,7 @@ app.post('/api/orders/auto-assign', jobAuth, wrap(async (req, res) => {
       ORDER BY e.published_at DESC NULLS LAST LIMIT $2`, [sub.podcast_id, left])).rows;
     for (const e of eps) {
       const o = (await q(`INSERT INTO article_orders (podcast_id, episode_id, subscription_id, user_id, kind, status, billing_period, note)
-        VALUES ($1,$2,$3,$4,'new','queued',$5,'auto-assigned before period end') RETURNING id`, [sub.podcast_id, e.id, sub.id, sub.user_id, period]).rows[0]);
+        VALUES ($1,$2,$3,$4,'new','queued',$5,'auto-assigned before period end') RETURNING id`, [sub.podcast_id, e.id, sub.id, sub.user_id, period])).rows[0];
       out.push({ order_id: o.id, podcast: sub.slug, episode_id: e.id });
     }
   }
