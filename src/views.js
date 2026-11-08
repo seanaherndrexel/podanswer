@@ -653,6 +653,10 @@ function pricing() {
     </div>
   </div>
   <div class="studio-note">
+    <h3>Want the articles on your own site too?</h3>
+    <p>We'll build your show a website, host it, and publish your PodAnswer articles on it. $499 one time. <a class="link" href="/podcast-website">See the show website →</a></p>
+  </div>
+  <div class="studio-note">
     <h3>Recording with Main Street Creative?</h3>
     <p>Production clients get the Growth package included. <a class="link" href="/for-studios">Details for studios and agencies →</a></p>
   </div>
@@ -662,7 +666,7 @@ function pricing() {
     <details class="faq"><summary>Who decides what gets written?</summary><p>You choose the episodes. Tick up to your month's allowance in your dashboard and we take it from there. For each one we read the transcript, pull the real searches people type in your subject, and target the question with the most traffic behind it that your episode genuinely answers. Sometimes that's the episode's headline subject and sometimes it's a smaller thing you covered halfway through that far more people search for. You see which phrase we chose.</p></details>
     <details class="faq"><summary>What if I don't like an article?</summary><p>There's a rewrite button on every article in your dashboard. It's $15 and it keeps the same web address, so the page holds any ranking it has already built. If you'd rather it came off the site altogether there's a take-down button next to it, that one is free, it works instantly, and you can put the article back whenever you want.</p></details>
     <details class="faq"><summary>How do I know it's working?</summary><p>A report every week with impressions, clicks, average position and the searches you showed up for, straight from Google Search Console, plus how many people tapped through to Apple, Spotify or your own site. Your dashboard has the same numbers any time you want them.</p></details>
-    <details class="faq"><summary>Where do the articles live?</summary><p>On podanswer.com, in your show's section. That's deliberate: the network's authority is shared, so your answers rank faster than they would on a brand new site of your own. You're free to republish them on your own site too.</p></details>
+    <details class="faq"><summary>Where do the articles live?</summary><p>On podanswer.com, in your show's section. That's deliberate: the network's authority is shared, so your answers rank faster than they would on a brand new site of your own. If you want them on your own site as well, our <a class="link" href="/podcast-website">show website</a> puts them there for you.</p></details>
     <details class="faq"><summary>How long until I see listeners?</summary><p>Articles typically start ranking within a few weeks and build over three to six months. It compounds, so results keep growing as your section fills out.</p></details>
     <details class="faq"><summary>Can I cancel?</summary><p>Any time. Articles already published stay up and keep working.</p></details>
   </div>
@@ -732,6 +736,44 @@ function joinPage({ plan, podcast, sent, error }) {
   </form>
 </div></section>`;
   return layout({ title: 'Add your podcast', description: 'List your podcast on PodAnswer free, or start a package that turns your episodes into answers that rank.', path: '/join', body, noindex: !!sent });
+}
+
+function websitePage({ bought, error }) {
+  const body = `
+<section class="page-head"><div class="wrap">
+  <p class="eyebrow">For podcasters</p>
+  <h1>A home of your own for the show</h1>
+  <p class="lead">We build your podcast a website, host it, and publish your PodAnswer articles on it, so the answers people find point back to an address with your name on it.</p>
+</div></section>
+<section class="section"><div class="wrap">
+  ${bought ? `<div class="notice">Thank you. Your order is in, and we'll email you within one business day to get started on the site.</div>` : ''}
+  ${error ? `<div class="notice notice-err">${esc(error)}</div>` : ''}
+  <div class="plans">
+    <div class="plan plan-featured">
+      <h3>Show website</h3>
+      <p class="price">$499<span> one time</span></p>
+      <p class="muted">Built by our team at Main Street Creative and kept running by us.</p>
+      <ul>
+        <li>A custom website designed around your show's artwork and brand</li>
+        <li>Every episode pulled in from your feed and kept up to date</li>
+        <li>Your PodAnswer articles published on your own site too</li>
+        <li>Follow buttons for Apple, Spotify and YouTube on every page</li>
+        <li>Set up on your own domain, or we help you pick one</li>
+        <li>Hosting and upkeep handled by us</li>
+      </ul>
+      <form method="post" action="/podcast-website/checkout"><button class="btn btn-primary btn-lg" type="submit">Get my show website</button></form>
+      <p class="muted small">Secure checkout through Stripe. By ordering you agree to our <a class="link" href="/terms">terms</a>.</p>
+    </div>
+  </div>
+  <div class="prose">
+    <h2>Common questions</h2>
+    <details class="faq"><summary>What do you need from me?</summary><p>Your podcast name and your RSS feed. If you already own a domain, tell us at checkout. We'll email you after you order to go over the look and anything you want on the site.</p></details>
+    <details class="faq"><summary>How long does it take?</summary><p>Most sites are ready within two weeks of the first conversation.</p></details>
+    <details class="faq"><summary>Do I need a PodAnswer plan?</summary><p>No. Any show can order a website. If you're on Growth or Network, your new articles get published on your site as they come out.</p></details>
+    <details class="faq"><summary>Can I make changes later?</summary><p>Yes. Email us what you want changed and we'll take care of it.</p></details>
+  </div>
+</div></section>`;
+  return layout({ title: 'A website for your podcast', description: 'We build and host a website for your podcast, with every episode and your PodAnswer articles published on it. $499 one time.', path: '/podcast-website', body, noindex: !!bought });
 }
 
 function blogIndex({ posts }) {
@@ -914,4 +956,4 @@ function notFound() {
   return layout({ title: 'Not found', description: '', path: '/404', noindex: true, body: `<section class="section"><div class="wrap prose"><h1>That page isn't here</h1><p>Try <a href="/answers">browsing the answers</a> or <a href="/topics">pick a topic</a>.</p></div></section>` });
 }
 
-module.exports = { SITE, layout, crumbs, home, topicHub, authPage, accountPage, topicsPage, answersIndex, articlePage, podcastsIndex, podcastPage, episodePage, forPodcasters, pricing, forStudios, about, joinPage, blogIndex, blogPost, dashboard, admin, simple, notFound, transcriptPage };
+module.exports = { SITE, layout, crumbs, home, topicHub, authPage, accountPage, topicsPage, answersIndex, articlePage, podcastsIndex, podcastPage, episodePage, forPodcasters, pricing, forStudios, about, joinPage, websitePage, blogIndex, blogPost, dashboard, admin, simple, notFound, transcriptPage };

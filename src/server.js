@@ -612,6 +612,12 @@ app.get('/for-podcasters', (req, res) => res.send(V.forPodcasters()));
 app.get('/how-it-works', (req, res) => res.redirect(301, '/for-podcasters'));
 app.get('/pricing', (req, res) => res.send(V.pricing()));
 app.get('/for-studios', (req, res) => res.send(V.forStudios()));
+app.get('/podcast-website', (req, res) => res.send(V.websitePage({ bought: req.query.bought === '1', error: null })));
+app.post('/podcast-website/checkout', wrap(async (req, res) => {
+  if (!billing.websiteEnabled()) return res.send(V.websitePage({ bought: false, error: `Checkout is down for a moment. Email ${V.SITE.email} and we'll set your order up by hand.` }));
+  const session = await billing.createWebsiteCheckout({ user: req.user || null, siteUrl: V.SITE.url });
+  res.redirect(303, session.url);
+}));
 app.get('/about', (req, res) => res.send(V.about()));
 app.get('/privacy', (req, res) => res.send(V.simple('Privacy policy', 'PodAnswer privacy policy.', '/privacy', `
 <p>PodAnswer (operated by Mini Machine Creative LLC, doing business as Main Street Creative) collects the information you submit through our forms (name, email, podcast details) so we can respond and provide the service. We record anonymous page views and outbound link clicks to report performance to podcasters. We use Google Analytics and Google Search Console. We do not sell personal information.</p>
@@ -622,6 +628,7 @@ app.get('/terms', (req, res) => res.send(V.simple('Terms of service', 'PodAnswer
 <p class="muted small">Version ${TERMS_VERSION}</p>
 <h2>What you are buying</h2>
 <p>A PodAnswer plan buys a fixed number of published articles per billing month. Growth is four articles a month. Network is twelve. Each article answers a real search question using quoted, timestamped excerpts from your podcast and links back to your show. Plans also include a weekly report covering search impressions, clicks, average position, the searches your pages appeared for, and taps on your listen links. Article rewrites are fifteen dollars each and keep the original web address.</p>
+<p>A show website is a one-time purchase of $499. We design and build a website for your podcast, host it, keep it up, and publish your PodAnswer articles on it. Work starts after we contact you to collect your details.</p>
 <h2>What we do not promise</h2>
 <p>We do not guarantee any search ranking, any amount of traffic, any number of listeners, downloads or subscribers, or any revenue. Search engines decide what ranks and they change their minds. Anyone who promises you a ranking is guessing. What we guarantee is the work: the articles get researched, written, published and reported on.</p>
 <h2>Billing</h2>
@@ -650,6 +657,7 @@ app.get('/refunds', (req, res) => res.send(V.simple('Refund policy', 'PodAnswer 
 <p>We refund the unpublished portion of a month when articles you paid for were not published in the month they were owed. Tell us within sixty days of the charge and we will publish them or refund that portion.</p>
 <p>We do not refund a month in which the articles were published and the report was sent. Search results are outside anyone's control, and that is stated plainly before you buy.</p>
 <p>Rewrites are fifteen dollars and are refundable only if the rewrite was never delivered.</p>
+<p>A show website is refundable in full until we deliver the first draft of the site. After that the work has been done and the purchase is final.</p>
 <p>Contact <a href="mailto:${esc(V.SITE.email)}">${esc(V.SITE.email)}</a> before disputing a charge with your bank. We hold a dated record of every article and every report for your account and we will send it to you on request.</p>`)));
 
 /* ---------- join / leads ---------- */
@@ -973,7 +981,7 @@ app.get('/sitemap.xml', wrap(async (req, res) => {
   ]);
   const u = (loc, lastmod, priority = '0.5', changefreq = 'weekly') => `<url><loc>${esc(V.SITE.url + loc)}</loc>${lastmod ? `<lastmod>${new Date(lastmod).toISOString().slice(0, 10)}</lastmod>` : ''}<changefreq>${changefreq}</changefreq><priority>${priority}</priority></url>`;
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
-    [u('/', null, '1.0', 'daily'), u('/answers', null, '0.9', 'daily'), u('/podcasts', null, '0.8'), u('/topics', null, '0.8', 'daily'), u('/pricing', null, '0.7', 'monthly'), u('/for-podcasters', null, '0.8', 'monthly'), u('/for-studios', null, '0.6', 'monthly'), u('/blog', null, '0.7'), u('/about', null, '0.4', 'monthly'), u('/join', null, '0.6', 'monthly'), u('/terms', null, '0.3', 'monthly'), u('/privacy', null, '0.3', 'monthly'), u('/refunds', null, '0.3', 'monthly'), u('/disclaimer', null, '0.3', 'monthly'),
+    [u('/', null, '1.0', 'daily'), u('/answers', null, '0.9', 'daily'), u('/podcasts', null, '0.8'), u('/topics', null, '0.8', 'daily'), u('/pricing', null, '0.7', 'monthly'), u('/for-podcasters', null, '0.8', 'monthly'), u('/for-studios', null, '0.6', 'monthly'), u('/podcast-website', null, '0.7', 'monthly'), u('/blog', null, '0.7'), u('/about', null, '0.4', 'monthly'), u('/join', null, '0.6', 'monthly'), u('/terms', null, '0.3', 'monthly'), u('/privacy', null, '0.3', 'monthly'), u('/refunds', null, '0.3', 'monthly'), u('/disclaimer', null, '0.3', 'monthly'),
       ...Object.keys(CATEGORIES).map((c) => u(`/topics/${c}`, null, '0.9', 'daily')),
       ...arts.rows.map((a) => u(`/answers/${a.slug}`, a.updated_at, '0.8')),
       ...posts.rows.map((b) => u(`/blog/${b.slug}`, b.updated_at, '0.7')),
