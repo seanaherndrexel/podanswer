@@ -628,6 +628,7 @@ app.get('/terms', (req, res) => res.send(V.simple('Terms of service', 'PodAnswer
 <p class="muted small">Version ${TERMS_VERSION}</p>
 <h2>What you are buying</h2>
 <p>A PodAnswer plan buys a fixed number of published articles per billing month. Growth is four articles a month. Network is twelve. Each article answers a real search question using quoted, timestamped excerpts from your podcast and links back to your show. Plans also include a weekly report covering search impressions, clicks, average position, the searches your pages appeared for, and taps on your listen links. Article rewrites are fifteen dollars each and keep the original web address.</p>
+<p>A show website is a one-time purchase of $2,500. We design and build a custom website for your podcast, host it, keep it up, and publish your PodAnswer articles on it. Work starts after we contact you to collect your details.</p>
 <h2>What we do not promise</h2>
 <p>We do not guarantee any search ranking, any amount of traffic, any number of listeners, downloads or subscribers, or any revenue. Search engines decide what ranks and they change their minds. Anyone who promises you a ranking is guessing. What we guarantee is the work: the articles get researched, written, published and reported on.</p>
 <h2>Billing</h2>
