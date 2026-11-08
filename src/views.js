@@ -653,6 +653,10 @@ function pricing() {
     </div>
   </div>
   <div class="studio-note">
+    <h3>Want your own site too?</h3>
+    <p>We'll design and build your show a custom website, host it, and publish your PodAnswer articles on it. $2,500 one time. <a class="link" href="/podcast-website">See the show website →</a></p>
+  </div>
+  <div class="studio-note">
     <h3>Recording with Main Street Creative?</h3>
     <p>Production clients get the Growth package included. <a class="link" href="/for-studios">Details for studios and agencies →</a></p>
   </div>
