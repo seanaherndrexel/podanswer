@@ -260,6 +260,10 @@ async function handleWebhook(rawBody, signature) {
       // The daily writer picks queued orders up through /api/content/orders.
       return event.type;
     }
+    if (meta.kind === 'website') {
+      if (s.payment_status === 'paid') await websiteSold(s);
+      return event.type;
+    }
     if (s.mode === 'payment') return event.type;
 
     const subscription = s.subscription ? await stripe.subscriptions.retrieve(s.subscription) : null;
