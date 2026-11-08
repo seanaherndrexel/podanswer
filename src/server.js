@@ -657,6 +657,7 @@ app.get('/refunds', (req, res) => res.send(V.simple('Refund policy', 'PodAnswer 
 <p>We refund the unpublished portion of a month when articles you paid for were not published in the month they were owed. Tell us within sixty days of the charge and we will publish them or refund that portion.</p>
 <p>We do not refund a month in which the articles were published and the report was sent. Search results are outside anyone's control, and that is stated plainly before you buy.</p>
 <p>Rewrites are fifteen dollars and are refundable only if the rewrite was never delivered.</p>
+<p>A show website is refundable in full until we deliver the first draft of the site. After that the work has been done and the purchase is final.</p>
 <p>Contact <a href="mailto:${esc(V.SITE.email)}">${esc(V.SITE.email)}</a> before disputing a charge with your bank. We hold a dated record of every article and every report for your account and we will send it to you on request.</p>`)));
 
 /* ---------- join / leads ---------- */
